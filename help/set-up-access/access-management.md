@@ -1,0 +1,27 @@
+---
+title: Gestione degli accessi
+description: Comprendi il sistema di controllo degli accessi Adobe Journey Optimizer e gli otto profili personalizzati. Scopri come gestire profili e autorizzazioni di prodotto e come aggiungere e gestire gli utenti.
+kt: 7677
+thumbnail: 333998
+feature: Gestione degli accessi
+doc-type: feature video
+team: PM
+role: Administrator
+level: Beginner
+source-git-commit: 50dd912c4a0a64af3d98ecad28b1805abfd89daa
+workflow-type: tm+mt
+source-wordcount: '74'
+ht-degree: 8%
+
+---
+
+
+# Gestione degli accessi
+
+Comprendi il sistema di controllo degli accessi Adobe Journey Optimizer e gli otto profili personalizzati. Scopri come gestire profili e autorizzazioni di prodotto e come aggiungere e gestire gli utenti.
+
+>[!VIDEO](https://video.tv.adobe.com/v/333998?quality=12)
+
+## Risorse aggiuntive
+
+* [Profili di prodotto (documentazione)](https://experienceleague.adobe.com/docs/journey-optimizer/using/administration/ootb-product-profiles.html)
