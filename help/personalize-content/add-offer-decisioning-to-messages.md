@@ -1,17 +1,17 @@
 ---
-title: '[AJO] Aggiungi offerte come personalizzazione'
+title: Aggiungi offerte come personalizzazione
 description: Scopri come aggiungere un componente offer decisioning ai messaggi in Journey Optimizer.
-KT: 8033
+kt: 8033
 thumbnail: 334086.jpg
 feature: Personalizzazione
 doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
-source-git-commit: 155488b1969cdd7ecea090daf77bac63a62de893
+source-git-commit: b2088add97c592d1d9d1f360217370630214cbfa
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '60'
+ht-degree: 23%
 
 ---
 
