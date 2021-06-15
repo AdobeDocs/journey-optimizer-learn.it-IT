@@ -8,10 +8,10 @@ doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
-source-git-commit: 1debd81aa3cc2fa8d20a514b07a4278f1a02f13a
+source-git-commit: 486159fbdacf5e209f6e173a4b44854fd41e088a
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 19%
+source-wordcount: '110'
+ht-degree: 13%
 
 ---
 
@@ -26,4 +26,7 @@ Scopri come aggiungere un componente offer decisioning ai messaggi in Journey Op
 
 * [Video e tutorial su Offer Decisioning](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html?lang=it)
 * [Informazioni sulla gestione delle decisioni (documentazione)](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html)
-* [Aggiungere offerte personalizzate (documentazione)](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/deliver-personalized-offers.html)
+* Documentazione:
+   * [Guida introduttiva alla gestione delle decisioni in Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html)
+   * [Aggiungere offerte personalizzate in un messaggio e-mail](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/deliver-personalized-offers.html)
+   * [Caso di utilizzo: Configurare offerte personalizzate per utilizzarle in un messaggio e-mail](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/offers-e2e.html)
