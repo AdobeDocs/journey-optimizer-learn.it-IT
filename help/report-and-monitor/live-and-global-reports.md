@@ -8,10 +8,10 @@ doc-type: feature video
 team: PM
 role: Administrator
 level: Beginner
-source-git-commit: 486159fbdacf5e209f6e173a4b44854fd41e088a
+source-git-commit: d4f4a71695c267e6a9ca32041fe3d0e19394941f
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 1%
+source-wordcount: '91'
+ht-degree: 3%
 
 ---
 
@@ -21,3 +21,9 @@ ht-degree: 1%
 Scopri la differenza tra rapporti live e globali, come accedere e analizzare il Percorso e i rapporti specifici per il messaggio e come modificare le dashboard dei rapporti.  
 
 >[!VIDEO](https://video.tv.adobe.com/v/334108?quality=12)
+
+## Risorse aggiuntive
+
+* [Guida introduttiva ai rapporti in tempo reale](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/live-report/live-report.html)
+* [Guida introduttiva ai report globali](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/global-report/global-report.html)
+
