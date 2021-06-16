@@ -2,10 +2,10 @@
 title: Video e Tutorials Journey Optimizer
 description: Questa guida utente contiene video ed esercitazioni sulle funzioni e le funzionalità di Adobe Journey Optimizer.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 4ccc9340e312db53c5414c15d37a637107afd333
+source-git-commit: ea9765d4cc39c5d5346c0a3f120c6d109f8d1052
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 32%
+source-wordcount: '148'
+ht-degree: 17%
 
 ---
 
@@ -19,5 +19,36 @@ Journey Optimizer consente alle aziende di fornire esperienze personalizzate, co
 Questa guida utente contiene video ed esercitazioni sulle funzioni e le funzionalità di Adobe Journey Optimizer.
 
 ## Proposte del nostro staff
+<table>
+<tr>
+  <td>
+    <a href="./introduction/journey-optimizer-overview-part-1.md">
+      <img alt="Panoramica Journey Optimizer Parte 1 - Distribuzione di percorsi omni-channel (video)" src="./assets/334174.jpg"/>
+    </a>
+    <div>
+      <a href="./introduction/journey-optimizer-overview-part-1.md">
+    <strong>Panoramica di Journey Optimizer Parte 1  </strong>
+    </a>
+    </div>
+    <p>
+    <em>Questo video mostra come i marchi possono utilizzare l’ottimizzazione dei Percorsi Adobe per fornire percorsi omni-channel personalizzati ai loro consumatori.</em>
+    <p>
+  </td>
+    <td>
+    <a href="./introduction/journey-optimizer-overview-part-2.md">
+      <img alt="Panoramica di Journey Optimizer Parte 2 - Distribuzione di percorsi omni-channel (video)" src="./assets/334175.jpg"/>
+    </a>
+    <div>
+      <a href="./introduction/journey-optimizer-overview-part-2.md">
+    <strong>Panoramica di Journey Optimizer Parte 2  </strong>
+    </a>
+    </div>
+    <p>
+    <em>Questo video mostra come i marchi possono utilizzare la qualifica offer decisioning, in tempo reale dei segmenti e la gestione degli eventi aziendali di Adobe Percorsi Optimization per portare i loro percorsi di consumo a nuove altezze.</em>
+    <p>
+  </td>
+</table>
 
-In arrivo
+
+
+
