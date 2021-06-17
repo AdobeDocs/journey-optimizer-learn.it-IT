@@ -1,6 +1,6 @@
 ---
-title: Caso d’uso - percorso di segmenti di lettura
-description: Comprendi i casi d’uso applicabili ai percorsi transazionali. Scopri come creare percorsi transazionali e quali best practice applicare.
+title: 'Caso d’uso: segmento di lettura'
+description: Comprendi i casi d’uso applicabili ai percorsi di segmenti letti. Scopri come creare percorsi basati su batch e quali best practice applicare.
 kt: 7964
 thumbnail: 334206.jpg
 feature: Journeys
@@ -8,15 +8,15 @@ doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
-source-git-commit: f885d20058826ac9e9c004c8d3544676c36a6e5c
+source-git-commit: 07b06306507534f793b0950a586925c34c6a2062
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '51'
 ht-degree: 1%
 
 ---
 
 
-# Caso d’uso - percorso di segmenti di lettura
+# Caso d’uso: segmento di lettura
 
 Comprendi i casi d’uso applicabili ai percorsi di segmenti letti. Scopri come creare percorsi basati su batch e quali best practice applicare.
 
