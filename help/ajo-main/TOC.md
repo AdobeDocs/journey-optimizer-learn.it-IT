@@ -2,10 +2,10 @@
 user-guide-title: Tutorials di apprendimento Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Di seguito sono elencati i Tutorials di apprendimento di Journey Optimizer.
-source-git-commit: 5d6431eea3239fbdceaf9485d6a21edee92f6c3b
+source-git-commit: 71fc3f87f0292f943b7c0b1db397848112b01223
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 9%
+source-wordcount: '127'
+ht-degree: 8%
 
 ---
 
@@ -34,6 +34,7 @@ ht-degree: 9%
    + [Personalizzazione basata su profili e segmenti](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
    + [Aggiungi offerte come personalizzazione](/help/personalize-content/add-offer-decisioning-to-messages.md)
    + [Utilizzare informazioni sull’evento contestuale per la personalizzazione](/help/personalize-content/use-contextual-event-information-for-personalization.md)
+   + [Utilizzare funzioni helper per la personalizzazione](/help/personalize-content/use-helper-functions-for-personalization.md)
 + Crea percorsi {#create-journeys}
    + [Caso di utilizzo: percorso transazionale](/help/create-journeys/use-case-transactional-journey.md)
    + [Caso d’uso: segmento di lettura](/help/create-journeys/use-case-read-segment.md)
