@@ -9,9 +9,9 @@ team: PM
 role: Administrator, Developer
 level: Beginner
 source-git-commit: f10e783ce8a830fd41da567ddadbf6b17b55a1af
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
@@ -24,5 +24,5 @@ Scopri come creare un set di dati, mapparlo su uno schema, aggiungervi dati e co
 
 ## Risorse aggiuntive
 
-* [Creare uno schema, un set di dati e acquisire dati per aggiungere profili di test](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/about-journeys/creating-test-profiles.html)
+* [Creare uno schema, un set di dati e acquisire dati per aggiungere profili di test](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/about-journeys/creating-test-profiles.html?lang=it)
 * [Creare e gestire i set di dati](https://experienceleague.adobe.com/docs/experience-platform/catalog/datasets/user-guide.html?lang=it)
