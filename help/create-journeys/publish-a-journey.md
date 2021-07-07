@@ -3,16 +3,16 @@ title: Pubblicare un percorso
 description: Comprendi i diversi stati di un percorso e l’impatto della pubblicazione.
 kt: 7528
 thumbnail: 334238.jpg
-feature: Journeys
+feature: Percorsi
 doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
 exl-id: cf7fe165-b6eb-49f0-adb9-32d43efa43ca
 source-git-commit: f034a2ef8f339d5a3e1b1ecc9ee014ec05d667c9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '31'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
