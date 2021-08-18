@@ -1,5 +1,5 @@
 ---
-title: Configurare i dati - Panoramica
+title: 'Configurare i dati: panoramica'
 description: Scopri i dati del profilo cliente in tempo reale e quali passaggi sono necessari per impostare i dati del profilo cliente per Journey Optimizer.
 kt: 7855
 thumbnail: 335878.jpg
@@ -10,13 +10,13 @@ role: Developer
 level: Beginner
 source-git-commit: 203f391d8216ff55b1b8b455d3789f5fd9060126
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 12%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
-# Configurare i dati - Panoramica
+# Configurare i dati: panoramica
 
 Scopri i dati del profilo cliente in tempo reale e quali passaggi sono necessari per impostare i dati del profilo cliente per Journey Optimizer.
 
@@ -25,6 +25,6 @@ Scopri i dati del profilo cliente in tempo reale e quali passaggi sono necessari
 ## Risorse aggiuntive
 
 * [Creare uno schema](/help/set-up-data/create-schema.md)
-* [Mappa le identità](/help/set-up-data/map-identities.md)
+* [Mappare le identità](/help/set-up-data/map-identities.md)
 * [Creare set di dati e acquisire dati](/help/set-up-data/create-datasets-and-ingest-data.md)
 * [Configurare le origini](/help/set-up-data/configure-data-sources.md)
