@@ -1,16 +1,16 @@
 ---
-user-guide-title: Tutorial per Journey Optimizer
+user-guide-title: Scopri i tutorial per Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Di seguito sono elencati i tutorial per Journey Optimizer.
 source-git-commit: dcd0c4342392f4eed800d8a03b1ff21fe9d76e84
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '161'
+ht-degree: 100%
 
 ---
 
 
-# Tutorial per Journey Optimizer {#tutorials}
+# Scopri i tutorial per Journey Optimizer {#tutorials}
 
 + [Panoramica](/help/overview.md)
 + Introduzione a Journey Optimizer {#introduction-to-journey-optimizer}
@@ -21,11 +21,11 @@ ht-degree: 0%
    + [Architettura](/help/introduction/architecture.md)
 + Introduzione {#get-started}
    + [Gestione degli accessi](/help/set-up-access/access-management.md)
-   + [Creare e gestire le sandbox](/help/set-up-access/create-and-manage-sandboxes.md)
+   + [Creare e gestire sandbox](/help/set-up-access/create-and-manage-sandboxes.md)
    + Configurazione dati {#data-configuration}
       + [Panoramica](/help/set-up-data/set-up-data-overview.md)
       + [Creare uno schema](/help/set-up-data/create-schema.md)
-      + [Mappa le identità](/help/set-up-data/map-identities.md)
+      + [Mappare le identità](/help/set-up-data/map-identities.md)
       + [Creare set di dati e acquisire dati](/help/set-up-data/create-datasets-and-ingest-data.md)
       + [Configurare origini dati](/help/set-up-data/configure-data-sources.md)
    + Configurazione del canale {#channel-configuration}
@@ -40,17 +40,17 @@ ht-degree: 0%
    + [Importare e creare contenuti e-mail HTML](/help/create-messages/import-and-author-html-email-content.md)
    + [Anteprima, bozza e pubblicazione](/help/create-messages/preview-proof-and-publish.md)
 + Personalizzare il contenuto {#personalize-content}
-   + [Personalizzazione di profili e segmenti basata su iscrizione](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
+   + [Personalizzazione di profili e segmenti basata sull’iscrizione](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
    + [Aggiungere offerte come personalizzazione](/help/personalize-content/add-offer-decisioning-to-messages.md)
    + [Utilizzare informazioni contestuali sugli eventi per la personalizzazione](/help/personalize-content/use-contextual-event-information-for-personalization.md)
    + [Utilizzare funzioni di assistenza per la personalizzazione](/help/personalize-content/use-helper-functions-for-personalization.md)
 + Creare percorsi {#create-journeys}
    + [Introduzione alla costruzione di un percorso](/help/create-journeys/introduction-to-building-a-journey.md)
-   + [Caso di utilizzo: percorso transazionale](/help/create-journeys/use-case-transactional-journey.md)
-   + [Caso d’uso: attività “Leggi segmento”](/help/create-journeys/use-case-read-segment.md)
+   + [Caso d’uso: percorso transazionale](/help/create-journeys/use-case-transactional-journey.md)
+   + [Caso d’uso: lettura segmento](/help/create-journeys/use-case-read-segment.md)
    + [Caso d’uso: evento di business](/help/create-journeys/use-case-business-event.md)
-   + [Caso di utilizzo: qualificazione di un segmento](/help/create-journeys/use-case-read-segment-qualification.md)
-   + [Caso di utilizzo: messaggio burst](/help/create-journeys/use-case-read-burst-message.md)
+   + [Caso d’uso: qualificazione di un segmento](/help/create-journeys/use-case-read-segment-qualification.md)
+   + [Caso d’uso: messaggio burst](/help/create-journeys/use-case-read-burst-message.md)
    + [Testare un percorso](/help/create-journeys/test-a-journey.md)
    + [Pubblicare un percorso](/help/create-journeys/publish-a-journey.md)
 + Rapporto e monitoraggio {#report-and-monitor}
