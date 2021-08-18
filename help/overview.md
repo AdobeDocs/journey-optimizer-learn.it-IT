@@ -3,9 +3,9 @@ title: Video e tutorial su Journey Optimizer
 description: La presente guida contiene video e tutorial sulle funzioni e caratteristiche di Adobe Journey Optimizer.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 766a1eb9bfdfd65c08f1c6a442d7f731df22f346
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '265'
-ht-degree: 57%
+ht-degree: 100%
 
 ---
 
@@ -20,11 +20,11 @@ La presente guida contiene video e tutorial sulle funzioni e caratteristiche di 
 
 ## Novità
 
-* **[Configurare i dati - Panoramica](/help/set-up-data/set-up-data-overview.md)**
+* **[Configurare i dati: panoramica](/help/set-up-data/set-up-data-overview.md)**
 
    *Scopri i dati del profilo cliente in tempo reale e quali passaggi sono necessari per impostare i dati del profilo cliente per Journey Optimizer.*
 
-* **[Mappa le identità](/help/set-up-data/map-identities.md)**
+* **[Mappare le identità](/help/set-up-data/map-identities.md)**
 
    *Scopri come e quando etichettare un campo di schema come identità, come creare uno spazio dei nomi, quando rendere principale un’identità e come acquisire e verificare i dati di identità.*
 
@@ -34,7 +34,7 @@ La presente guida contiene video e tutorial sulle funzioni e caratteristiche di 
 
 * **[Introduzione alla costruzione di un percorso](/help/create-journeys/introduction-to-building-a-journey.md)**
 
-   *Comprendere le basi della costruzione di un percorso nell&#39;area di lavoro del percorso.*
+   *Comprendere le basi della costruzione di un percorso nell’area di lavoro del percorso.*
 
 * **[Caso di utilizzo: messaggio burst](/help/create-journeys/use-case-read-burst-message.md)**
 
@@ -67,7 +67,7 @@ La presente guida contiene video e tutorial sulle funzioni e caratteristiche di 
     </a>
     </div>
     <p>
-    <em>Questo video mostra come utilizzare Offer Decisioning, la qualificazione dei segmenti in tempo reale e la gestione degli eventi di business di Adobe Journey Optimization per potenziare i percorsi dei propri clienti.</em>
+    <em>Questo video mostra come i marchi possono utilizzare Offer Decisioning, la qualificazione dei segmenti in tempo reale e la gestione degli eventi di business di Adobe Journey Optimization per potenziare i percorsi dei propri clienti.</em>
     <p>
   </td>
 </table>
