@@ -3,15 +3,15 @@ title: Configurare origini dati
 description: Scopri i connettori sorgente e come configurarli in Journey Optimizer.
 kt: 7561
 thumbnail: 335919.jpg
-feature: 'Origini dati '
+feature: Origini dati
 doc-type: feature video
 team: PM
 role: Developer
 level: Beginner
 source-git-commit: 21035f9ccad90de5d3cf2b237ebc569b8eb41bd1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '32'
-ht-degree: 25%
+ht-degree: 100%
 
 ---
 
