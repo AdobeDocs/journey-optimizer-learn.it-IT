@@ -2,10 +2,10 @@
 title: Video e tutorial su Journey Optimizer
 description: La presente guida contiene video e tutorial sulle funzioni e caratteristiche di Adobe Journey Optimizer.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 766a1eb9bfdfd65c08f1c6a442d7f731df22f346
-workflow-type: ht
-source-wordcount: '265'
-ht-degree: 100%
+source-git-commit: 16d5e81f4fc19c62dbc700ff1dfdb06cd9d01662
+workflow-type: tm+mt
+source-wordcount: '283'
+ht-degree: 93%
 
 ---
 
@@ -19,6 +19,10 @@ Journey Optimizer aiuta le aziende a fornire ai loro clienti esperienze connesse
 La presente guida contiene video e tutorial sulle funzioni e caratteristiche di Adobe Journey Optimizer.
 
 ## Novità
+
+* ** [Crea eventi](/help/set-up-journeys/create-events.md)**
+
+   *Scopri come configurare un evento, specificare l’endpoint di streaming e il payload di un evento.*
 
 * **[Configurare i dati: panoramica](/help/set-up-data/set-up-data-overview.md)**
 
