@@ -2,10 +2,10 @@
 title: Video e tutorial su Journey Optimizer
 description: La presente guida contiene video e tutorial sulle funzioni e caratteristiche di Adobe Journey Optimizer.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 16d5e81f4fc19c62dbc700ff1dfdb06cd9d01662
+source-git-commit: 21123c70cfc929dccb8dcf65e1939e2dd367a0ec
 workflow-type: tm+mt
-source-wordcount: '283'
-ht-degree: 93%
+source-wordcount: '210'
+ht-degree: 91%
 
 ---
 
@@ -20,25 +20,13 @@ La presente guida contiene video e tutorial sulle funzioni e caratteristiche di 
 
 ## Novità
 
-* ** [Crea eventi](/help/set-up-journeys/create-events.md)**
+* **[Creare eventi](/help/set-up-journeys/create-events.md)**
 
    *Scopri come configurare un evento, specificare l’endpoint di streaming e il payload di un evento.*
-
-* **[Configurare i dati: panoramica](/help/set-up-data/set-up-data-overview.md)**
-
-   *Scopri i dati del profilo cliente in tempo reale e quali passaggi sono necessari per impostare i dati del profilo cliente per Journey Optimizer.*
-
-* **[Mappare le identità](/help/set-up-data/map-identities.md)**
-
-   *Scopri come e quando etichettare un campo di schema come identità, come creare uno spazio dei nomi, quando rendere principale un’identità e come acquisire e verificare i dati di identità.*
 
 * **[Configurare origini dati](/help/set-up-data/configure-data-sources.md)**
 
    *Scopri i connettori sorgente e come configurarli in Journey Optimizer*
-
-* **[Introduzione alla costruzione di un percorso](/help/create-journeys/introduction-to-building-a-journey.md)**
-
-   *Comprendere le basi della costruzione di un percorso nell’area di lavoro del percorso.*
 
 * **[Caso di utilizzo: messaggio burst](/help/create-journeys/use-case-read-burst-message.md)**
 
