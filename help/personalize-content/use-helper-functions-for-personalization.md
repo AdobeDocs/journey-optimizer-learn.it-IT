@@ -3,15 +3,15 @@ title: Utilizzare funzioni di assistenza per la personalizzazione
 description: Scopri come trasformare i valori di personalizzazione utilizzando le funzioni di assistenza alla personalizzazione e studia diversi casi d’uso per le funzioni di supporto.
 kt: 8079
 thumbnail: 334244.jpg
-feature: Personalizzazione
+feature: Personalization
 doc-type: feature video
 team: PM
 role: User
 level: Beginner
-source-git-commit: 55cb22765457ad34f7deb45114d06aaa5c4466fc
-workflow-type: ht
-source-wordcount: '96'
-ht-degree: 100%
+source-git-commit: 4e7a0aadefdc9b48b189aface23f97dac819c758
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,6 +24,5 @@ Scopri come trasformare i valori di personalizzazione utilizzando le funzioni di
 
 ## Risorse aggiuntive
 
-* [Introduzione alla personalizzazione in Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalize.html?lang=it)
-* [Funzioni di supporto e linguaggio per modelli](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/functions/functions.html?lang=it)
-* [Caso d’uso: applicare più tipi di personalizzazione a un messaggio](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalization-use-case.html?lang=it)
+* [Introduzione alla personalizzazione in Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/personalize.html?lang=it)
+* [Funzioni di supporto e linguaggio per modelli](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/functions/functions.html?lang=it)
