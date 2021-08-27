@@ -2,7 +2,7 @@
 title: Video e tutorial su Journey Optimizer
 description: La presente guida contiene video e tutorial sulle funzioni e caratteristiche di Adobe Journey Optimizer.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 21123c70cfc929dccb8dcf65e1939e2dd367a0ec
+source-git-commit: 5e8737fdbc77b5f664795209708a5d3b5b6a566f
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 91%
@@ -24,7 +24,7 @@ La presente guida contiene video e tutorial sulle funzioni e caratteristiche di 
 
    *Scopri come configurare un evento, specificare l’endpoint di streaming e il payload di un evento.*
 
-* **[Configurare origini dati](/help/set-up-data/configure-data-sources.md)**
+* **[Configurare origini dati](/help/set-up-data/configure-source-connectors.md)**
 
    *Scopri i connettori sorgente e come configurarli in Journey Optimizer*
 
