@@ -2,7 +2,7 @@
 title: Video e tutorial su Journey Optimizer
 description: La presente guida contiene video e tutorial sulle funzioni e caratteristiche di Adobe Journey Optimizer.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: a3ac85cfb438b37c36bf97af41d6c41dc666e92d
+source-git-commit: f20dcf654fc2e552b4936860a99b825e40c0e2c6
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 91%
@@ -28,7 +28,7 @@ La presente guida contiene video e tutorial sulle funzioni e caratteristiche di 
 
    *Scopri i connettori sorgente e come configurarli in Journey Optimizer*
 
-* **[Caso di utilizzo: messaggio burst](/help/create-journeys/use-case-read-burst-message.md)**
+* **[Caso di utilizzo: messaggio burst](/help/create-journeys/use-case-burst-message.md)**
 
    *Comprendi i casi d’uso applicabili ai messaggi burst. Scopri come configurare un percorso per i messaggi burst e quali best practice applicare.*
 
