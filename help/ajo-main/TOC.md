@@ -2,10 +2,10 @@
 user-guide-title: Scopri i tutorial per Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Di seguito sono elencati i tutorial per Journey Optimizer.
-source-git-commit: 5e8737fdbc77b5f664795209708a5d3b5b6a566f
+source-git-commit: 117d45eabe14fdb736fb82d77c30467487b66816
 workflow-type: tm+mt
 source-wordcount: '163'
-ht-degree: 98%
+ht-degree: 96%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 98%
    + [Creare uno schema](/help/set-up-data/create-schema.md)
    + [Mappare le identità](/help/set-up-data/map-identities.md)
    + [Creare set di dati e acquisire dati](/help/set-up-data/create-datasets-and-ingest-data.md)
-   + [Configurare origini dati](/help/set-up-data/configure-source-connectors.md)
+   + [Configurare i connettori di origine](/help/set-up-data/configure-source-connectors.md)
 + Configurazione del canale {#channel-configuration}
    + [Impostare il canale e-mail](/help/set-up-email-channel/set-up-email-channel.md)
 + Configurazione della gestione delle decisioni {#decision-management-configuration}
