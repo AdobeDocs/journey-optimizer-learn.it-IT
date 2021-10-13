@@ -3,15 +3,16 @@ title: Creare e gestire sandbox
 description: Scopri cosa sono le sandbox e come distinguere le sandbox di sviluppo da quelle di produzione. Scopri come creare, reimpostare ed eliminare le sandbox.
 kt: 7568
 thumbnail: 334355.jpg
-feature: Gestione degli accessi
+feature: Access Management
 doc-type: feature video
 team: PM
 role: Admin
 level: Beginner
-source-git-commit: f40328e297bcbdff47074558bfd3dad6884b1f7f
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+exl-id: b1ad3aa7-2b58-4a9f-8c5c-085126586c11
+source-git-commit: 9e2e92007783b714200a8a37e3144436cb96d6dc
+workflow-type: ht
+source-wordcount: '50'
+ht-degree: 100%
 
 ---
 
