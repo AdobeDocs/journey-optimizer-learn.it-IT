@@ -2,10 +2,10 @@
 title: Video e tutorial su Journey Optimizer
 description: La presente guida contiene video e tutorial sulle funzioni e caratteristiche di Adobe Journey Optimizer.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: a32d0d147fb6cd2fde1bc6052f2684d21be883da
+source-git-commit: 6c3fb260c034d7c4f536ca76d19f302d7ba0980f
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 100%
+source-wordcount: '201'
+ht-degree: 92%
 
 ---
 
@@ -20,6 +20,10 @@ La presente guida utente contiene video e tutorial sulle funzioni e caratteristi
 
 ## Novità
 
+* **[Delega sottodomini CName](/help/set-up-email-channel/delegate-cname-subdomains.md)**
+
+   *Scopri come creare un sottodominio utilizzando CNAME per puntare a record specifici per Adobi.*
+
 * **[Creare gli eventi](/help/set-up-journeys/create-events.md)**
 
    *Scopri come configurare un evento, specificare l’endpoint di streaming e il payload di un evento.*
@@ -28,9 +32,6 @@ La presente guida utente contiene video e tutorial sulle funzioni e caratteristi
 
    *Scopri i connettori sorgente e come configurarli in Journey Optimizer*
 
-* **[Caso di utilizzo: messaggio burst](/help/create-journeys/use-case-burst-message.md)**
-
-   *Comprendi i casi d’uso applicabili ai messaggi burst. Scopri come configurare un percorso per i messaggi burst e quali best practice applicare.*
 
 ## Proposte del nostro staff
 
