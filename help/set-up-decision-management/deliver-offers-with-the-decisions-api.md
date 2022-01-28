@@ -6,12 +6,13 @@ feature: Offers, API
 kt: 6819
 thumbnail: 329919.jpg
 exl-id: 3084c52b-adc8-42bc-a203-5e39bcff77ef
-source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
+source-git-commit: 31d7353f5b82b9024835a763bb41deb9722fbbf0
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 100%
 
 ---
+
 
 # Distribuire le offerte con l’API Decisions
 
@@ -23,8 +24,8 @@ Scopri come distribuire le offerte di [!DNL Offer Decisioning][ con l’API Deci
 >
 > Questo video fa parte del corso [Guida introduttiva di Offer Decisioning per gli addetti al marketing](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponibile gratuitamente in Experience League.
 
-
 ## Risorse aggiuntive
+
 * [Autenticazione e accesso alle API di Experience Platform (tutorial)](https://experienceleague.adobe.com/docs/platform-learn/tutorials/platform-api-authentication.html?lang=it)
 * [[!DNL Postman] Raccolta per l’autenticazione in un ambiente non di produzione](https://github.com/adobe/experience-platform-postman-samples/tree/master/apis/ims)
 * [[!DNL Postman]](https://www.postman.com/)
