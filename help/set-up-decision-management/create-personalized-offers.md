@@ -7,9 +7,9 @@ kt: 6781
 thumbnail: 329375.jpg
 exl-id: 03428751-340f-4400-9162-b0f3021f1af1
 source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '135'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ Scopri come creare [offerte personalizzate](https://experienceleague.adobe.com/d
 
 >[!VIDEO](https://video.tv.adobe.com/v/329375?quality=12&learn=on)
 
-Per ulteriori informazioni su come creare attività di offerte personalizzate con un’API, consulta [guida al prodotto](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/personalized-offers/create.html?lang=it)
+Per ulteriori informazioni su come creare attività di offerte personalizzate con un’API, consulta la [guida del prodotto](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/personalized-offers/create.html?lang=it).
 
 >[!INFO]
 >
