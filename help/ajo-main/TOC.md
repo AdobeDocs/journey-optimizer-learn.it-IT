@@ -3,9 +3,9 @@ user-guide-title: Scopri i tutorial per Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Di seguito sono elencati i tutorial per Journey Optimizer.
 source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '194'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 88%
    + [Configurare i connettori di origini](/help/set-up-data/configure-source-connectors.md)
 + Configurazione del canale {#channel-configuration}
    + [Impostare il canale e-mail](/help/set-up-email-channel/set-up-email-channel.md)
-   + [Delega sottodomini CName](/help/set-up-email-channel/delegate-cname-subdomains.md)
+   + [Delegare sottodomini CName](/help/set-up-email-channel/delegate-cname-subdomains.md)
 + Configurazione della gestione delle decisioni {#decision-management-configuration}
    + [Introduzione a [!DNL Offer Decisioning]](/help/set-up-decision-management/introduction-to-offer-decisioning.md)
    + [Demo di [!DNL Offer Decisioning]](/help/set-up-decision-management/demo-of-offer-decisioning.md)
@@ -58,11 +58,11 @@ ht-degree: 88%
    + [Utilizzare funzioni di assistenza per la personalizzazione](/help/personalize-content/use-helper-functions-for-personalization.md)
 + Creare percorsi {#create-journeys}
    + [Introduzione alla costruzione di un percorso](/help/create-journeys/introduction-to-building-a-journey.md)
-   + [Caso di utilizzo: percorso transazionale](/help/create-journeys/use-case-transactional-journey.md)
-   + [Caso d’uso: segmento di lettura](/help/create-journeys/use-case-read-segment.md)
-   + [Caso d&#39;uso: evento aziendale](/help/create-journeys/use-case-business-event.md)
-   + [Caso di utilizzo: qualificazione dei segmenti](/help/create-journeys/use-case-read-segment-qualification.md)
-   + [Caso di utilizzo: messaggio Burst](/help/create-journeys/use-case-burst-message.md)
+   + [Caso d’uso: percorso transazionale](/help/create-journeys/use-case-transactional-journey.md)
+   + [Caso d’uso: attività “Leggi segmento”](/help/create-journeys/use-case-read-segment.md)
+   + [Caso d’uso: evento di business](/help/create-journeys/use-case-business-event.md)
+   + [Caso d’uso: qualificazione di un segmento](/help/create-journeys/use-case-read-segment-qualification.md)
+   + [Caso d’uso: messaggio burst](/help/create-journeys/use-case-burst-message.md)
    + [Creare un profilo di test](/help/create-journeys/test-a-journey.md)
    + [Pubblicare un percorso](/help/create-journeys/publish-a-journey.md)
 + Rapporto e monitoraggio {#report-and-monitor}
