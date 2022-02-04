@@ -6,19 +6,19 @@ kt: 6791
 thumbnail: 329606.jpg
 exl-id: 8921f1b7-ab6a-4a3d-abf9-822af99e4196
 source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '134'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
 # Creare le attività di offerta
 
-Scopri come creare [attività di offerta](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-manage-activities/create-offer-activities.html) in [!DNL Offer Decisioning]. Un’attività di offerta combina posizionamenti e raccolte in un’unica entità, in modo che sia possibile determinare l’offerta più rilevante da fornire al cliente.
+Scopri come creare [attività di offerta](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-manage-activities/create-offer-activities.html?lang=it) in [!DNL Offer Decisioning]. Un’attività di offerta combina posizionamenti e raccolte in un’unica entità, in modo che sia possibile determinare l’offerta più rilevante da fornire al cliente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329606?quality=12&learn=on)
 
-Per ulteriori informazioni su come creare attività di offerta con un’API, consulta [guida al prodotto](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/activities-api/create.html)
+Per ulteriori informazioni su come creare attività di offerta con un’API, consulta la [guida del prodotto](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/activities-api/create.html?lang=it).
 
 >[!INFO]
 >
