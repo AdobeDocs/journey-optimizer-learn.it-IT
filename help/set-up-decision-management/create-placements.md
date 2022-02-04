@@ -6,9 +6,9 @@ kt: 6736
 thumbnail: 329372.jpg
 exl-id: 71d6fa23-e6e7-49d7-997c-c1b58207dff0
 source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ Scopri come creare [posizionamenti](https://experienceleague.adobe.com/docs/jour
 
 >[!VIDEO](https://video.tv.adobe.com/v/329372?quality=12&learn=on)
 
-Per ulteriori informazioni su come creare posizionamenti con un’API, consulta [guida al prodotto](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/placements/create.html?lang=it)
+Per ulteriori informazioni su come creare posizionamenti con un’API, consulta la [guida del prodotto](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/placements/create.html?lang=it).
 
 >[!INFO]
 >
