@@ -4,9 +4,9 @@ description: La presente guida contiene video e tutorial sulle funzioni e caratt
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '201'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -21,9 +21,9 @@ La presente guida utente contiene video e tutorial sulle funzioni e caratteristi
 
 ## Novità
 
-* **[Delega sottodomini CName](/help/set-up-email-channel/delegate-cname-subdomains.md)**
+* **[Delegare sottodomini CName](/help/set-up-email-channel/delegate-cname-subdomains.md)**
 
-   *Scopri come creare un sottodominio utilizzando CNAME per puntare a record specifici per Adobi.*
+   *Scopri come creare un sottodominio utilizzando CNAME per puntare a record specifici di Adobe.*
 
 * **[Creare gli eventi](/help/set-up-journeys/create-events.md)**
 
