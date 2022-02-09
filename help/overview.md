@@ -5,15 +5,15 @@ recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 676f0b268f7f67d179bfa944b72cb68191640c74
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 100%
+source-wordcount: '203'
+ht-degree: 99%
 
 ---
 
 
 # Video e tutorial su Journey Optimizer
 
-![](./assets/ajo-banner.png)
+![Banner AJO](./assets/ajo-banner.png)
 
 Journey Optimizer aiuta le aziende a fornire ai loro clienti esperienze connesse, contestuali e personalizzate. Per “percorso del cliente” si intende l’intero processo delle interazioni del cliente con il brand, dal primo contatto fino a quando il cliente esce dal sito.
 
