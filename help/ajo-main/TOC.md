@@ -2,7 +2,7 @@
 user-guide-title: Scopri i tutorial per Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Di seguito sono elencati i tutorial per Journey Optimizer.
-source-git-commit: 676f0b268f7f67d179bfa944b72cb68191640c74
+source-git-commit: a663d531061ef343d10b837c447242b89f020eba
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 100%
@@ -32,16 +32,16 @@ ht-degree: 100%
    + [Impostare il canale e-mail](/help/set-up-email-channel/set-up-email-channel.md)
    + [Delegare sottodomini CName](/help/set-up-email-channel/delegate-cname-subdomains.md)
 + Configurazione della gestione delle decisioni {#decision-management-configuration}
-   + [Introduzione a [!DNL Offer Decisioning]](/help/set-up-decision-management/introduction-to-offer-decisioning.md)
-   + [Demo di [!DNL Offer Decisioning]](/help/set-up-decision-management/demo-of-offer-decisioning.md)
-   + [Creare i posizionamenti](/help/set-up-decision-management/create-placements.md)
-   + [Creare le regole](/help/set-up-decision-management/create-rules.md)
-   + [Creare tag](/help/set-up-decision-management/create-tags.md)
-   + [Creare offerte personalizzate](/help/set-up-decision-management/create-personalized-offers.md)
-   + [Creare offerte di fallback](/help/set-up-decision-management/create-fallback-offers.md)
-   + [Creare raccolte](/help/set-up-decision-management/create-collections.md)
-   + [Creare le attività di offerta](/help/set-up-decision-management/create-offer-activities.md)
-   + [Distribuire le offerte con l’API Decisions](/help/set-up-decision-management/deliver-offers-with-the-decisions-api.md)
+   + [Introduzione a [!DNL Offer Decisioning]](/help/decision-management/introduction-to-offer-decisioning.md)
+   + [Demo di [!DNL Offer Decisioning]](/help/decision-management/demo-of-offer-decisioning.md)
+   + [Creare i posizionamenti](/help/decision-management/create-placements.md)
+   + [Creare le regole](/help/decision-management/create-rules.md)
+   + [Creare tag](/help/decision-management/create-tags.md)
+   + [Creare offerte personalizzate](/help/decision-management/create-personalized-offers.md)
+   + [Creare offerte di fallback](/help/decision-management/create-fallback-offers.md)
+   + [Creare raccolte](/help/decision-management/create-collections.md)
+   + [Creare le attività di offerta](/help/decision-management/create-offer-activities.md)
+   + [Distribuire le offerte con l’API Decisions](/help/decision-management/deliver-offers-with-the-decisions-api.md)
 + Configurazione dei percorsi{#journey-configuration}
    + [Configurare origini dati](/help/set-up-journeys/configure-data-sources.md)
    + [Creare gli eventi](/help/set-up-journeys/create-events.md)
