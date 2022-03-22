@@ -6,7 +6,7 @@ role: User
 level: Beginner
 kt: 9364
 thumbnail: 341280.jpg
-source-git-commit: 0f56a25b1254a9f7d66555c2f1a0bb020382876f
+source-git-commit: 773cf0e4633a8b4fe0696d2d4a612c82dc7f8955
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 7%
@@ -19,8 +19,8 @@ ht-degree: 7%
 Scopri come configurare gli abbonamenti e creare pagine di destinazione:
 
 * Creare un elenco di abbonamenti
-* Possibilità di configurare le pagine di destinazione per offrire abbonamenti o annullare l’abbonamento a un servizio
+* Configurare le pagine di destinazione per offrire abbonamenti o annullare l’abbonamento a un servizio
 * Integra l’opzione di abbonamento (un)nel messaggio
-* Configura i percorsi pertinenti.
+* Configurare i percorsi rilevanti
 
 >[!VIDEO](https://video.tv.adobe.com/v/341280?quality=12&learn=on)
