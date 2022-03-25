@@ -6,7 +6,7 @@ exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 0f56a25b1254a9f7d66555c2f1a0bb020382876f
 workflow-type: tm+mt
 source-wordcount: '210'
-ht-degree: 81%
+ht-degree: 95%
 
 ---
 
@@ -25,9 +25,9 @@ La presente guida utente contiene video e tutorial sulle funzioni e caratteristi
 
    *Scopri come configurare gli abbonamenti e creare pagine di destinazione.*
 
-* **[Utilizzare e gestire le espressioni salvate nella libreria di personalizzazione](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)**
+* **[Utilizza e gestisci le espressioni salvate nella libreria di personalizzazione](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)**
 
-   *Scopri come utilizzare gli elementi libreria di personalizzazione salvati in un messaggio e come creare e gestire gli elementi libreria di personalizzazione.*
+   *Scopri come utilizzare in un messaggio gli elementi libreria di personalizzazione salvati, e come creare e gestire gli elementi libreria di personalizzazione.*
 
 * **[Delegare sottodomini CName](/help/set-up-email-channel/delegate-cname-subdomains.md)**
 
