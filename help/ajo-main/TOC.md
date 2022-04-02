@@ -2,10 +2,10 @@
 user-guide-title: Scopri i tutorial per Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Di seguito sono elencati i tutorial per Journey Optimizer.
-source-git-commit: 84e9f93b3bc22a6ebbe2993df28a1efa9ff88b84
+source-git-commit: 479a87ca42fb7b6d68334ae1de0dd8ddd378ecbb
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 95%
+source-wordcount: '225'
+ht-degree: 92%
 
 ---
 
@@ -53,7 +53,8 @@ ht-degree: 95%
    + [Creare contenuti e-mail con l’editor messaggi](/help/create-messages/create-email-content-with-the-message-editor.md)
    + [Importare e creare contenuti e-mail HTML](/help/create-messages/import-and-author-html-email-content.md)
    + [Anteprima, bozza e pubblicazione](/help/create-messages/preview-proof-and-publish.md)
-   + [Funzionalità Mobile](/help/create-messages/mobile-capabilities.md)
+   + [Funzionalità Mobile per gli addetti al marketing](/help/create-messages/mobile-capabilities.md)
+   + [Funzionalità Mobile per designer](/help/create-messages/mobile-capabilities-for-developers.md)
 + Personalizzare il contenuto {#personalize-content}
    + [Personalizzazione di profili e segmenti basata sull’iscrizione](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
    + [Aggiungere offerte come personalizzazione](/help/personalize-content/add-offer-decisioning-to-messages.md)
