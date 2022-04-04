@@ -2,10 +2,10 @@
 user-guide-title: Scopri i tutorial per Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Di seguito sono elencati i tutorial per Journey Optimizer.
-source-git-commit: 479a87ca42fb7b6d68334ae1de0dd8ddd378ecbb
+source-git-commit: ca3c1cd1741e2e42a6067013f670e10eb7ae1a2e
 workflow-type: tm+mt
-source-wordcount: '225'
-ht-degree: 92%
+source-wordcount: '236'
+ht-degree: 88%
 
 ---
 
@@ -46,7 +46,10 @@ ht-degree: 92%
    + [Configurare origini dati](/help/set-up-journeys/configure-data-sources.md)
    + [Creare gli eventi](/help/set-up-journeys/create-events.md)
    + [Creare azioni](/help/set-up-journeys/create-actions.md)
-+ [Creare segmenti](/help/set-up-resources/create-segments.md)
++ Profili cliente, segmenti e abbonamenti {profili-segmenti-abbonamenti}
+   + [Profilo e segmentazione unificati: panoramica](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
+   + [Creare segmenti](/help/set-up-resources/create-segments.md)
+   + [Abbonamenti e pagine di destinazione](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Creare messaggi {#create-messages}
    + [Panoramica del progettista di massaggi](/help/create-messages/message-designer-overview.md)
@@ -61,7 +64,6 @@ ht-degree: 92%
    + [Utilizzare informazioni contestuali sugli eventi per la personalizzazione](/help/personalize-content/use-contextual-event-information-for-personalization.md)
    + [Utilizzare funzioni di assistenza per la personalizzazione](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [Utilizzare e gestire le espressioni salvate nella libreria di personalizzazione](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
-+ [Abbonamenti e pagine di destinazione](/help/subscriptions-and-landing-pages.md)
 + Creare percorsi {#create-journeys}
    + [Panoramica sull&#39;area di lavoro del percorso](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [Introduzione alla costruzione di un percorso](/help/create-journeys/introduction-to-building-a-journey.md)
