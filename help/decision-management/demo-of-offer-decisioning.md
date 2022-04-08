@@ -1,20 +1,20 @@
 ---
-title: Demo di Offer Decisioning
-description: Questo video mostra come i brand possono utilizzare il servizio Offer Decisioning di Adobe per definire e gestire le offerte, sfruttare i dati sui clienti in tempo reale e soddisfare le aspettative dei clienti.
+title: Demo delle funzionalità di gestione delle decisioni
+description: Scopri come i brand possono utilizzare le funzionalità di gestione delle decisioni per definire e gestire le loro offerte, applicare dati sui clienti in tempo reale e fornire le esperienze giuste rispetto alle attese dei clienti.
 feature: Offers
 kt: 6492
 thumbnail: 326841.jpg
 exl-id: 44136443-a3fd-435f-9f6d-23c7696acabe
-source-git-commit: a663d531061ef343d10b837c447242b89f020eba
-workflow-type: ht
-source-wordcount: '83'
-ht-degree: 100%
+source-git-commit: e8a34a26ce5794c8181537edaac592d8219c0dcd
+workflow-type: tm+mt
+source-wordcount: '91'
+ht-degree: 27%
 
 ---
 
-# Demo di [!DNL Offer Decisioning]
+# Demo delle funzionalità di gestione delle decisioni
 
-Questo video mostra come i brand possono utilizzare il servizio [!DNL Offer Decisioning] di Adobe per definire e gestire le offerte, sfruttare i dati sui clienti in tempo reale e soddisfare le aspettative dei clienti.
+Scopri come i brand possono utilizzare le funzionalità di gestione delle decisioni per definire e gestire le loro offerte, applicare dati sui clienti in tempo reale e fornire le esperienze giuste rispetto alle attese dei clienti.
 
 >[!VIDEO](https://video.tv.adobe.com/v/326841?quality=12&learn=on)
 
