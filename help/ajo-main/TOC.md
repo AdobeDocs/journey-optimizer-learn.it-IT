@@ -4,8 +4,8 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Di seguito sono elencati i tutorial per Journey Optimizer.
 source-git-commit: 4471e139da3693a2b13ec49c260c87f4787238ac
 workflow-type: tm+mt
-source-wordcount: '239'
-ht-degree: 86%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -46,18 +46,18 @@ ht-degree: 86%
    + [Configurare origini dati](/help/set-up-journeys/configure-data-sources.md)
    + [Creare gli eventi](/help/set-up-journeys/create-events.md)
    + [Creare azioni](/help/set-up-journeys/create-actions.md)
-+ Profili cliente, segmenti e abbonamenti {#profiles-segments-subscriptions}
-   + [Profilo e segmentazione unificati: panoramica](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
++ Profili cliente, segmenti e iscrizioni {#profiles-segments-subscriptions}
+   + [Profilo unificato e segmentazione: panoramica](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [Creare segmenti](/help/set-up-resources/create-segments.md)
-   + [Abbonamenti e pagine di destinazione](/help/subscriptions-and-landing-pages.md)
+   + [Iscrizioni e pagine di destinazione](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Creare messaggi {#create-messages}
-   + [Panoramica del progettista di massaggi](/help/create-messages/message-designer-overview.md)
+   + [Panoramica di Message Designer](/help/create-messages/message-designer-overview.md)
    + [Creare contenuti e-mail con l’editor messaggi](/help/create-messages/create-email-content-with-the-message-editor.md)
    + [Importare e creare contenuti e-mail HTML](/help/create-messages/import-and-author-html-email-content.md)
    + [Anteprima, bozza e pubblicazione](/help/create-messages/preview-proof-and-publish.md)
-   + [Funzionalità Mobile per gli addetti al marketing](/help/create-messages/mobile-capabilities.md)
-   + [Funzionalità Mobile per designer](/help/create-messages/mobile-capabilities-for-developers.md)
+   + [Funzionalità mobili per gli addetti al marketing](/help/create-messages/mobile-capabilities.md)
+   + [Funzionalità mobili per designer](/help/create-messages/mobile-capabilities-for-developers.md)
 + Personalizzare il contenuto {#personalize-content}
    + [Personalizzazione di profili e segmenti basata sull’iscrizione](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
    + [Aggiungere offerte come personalizzazione](/help/personalize-content/add-offer-decisioning-to-messages.md)
@@ -65,8 +65,8 @@ ht-degree: 86%
    + [Utilizzare funzioni di assistenza per la personalizzazione](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [Utilizzare e gestire le espressioni salvate nella libreria di personalizzazione](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
 + Creare percorsi {#create-journeys}
-   + [Panoramica sull&#39;area di lavoro del percorso](/help/create-journeys/overview-over-the-journey-canvas.md)
-   + [Introduzione alla costruzione di un percorso](/help/create-journeys/introduction-to-building-a-journey.md)
+   + [Panoramica sull’area di lavoro del percorso](/help/create-journeys/overview-over-the-journey-canvas.md)
+   + [Introduzione alla creazione di un percorso](/help/create-journeys/introduction-to-building-a-journey.md)
    + [Caso d’uso: percorso transazionale](/help/create-journeys/use-case-transactional-journey.md)
    + [Caso d’uso: attività “Leggi segmento”](/help/create-journeys/use-case-read-segment.md)
    + [Caso d’uso: evento di business](/help/create-journeys/use-case-business-event.md)
