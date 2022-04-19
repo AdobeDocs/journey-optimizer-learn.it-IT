@@ -1,20 +1,20 @@
 ---
 title: Creare i posizionamenti
-description: Scopri come creare i posizionamenti in Offer Decisioning. I posizionamenti sono uno dei componenti necessari più importanti per le offerte.
+description: Scopri come creare posizionamenti per la gestione delle decisioni. I posizionamenti sono uno dei componenti necessari più importanti per le offerte.
 feature: Offers
 kt: 6736
 thumbnail: 329372.jpg
 exl-id: 71d6fa23-e6e7-49d7-997c-c1b58207dff0
-source-git-commit: a663d531061ef343d10b837c447242b89f020eba
-workflow-type: ht
-source-wordcount: '120'
-ht-degree: 100%
+source-git-commit: 2b1b6690604e0ce31eb2028c3ad6ad39cc8e820e
+workflow-type: tm+mt
+source-wordcount: '122'
+ht-degree: 86%
 
 ---
 
 # Creare i posizionamenti
 
-Scopri come creare [posizionamenti](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-placements.html?lang=it) in [!DNL Offer Decisioning]. I posizionamenti sono uno degli elementi principali delle offerte. Un posizionamento è la combinazione di tipo di contenuto e canale, ad esempio un’immagine in un messaggio e-mail o un codice HTML in un sito web.
+Scopri come creare [posizionamenti](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-placements.html?lang=it) per la gestione delle decisioni. I posizionamenti sono uno degli elementi principali delle offerte. Un posizionamento è la combinazione di tipo di contenuto e canale, ad esempio un’immagine in un messaggio e-mail o un codice HTML in un sito web.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329372?quality=12&learn=on)
 
