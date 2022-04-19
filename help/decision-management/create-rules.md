@@ -1,20 +1,20 @@
 ---
 title: Creare regole di decisione
-description: Scopri come creare regole di decisione in Offer Decisioning. Le regole sono uno dei componenti necessari più importanti per le offerte personalizzate.
+description: Scopri come creare regole decisionali per la gestione delle decisioni. Le regole sono uno dei componenti necessari più importanti per le offerte personalizzate.
 feature: Offers
 kt: 6738
 thumbnail: 329373.jpg
 exl-id: 1b4cd1cd-f082-46ec-a331-9733d7c87bde
-source-git-commit: a663d531061ef343d10b837c447242b89f020eba
-workflow-type: ht
-source-wordcount: '151'
-ht-degree: 100%
+source-git-commit: 307c19ca15e0fd63002c0932713e265824ea2621
+workflow-type: tm+mt
+source-wordcount: '153'
+ht-degree: 88%
 
 ---
 
 # Creare regole di decisione
 
-Scopri come creare [regole di decisione](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-decision-rules.html?lang=it) in [!DNL Offer Decisioning]. Le regole o “regole di decisioni” sono uno dei componenti di base richiesti per le offerte personalizzate. Le regole vengono create utilizzando gli eventi e gli attributi nel profilo cliente in tempo reale di Platform e costituiscono i vincoli di idoneità delle offerte. Ad esempio, è possibile utilizzare una regola affinché un’offerta per pale da neve venga presentata solo ai clienti che vivono in regioni in cui nevica.
+Scopri come creare [norme decisionali](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-decision-rules.html?lang=it) per la gestione delle decisioni. Le regole o “regole di decisioni” sono uno dei componenti di base richiesti per le offerte personalizzate. Le regole vengono create utilizzando gli eventi e gli attributi nel profilo cliente in tempo reale di Platform e costituiscono i vincoli di idoneità delle offerte. Ad esempio, è possibile utilizzare una regola affinché un’offerta per pale da neve venga presentata solo ai clienti che vivono in regioni in cui nevica.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329373?quality=12&learn=on)
 
