@@ -2,10 +2,10 @@
 user-guide-title: Scopri i tutorial per Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Di seguito sono elencati i tutorial per Journey Optimizer.
-source-git-commit: 4471e139da3693a2b13ec49c260c87f4787238ac
+source-git-commit: cb938ea72b8d3e7f0e9d080346c605b112a7a23f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '238'
+ht-degree: 97%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 0%
    + [Creare offerte personalizzate](/help/decision-management/create-personalized-offers.md)
    + [Creare offerte di fallback](/help/decision-management/create-fallback-offers.md)
    + [Creare raccolte](/help/decision-management/create-collections.md)
-   + [Creare le attività di offerta](/help/decision-management/create-offer-activities.md)
+   + [Creare decisioni](/help/decision-management/create-decisions.md)
    + [Distribuire le offerte con l’API Decisions](/help/decision-management/deliver-offers-with-the-decisions-api.md)
 + Configurazione dei percorsi{#journey-configuration}
    + [Configurare origini dati](/help/set-up-journeys/configure-data-sources.md)
