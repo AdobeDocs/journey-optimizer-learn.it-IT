@@ -6,15 +6,15 @@ feature: Offers
 kt: 6819
 thumbnail: 329919.jpg
 exl-id: 3084c52b-adc8-42bc-a203-5e39bcff77ef
-source-git-commit: cb938ea72b8d3e7f0e9d080346c605b112a7a23f
+source-git-commit: 9f8c88c0ccbefc5089d41b7389dac54371aaa521
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 88%
+source-wordcount: '155'
+ht-degree: 84%
 
 ---
 
 
-# Distribuire le offerte con l’API Decisions
+# Consegnare offerte con l’API Hub Decisioni
 
 Scopri come distribuire le offerte [con l’API Hub Decisioni](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offer-delivery/deliver-offers.html?lang=it). Mediante una dimostrazione con [!DNL Postman], viene effettuata una chiamata API per recuperare l’ID contenitore. Successivamente, per recuperare un’offerta personalizzata, viene personalizzata una chiamata di esempio dell’API Decisions con l’ID dell’attività, l’ID del posizionamento, lo spazio dei nomi dell’identità e l’ID del cliente. Dopo aver recuperato un’offerta personalizzata con l’API Decisions, puoi integrare il contenuto dell’offerta con il sistema di marketing.
 
