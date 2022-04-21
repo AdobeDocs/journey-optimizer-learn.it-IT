@@ -1,20 +1,20 @@
 ---
-title: Introduzione a Offer Decisioning
-description: Questo video offre una panoramica di Offer Decisioning, un servizio applicativo basato su Adobe Experience Platform.
+title: Introduzione alle funzionalità di gestione delle decisioni
+description: Panoramica delle funzionalità di gestione delle decisioni di Journey Optimizer.
 feature: Offers
 kt: 6417
 thumbnail: 326961.jpg
 exl-id: 551cce3d-58e9-4302-bfbd-fbf86f79e183
-source-git-commit: a663d531061ef343d10b837c447242b89f020eba
-workflow-type: ht
-source-wordcount: '79'
-ht-degree: 100%
+source-git-commit: 8762d5fa187e549df0a6ccda4e42192fda07ebf6
+workflow-type: tm+mt
+source-wordcount: '75'
+ht-degree: 33%
 
 ---
 
-# Introduzione a [!DNL Offer Decisioning]
+# Introduzione alle capacità di gestione delle decisioni
 
-Questo video offre una panoramica di [!DNL Offer Decisioning], un servizio applicativo basato su Adobe Experience Platform. Il video illustra le problematiche di business che è possibile risolvere con [!DNL Offer Decisioning], le funzionalità chiave, l’architettura di base e i principali casi d’uso.
+Panoramica delle funzionalità di gestione delle decisioni di Journey Optimizer. Il video illustra le problematiche aziendali risolte dalle funzionalità di gestione delle decisioni, le sue funzionalità chiave, l&#39;architettura di base e i principali casi d&#39;uso.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/326961?quality=12&learn=on)
