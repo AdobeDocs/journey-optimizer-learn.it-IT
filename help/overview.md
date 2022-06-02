@@ -3,10 +3,10 @@ title: Video e tutorial su Journey Optimizer
 description: Abbiamo una serie di tutorial video per mostrarti come sfruttare i vantaggi di Journey Optimizer.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: c487f98b184b5bb1d525293660e82db319af7ce4
+source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
 workflow-type: tm+mt
-source-wordcount: '213'
-ht-degree: 91%
+source-wordcount: '214'
+ht-degree: 78%
 
 ---
 
@@ -60,7 +60,7 @@ La presente guida utente contiene video e tutorial sulle funzioni e caratteristi
     </a>
     </div>
     <p>
-    <em>Questo video mostra come i marchi possono utilizzare Offer Decisioning, la qualificazione dei segmenti in tempo reale e la gestione degli eventi di business di Adobe Journey Optimization per potenziare i percorsi dei propri clienti.</em>
+    <em>Questo video mostra come i marchi possono utilizzare le funzionalità di gestione delle decisioni di Adobe Journey Optimizer, la qualificazione dei segmenti in tempo reale e la gestione degli eventi aziendali per portare i loro percorsi di consumo a nuove vette.</em>
     <p>
   </td>
 </table>
