@@ -3,10 +3,10 @@ title: Video e tutorial su Journey Optimizer
 description: Abbiamo una serie di tutorial video per mostrarti come sfruttare i vantaggi di Journey Optimizer.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 65d95deead594b27008efa2cf1751b6371f204e6
+source-git-commit: e5c8967245409984541e2e0ce9b489fd8d00f14e
 workflow-type: tm+mt
-source-wordcount: '394'
-ht-degree: 74%
+source-wordcount: '406'
+ht-degree: 70%
 
 ---
 
@@ -23,6 +23,10 @@ La presente guida utente contiene video e tutorial sulle funzioni e caratteristi
 
 ### Tutorial
 
+* **[Configurare le regole di frequenza dei messaggi](help/administration/configure-frequency-rules.md)**
+
+   *Scopri come creare, attivare, testare e creare rapporti sulle regole di frequenza. Scopri come determinare quali regole di frequenza verranno ereditate per un messaggio*
+
 * **[Iscrizioni e pagine di destinazione](/help/subscriptions-and-landing-pages.md)**
 
    *Scopri come configurare le iscrizioni e creare pagine di destinazione.*
@@ -31,16 +35,11 @@ La presente guida utente contiene video e tutorial sulle funzioni e caratteristi
 
    *Scopri come utilizzare in un messaggio gli elementi libreria di personalizzazione salvati, e come creare e gestire gli elementi libreria di personalizzazione.*
 
-* **[Delegare sottodomini CName](/help/set-up-email-channel/delegate-cname-subdomains.md)**
-
-   *Scopri come creare un sottodominio utilizzando CNAME per puntare a record specifici di Adobe.*
-
 ### Eventi Experience League Live
 
-* **[Notifiche push con Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html)**
+* **[Notifiche push con Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=it)**
 
    *In questo episodio di Experience League Live, parliamo dei casi d’uso comuni per le notifiche push con Adobe Journey Optimizer e approfondiamo i dettagli tecnici su come configurare un’app per push con tecnologia Adobe Experience Platform.*
-
 
 ## Proposte del nostro staff
 
