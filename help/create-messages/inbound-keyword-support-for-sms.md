@@ -2,11 +2,11 @@
 title: Supporto di parole chiave in entrata per SMS
 description: Comprendere il funzionamento del supporto nativo per parole chiave in entrata (start, stop, unstop) per gli SMS.
 feature: SMS
-role: User, Administrator
+role: User, Admin
 level: Beginner
 kt: 10616
 thumbnail: 344026.jpg
-source-git-commit: 12c603b20127fdc96b76ab190d579bb1e62c1d6d
+source-git-commit: 7a1d4632d16ce090bea5381173848461c685f1f4
 workflow-type: tm+mt
 source-wordcount: '46'
 ht-degree: 0%
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 Comprendere il funzionamento del supporto nativo per parole chiave in entrata (start, stop, unstop) per gli SMS.
 
->[!VIDEO](https://video.tv.adobe.com/v/344026?quality=12&learn=on)
-
 >[!NOTE]
 >
 >Le parole chiave in entrata sono supportate sia per Sinch che per Twilio.
+
+>[!VIDEO](https://video.tv.adobe.com/v/344026?quality=12&learn=on)
