@@ -3,10 +3,10 @@ title: Video e tutorial su Journey Optimizer
 description: Abbiamo una serie di tutorial video per mostrarti come sfruttare i vantaggi di Journey Optimizer.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: d4af15677c5c4baacfd6cae88acffa769ee6e401
+source-git-commit: 9c867ee84af5f4f58f85e179fb8e1e44a96b3236
 workflow-type: tm+mt
-source-wordcount: '406'
-ht-degree: 70%
+source-wordcount: '396'
+ht-degree: 65%
 
 ---
 
@@ -23,6 +23,10 @@ La presente guida utente contiene video e tutorial sulle funzioni e caratteristi
 
 ### Tutorial
 
+* **[Configurare, creare e inviare messaggi SMS](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
+
+   *Scopri come configurare, creare e includere i messaggi SMS nei percorsi di clienti.*
+
 * **[Configurare le regole di frequenza dei messaggi](/help/administration/configure-frequency-rules.md)**
 
    *Scopri come creare, attivare, testare e creare rapporti sulle regole di frequenza. Scopri come determinare quali regole di frequenza verranno ereditate per un messaggio.*
@@ -30,10 +34,6 @@ La presente guida utente contiene video e tutorial sulle funzioni e caratteristi
 * **[Iscrizioni e pagine di destinazione](/help/subscriptions-and-landing-pages.md)**
 
    *Scopri come configurare le iscrizioni e creare pagine di destinazione.*
-
-* **[Utilizza e gestisci le espressioni salvate nella libreria di personalizzazione](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)**
-
-   *Scopri come utilizzare in un messaggio gli elementi libreria di personalizzazione salvati, e come creare e gestire gli elementi libreria di personalizzazione.*
 
 ### Eventi Experience League Live
 
