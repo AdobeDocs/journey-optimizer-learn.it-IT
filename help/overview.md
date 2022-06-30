@@ -3,10 +3,10 @@ title: Video e tutorial su Journey Optimizer
 description: Abbiamo una serie di tutorial video per mostrarti come sfruttare i vantaggi di Journey Optimizer.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 5b2c1d5410ed91f35e1cbb93b6c1ff1767cca7c2
+source-git-commit: 943414d073b62730da2c559dfe8b4ab7a6f7757a
 workflow-type: tm+mt
-source-wordcount: '413'
-ht-degree: 62%
+source-wordcount: '400'
+ht-degree: 61%
 
 ---
 
@@ -34,10 +34,6 @@ La presente guida utente contiene video e tutorial sulle funzioni e caratteristi
 * **[Configurare le regole di frequenza dei messaggi](/help/administration/configure-frequency-rules.md)**
 
    *Scopri come creare, attivare, testare e creare rapporti sulle regole di frequenza. Scopri come determinare quali regole di frequenza verranno ereditate per un messaggio.*
-
-* **[Iscrizioni e pagine di destinazione](/help/subscriptions-and-landing-pages.md)**
-
-   *Scopri come configurare le iscrizioni e creare pagine di destinazione.*
 
 ### Eventi Experience League Live
 
