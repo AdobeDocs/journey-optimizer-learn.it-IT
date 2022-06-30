@@ -3,10 +3,10 @@ title: Video e tutorial su Journey Optimizer
 description: Abbiamo una serie di tutorial video per mostrarti come sfruttare i vantaggi di Journey Optimizer.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 9c867ee84af5f4f58f85e179fb8e1e44a96b3236
+source-git-commit: 5b2c1d5410ed91f35e1cbb93b6c1ff1767cca7c2
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 65%
+source-wordcount: '413'
+ht-degree: 62%
 
 ---
 
@@ -26,6 +26,10 @@ La presente guida utente contiene video e tutorial sulle funzioni e caratteristi
 * **[Configurare, creare e inviare messaggi SMS](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
 
    *Scopri come configurare, creare e includere i messaggi SMS nei percorsi di clienti.*
+
+* **[Supporto di parole chiave in entrata per SMS](/help/create-messages/inbound-keyword-support-for-sms.md)**
+
+   *Comprendi come funziona il supporto nativo delle parole chiave in entrata (start, stop, unstop) per gli SMS.*
 
 * **[Configurare le regole di frequenza dei messaggi](/help/administration/configure-frequency-rules.md)**
 
