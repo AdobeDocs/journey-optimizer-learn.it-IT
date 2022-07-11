@@ -1,12 +1,12 @@
 ---
 title: Video e tutorial su Journey Optimizer
-description: Abbiamo una serie di tutorial video per mostrarti come sfruttare i vantaggi di Journey Optimizer.
+description: Abbiamo una serie di tutorial video per mostrarti come trarre il massimo da Journey Optimizer.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 943414d073b62730da2c559dfe8b4ab7a6f7757a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '400'
-ht-degree: 61%
+ht-degree: 100%
 
 ---
 
@@ -25,21 +25,21 @@ La presente guida utente contiene video e tutorial sulle funzioni e caratteristi
 
 * **[Configurare, creare e inviare messaggi SMS](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
 
-   *Scopri come configurare, creare e includere i messaggi SMS nei percorsi di clienti.*
+   *Scopri come configurare, creare e includere la messaggistica SMS nei tuoi percorsi cliente.*
 
 * **[Supporto di parole chiave in entrata per SMS](/help/create-messages/inbound-keyword-support-for-sms.md)**
 
-   *Comprendi come funziona il supporto nativo delle parole chiave in entrata (start, stop, unstop) per gli SMS.*
+   *Comprendi come funziona il supporto nativo delle parole chiave in entrata (avvia, interrompi, riprendi) per gli SMS.*
 
 * **[Configurare le regole di frequenza dei messaggi](/help/administration/configure-frequency-rules.md)**
 
-   *Scopri come creare, attivare, testare e creare rapporti sulle regole di frequenza. Scopri come determinare quali regole di frequenza verranno ereditate per un messaggio.*
+   *Scopri come creare, attivare, testare e creare rapporti sulle regole di frequenza. Comprendi come determinare quali regole di frequenza verranno ereditate per un messaggio.*
 
 ### Eventi Experience League Live
 
 * **[Notifiche push con Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=it)**
 
-   *In questo episodio di Experience League Live, parliamo dei casi d’uso comuni per le notifiche push con Adobe Journey Optimizer e approfondiamo i dettagli tecnici su come configurare un’app per push con tecnologia Adobe Experience Platform.*
+   *In questo episodio di Experience League Live, parleremo dei casi d’uso comuni per le notifiche push con Adobe Journey Optimizer e approfondiremo i dettagli tecnici per sapere come configurare un’app per il push basato su Adobe Experience Platform.*
 
 ## Proposte del nostro staff
 
@@ -68,7 +68,7 @@ La presente guida utente contiene video e tutorial sulle funzioni e caratteristi
     </a>
     </div>
     <p>
-    <em>Questo video mostra come i marchi possono utilizzare le funzionalità di gestione delle decisioni di Adobe Journey Optimizer, la qualificazione dei segmenti in tempo reale e la gestione degli eventi aziendali per portare i loro percorsi di consumo a nuove vette.</em>
+    <em>Questo video mostra come i marchi possono utilizzare le funzionalità di Adobe Journey Optimizer per la gestione delle decisioni, la qualificazione dei segmenti in tempo reale e la gestione degli eventi di business, per ottimizzare i percorsi dei clienti.</em>
     <p>
   </td>
   </td>
@@ -112,7 +112,7 @@ La presente guida utente contiene video e tutorial sulle funzioni e caratteristi
     </a>
     </div>
     <p>
-    <em>Scopri come utilizzare le informazioni sugli eventi contestuali provenienti da un percorso per personalizzare un messaggio.</em>
+    <em>Scopri come personalizzare un messaggio utilizzando le informazioni contestuali sugli eventi provenienti da un percorso.</em>
     <p>
   </td>
   </td>
@@ -126,7 +126,7 @@ La presente guida utente contiene video e tutorial sulle funzioni e caratteristi
     </a>
     </div>
     <p>
-    <em>Scopri la differenza tra rapporti live e globali, come accedere e analizzare i rapporti specifici per percorsi e messaggi, e come modificare le dashboard dei rapporti.
+    <em>Scopri la differenza tra rapporti live e globali, come trovare e analizzare i rapporti specifici per percorsi e messaggi, e come modificare le dashboard dei rapporti.
 
 </em>
     <p>
