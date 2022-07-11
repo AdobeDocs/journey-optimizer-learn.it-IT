@@ -1,21 +1,22 @@
 ---
 title: Supporto di parole chiave in entrata per SMS
-description: Comprendere il funzionamento del supporto nativo per parole chiave in entrata (start, stop, unstop) per gli SMS.
+description: Comprendi come funziona il supporto nativo delle parole chiave in entrata (avvia, interrompi, riprendi) per gli SMS.
 feature: SMS
 role: User, Admin
 level: Beginner
 kt: 10616
 thumbnail: 344026.jpg
-source-git-commit: 7a1d4632d16ce090bea5381173848461c685f1f4
-workflow-type: tm+mt
+exl-id: b7233ee0-6450-467d-b41f-f81e3b870005
+source-git-commit: 87394e5b59ee1cc71d3d9df0cecf6be929549f03
+workflow-type: ht
 source-wordcount: '46'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Supporto di parole chiave in entrata per SMS
 
-Comprendere il funzionamento del supporto nativo per parole chiave in entrata (start, stop, unstop) per gli SMS.
+Comprendi come funziona il supporto nativo delle parole chiave in entrata (avvia, interrompi, riprendi) per gli SMS.
 
 >[!NOTE]
 >
