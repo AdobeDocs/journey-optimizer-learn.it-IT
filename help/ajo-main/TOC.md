@@ -2,10 +2,10 @@
 user-guide-title: Scopri i tutorial per Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Di seguito sono elencati i tutorial per Journey Optimizer.
-source-git-commit: 6b655e69f4533a433ddda130ade9ba0d09398dfa
+source-git-commit: bddd702254d7b804515723e15862521ff90b32ad
 workflow-type: tm+mt
-source-wordcount: '261'
-ht-degree: 98%
+source-wordcount: '260'
+ht-degree: 95%
 
 ---
 
@@ -54,7 +54,7 @@ ht-degree: 98%
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Creare messaggi {#create-messages}
    + [Panoramica di Message Designer ](/help/create-messages/message-designer-overview.md)
-   + [Creare contenuti e-mail con l’editor messaggi](/help/create-messages/create-email-content-with-the-message-editor.md)
+   + [Creare contenuti con E-mail Designer](/help/create-messages/create-content-with-the-email-designer.md)
    + [Importare e creare contenuti e-mail HTML](/help/create-messages/import-and-author-html-email-content.md)
    + [Anteprima, bozza e pubblicazione](/help/create-messages/preview-proof-and-publish.md)
    + [Funzionalità mobili per gli addetti al marketing](/help/create-messages/mobile-capabilities.md)
