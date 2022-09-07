@@ -1,12 +1,12 @@
 ---
 title: Video e tutorial su Journey Optimizer
-description: Abbiamo una serie di tutorial video per mostrarti come sfruttare i vantaggi di Journey Optimizer.
+description: È disponibile una serie di tutorial video che illustrano come sfruttare i vantaggi di Journey Optimizer.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 775549f16b3d7ffc74bca6d26edfe100a80f46f9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '394'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 84%
 
 ![](./assets/ajo-banner.png)
 
-Journey Optimizer aiuta le aziende a fornire ai loro clienti esperienze connesse, contestuali e personalizzate. Il percorso cliente è l&#39;intero processo di interazione del cliente con il marchio, dai primi momenti di contatto fino all&#39;uscita del cliente dal sito.
+Journey Optimizer aiuta le aziende a fornire ai loro clienti esperienze connesse, contestuali e personalizzate. Per “percorso del cliente” si intende l’intero processo delle interazioni del cliente con il brand, dal primo contatto fino a quando il cliente esce dal sito.
 
 La presente guida utente contiene video e tutorial sulle funzioni e caratteristiche di Adobe Journey Optimizer.
 
