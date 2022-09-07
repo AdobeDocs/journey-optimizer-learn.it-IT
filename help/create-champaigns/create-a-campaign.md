@@ -8,10 +8,11 @@ doc-type: feature video
 team: PM
 role: User
 level: Beginner
-source-git-commit: 775549f16b3d7ffc74bca6d26edfe100a80f46f9
-workflow-type: tm+mt
+exl-id: 543678e6-5803-4997-a6ea-a45ed571d7d4
+source-git-commit: 537d6ed2697aed941efbf572fed8856b5f21ad24
+workflow-type: ht
 source-wordcount: '105'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
@@ -19,10 +20,10 @@ ht-degree: 5%
 
 >[!IMPORTANT]
 >
->Questa funzione è disponibile solo per gli utenti con accesso a un profilo di prodotto relativo a Campaign, come l’amministratore di Campaign, l’approvatore di Campaign, il manager di Campaign e/o il visualizzatore di Campaign. Per ulteriori informazioni su come assegnare i profili di prodotto, consulta [questo video](/help/set-up-access/access-management.md).
+>Questa funzionalità è disponibile solo per gli utenti con accesso a un profilo di prodotto relativo a Campaign, come amministratore di Campaign, approvatore di Campaign, manager di Campaign e/o visualizzatore di Campaign. Per ulteriori informazioni su come assegnare i profili di prodotto, guarda [questo video](/help/set-up-access/access-management.md).
 
 Scopri come distribuire contenuti una tantum a un pubblico specifico eseguendo azioni immediatamente o secondo una pianificazione specifica.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346680?quality=12)
 
-Fai riferimento alla [documentazione del prodotto](https://experienceleague.adobe.com/docs/journey-optimizer/using/campaigns/get-started-with-campaigns.html?lang=en) per ulteriori informazioni su questa funzione.
+Per ulteriori informazioni su questa funzionalità, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/docs/journey-optimizer/using/campaigns/get-started-with-campaigns.html?lang=it).
