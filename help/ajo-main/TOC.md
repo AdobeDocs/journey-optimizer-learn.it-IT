@@ -5,7 +5,7 @@ user-guide-description: Di seguito sono elencati i tutorial per Journey Optimize
 source-git-commit: 9390fa4f69307f326df5946000240bf397152690
 workflow-type: tm+mt
 source-wordcount: '260'
-ht-degree: 94%
+ht-degree: 96%
 
 ---
 
@@ -53,7 +53,7 @@ ht-degree: 94%
    + [Iscrizioni e pagine di destinazione](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Creare messaggi {#create-messages}
-   + [Panoramica di Message Designer ](/help/create-messages/message-designer-overview.md)
+   + [Panoramica di Message Designer](/help/create-messages/message-designer-overview.md)
    + [Creare contenuti con E-mail Designer](/help/create-messages/create-content-with-the-email-designer.md)
    + [Importare e creare contenuti e-mail HTML](/help/create-messages/import-and-author-html-email-content.md)
    + [Anteprima, bozza e pubblicazione](/help/create-messages/preview-proof-and-publish.md)
@@ -62,7 +62,7 @@ ht-degree: 94%
    + [Configurare, creare e inviare messaggi SMS](/help/create-messages/configure-author-and-deliver-sms-messages.md)
    + [Supporto di parole chiave in entrata per SMS](/help/create-messages/inbound-keyword-support-for-sms.md)
 + Personalizzare il contenuto {#personalize-content}
-   + [Personalizzazione di profili e segmenti basata sull’iscrizione](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
+   + [Personalizzazione basata su profilo e appartenenza a un segmento](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
    + [Aggiungere offerte come personalizzazione](/help/personalize-content/add-offer-decisioning-to-messages.md)
    + [Utilizzare informazioni contestuali sugli eventi per la personalizzazione](/help/personalize-content/use-contextual-event-information-for-personalization.md)
    + [Utilizzare funzioni di assistenza per la personalizzazione](/help/personalize-content/use-helper-functions-for-personalization.md)
