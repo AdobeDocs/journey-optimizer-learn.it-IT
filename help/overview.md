@@ -3,10 +3,10 @@ title: Tutorials Journey Optimizer - Panoramica
 description: È disponibile una serie di tutorial video che illustrano come sfruttare i vantaggi di Journey Optimizer.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 641050d8a2d3487a042ecf5a5a1b8891797e63a7
+source-git-commit: e7b5e3dbf5ab9c4415320b5bd1ae6f1640a00687
 workflow-type: tm+mt
-source-wordcount: '392'
-ht-degree: 97%
+source-wordcount: '397'
+ht-degree: 92%
 
 ---
 
@@ -23,18 +23,17 @@ La presente guida utente contiene video e tutorial sulle funzioni e caratteristi
 
 ### Tutorial
 
+* **[Maschera dati nei messaggi](/help/privacy/mask-data-in-messages.md)**
+
+   *Scopri cos’è il mascheramento dei dati e perché mascherarli. Scopri come mascherare i dati nei messaggi Journey Optimizer.*
+
 * **[Creare una campagna](/help/create-champaigns/create-a-campaign.md)**
 
    *Scopri come distribuire contenuti una tantum a un pubblico specifico eseguendo azioni immediatamente o secondo una pianificazione specifica.*
 
-
 * **[Configurare, creare e inviare messaggi SMS](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
 
    *Scopri come configurare, creare e includere la messaggistica SMS nei tuoi percorsi cliente.*
-
-* **[Supporto di parole chiave in entrata per SMS](/help/create-messages/inbound-keyword-support-for-sms.md)**
-
-   *Comprendi come funziona il supporto nativo delle parole chiave in entrata (avvia, interrompi, riprendi) per gli SMS.*
 
 ### Eventi Experience League Live
 

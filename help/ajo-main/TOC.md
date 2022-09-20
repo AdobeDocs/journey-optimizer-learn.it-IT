@@ -2,10 +2,10 @@
 user-guide-title: Scopri i tutorial per Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Di seguito sono elencati i tutorial per Journey Optimizer.
-source-git-commit: 9390fa4f69307f326df5946000240bf397152690
+source-git-commit: bd183ad89e6c1b13c28e1345e5130024fd788276
 workflow-type: tm+mt
-source-wordcount: '260'
-ht-degree: 96%
+source-wordcount: '265'
+ht-degree: 94%
 
 ---
 
@@ -81,3 +81,5 @@ ht-degree: 96%
    + [Pubblicare un percorso](/help/create-journeys/publish-a-journey.md)
 + Rapporto e monitoraggio {#report-and-monitor}
    + [Rapporti live e globali](/help/report-and-monitor/live-and-global-reports.md)
++ Privacy {#privacy}
+   + [Maschera dati nei messaggi](/help/privacy/mask-data-in-messages.md)
