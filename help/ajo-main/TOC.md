@@ -2,10 +2,10 @@
 user-guide-title: Scopri i tutorial per Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Di seguito sono elencati i tutorial per Journey Optimizer.
-source-git-commit: bd183ad89e6c1b13c28e1345e5130024fd788276
+source-git-commit: 4960b21053d6309cd64b5bb6a0a98e0d044d4afd
 workflow-type: tm+mt
 source-wordcount: '265'
-ht-degree: 94%
+ht-degree: 92%
 
 ---
 
@@ -47,13 +47,13 @@ ht-degree: 94%
    + [Configurare origini dati](/help/set-up-journeys/configure-data-sources.md)
    + [Creare gli eventi](/help/set-up-journeys/create-events.md)
    + [Creare azioni](/help/set-up-journeys/create-actions.md)
-+ Profili cliente, segmenti e iscrizioni {#profiles-segments-subscriptions}
++ Profili cliente, segmenti e abbonamenti {#profiles-segments-subscriptions}
    + [Profilo unificato e segmentazione: panoramica](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [Creare segmenti](/help/set-up-resources/create-segments.md)
    + [Iscrizioni e pagine di destinazione](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Creare messaggi {#create-messages}
-   + [Panoramica di Message Designer](/help/create-messages/message-designer-overview.md)
+   + [Panoramica di Message Designer ](/help/create-messages/message-designer-overview.md)
    + [Creare contenuti con E-mail Designer](/help/create-messages/create-content-with-the-email-designer.md)
    + [Importare e creare contenuti e-mail HTML](/help/create-messages/import-and-author-html-email-content.md)
    + [Anteprima, bozza e pubblicazione](/help/create-messages/preview-proof-and-publish.md)

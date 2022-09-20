@@ -3,10 +3,10 @@ title: Tutorials Journey Optimizer - Panoramica
 description: È disponibile una serie di tutorial video che illustrano come sfruttare i vantaggi di Journey Optimizer.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: e7b5e3dbf5ab9c4415320b5bd1ae6f1640a00687
+source-git-commit: 8e6534b96e8433b21e2846f7ddfeef73cf5400ea
 workflow-type: tm+mt
-source-wordcount: '397'
-ht-degree: 92%
+source-wordcount: '396'
+ht-degree: 85%
 
 ---
 
@@ -126,7 +126,7 @@ La presente guida utente contiene video e tutorial sulle funzioni e caratteristi
     </a>
     </div>
     <p>
-    <em>Scopri la differenza tra rapporti live e globali, come trovare e analizzare i rapporti specifici per percorsi e messaggi, e come modificare le dashboard dei rapporti.
+    <em>Scopri la differenza tra rapporti live e globali, come accedere e analizzare i rapporti per percorso e per messaggio e come modificare le dashboard dei rapporti.
 
 </em>
     <p>
