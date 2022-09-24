@@ -4,10 +4,10 @@ description: È disponibile una serie di tutorial video che illustrano come sfru
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: b04f8f49f9b1527aad4e223d7f7df782663a29be
+source-git-commit: 6dd50efeaac9f37bd1e6669d1b15b62f882faff8
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '417'
+ht-degree: 81%
 
 ---
 
@@ -23,6 +23,10 @@ La presente guida utente contiene video e tutorial sulle funzioni e caratteristi
 ## Novità
 
 ### Tutorial
+
+* **[Copiare un percorso in un’altra sandbox](/help/create-journeys/copy-a-journey.md)**
+
+   *Scopri come copiare un percorso e i relativi oggetti dipendenti da una sandbox all’altra.*
 
 * **[Maschera dati nei messaggi](/help/privacy/mask-data-in-messages.md)**
 
