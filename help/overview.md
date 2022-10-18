@@ -4,10 +4,10 @@ description: È disponibile una serie di tutorial video che illustrano come sfru
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 2941ac46f36112f488a0d60e3afeaf2979ddb6f4
+source-git-commit: c06bfb31fe7964a3bba81873884ee66fd16908a1
 workflow-type: tm+mt
 source-wordcount: '492'
-ht-degree: 62%
+ht-degree: 72%
 
 ---
 
@@ -32,7 +32,7 @@ La presente guida utente contiene video e tutorial sulle funzioni e caratteristi
 
 * **[Utilizzare gli avvisi](/help/administration/alerts.md)**
 
-   *Scopri come abbonarti a avvisi predefiniti per comportamenti di percorso imprevisti e ricevere notifiche tramite e-mail, in Journey Optimizer o utilizzando un’API.*
+   *Scopri come abbonarti ad avvisi predefiniti per comportamenti di percorso imprevisti e ricevere notifiche tramite e-mail, in Journey Optimizer oppure utilizzando un’API.*
 
 * **[Copiare un percorso in un’altra sandbox](/help/create-journeys/copy-a-journey.md)**
 
@@ -44,6 +44,9 @@ La presente guida utente contiene video e tutorial sulle funzioni e caratteristi
 
 </div>
 
+
+<div id="events-section">
+
 ### Eventi Experience League Live
 
 * **[Eseguire le campagne in Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=it)**
@@ -53,6 +56,15 @@ La presente guida utente contiene video e tutorial sulle funzioni e caratteristi
 * **[Notifiche push con Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=it)**
 
    *In questo episodio di Experience League Live, parleremo dei casi d’uso comuni per le notifiche push con Adobe Journey Optimizer e approfondiremo i dettagli tecnici per sapere come configurare un’app per il push basato su Adobe Experience Platform.*
+
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
 
 <div id="staff-picks-section">
 
