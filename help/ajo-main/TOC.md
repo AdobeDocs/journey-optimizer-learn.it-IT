@@ -5,7 +5,7 @@ user-guide-description: Di seguito sono elencati i tutorial per Journey Optimize
 source-git-commit: 2874a7c5bc9ef8fd553a573069911453f5bc5f2b
 workflow-type: tm+mt
 source-wordcount: '279'
-ht-degree: 88%
+ht-degree: 98%
 
 ---
 
@@ -47,7 +47,7 @@ ht-degree: 88%
    + [Configurare origini dati](/help/set-up-journeys/configure-data-sources.md)
    + [Creare gli eventi](/help/set-up-journeys/create-events.md)
    + [Creare azioni](/help/set-up-journeys/create-actions.md)
-+ Profili cliente, segmenti e abbonamenti {#profiles-segments-subscriptions}
++ Profili cliente, segmenti e iscrizioni {#profiles-segments-subscriptions}
    + [Profilo unificato e segmentazione: panoramica](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [Creare segmenti](/help/set-up-resources/create-segments.md)
    + [Iscrizioni e pagine di destinazione](/help/subscriptions-and-landing-pages.md)
@@ -68,7 +68,7 @@ ht-degree: 88%
    + [Utilizzare informazioni contestuali sugli eventi per la personalizzazione](/help/personalize-content/use-contextual-event-information-for-personalization.md)
    + [Utilizzare funzioni di assistenza per la personalizzazione](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [Utilizzare e gestire le espressioni salvate nella libreria di personalizzazione](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
-   + [Creare contenuto dinamico con il generatore di regole di condizione](/help/personalize-content/create-dynamic-content.md)
+   + [Creare contenuti dinamici con il generatore di regole di condizione](/help/personalize-content/create-dynamic-content.md)
 + Creare campagne {#create-campaigns}
    + [Creare una campagna](/help/create-champaigns/create-a-campaign.md)
 + Creare percorsi {#create-journeys}
@@ -85,4 +85,4 @@ ht-degree: 88%
    + [Rapporti live e globali](/help/report-and-monitor/live-and-global-reports.md)
    + [Utilizzare gli avvisi](/help/administration/alerts.md)
 + Privacy {#privacy}
-   + [Maschera dati nei messaggi](/help/privacy/mask-data-in-messages.md)
+   + [Mascherare i dati nei messaggi](/help/privacy/mask-data-in-messages.md)
