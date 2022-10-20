@@ -7,8 +7,8 @@ thumbnail: 326961.jpg
 exl-id: 551cce3d-58e9-4302-bfbd-fbf86f79e183
 source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '75'
+ht-degree: 100%
 
 ---
 
@@ -21,4 +21,4 @@ Panoramica delle funzionalità di gestione delle decisioni di Journey Optimizer.
 
 >[!INFO]
 >
-> Questo video fa parte di un corso, [Guida introduttiva alla gestione delle decisioni per gli addetti al marketing](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)disponibile gratuitamente all&#39;Experience League!
+> Questo video fa parte del corso [Guida introduttiva alla gestione delle decisioni per gli esperti di marketing](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponibile gratuitamente su Experience League.
