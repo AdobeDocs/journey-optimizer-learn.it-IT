@@ -3,9 +3,9 @@ user-guide-title: Scopri i tutorial per Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Di seguito sono elencati i tutorial per Journey Optimizer.
 source-git-commit: e8d052ad806f0da48c316921e20a860e74e922b4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '292'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 92%
    + [Architettura](/help/introduction/architecture.md)
    + [Funzionalità mobili per gli addetti al marketing](/help/create-messages/mobile-capabilities.md)
    + [Funzionalità mobili per sviluppatori](/help/create-messages/mobile-capabilities-for-developers.md)
-+ Creare campagne {#create-campaigns}
++ Creare le campagne {#create-campaigns}
    + [Creare una campagna](/help/create-champaigns/create-a-campaign.md)
 + Creare percorsi {#create-journeys}
    + [Panoramica sull’area di lavoro del percorso](/help/create-journeys/overview-over-the-journey-canvas.md)
@@ -37,16 +37,16 @@ ht-degree: 92%
    + [Profilo unificato e segmentazione: panoramica](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [Creare segmenti](/help/set-up-resources/create-segments.md)
    + [Iscrizioni e pagine di destinazione](/help/subscriptions-and-landing-pages.md)
-+ Creare messaggi {#create-messages}
-   + Creare e-mail {#create-emails}
++ Creare i messaggi {#create-messages}
+   + Creare le e-mail {#create-emails}
       + [Creare contenuti con E-mail Designer](/help/create-messages/create-content-with-the-email-designer.md)
       + [Importare e creare contenuti e-mail HTML](/help/create-messages/import-and-author-html-email-content.md)
       + [Anteprima, bozza e pubblicazione](/help/create-messages/preview-proof-and-publish.md)
-   + Creare messaggi di testo SMS {#create-sms}
+   + Creare i messaggi di testo SMS {#create-sms}
       + [Configurare, creare e inviare messaggi SMS](/help/create-messages/configure-author-and-deliver-sms-messages.md)
       + [Supporto di parole chiave in entrata per SMS](/help/create-messages/inbound-keyword-support-for-sms.md)
-   + Creare messaggi in-app {#create-in-app}
-      + [Messaggistica in-app per campagne](/help/create-messages/in-app-messaging-for-campaigns.md)
+   + Creare i messaggi in-app {#create-in-app}
+      + [Messaggistica in-app per le campagne](/help/create-messages/in-app-messaging-for-campaigns.md)
       + [Creare un messaggio in-app](/help/create-messages/author-in-app-messages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Personalizzare il contenuto {#personalize-content}
@@ -81,7 +81,7 @@ ht-degree: 92%
       + [Impostare il canale e-mail](/help/set-up-email-channel/set-up-email-channel.md)
       + [Delegare sottodomini CName](/help/set-up-email-channel/delegate-cname-subdomains.md)
       + [Configurare le regole di frequenza dei messaggi](/help/administration/configure-frequency-rules.md)
-   + Configurare percorsi {#journey-configuration}
+   + Configurare i percorsi {#journey-configuration}
       + [Configurare le origini dati](/help/set-up-journeys/configure-data-sources.md)
       + [Creare gli eventi](/help/set-up-journeys/create-events.md)
       + [Creare azioni](/help/set-up-journeys/create-actions.md)
