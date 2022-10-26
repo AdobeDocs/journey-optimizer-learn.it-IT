@@ -5,9 +5,9 @@ recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: c1416263c925dcd435c2b9aa2af7a897c2b62850
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '490'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -45,7 +45,7 @@ La presente guida utente contiene video e tutorial sulle funzioni e caratteristi
 
 <div id="events-section">
 
-## Experience League eventi live
+## Eventi Experience League Live
 
 * **[Eseguire le campagne in Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=it)**
 
@@ -66,7 +66,7 @@ La presente guida utente contiene video e tutorial sulle funzioni e caratteristi
 
 <div id="staff-picks-section">
 
-## Scelte del personale
+## Proposte del nostro staff
 
 <table>
 <tr>
