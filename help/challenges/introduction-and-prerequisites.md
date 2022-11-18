@@ -5,7 +5,7 @@ feature: Journeys
 role: Admin
 level: Beginner
 hide: true
-source-git-commit: dd2832c1e99ed9b8407a0aa9356335d3bce40622
+source-git-commit: 3cd8b1a5b98adbe822cd82db8c27137b534c16e3
 workflow-type: tm+mt
 source-wordcount: '452'
 ht-degree: 7%
@@ -67,8 +67,8 @@ Luma sta cercando di promuovere la sua ultima collezione di abbigliamento e ingr
       <em>Promuovi la nuova collezione estiva Luma. </em>
       <p>
       <b>Competenze richieste:</b>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-segments.html"> Creare segmenti</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/import-and-author-html-email-content.html">Importare e creare contenuti e-mail HTML</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html"> Creare segmenti</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html">Importare e creare contenuti e-mail HTML</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html">Caso d’uso: attività “Leggi segmento”</li>
   </td>
   </tr>
@@ -94,7 +94,7 @@ Luma sta cercando di promuovere la sua ultima collezione di abbigliamento e ingr
     <td>
     <div>
     <a href="product-replenishment-challenge.md">
-      <img alt="Sito web Luma" src="./assets/email-assets/luma-ProductReplenishment.jpg"/>
+      <img alt="Sito web Luma" src="./assets/email-assets/luma-ProductReplenishment.png"/>
     </a>
     </div>
     <td>
