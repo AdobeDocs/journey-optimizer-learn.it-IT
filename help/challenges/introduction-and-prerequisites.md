@@ -5,13 +5,13 @@ feature: Journeys
 role: Admin
 level: Beginner
 hide: true
-source-git-commit: 3cd8b1a5b98adbe822cd82db8c27137b534c16e3
+exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
+source-git-commit: 8e06a9ac16b3ac77cd9d76f7f81b35592e8606a2
 workflow-type: tm+mt
-source-wordcount: '452'
-ht-degree: 7%
+source-wordcount: '391'
+ht-degree: 8%
 
 ---
-
 
 # Journey Optimizer Challenges - Introduzione e prerequisiti
 
@@ -25,22 +25,23 @@ Ogni sfida in questa sezione riguarda un caso d’uso univoco che verrà impleme
 
 ### Requisiti di sistema
 
-* Accesso a una sandbox Journey Optimizer
-* Si consiglia di completare la sfida in una sandbox di formazione dedicata. Fai riferimento a [Configurare un tutorial sulla sandbox di formazione](https://experienceleague.adobe.com//docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html) per istruzioni.
-* Sono necessari i seguenti diritti di accesso:
-   * *Percorsi Manager* o *Amministratore del percorso* diritti
-   * Visualizzare i profili di test e i relativi attributi
+* Accesso a una sandbox Journey Optimizer - abbiamo consigliato di completare la sfida in una sandbox di formazione dedicata.
 * È necessario eseguire il provisioning di AEM Assets Essentials per la tua istanza
 * Il canale e-mail deve essere configurato per i messaggi transazionali e di marketing
 
+### Diritti di accesso
+
+Sono necessari i seguenti diritti di accesso:
+* *Percorsi Manager* o *Amministratore del percorso*
+* Visualizzare i profili di test e i relativi attributi
+
 >[!NOTE]
-> Gli esercizi sono stati sviluppati in base ai dati di esempio Luma. È consigliabile impostare una sandbox di formazione configurata con i dati di esempio. Visita il tutorial [Importare dati di esempio in Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html?lang=en) per istruzioni dettagliate.
+> Gli esercizi sono stati sviluppati in base ai dati di esempio Luma. È consigliabile impostare una sandbox di formazione configurata con i dati di esempio. Visita il tutorial [Configurare una sandbox di formazione](/help/tutorial-configure-a-training-sandbox/introduction-and-prerequisites.md) per istruzioni dettagliate.
 
 ### Azioni necessarie
 
 * Se hai poca esperienza con Adobe Journey Optimizer, completa il corso [Guida introduttiva di Journey Optimizer per amministratori e manager di Percorso](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1&amp;lang=it).
-* Prima di iniziare, scarica il [luma-assets.zip](/help/challenges/assets/email-assets/luma-assets.zip) file. Contiene tutte le risorse necessarie per completare le sfide
-* Dalla cartella dei download, sposta il `luma-assets.zip` e decomprimere il file nella posizione desiderata sul computer.
+
 
 ## La storia
 
