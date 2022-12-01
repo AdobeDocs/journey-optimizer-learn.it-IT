@@ -1,5 +1,5 @@
 ---
-title: Creare una conferma dell’ordine
+title: Creare un messaggio e-mail di conferma dell’ordine
 description: Verifica le tue conoscenze su come creare e personalizzare messaggi transazionali
 kt: 7531
 feature: Journeys
@@ -7,7 +7,7 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: c6e28361e1aca183a4cc2906ac90825218141e13
+source-git-commit: 0e83d8fbad6bd87ed25980251970898cb5b94bc0
 workflow-type: tm+mt
 source-wordcount: '683'
 ht-degree: 4%
@@ -15,7 +15,7 @@ ht-degree: 4%
 ---
 
 
-# Creare un messaggio e-mail transazionale di conferma dell’ordine
+# Creare un messaggio e-mail di conferma dell’ordine
 
 ![Conferma dell&#39;ordine](/help/challenges/assets/email-assets/luma-transactional-order-confirmation.png)
 

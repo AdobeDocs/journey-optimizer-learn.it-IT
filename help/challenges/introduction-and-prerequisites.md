@@ -6,10 +6,10 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: 8e06a9ac16b3ac77cd9d76f7f81b35592e8606a2
+source-git-commit: 0e83d8fbad6bd87ed25980251970898cb5b94bc0
 workflow-type: tm+mt
-source-wordcount: '391'
-ht-degree: 8%
+source-wordcount: '449'
+ht-degree: 12%
 
 ---
 
@@ -61,11 +61,10 @@ Luma sta cercando di promuovere la sua ultima collezione di abbigliamento e ingr
       </div>
   </td>
   <td>
-   <a href="summer-collection-announcement-challenge.md">
-    <strong>Creare un annuncio di raccolta estiva </strong>
+   <strong><a href="summer-collection-announcement-challenge.md">Creare un annuncio di raccolta estiva </strong>
     </a>
       <p>
-      <em>Promuovi la nuova collezione estiva Luma. </em>
+      <em>Crea un percorso che invia un’e-mail di annuncio della raccolta estiva a un segmento di clienti esistenti. </em>
       <p>
       <b>Competenze richieste:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html"> Creare segmenti</li>
@@ -82,26 +81,29 @@ Luma sta cercando di promuovere la sua ultima collezione di abbigliamento e ingr
   </td>
   <td>
       <a href="order-confirmation-challenge.md">
-    <strong>Creare una conferma dell’ordine</strong>
+    <strong><a href="order-confirmation-challenge.md">Creare una conferma dell’ordine</strong>
     </a>
     <div>
     <p>
-    <em>Invia un'e-mail di conferma dell'ordine quando qualcuno completa un acquisto online
+    <em>Verifica le tue conoscenze su come creare e personalizzare messaggi transazionali
     </em>
     <p>
+    <b>Competenze richieste:</b>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-email-content-with-the-message-editor.html"> Creare contenuti e-mail con l’editor messaggi</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html">Utilizzare informazioni contestuali sugli eventi per la personalizzazione</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=en">Utilizzare funzioni di assistenza per la personalizzazione</li>
   </td>
   </tr>
   <tr>
     <td>
     <div>
-    <a href="product-replenishment-challenge.md">
-      <img alt="Sito web Luma" src="./assets/email-assets/luma-ProductReplenishment.png"/>
+    <a>
+      <img alt="Rifornimento del prodotto Luma" src="./assets/email-assets/luma-ProductReplenishment.png"/>
     </a>
     </div>
     <td>
     <div >
-      <a href="product-replenishment-challenge.md">
-    <strong>Creare una notifica di rifornimento del prodotto </strong>
+      <strong>Crea una notifica di rifornimento del prodotto (disponibile a breve)</strong>
     </a>
     </div>
     <p>
@@ -112,14 +114,14 @@ Luma sta cercando di promuovere la sua ultima collezione di abbigliamento e ingr
   <tr>
     <td>
     <div>
-    <a href="loyalty-status-welcome-email-challenge.md">
+    <a>
       <img alt="Ti diamo il benvenuto" src="./assets/email-assets/luma-transactional-onboarding-1.png"/>
     </a>
     </div>
     <td>
     <div >
-      <a href="loyalty-status-welcome-email-challenge.md">
-    <strong>Creare un messaggio e-mail di benvenuto per lo stato di fedeltà </strong>
+      <a>
+    <strong>Crea un messaggio e-mail di benvenuto per lo stato di fedeltà (disponibile a breve) </strong>
     </a>
     </div>
     <p>
