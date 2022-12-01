@@ -7,12 +7,13 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 8a2062f0719e799dd2d039488e6bba943fb458c4
+source-git-commit: c6e28361e1aca183a4cc2906ac90825218141e13
 workflow-type: tm+mt
-source-wordcount: '754'
-ht-degree: 3%
+source-wordcount: '683'
+ht-degree: 4%
 
 ---
+
 
 # Creare un messaggio e-mail transazionale di conferma dell’ordine
 
@@ -26,21 +27,27 @@ ht-degree: 3%
 
 ## La storia
 
-Luma, lancia il loro negozio online e vuole garantire una buona esperienza del cliente, fornendo un&#39;e-mail di conferma dell&#39;ordine una volta che un cliente ha effettuato un ordine.
+Luma, lancia il loro negozio online e vuole garantire una buona esperienza del cliente fornendo un&#39;e-mail di conferma dell&#39;ordine una volta che un cliente ha effettuato un ordine.
 
-Crea e personalizza un messaggio di conferma dell’ordine transazionale.
 
-## Ha tutto quello di cui ha bisogno?
 
 ## La tua sfida
 
-Crea un messaggio e-mail di conferma dell’ordine che viene attivato quando un cliente Luma completa un ordine online.
+Crea un percorso che invia un’e-mail di conferma dell’ordine quando un cliente Luma completa un ordine online.
 
-### Crea l’e-mail di conferma dell’ordine
+>[!BEGINTABS]
 
-Crea un nuovo messaggio e-mail intitolato &quot;(nome utente)_Luma - Conferma ordine&quot;. L’oggetto deve essere personalizzato con il nome del destinatario e deve includere la frase &quot;grazie per il tuo acquisto&quot;
+>[!TAB Attività]
 
-Seguendo la linea guida al marchio Luma, l’e-mail deve essere strutturata come segue:
+1. Crea un percorso chiamato &quot;il tuo nome _Conferma ordine&quot;
+2. Utilizza l’evento : LumaOnlinePurchase come trigger
+
+3. Crea l’e-mail di conferma dell’ordine:
+
+* Transazioni di categoria : assicurati di selezionare l’area dell’e-mail transazionale
+* L’oggetto deve essere personalizzato con il nome del destinatario e deve includere la frase &quot;grazie per il tuo acquisto&quot;
+
+Seguendo la linea guida al marchio Luma, l’e-mail deve essere strutturata come segue: puoi utilizzare la **Luma - Riepilogo ordine** e modificalo:
 
 <table>
 <tr>
@@ -56,7 +63,6 @@ Seguendo la linea guida al marchio Luma, l’e-mail deve essere strutturata come
     <li>Dimensioni 35%, sfondo bianco centrato </li>
     <li>Dovrebbe avere un collegamento al sito web luma: https://publish1034.adobedemo.com/content/luma/us/en.html</li>
     <p>
-    Suggerimento: Troverai tutte le immagini nella cartella delle risorse denominate immagini dei messaggi. <p>
     </td>
   </tr>
   <tr>
@@ -71,7 +77,7 @@ Seguendo la linea guida al marchio Luma, l’e-mail deve essere strutturata come
     <li>Margine: Superiore, inferiore (10)<div>
     <p>
     <strong>Testo</strong><p>
-    <em>Grazie per l'acquisto!</em><p>
+    <em>Ciao {nome}</em><p>
     <li>Allineamento: sinistra  </li>
    <li>Colore testo: rgb(101, 106, 119); font-size:14 px</li>
     <li>Spaziatura: sinistra (95), destra (95)</li><div>
@@ -82,9 +88,12 @@ Seguendo la linea guida al marchio Luma, l’e-mail deve essere strutturata come
     <li>Allineamento: sinistra  </li>
     <li>Colore testo: rgb(101, 106, 119); font-size:14 px </li>
     <li>Spaziatura: sinistra (95), destra (95)</li><div>
-    </a>
-    <p>
-    <strong>Pulsante:</strong>
+    </a><p>
+    <em>Spedisci a:<p>
+    <p>Cognome</p>
+    Via<p>
+    Città, Stato, CAP</p></em>
+    <strong>Pulsante:</strong></p>
    <p><em>Visualizza ordine</em></p>
       <li>Colore di sfondo: rgb(25, 121, 195)</li>
       <li>Colore testo: Bianco</li>
@@ -99,9 +108,10 @@ Seguendo la linea guida al marchio Luma, l’e-mail deve essere strutturata come
      <strong>Sezione Dettagli ordine</strong>
       </div>
       <p>Suggerimenti:
-      <li>Informazioni sull’evento contestuali. Puoi aggiungere il messaggio nel contesto solo dopo aver aggiunto il messaggio al percorso (vedi il passaggio 2). Non pubblicare l’e-mail prima di aggiungerla al Percorso e modificarla con le informazioni sull’evento contestuale!</li>
+      <li>Informazioni sull’evento contestuali.</li>
       <li>Utilizzare la funzione helper: Ogni</li>
-      <li>Utilizza il formato dell’editor HTML per i dati contestuali. Inserisci le informazioni nei contenitori utilizzando i tag DIV.</li>
+      <li>Passa al formato dell'editor di codice per aggiungere i dati contestuali. <li>
+      <li>Inserisci le informazioni nei contenitori utilizzando i tag DIV.</li>
   </td>
   <td>
     <strong>Intestazione</strong>
@@ -141,19 +151,13 @@ Seguendo la linea guida al marchio Luma, l’e-mail deve essere strutturata come
   </tr>
 </table>
 
-### Creare il percorso
-
-1. Chiama il percorso &quot;il tuo nome _Luma-Order Confirmation&quot;
-1. Utilizza l’evento : LumaOnlinePurchase
-1. Azione: Aggiungi il messaggio creato al passaggio 1
-1. Torna al messaggio e aggiungi gli attributi contestuali
-1. Pubblicare l’e-mail
 
 >[!TIP]
 >
 >Per consentire la risoluzione dei problemi dei percorsi, è consigliabile aggiungere un percorso alternativo a tutte le azioni del messaggio in caso di timeout o errore.
 
-+++Criteri di successo
+
+>[!TAB Controlla il tuo lavoro]
 
 Attiva il Percorso creato in modalità di test e invia l’e-mail a te stesso:
 
@@ -181,17 +185,20 @@ Dovresti ricevere l’e-mail di conferma dell’acquisto personalizzato, con il 
 
    43913 Terrazza Thierer, Washington DC 20099
 
-+++
 
-+++Controlla il tuo lavoro
+>[!TAB Criteri di successo]
+
+** Percorso
+
+![Percorso](/help/challenges/assets/c2-journey.png)
+
+
+** E-mail
 
 **Oggetto:**
 
 {{ profile.person.name.firstName }}, grazie per il tuo acquisto!
 
-**Sezione Intestazione e conferma:**
-
-![Conferma di intestazione e ordine](/help/challenges/assets/c2-header.png)
 
 **Sezione dettagli ordine:**
 
@@ -230,11 +237,4 @@ La personalizzazione dovrebbe essere simile al seguente:
 {{profile.homeAddress.city}},{{profile.homeAddress.state}} {{profile.homeAddress.postalCode}}
 ```
 
-**Piè di pagina:**
-![piè di pagina](/help/challenges/assets/c2-footer.png)
-
-**Percorso**
-
-![Percorso](/help/challenges/assets/c2-journey.png)
-
-+++
+>[!ENDTABS]

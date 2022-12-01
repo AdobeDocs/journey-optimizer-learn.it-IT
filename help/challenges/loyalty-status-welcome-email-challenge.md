@@ -7,10 +7,10 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 52fb90247fa30d5b5c86d5a464d994e8e7075049
+source-git-commit: 30d2e0b2cad59385c8b9bc98f7db671027f7906a
 workflow-type: tm+mt
-source-wordcount: '421'
-ht-degree: 8%
+source-wordcount: '457'
+ht-degree: 7%
 
 ---
 
@@ -45,8 +45,12 @@ Ti è stato chiesto di configurare un percorso che invia automaticamente un’e-
 
 Invia un&#39;e-mail quando un cliente fidelizzato si sposta su un livello Diamond per congratularsi e informarlo dei suoi nuovi vantaggi. Le selezioni del menu 
 
-1. Crea un segmento in Journey Optimizer denominato **il tuo nome - Luma - Diamante Status**
-1. Crea un percorso attivato quando un cliente si sposta nel nuovo livello di fedeltà Diamond (in particolare quando il cliente entra nel segmento definito per un nuovo membro a livello di rombo) per inviare l’e-mail &quot;Luma - Nuovo stato - Diamond - Transazionale&quot;
+1. Crea un segmento in Journey Optimizer denominato **Luma - Stato rombo**
+2. Crea un percorso attivato quando un cliente si sposta nel nuovo livello di fedeltà Diamond (in particolare quando il cliente entra nel segmento definito per un nuovo membro a livello di rombo) per inviare l’e-mail &quot;Luma - Nuovo stato - Diamond - Transazionale&quot;
+   1. Creare un messaggio e-mail transazionale denominato `(your name)_Luma – New Status – Diamond – Transactional email message`.
+   2. Assegna all’e-mail un oggetto `Welcome to Diamond Status, (recipient's first name)!`.
+   3. Utilizza il file HTML fornito **[DiamondStatusEmail.html](/help/challenges/assets/email-assets/DiamondStatusEmail.html)** per il corpo dell’e-mail.
+3. Una volta completato, mettere il percorso in modalità di test e attivare il percorso da inviare a se stessi  
 
    1. Creare un messaggio e-mail transazionale denominato `(your name)_Luma – New Status – Diamond – Transactional email message`.
    1. Assegna all’e-mail un oggetto `Welcome to Diamond Status, (recipient's first name)!`.
