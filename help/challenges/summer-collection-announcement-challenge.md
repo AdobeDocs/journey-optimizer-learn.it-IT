@@ -7,10 +7,10 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: e6364990cbe6e157ddc2754c1095052ce133ea8e
+source-git-commit: 4314f8090d4462ea8735279078fa53b70c5de551
 workflow-type: tm+mt
-source-wordcount: '1118'
-ht-degree: 1%
+source-wordcount: '1161'
+ht-degree: 2%
 
 ---
 
@@ -103,20 +103,20 @@ Un’agenzia ti ha fornito quattro file HTML con la progettazione per le e-mail:
 
 2. Crea un percorso denominato `Luma - Summer collection announcement` sulla base delle seguenti linee guida:
 
-   1. Invia *Luma - Annuncio della nuova collezione stagionale* invia un&#39;e-mail a *Clienti attivi* segmento, che rappresenta il 10% del pubblico come gruppo di controllo
-      * Titolo del messaggio `Luma New Seasonal Collection Announcement`.
-      * Linea oggetto `(recipient's first name), the new Luma collection is here!`.
+   1. Invia *Luma - Annuncio della nuova collezione estiva* invia un&#39;e-mail a *Clienti attivi* segmento, che rappresenta il 10% del pubblico come gruppo di controllo
+      * Titolo del messaggio `Luma - Summer Collection Announcement`.
+      * Linea oggetto `(recipient's first name), the new Luma summer collection is here!`.
       * Utilizza il file HTML fornito *StagionaleCollectionEmail.html* per il corpo dell’e-mail.
    2. Attendi due giorni e invia un messaggio e-mail di follow-up con contenuto più mirato:
-      * I clienti maschi devono ricevere **E-mail sulla collezione Luma Men’s Collection**
+      * I clienti maschi devono ricevere **Collezione Luma Men** e-mail.
          * Titolo del messaggio: `Luma Men's Collection`
          * Oggetto: `(recipient's first name), explore Men's New athletic gear!`
          * Corpo e-mail: *MensCollectionEmail.html* per il corpo dell’e-mail.
-      * Le donne devono ricevere **E-mail raccolta donne Luma**
+      * Le donne devono ricevere **Collezione Luma femminile** e-mail.
          * Titolo del messaggio: `Luma Women's Collection`
          * Oggetto: `(recipient's first name), explore Luma's Women Collection!`
          * Corpo e-mail: *WomensCollectionEmail.html*
-      * Gli altri clienti devono ricevere **Luma - 20% di sconto sull’e-mail di raccolta**
+      * Gli altri clienti devono ricevere **Luma - 20% di sconto sulla raccolta** e-mail.
          * Titolo del messaggio: `Luma - 20 % off Collection`
          * Oggetto: `(recipient's first name), enjoy 20% off sales!`
          * Corpo e-mail: *20OffCollectionEmail.html*
@@ -128,36 +128,48 @@ Un’agenzia ti ha fornito quattro file HTML con la progettazione per le e-mail:
 
 #### Anteprima delle e-mail
 
-**Messaggio e-mail n. 1 - Nuovo annuncio della raccolta stagionale**
+**Messaggio e-mail n. 1 - Luma - Annuncio della raccolta estiva**
 
-Visualizza l’anteprima del messaggio e-mail utilizzando lo spazio dei nomi Identity: *E-mail* e il valore Identity: *Jenna_Palmer9530@emailsim.io*
+Visualizza l’anteprima del messaggio e-mail:
 
-* L’oggetto dovrebbe riportare: Jenna, la nuova collezione Luma è qui!
+1. Aggiungi un profilo di test: Louise Petti:
+   1. Spazio dei nomi identità: *ID CRM Luma*
+   2. Valore identità: *d1f132f9f9502bba047a6ec86c4b61f9*
+
+Risultato:
+* L’oggetto dovrebbe riportare: Louise, la nuova collezione Luma è qui!
 * Il corpo dell’e-mail deve corrispondere a quello visualizzato nell’anteprima: [Nuovo annuncio della collezione stagionale](/help/challenges/assets/email-assets/SeasonalCollectionEmail.html)
 
 
 **Messaggio e-mail #2 - Collezione Luma Men**
 
-Invia una prova a te stesso
+Invia una prova a te stesso:
 
-* Inserisci il tuo indirizzo e-mail
-* Seleziona il profilo di test: Chris_Scott1244@emailsim.io
+1. Aggiungi un profilo di test: Stanleigh Stooke:
+   1. Spazio dei nomi identità: *ID CRM Luma*
+   2. Valore identità: `4f34057d9d9e792c28ba18ecae378e98`
+1. Seleziona il profilo di test: Stanleigh Stooke
+2. Invia una prova a te stesso
 
-Dovresti ricevere un&#39;e-mail. L&#39;oggetto dovrebbe essere letto &quot;Chris, esplorare il nuovo equipaggiamento atletico maschile!&quot; e il corpo dell’e-mail deve corrispondere a quello visualizzato nell’anteprima: [Collezione Luma Men](/help/challenges/assets/email-assets/MensCollectionEmail.html)
+Risultato:\
+Dovresti ricevere un&#39;e-mail. L&#39;oggetto dovrebbe recitare &quot;Stanleigh, esplorare Uomo nuovo abbigliamento atletico!&quot; e il corpo dell’e-mail deve corrispondere a quello visualizzato nell’anteprima: [Collezione Luma Men](/help/challenges/assets/email-assets/MensCollectionEmail.html)
+
+>[!NOTE]
+>Può richiedere un paio di minuti per ricevere la prova.
 
 **Messaggio e-mail #3 - Collezione Luma Women**
 
-Visualizza l’anteprima del messaggio e-mail utilizzando lo spazio dei nomi Identity: *E-mail* e il valore Identity: *Jenna_Palmer9530@emailsim.io*
+Visualizza in anteprima l’e-mail con il profilo di test &quot;Louise Petti&quot;.
 
-* L’oggetto dovrebbe riportare: *Jenna, esplora la Luma&#39;s Women Collection!*
+* L’oggetto dovrebbe riportare: *Louise, esplora la Luma&#39;s Women Collection!*
 * Il corpo dell’e-mail deve corrispondere a quello visualizzato nell’anteprima: [Collezione Luma femminile](/help/challenges/assets/email-assets/WomensCollectionEmail.html)
 
 
 **Messaggio e-mail n. 4 - Luma 20 % di sconto sulla raccolta**
 
-Visualizza l’anteprima del messaggio e-mail utilizzando lo spazio dei nomi Identity: *E-mail* e il valore Identity: *Benny_Steer4909@emailsim.io*
+Visualizza in anteprima l’e-mail con il profilo di test &quot;Louise Petti&quot;.
 
-* L’oggetto dovrebbe riportare: *Benny, godere di uno sconto del 20% sulle vendite!*
+* L’oggetto dovrebbe riportare: *Louise, goditi il 20% di sconto!*
 * Il corpo dell’e-mail deve corrispondere a quello visualizzato nell’anteprima: [Luma 20 % di sconto sulla raccolta](/help/challenges/assets/email-assets/20OOffCollectionEmail.html)
 
 **Non dimenticarti di pubblicare le tue e-mail!**
@@ -168,16 +180,16 @@ Visualizza l’anteprima del messaggio e-mail utilizzando lo spazio dei nomi Ide
 >
 >Prima di impostare il percorso in modalità di test:
 >
->1. Assicurati che lo spazio dei nomi dell’attività Leggi segmento sia impostato su E-mail
+>1. Assicurati che lo spazio dei nomi dell’attività Leggi segmento sia impostato su **ID CRM Luma(lumaCrmId)**
 >1. Per ogni e-mail, sovrascrivi i parametri E-mail predefiniti per le e-mail in modo che vengano inviati al tuo indirizzo e-mail:
->1. Mostrare i valori nascosti facendo clic sul simbolo dell&#39;occhio.
->1. Nei parametri E-mail, fai clic sul simbolo T (abilita sostituzione parametro)
+   >    * Mostrare i valori nascosti facendo clic sul simbolo dell&#39;occhio.
+   >    * Nei parametri E-mail, fai clic sul simbolo T (abilita sostituzione parametro)
 
-   >
-   >      ![Ignorare i parametri e-mail](/help/challenges/assets/c3-override-email-paramters.jpg)
-> 
->1. Fare clic nel campo Indirizzo
->1. Nella schermata successiva aggiungi il tuo indirizzo e-mail tra parentesi: *yourname@yourdomain* nell’editor espressioni e fai clic su ok.
+      >
+      >      ![Ignorare i parametri e-mail](/help/challenges/assets/c3-override-email-paramters.jpg)
+   > 
+   >    * Fare clic nel campo Indirizzo
+   >    * Nella schermata successiva aggiungi il tuo indirizzo e-mail tra parentesi: `"yourname@yourdomain"` nell’editor espressioni e fai clic su ok.
 
 >
 
@@ -189,9 +201,9 @@ Verifica il percorso e fai inviare le e-mail al tuo account:
 3. Tempo di attesa: Impostare il timer su 120 secondi (digitarlo nel campo).
 4. Entrata del profilo del trigger
 5. Puoi testare ogni ramo utilizzando uno dei seguenti indirizzi e-mail come identificatori di profilo:
-   * Femmina: Jenna Palmer: Jenna_Palmer9530@emailsim.io
-   * Maschio: Chris Scott: Chris_Scott1244@emailsim.io
-   * Genere non specificato: Benny Steer: Benny_Steer4909@emailsim.io
+   * Femmina: Louise Petti, Valore identità: *d1f132f9f9502bba047a6ec86c4b61f9*
+   * Maschio: Stooke Stanleigh, valore Identity: `4f34057d9d9e792c28ba18ecae378e98`
+   * Genere non specificato: Leora Dietsche, a8f14eab3b483c2b96171b575ecd90b1
 
 6. Una volta attivata l’entrata del profilo, dovresti ricevere la prima e-mail, l’intestazione deve essere personalizzata in base al profilo scelto.
 7. Il percorso dovrebbe continuare nel rispettivo ramo e dovresti ricevere la relativa e-mail (per esempio, se scegli Jenna, dovresti ricevere l’e-mail &quot;Luma Women’s Collection&quot;).
