@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 121faea2357883ad9672aee2eba1b7ab8278e5c2
+source-git-commit: 8e79a4e474e3b6fc7692578fb2d5920e0772d9b0
 workflow-type: tm+mt
-source-wordcount: '1161'
+source-wordcount: '1149'
 ht-degree: 2%
 
 ---
@@ -172,7 +172,6 @@ Visualizza in anteprima l’e-mail con il profilo di test &quot;Louise Petti&quo
 * L’oggetto dovrebbe riportare: *Louise, goditi il 20% di sconto!*
 * Il corpo dell’e-mail deve corrispondere a quello visualizzato nell’anteprima: [Luma 20 % di sconto sulla raccolta](/help/challenges/assets/email-assets/20OOffCollectionEmail.html)
 
-**Non dimenticarti di pubblicare le tue e-mail!**
 
 #### Test del percorso
 
@@ -200,10 +199,10 @@ Verifica il percorso e fai inviare le e-mail al tuo account:
 2. Seleziona un singolo profilo alla volta
 3. Tempo di attesa: Impostare il timer su 120 secondi (digitarlo nel campo).
 4. Entrata del profilo del trigger
-5. Puoi testare ogni ramo utilizzando uno dei seguenti indirizzi e-mail come identificatori di profilo:
-   * Femmina: Louise Petti, Valore identità: *d1f132f9f9502bba047a6ec86c4b61f9*
+5. È possibile eseguire il test di ogni ramo utilizzando una delle seguenti opzioni *ID CRM Luma* come identificatori di profilo:
+   * Femmina: Leora Dietsche, valore identità:`a8f14eab3b483c2b96171b575ecd90b1`
    * Maschio: Stooke Stanleigh, valore Identity: `4f34057d9d9e792c28ba18ecae378e98`
-   * Genere non specificato: Leora Dietsche, a8f14eab3b483c2b96171b575ecd90b1
+   * Genere non specificato: Louise Petti, Valore identità: `d1f132f9f9502bba047a6ec86c4b61f9&#39;
 
 6. Una volta attivata l’entrata del profilo, dovresti ricevere la prima e-mail, l’intestazione deve essere personalizzata in base al profilo scelto.
 7. Il percorso dovrebbe continuare nel rispettivo ramo e dovresti ricevere la relativa e-mail (per esempio, se scegli Jenna, dovresti ricevere l’e-mail &quot;Luma Women’s Collection&quot;).
@@ -216,9 +215,9 @@ Dovresti ricevere le seguenti e-mail:
 
 * Luma - Annuncio della nuova collezione stagionale
 * A seconda del profilo di test utilizzato, dovresti ricevere una delle seguenti e-mail:
-   * Jenna: Collezione Luma femminile
-   * Chris: Collezione Luma Men
-   * Benny: Luma - 20% di sconto sulla raccolta
+   * Leora: Collezione Luma femminile
+   * Stanleigh: Collezione Luma Men
+   * Louise: Luma - 20% di sconto sulla raccolta
 * Se non hai aperto la seconda e-mail: Luma - 20% Off Collection
 
 >[!TAB Controlla il tuo lavoro]
