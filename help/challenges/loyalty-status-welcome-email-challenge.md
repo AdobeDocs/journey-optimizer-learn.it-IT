@@ -7,7 +7,7 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 7ef41f1ddd9369d45b60e1e257121ef4daabbc0e
+source-git-commit: 27139d8f3b7fc5d6bb2a862789116f5e1f911766
 workflow-type: tm+mt
 source-wordcount: '445'
 ht-degree: 4%
@@ -57,7 +57,7 @@ Test del percorso:
 1. Assicurati che il [!UICONTROL Attività Leggi segmento] ha [!UICONTROL namespace] impostato su **[!DNL Luma CRM id(lumaCrmId)]**
 2. Ignora impostazioni predefinite [!UICONTROL parametri e-mail] e impostalo sul tuo indirizzo e-mail
 
-+++ Fai clic qui per ulteriori informazioni su come ignorare il [!Parametri e-mail UICONTROL].
++++Fai clic qui per ulteriori informazioni su come ignorare il [!Parametri e-mail UICONTROL].
 
 * Mostrare i valori nascosti facendo clic sul simbolo dell&#39;occhio.
 * In [!UICONTROL Parametri e-mail], fai clic sul simbolo T (abilita sostituzione parametro)
