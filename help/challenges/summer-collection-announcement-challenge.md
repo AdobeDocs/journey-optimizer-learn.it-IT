@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 8e79a4e474e3b6fc7692578fb2d5920e0772d9b0
+source-git-commit: fa78749a6b768bd637ef5b5a7cda907a7b2030f4
 workflow-type: tm+mt
-source-wordcount: '1149'
+source-wordcount: '1138'
 ht-degree: 2%
 
 ---
@@ -50,7 +50,7 @@ Il team di marketing Luma ti chiede di implementare una campagna di marketing di
 
 >[!TAB Criteri di successo]
 
-Nel generatore di segmenti puoi visualizzare il numero stimato di profili qualificati. Se lavori con i dati della sandbox di formazione, avrai a disposizione circa 753 profili qualificati su 1,29 K.
+Nel generatore di segmenti puoi visualizzare il numero stimato di profili qualificati. Se lavori con i dati della sandbox di formazione, hai circa 753 profili qualificati su 1,29 K.
 
 >[!NOTE]
 >Possono essere necessarie fino a 24 ore per la visualizzazione dell’appartenenza al segmento per i profili esistenti, in quanto i profili esistenti devono essere riempiti in background.
@@ -202,7 +202,7 @@ Verifica il percorso e fai inviare le e-mail al tuo account:
 5. È possibile eseguire il test di ogni ramo utilizzando una delle seguenti opzioni *ID CRM Luma* come identificatori di profilo:
    * Femmina: Leora Dietsche, valore identità:`a8f14eab3b483c2b96171b575ecd90b1`
    * Maschio: Stooke Stanleigh, valore Identity: `4f34057d9d9e792c28ba18ecae378e98`
-   * Genere non specificato: Louise Petti, Valore identità: `d1f132f9f9502bba047a6ec86c4b61f9&#39;
+   * Genere non specificato: Louise Petti, Valore identità: `d1f132f9f9502bba047a6ec86c4b61f9`
 
 6. Una volta attivata l’entrata del profilo, dovresti ricevere la prima e-mail, l’intestazione deve essere personalizzata in base al profilo scelto.
 7. Il percorso dovrebbe continuare nel rispettivo ramo e dovresti ricevere la relativa e-mail (per esempio, se scegli Jenna, dovresti ricevere l’e-mail &quot;Luma Women’s Collection&quot;).
