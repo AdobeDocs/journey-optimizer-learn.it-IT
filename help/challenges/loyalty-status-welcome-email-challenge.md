@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 758d0af0a93f110fd1692d8b0c364a3bbdac7494
+source-git-commit: 71f2711dbc80cc59973d615429e9f8dac8f3719f
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '451'
 ht-degree: 4%
 
 ---
@@ -58,15 +58,15 @@ Test del percorso:
 2. Ignora impostazioni predefinite [!UICONTROL parametri e-mail] e impostalo sul tuo indirizzo e-mail
 
 +++ Fai clic qui per ulteriori informazioni su come ignorare il [!Parametri e-mail UICONTROL].
-   * Mostrare i valori nascosti facendo clic sul simbolo dell&#39;occhio.
-   * In [!UICONTROL Parametri e-mail], fai clic sul simbolo T (abilita sostituzione parametro)
 
-   ![Ignorare i parametri e-mail](/help/challenges/assets/c3-override-email-paramters.jpg)
-
-   * Fai clic su [!UICONTROL Campo indirizzo]
-   * Nella schermata successiva aggiungi il tuo indirizzo e-mail tra parentesi: `"yourname@yourdomain"` nell’editor espressioni e fai clic su ok.
+    * Mostrare i valori nascosti facendo clic sul simbolo dell&#39;occhio.
+    * [!UICONTROL Parametri e-mail], fai clic sul simbolo T (abilita sostituzione parametro)
+    
+    ![Ignora parametri e-mail](/help/challenges/assets/c3-override-email-paramters.jpg)
+    
+    * Fai clic su [!UICONTROL Campo indirizzo]
+    * Nella schermata successiva aggiungi il tuo indirizzo e-mail tra parentesi: `&quot;yourname@yourdomain&quot;` nell&#39;editor di espressioni e fare clic su ok.
 +++
-
 
 3. Impostare il percorso sulla modalità di prova
 4. Attiva un evento
