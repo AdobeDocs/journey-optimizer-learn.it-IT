@@ -7,16 +7,16 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: e148101f8404c8e2019ee17823bcf1d7a9668bc5
+source-git-commit: 758d0af0a93f110fd1692d8b0c364a3bbdac7494
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '445'
 ht-degree: 4%
 
 ---
 
 # Creare un messaggio e-mail di benvenuto per lo stato di fedeltà - Sfida
 
-![Messaggio e-mail di benvenuto per lo stato di fedeltà AJO - Banner della sfida](/help/challenges/assets/email-assets/luma-transactional-onboarding-1.png)
+![E-mail di benvenuto sullo stato della fedeltà - Banner della sfida](/help/challenges/assets/email-assets/luma-transactional-onboarding-1.png)
 
 | Sfida | Creare un messaggio e-mail di benvenuto per lo stato di fedeltà |
 |---|---|
@@ -40,37 +40,37 @@ Ti è stato chiesto di configurare un percorso che invia automaticamente un’e-
 
 Quando un cliente fidelizzato si qualifica per il livello platino, dovrebbe ricevere e-mail per congratularsi e informarli dei suoi nuovi vantaggi. Il team creativo ha fornito un file HTML **[Luma - aggiornamento dello stato - benvenuto eMail](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip)** con il corpo dell’e-mail.
 
-1. Crea un segmento in Journey Optimizer denominato `Luma – status upgrade`.
-2. Crea un percorso chiamato &quot;Luma - Nuovo stato - platino&quot;.
+1. Crea un [!UICONTROL segmento] in Journey Optimizer denominato `Luma – status upgrade`.
+2. Crea un percorso denominato `Luma – New Status – platinum`.
    1. Un cliente entra nel percorso quando si qualifica per il livello di fedeltà platino.
-   2. Il cliente deve ricevere un messaggio e-mail contrassegnato `Luma – Platinum Status - Welcome`, con l&#39;oggetto `Welcome to Platinum Status, (recipient's first name)!` con il corpo fornito dal team creativo.
-   3. Quando carichi il file HTML, noterai che l’e-mail si riferisce allo stato &quot;diamante&quot;, invece di &quot;platino&quot;. Invece di richiedere un nuovo file al team creativo, aggiorna l’e-mail nella finestra di progettazione e-mail.
+   2. Il cliente deve ricevere un messaggio e-mail contrassegnato `Luma – Platinum Status - Welcome`, con l&#39;oggetto `Welcome to Platinum Status, (recipient's first name)!` con il corpo dell’e-mail fornito dal team creativo.
+   3. Quando carichi il file HTML, noterai che l’e-mail si riferisce allo stato &quot;diamante&quot;, invece di &quot;platino&quot;. Invece di richiedere un nuovo file al team creativo, aggiorna l’e-mail in E-mail Designer.
 
 >[SUGGERISCI!]
-> Assicurati che l&#39;e-mail Luma - Platinum Status - Welcome sia transazionale.
+> Assicurati che Luma - Stato Platinum - E-mail di benvenuto sia[!UICONTROL transazionale].
 
 
 >[!TAB Criteri di successo]
 
 Test del percorso:
 
-1. Assicurati che lo spazio dei nomi dell’attività Leggi segmento sia impostato su **ID CRM Luma(lumaCrmId)**
-2. Ignora i parametri e-mail predefiniti e impostali sul tuo indirizzo e-mail
+1. Assicurati che il [!UICONTROL Attività Leggi segmento] ha [!UICONTROL namespace] impostato su **[!DNL Luma CRM id(lumaCrmId)]**
+2. Ignora impostazioni predefinite [!UICONTROL parametri e-mail] e impostalo sul tuo indirizzo e-mail
 
-+++ Fai clic qui per ulteriori informazioni su come eseguire l’override
++++ Fai clic qui per ulteriori informazioni su come ignorare il [!Parametri e-mail UICONTROL].
    * Mostrare i valori nascosti facendo clic sul simbolo dell&#39;occhio.
-   * Nei parametri E-mail, fai clic sul simbolo T (abilita sostituzione parametro)
+   * In [!UICONTROL Parametri e-mail], fai clic sul simbolo T (abilita sostituzione parametro)
 
    ![Ignorare i parametri e-mail](/help/challenges/assets/c3-override-email-paramters.jpg)
 
-   * Fare clic nel campo Indirizzo
+   * Fai clic su [!UICONTROL Campo indirizzo]
    * Nella schermata successiva aggiungi il tuo indirizzo e-mail tra parentesi: `"yourname@yourdomain"` nell’editor espressioni e fai clic su ok.
 +++
 
 
 3. Impostare il percorso sulla modalità di prova
 4. Attiva un evento
-5. Aggiungi il seguente ID CRM per Stanleigh Stooke nel campo ID profilo : `4f34057d9d9e792c28ba18ecae378e98`
+5. Aggiungi quanto segue [!DNL CRM ID] per [!DNL Stanleigh Stooke] nel [!UICONTROL Identificatore profilo] campo: `4f34057d9d9e792c28ba18ecae378e98`
 
 Dovresti ricevere il *Luma - Stato platino - Benvenuto* e-mail.
 

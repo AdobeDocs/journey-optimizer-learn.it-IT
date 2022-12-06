@@ -6,10 +6,10 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: e148101f8404c8e2019ee17823bcf1d7a9668bc5
+source-git-commit: 758d0af0a93f110fd1692d8b0c364a3bbdac7494
 workflow-type: tm+mt
-source-wordcount: '428'
-ht-degree: 13%
+source-wordcount: '447'
+ht-degree: 11%
 
 ---
 
@@ -19,13 +19,13 @@ ht-degree: 13%
 
 Le sfide forniscono uno scenario e i requisiti necessari per mettere in pratica ciò che hai imparato. Le sfide ti aiutano a valutare il tuo livello di competenza e a identificare le lacune nella conoscenza.
 
-Ogni sfida in questa sezione riguarda un caso d’uso univoco che verrà implementato. Il pubblico di destinazione (tipo) e le competenze richieste sono elencate all’inizio di ogni sfida.
+Ogni sfida in questa sezione riguarda un caso d’uso univoco implementato dall’utente. Il pubblico di destinazione (tipo) e le competenze richieste sono elencate all’inizio di ogni sfida.
 
 ## Prerequisiti
 
 ### Requisiti di sistema
 
-* Accesso a una sandbox Journey Optimizer - abbiamo consigliato di completare la sfida in una sandbox di formazione dedicata.
+* Accesso a una sandbox Journey Optimizer : abbiamo consigliato di completare la sfida in una sandbox di formazione dedicata.
 * È necessario eseguire il provisioning di AEM Assets Essentials per la tua istanza
 * Il canale e-mail deve essere configurato per i messaggi transazionali e di marketing
 
@@ -68,8 +68,8 @@ Luma sta cercando di promuovere la sua ultima collezione di abbigliamento e ingr
       <p>
       <b>Competenze richieste:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html"> Creare segmenti</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html">Importare e creare contenuti e-mail HTML</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html">Caso d’uso: attività “Leggi segmento”</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html">Leggi segmento</li>
+       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html">Importare contenuto e-mail di HTML</li>
   </td>
   </tr>
    <tr>
@@ -82,12 +82,16 @@ Luma sta cercando di promuovere la sua ultima collezione di abbigliamento e ingr
     <td>
     <div >
       <a>
-    <strong>Crea un messaggio e-mail di benvenuto per lo stato di fedeltà (disponibile a breve) </strong>
+    <strong><a href="loyalty-status-welcome-email-challenge.md">Creare un messaggio e-mail di benvenuto per lo stato di fedeltà </strong>
     </a>
     </div>
     <p>
-    <em>Invia un'e-mail quando un cliente fidelizzato si sposta su un nuovo livello per congratularsi e informarlo dei suoi nuovi vantaggi</em>
+    <em>Invia un'e-mail quando un cliente fidelizzato si sposta su un nuovo livello per congratularsi e informarlo dei suoi nuovi vantaggi.</em>
     <p>
+    <b>Competenze richieste:</b>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html"> Creare segmenti</li>
+      <li><a [href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html">Qualificazione del segmento</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html">Importare e creare contenuti e-mail HTML</li>
   </td>
   </tr>
   <tr>
@@ -107,7 +111,7 @@ Luma sta cercando di promuovere la sua ultima collezione di abbigliamento e ingr
     </em>
     <p>
     <b>Competenze richieste:</b>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-email-content-with-the-message-editor.html"> Creare contenuti e-mail con l’editor messaggi</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-content-with-the-email-designer.html"> Creare contenuti e-mail con l’editor messaggi</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html">Utilizzare informazioni contestuali sugli eventi per la personalizzazione</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=en">Utilizzare funzioni di assistenza per la personalizzazione</li>
   </td>
