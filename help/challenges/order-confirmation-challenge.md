@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 0e83d8fbad6bd87ed25980251970898cb5b94bc0
+source-git-commit: eb31a78738ec32e4f468f620a96525714997ad04
 workflow-type: tm+mt
-source-wordcount: '683'
+source-wordcount: '682'
 ht-degree: 4%
 
 ---
@@ -40,7 +40,7 @@ Crea un percorso che invia un’e-mail di conferma dell’ordine quando un clien
 >[!TAB Attività]
 
 1. Crea un percorso chiamato &quot;il tuo nome _Conferma ordine&quot;
-2. Utilizza l’evento : LumaOnlinePurchase come trigger
+2. Utilizza l’evento : [!DNL LumaOnlinePurchase] come attivatore
 
 3. Crea l’e-mail di conferma dell’ordine:
 
