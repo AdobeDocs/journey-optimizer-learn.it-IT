@@ -6,10 +6,10 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: 0e83d8fbad6bd87ed25980251970898cb5b94bc0
+source-git-commit: e148101f8404c8e2019ee17823bcf1d7a9668bc5
 workflow-type: tm+mt
-source-wordcount: '449'
-ht-degree: 12%
+source-wordcount: '428'
+ht-degree: 13%
 
 ---
 
@@ -72,6 +72,24 @@ Luma sta cercando di promuovere la sua ultima collezione di abbigliamento e ingr
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html">Caso d’uso: attività “Leggi segmento”</li>
   </td>
   </tr>
+   <tr>
+    <td>
+    <div>
+    <a>
+      <img alt="Ti diamo il benvenuto" src="./assets/email-assets/luma-transactional-onboarding-1.png"/>
+    </a>
+    </div>
+    <td>
+    <div >
+      <a>
+    <strong>Crea un messaggio e-mail di benvenuto per lo stato di fedeltà (disponibile a breve) </strong>
+    </a>
+    </div>
+    <p>
+    <em>Invia un'e-mail quando un cliente fidelizzato si sposta su un nuovo livello per congratularsi e informarlo dei suoi nuovi vantaggi</em>
+    <p>
+  </td>
+  </tr>
   <tr>
   <td>
   <div>
@@ -93,40 +111,4 @@ Luma sta cercando di promuovere la sua ultima collezione di abbigliamento e ingr
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html">Utilizzare informazioni contestuali sugli eventi per la personalizzazione</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=en">Utilizzare funzioni di assistenza per la personalizzazione</li>
   </td>
-  </tr>
-  <tr>
-    <td>
-    <div>
-    <a>
-      <img alt="Rifornimento del prodotto Luma" src="./assets/email-assets/luma-ProductReplenishment.png"/>
-    </a>
-    </div>
-    <td>
-    <div >
-      <strong>Crea una notifica di rifornimento del prodotto (disponibile a breve)</strong>
-    </a>
-    </div>
-    <p>
-    <em>Informare i clienti quando un precedente articolo non disponibile è di nuovo disponibile</em>
-    <p>
-  </td>
-  </tr>
-  <tr>
-    <td>
-    <div>
-    <a>
-      <img alt="Ti diamo il benvenuto" src="./assets/email-assets/luma-transactional-onboarding-1.png"/>
-    </a>
-    </div>
-    <td>
-    <div >
-      <a>
-    <strong>Crea un messaggio e-mail di benvenuto per lo stato di fedeltà (disponibile a breve) </strong>
-    </a>
-    </div>
-    <p>
-    <em>Invia un'e-mail quando un cliente fidelizzato si sposta su un nuovo livello per congratularsi e informarlo dei suoi nuovi vantaggi</em>
-    <p>
-  </td>
-  </tr>
 </table>

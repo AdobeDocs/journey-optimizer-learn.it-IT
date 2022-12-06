@@ -7,10 +7,10 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 0e83d8fbad6bd87ed25980251970898cb5b94bc0
+source-git-commit: e148101f8404c8e2019ee17823bcf1d7a9668bc5
 workflow-type: tm+mt
-source-wordcount: '457'
-ht-degree: 7%
+source-wordcount: '454'
+ht-degree: 4%
 
 ---
 
@@ -21,65 +21,68 @@ ht-degree: 7%
 | Sfida | Creare un messaggio e-mail di benvenuto per lo stato di fedeltà |
 |---|---|
 | Persona | Percorsi Manager |
-| Competenze richieste | <ul><li>[Creare contenuti e-mail con l’editor messaggi](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-email-content-with-the-message-editor.html?lang=en)</li> <li>[Utilizzare informazioni contestuali sugli eventi per la personalizzazione](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=en)</li><li>[Utilizzare funzioni di assistenza per la personalizzazione](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=en)</li></ul> |
-| Risorse da scaricare | [Risorse di conferma dell’ordine](/help/challenges/assets/email-assets/order-confirmation-assets.zip) |
+| Competenze richieste | <ul><li>[Creare segmenti](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html)</li> <li>[Qualificazione del segmento](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html)</li><li>[Importare contenuto HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html)</li></ul> |
+| Risorse da scaricare | [platinumStatusEmail.zip](/help/challenges/assets/email-assets/platinumStatusEmail.zip) |
 
 ## La storia
 
-Luma offre un programma fedeltà come modo per attrarre e trattenere i propri clienti. Il programma offre quattro livelli diversi: Argento, oro, platino e diamante.
+Luma offre un programma fedeltà come modo per attrarre e trattenere i propri clienti. Il programma offre quattro livelli diversi: Bronzo, argento, oro e platino. Ogni livello di fedeltà riceve diversi livelli o premi, sconti e altri incentivi speciali come ricompensa per la loro attività ripetuta.
 
-Ogni livello di fedeltà riceve diversi livelli o premi, sconti e altri incentivi speciali come ricompensa per la loro attività ripetuta.
-
-Sottolineare lo stato speciale del diamante. Luma vuole inviare un’e-mail di benvenuto ai clienti, quando raggiungono il livello diamante.
+Sottolineare lo stato speciale del platino. Luma vuole inviare un’e-mail di benvenuto ai clienti, quando raggiungono il livello di platino.
 
 ## La tua sfida
 
-Ti è stato chiesto di configurare un percorso che invia automaticamente un’e-mail di benvenuto ai clienti quando raggiungono il livello di fedeltà diamante.
-
->[!NOTE]
-> Se lavori in una sandbox di formazione condivisa, è consigliabile aggiungere il nome o le iniziali come prefisso al nome di qualsiasi elemento creato.
+Ti è stato chiesto di configurare un percorso che invia automaticamente un’e-mail di benvenuto ai clienti quando raggiungono il livello di fedeltà platinum.
 
 >[!BEGINTABS]
 
 >[!TAB Attività]
 
-Invia un&#39;e-mail quando un cliente fidelizzato si sposta su un livello Diamond per congratularsi e informarlo dei suoi nuovi vantaggi. Le selezioni del menu 
+Quando un cliente fidelizzato si qualifica per il livello platino, dovrebbe ricevere e-mail per congratularsi e informarli dei suoi nuovi vantaggi. Il team creativo ha fornito un file HTML **[Luma - aggiornamento dello stato - benvenuto eMail](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip)** con il corpo dell’e-mail.
 
-1. Crea un segmento in Journey Optimizer denominato **Luma - Stato rombo**
-2. Crea un percorso attivato quando un cliente si sposta nel nuovo livello di fedeltà Diamond (in particolare quando il cliente entra nel segmento definito per un nuovo membro a livello di rombo) per inviare l’e-mail &quot;Luma - Nuovo stato - Diamond - Transazionale&quot;
-   1. Creare un messaggio e-mail transazionale denominato `(your name)_Luma – New Status – Diamond – Transactional email message`.
-   2. Assegna all’e-mail un oggetto `Welcome to Diamond Status, (recipient's first name)!`.
-   3. Utilizza il file HTML fornito **[DiamondStatusEmail.html](/help/challenges/assets/email-assets/DiamondStatusEmail.html)** per il corpo dell’e-mail.
-3. Una volta completato, mettere il percorso in modalità di test e attivare il percorso da inviare a se stessi  
+1. Crea un segmento in Journey Optimizer denominato `Luma – status upgrade`.
+2. Crea un percorso chiamato &quot;Luma - Nuovo stato - platino&quot;.
+   1. Un cliente entra nel percorso quando si qualifica per il livello di fedeltà platino.
+   2. Il cliente deve ricevere un messaggio e-mail contrassegnato `Luma – Platinum Status - Welcome`, con l&#39;oggetto `Welcome to Platinum Status, (recipient's first name)!` con il corpo fornito dal team creativo.
+   3. Quando carichi il file HTML, noterai che l’e-mail si riferisce allo stato &quot;diamante&quot;, invece di &quot;platino&quot;. Invece di richiedere un nuovo file al team creativo, aggiorna l’e-mail nella finestra di progettazione e-mail.
 
-   1. Creare un messaggio e-mail transazionale denominato `(your name)_Luma – New Status – Diamond – Transactional email message`.
-   1. Assegna all’e-mail un oggetto `Welcome to Diamond Status, (recipient's first name)!`.
-   1. Utilizza il file HTML fornito **[DiamondStatusEmail.html](/help/challenges/assets/email-assets/DiamondStatusEmail.html)** per il corpo dell’e-mail.
-4. Una volta completato, mettere il percorso in modalità di test e attivare il percorso da inviare a se stessi  
-
-### Crea Luma - Nuovo stato - Diamante - Messaggio e-mail transazionale
-
-Creare un messaggio e-mail di benvenuto
-
-### **Percorso #3 - Diamond status upgrade email di benvenuto**
+>[SUGGERISCI!]
+> Assicurati che l&#39;e-mail Luma - Platinum Status - Welcome sia transazionale.
 
 
 >[!TAB Criteri di successo]
 
 Test del percorso:
 
-1. Assicurati che l&#39;evento di qualificazione del segmento abbia Namespace = Email
-1. Ignora i parametri e-mail predefiniti e impostali sul tuo indirizzo e-mail
-1. Impostare il percorso sulla modalità di prova
-1. Attiva un evento
-1. Aggiungi il seguente indirizzo e-mail nel campo ID profilo : Jenna_Palmer9530@emailsim.io
+1. Assicurati che lo spazio dei nomi dell’attività Leggi segmento sia impostato su **ID CRM Luma(lumaCrmId)**
+2. Ignora i parametri e-mail predefiniti e impostali sul tuo indirizzo e-mail
 
-Dovresti ricevere l’e-mail personalizzata &quot;Luma - New Status- Diamond-Transacional&quot;.
++++ Fai clic qui per ulteriori informazioni su come eseguire l’override
+   * Mostrare i valori nascosti facendo clic sul simbolo dell&#39;occhio.
+   * Nei parametri E-mail, fai clic sul simbolo T (abilita sostituzione parametro)
+
+   ![Ignorare i parametri e-mail](/help/challenges/assets/c3-override-email-paramters.jpg)
+
+   * Fare clic nel campo Indirizzo
+   * Nella schermata successiva aggiungi il tuo indirizzo e-mail tra parentesi: `"yourname@yourdomain"` nell’editor espressioni e fai clic su ok.
++++
+
+
+3. Impostare il percorso sulla modalità di prova
+4. Attiva un evento
+5. Aggiungi il seguente ID CRM per Stanleigh Stooke nel campo ID profilo : `4f34057d9d9e792c28ba18ecae378e98`
+
+Dovresti ricevere il *Luma - Stato platino - Benvenuto* e-mail.
 
 >[!TAB Controlla il tuo lavoro]
 
 Ecco come dovrebbe essere il tuo percorso:
 
-![Percorso Diamond-status-upgrade](/help/challenges/assets/journey-luma-diamond-status-upgrade.png)
+![platinum-status-upgrade-percorso](/help/challenges/assets/journey-luma-status-upgrade.png)
+
+
+Questo è l’aspetto dell’e-mail:
+
+![Luma - aggiornamento dello stato - benvenuto eMail](/help/challenges/assets/status-upgrade-welcome-email.png)
 
 >[!ENDTABS]
