@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 71f2711dbc80cc59973d615429e9f8dac8f3719f
+source-git-commit: 7ef41f1ddd9369d45b60e1e257121ef4daabbc0e
 workflow-type: tm+mt
-source-wordcount: '451'
+source-wordcount: '445'
 ht-degree: 4%
 
 ---
@@ -59,18 +59,18 @@ Test del percorso:
 
 +++ Fai clic qui per ulteriori informazioni su come ignorare il [!Parametri e-mail UICONTROL].
 
-    * Mostrare i valori nascosti facendo clic sul simbolo dell&#39;occhio.
-    * [!UICONTROL Parametri e-mail], fai clic sul simbolo T (abilita sostituzione parametro)
-    
-    ![Ignora parametri e-mail](/help/challenges/assets/c3-override-email-paramters.jpg)
-    
-    * Fai clic su [!UICONTROL Campo indirizzo]
-    * Nella schermata successiva aggiungi il tuo indirizzo e-mail tra parentesi: `&quot;yourname@yourdomain&quot;` nell&#39;editor di espressioni e fare clic su ok.
+* Mostrare i valori nascosti facendo clic sul simbolo dell&#39;occhio.
+* In [!UICONTROL Parametri e-mail], fai clic sul simbolo T (abilita sostituzione parametro)
+
+![Ignorare i parametri e-mail](/help/challenges/assets/c3-override-email-paramters.jpg)
+
+* Fai clic su [!UICONTROL Campo indirizzo]
+* Nella schermata successiva aggiungi il tuo indirizzo e-mail tra parentesi: `"yourname@yourdomain"` nell’editor espressioni e fai clic su ok.
 +++
 
-3. Impostare il percorso sulla modalità di prova
-4. Attiva un evento
-5. Aggiungi quanto segue [!DNL CRM ID] per [!DNL Stanleigh Stooke] nel [!UICONTROL Identificatore profilo] campo: `4f34057d9d9e792c28ba18ecae378e98`
+1. Impostare il percorso sulla modalità di prova
+2. Attiva un evento
+3. Aggiungi quanto segue [!DNL CRM ID] per [!DNL Stanleigh Stooke] nel [!UICONTROL Identificatore profilo] campo: `4f34057d9d9e792c28ba18ecae378e98`
 
 Dovresti ricevere il *Luma - Stato platino - Benvenuto* e-mail.
 
