@@ -7,10 +7,11 @@ kt: 9382
 role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
+hide: true
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: 8a2062f0719e799dd2d039488e6bba943fb458c4
+source-git-commit: b358ede4a9855b290ce4efa8611173f44e689b61
 workflow-type: tm+mt
-source-wordcount: '1076'
+source-wordcount: '1063'
 ht-degree: 7%
 
 ---
@@ -24,11 +25,11 @@ In questa sezione vengono creati i namespace di identità richiesti e vengono de
 
 ## Passaggio 1: Creare spazi dei nomi delle identità
 
-In questo passaggio puoi creare spazi dei nomi delle identità per [!DNL Luma] campi di identità personalizzati denominati `loyaltyId`, `crmId`e `lumaProduct`. Gli spazi dei nomi di identità svolgono un ruolo fondamentale nella creazione di profili cliente in tempo reale, in quanto due valori corrispondenti nello stesso spazio dei nomi consentono a due origini dati di formare un grafico di identità.
+In questo passaggio puoi creare spazi dei nomi delle identità per [!DNL Luma] campi di identità personalizzati denominati `lumaLoyaltyId`, `lumaCrmId`e `lumaProductSKU`. Gli spazi dei nomi di identità svolgono un ruolo fondamentale nella creazione di profili cliente in tempo reale, in quanto due valori corrispondenti nello stesso spazio dei nomi consentono a due origini dati di formare un grafico di identità.
 
-Per iniziare, crea uno spazio dei nomi per [!DNL Luma] schema fedeltà:
+Inizia creando un [!UICONTROL namespace] per [!DNL Luma Loyalty ID] schema:
 
-1. Nell’interfaccia utente di Platform, passa a **[!UICONTROL Identità]** nella navigazione a sinistra.
+1. Nell’interfaccia utente di Journey Optimizer, vai a ***[!UICONTROL Cliente]** > **[!UICONTROL Identità]** nella navigazione a sinistra.
 
 1. Seleziona **[!UICONTROL Creare uno spazio dei nomi di identità]**.
 
@@ -36,7 +37,7 @@ Per iniziare, crea uno spazio dei nomi per [!DNL Luma] schema fedeltà:
 
    | Nome visualizzato | Simbolo di identità | Tipo |
    |---|---|---|
-   | `Luma Loyalty ID` | `lumaLoyalty` | [!UICONTROL ID multi-dispositivo] |
+   | `Luma Loyalty ID` | `lumaLoyaltyId` | [!UICONTROL ID multi-dispositivo] |
 
 1. Seleziona **[!UICONTROL Crea]**.
 
@@ -46,16 +47,16 @@ Per iniziare, crea uno spazio dei nomi per [!DNL Luma] schema fedeltà:
 
    | Nome visualizzato | Simbolo di identità | Tipo |
    |---|---|---|
-   | `Luma CRM ID` | `lumaCRM` | [!UICONTROL ID multi-dispositivo] |
-   | `Luma Product` | `lumaProduct` | [!UICONTROL Identificatore non personale] |
+   | `Luma CRM ID` | `lumaCrmId` | [!UICONTROL ID multi-dispositivo] |
+   | `Luma Product SKU` | `lumaProductSKU` | [!UICONTROL Identificatore non personale] |
 
 ## Passaggio 2: Creare schemi
 
 In questo passaggio è possibile definire la struttura dei dati di esempio creando sei [[!UICONTROL schemi]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html):
 
-* [[!DNL Luma Loyalty]](#create-luma-loyalty-schema)
+* [[!DNL Luma Loyalty Schema]](#create-luma-loyalty-schema)
 
-* [[!DNL Luma Products]](#create-luma-products-schema)
+* [[!DNL Luma Product catalog Schema]](-catalog)
 
 * [[!DNL Luma Product Inventory Events]](#create-luma-product-inventory-event-schema)
 
@@ -107,7 +108,7 @@ Viene quindi richiesto di aggiungere gruppi di campi allo schema. È necessario 
 
 1. Selezionare il nodo principale dello schema.
 
-1. Invio `Luma Loyalty` come [!UICONTROL Nome visualizzato].
+1. Invio `Luma Loyalty Schema` come [!UICONTROL Nome visualizzato].
 
 #### Crea un [!UICONTROL gruppo di campi]
 
@@ -117,7 +118,7 @@ Per garantire la coerenza tra gli schemi, Adobe consiglia di gestire tutti gli i
 
 1. Seleziona **[!UICONTROL Crea nuovo gruppo di campi]**.
 
-1. Aggiungi `Luma Identifiers` come **[!UICONTROL Nome visualizzato]**.
+1. Aggiungi `Luma Identity Profile Field Group` come **[!UICONTROL Nome visualizzato]**.
 
 1. Aggiungi `system identifiers for XDM Individual Profile class` come **[!UICONTROL Descrizione]**.
 
@@ -158,31 +159,31 @@ Il nuovo gruppo di campi vuoto viene aggiunto allo schema. I pulsanti + consento
 
 #### Imposta le identità
 
-Ora hai lo spazio dei nomi e la [!DNL Luma] Schema fedeltà configurato. Prima di poter acquisire i dati, devi assegnare un’etichetta ai campi di identità. Ogni schema utilizzato con [!UICONTROL Profilo cliente in tempo reale] è necessario specificare un&#39;identità principale e ogni record acquisito deve avere un valore per quel campo.
+Ora hai il [!UICONTROL namespace] e [!DNL Luma Loyalty schema] configurato. Prima di poter acquisire i dati, devi assegnare un’etichetta ai campi di identità. Ogni schema utilizzato con [!UICONTROL Profilo cliente in tempo reale] è necessario specificare un&#39;identità principale e ogni record acquisito deve avere un valore per quel campo.
 
 1. Imposta la **identità principale**:
 
-   Da `Luma Loyalty` schema:
+   Da **[!DNL Luma Loyalty Schema]**:
 
-   1. Seleziona la `Luma Identifiers` gruppo di campi.
+   1. Seleziona **[!DNL Luma Identity Profile Field Group]**.
 
-   1. Seleziona la `loyaltyId` campo .
+   2. Seleziona la **[!DNL loyaltyId]** campo .
 
-   1. In **[!UICONTROL Proprietà campo]**, abilita **[!UICONTROL Identità]** scatola.
+   3. In **[!UICONTROL Proprietà campo]**, abilita **[!UICONTROL Identità]** scatola.
 
-   1. Abilita la **[!UICONTROL Identità principale]** scatola.
+   4. Abilita la **[!UICONTROL Identità principale]** scatola.
 
-   1. Seleziona la `Luma Loyalty Id` namespace **[!UICONTROL Namespace Identity]** a discesa.
+   5. Seleziona la `Luma Loyalty Id` namespace **[!UICONTROL Namespace Identity]** a discesa.
 
-   1. Seleziona **[!UICONTROL Applica]**.
+   6. Seleziona **[!UICONTROL Applica]**.
 
       ![identità principale](/help/tutorial-configure-a-training-sandbox/assets/primary_identity.png)
 
-1. Imposta un **identità secondaria**:
+2. Imposta un **identità secondaria**:
 
-   Da `Luma Loyalty` schema:
+   Da **[!DNL Luma Loyalty Schema]**:
 
-   1. Seleziona la `Luma Identifiers` gruppo di campi.
+   1. Seleziona **[!DNL Luma Identity Profile Field Group]**..
 
    2. Seleziona la `crmId` campo .
 
@@ -204,7 +205,8 @@ Ora hai lo spazio dei nomi e la [!DNL Luma] Schema fedeltà configurato. Prima d
 
 1. Seleziona **[!UICONTROL Salva]**.
 
-### Crea [!DNL Luma Products] [!UICONTROL Schema] {#create-luma-products-schema}
+### Creazione [!DNL Luma Product catalog Schema] {#create-luma-product-catalog-schema}
+
 
 1. Vai a [!UICONTROL GESTIONE DATI] -> **[!UICONTROL Schemi]** nella navigazione a sinistra.
 
@@ -214,15 +216,15 @@ Ora hai lo spazio dei nomi e la [!DNL Luma] Schema fedeltà configurato. Prima d
 
 1. Seleziona **[!UICONTROL Crea nuova classe].
 
-1. Aggiungi il nome visualizzato: `Luma Products`.
+1. Aggiungi il nome visualizzato: `Luma Product Catalog Class`.
 
 1. Assegna la classe.
 
 1. Crea un [!UICONTROL gruppo di campi]:
 
-   * Nome visualizzato: `Luma Product Info`
+   * Nome visualizzato: `Luma Product Catalog Field Group`
 
-1. Aggiungi il seguente campo al [!DNL Luma] [!UICONTROL Prodotto] Gruppo di campi informazioni.
+2. Aggiungi il seguente campo al **[!DNL Luma Product Catalog Field Group]**.
 
    * Nome campo: `product`
 
@@ -230,11 +232,11 @@ Ora hai lo spazio dei nomi e la [!DNL Luma] Schema fedeltà configurato. Prima d
 
    * Tipo: [!UICONTROL Oggetto]
 
-   * Gruppo di campi: [!DNL Luma Product info]
+   * Gruppo di campi: [!DNL Luma Product Catalog Field Group]
 
-1. Seleziona **[!UICONTROL Applica]**.
+3. Seleziona **[!UICONTROL Applica]**.
 
-1. Aggiungi i campi seguenti al **[!DNL Product]** oggetto:
+4. Aggiungi i campi seguenti al **[!DNL Product]** oggetto:
 
    | [!UICONTROL Nome campo] | [!UICONTROL Nome visualizzato] | [!UICONTROL Tipo] |
    |-------------|-----------|----------|
@@ -245,15 +247,16 @@ Ora hai lo spazio dei nomi e la [!DNL Luma] Schema fedeltà configurato. Prima d
    | `size` | `Size` | [!UICONTROL Stringa] |
    | `price` | `Price` | [!UICONTROL Doppio] |
    | `description` | `Description` | [!UICONTROL Stringa] |
-   | `productImageURL` | `Product Image URL` | [!UICONTROL Stringa] |
-   | `productURL` | `Product URL` | [!UICONTROL Stringa] |
+   | `ImageURL` | `Image URL` | [!UICONTROL Stringa] |
    | `stockQuantity` | `Stock Quantity` | [!UICONTROL Stringa] |
 
-1. Aggiungi il **[!UICONTROL Nome visualizzato]** `Luma Products` allo schema.
+5. Aggiungi il **[!UICONTROL Nome visualizzato]** `Luma Product Catalog Field Group` al [!UICONTROL gruppo di campi].
 
-1. Seleziona **[!UICONTROL Salva]**.
+6. Seleziona **[!UICONTROL Salva]**.
 
-### Crea [!DNL Luma Product Inventory Event] [!UICONTROL Schema] {#create-luma-product-inventory-event-schema}
+
+### Creazione [!DNL Luma Product Inventory Event Schema] {#create-luma-product-inventory-event-schema}
+
 
 1. Vai a **[!UICONTROL GESTIONE DATI]** -> **[!UICONTROL Schemi]** nella navigazione a sinistra.
 
@@ -263,7 +266,7 @@ Ora hai lo spazio dei nomi e la [!DNL Luma] Schema fedeltà configurato. Prima d
 
 1. Seleziona **[!UICONTROL Crea nuova classe]**.
 
-1. Aggiungi il nome visualizzato: `Business Event`.
+1. Aggiungi il nome visualizzato: `Luma Business Event`.
 
 1. Seleziona il tipo: *[!UICONTROL Serie temporali]*.
 
@@ -311,13 +314,13 @@ Ora hai lo spazio dei nomi e la [!DNL Luma] Schema fedeltà configurato. Prima d
 
 1. Imposta `productId` campo come **[!UICONTROL identità principale]** utilizzo **[!DNL Luma Product namespace]**.
 
-1. Seleziona la `sku` e definire una relazione con `product.sku` nel campo **[!DNL Luma Products]** Schema:
+1. Seleziona la `sku` e definire una relazione con `product.sku` nel campo **[!DNL Luma Product catalog Schema]** Schema:
 
    1. Scorri verso il basso fino alla parte inferiore del **[!UICONTROL Proprietà campo]**.
 
    1. Abilita **[!UICONTROL Relazione]**.
 
-      1. **[!UICONTROL Schema di riferimento]**: [!DNL Luma Products].
+      1. **[!UICONTROL Schema di riferimento]**: [!DNL Luma Product catalog Schema].
 
       1. **[!UICONTROL Spazio dei nomi identità di riferimento]**: [!DNL Luma Product].
    1. Seleziona **[!UICONTROL Applica]**.
@@ -339,7 +342,7 @@ Crea i seguenti elementi aggiuntivi [!UICONTROL schemi]:
 |  ---| ------- | ---- |----|
 | **[!UICONTROL Tipo]** | [!UICONTROL Profilo individuale XDM] | [!UICONTROL Evento esperienza XDM] | [!UICONTROL Profilo individuale XDM] |
 | **[!UICONTROL Aggiungi gruppo di campi esistente]** | Identificatori Luma<br>Dettagli demografici<br>Dati di contatto personali | Mappa identità<br>Dettagli Commerce | Identificatori Luma<br>Dettagli demografici<br>Dati di contatto personali<br>Dettagli del test del profilo |
-| **[!UICONTROL Relazione]** |  | *[!DNL productListItems.SKU]*:<br> Schema di riferimento *[!DNL Luma Products]* <br>[!DNL Reference identity namespace] *[!DNL Luma Product]* schema |
+| **[!UICONTROL Relazione]** |  | *[!DNL productListItems.SKU]*:<br> Schema di riferimento *[!DNL Luma Product catalog Schema]* <br>[!DNL Reference identity namespace] *[!DNL Luma Product]* schema |
 | **[!UICONTROL Identità principale] [!UICONTROL namespace])** | systemIdentifier.crmId<br>(ID CRM Luma) |  | personalEmail.address<br>(Email) |
 | **[!UICONTROL Identità secondaria] [!UICONTROL namespace]** | personalEmail.address (Email)<br>mobilePhone.number (telefono) |  |
 | **[!UICONTROL Abilita per profilo]** | sì | sì | sì |
