@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: cfd438e198fdf62859569eed0c6ac22087ddbc75
+source-git-commit: f5b0529ee13067fe945e32494a164959adfd7d6c
 workflow-type: tm+mt
-source-wordcount: '1176'
+source-wordcount: '1175'
 ht-degree: 2%
 
 ---
@@ -196,7 +196,7 @@ Visualizzare l’anteprima del messaggio e-mail con il profilo di test *Louise P
 Verifica il percorso e fai inviare le e-mail al tuo account:
 
 1. Mettere il percorso in modalità di prova.
-1. Seleziona un singolo profilo alla volta.
+1. Seleziona **[!UICONTROL Singolo profilo alla volta]**.
 1. Tempo di attesa: Impostare il timer su 120 secondi (digitarlo nel campo).
 1. Entrata del profilo del trigger
 1. È possibile eseguire il test di ogni ramo utilizzando una delle seguenti opzioni *ID CRM Luma* come identificatori di profilo:
