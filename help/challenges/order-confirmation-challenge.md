@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 08dfd48d34fac09d05e57438728e1afa5f6cdef9
+source-git-commit: cc9d123e4b8efd82eea348c31f5b993556438074
 workflow-type: tm+mt
-source-wordcount: '706'
+source-wordcount: '701'
 ht-degree: 3%
 
 ---
@@ -41,13 +41,13 @@ Crea un percorso che invia un’e-mail di conferma dell’ordine quando un clien
 
 1. Crea un percorso denominato `Luma - Order Confirmation`
 1. Utilizza l’evento : [!DNL LumaOnlinePurchase] come attivatore
-1. Crea l’e-mail di conferma dell’ordine denominata `Luma - Order Confirmation`
+1. Crea l’e-mail di conferma dell’ordine denominata `Luma - Order Confirmation`:
 
 * Transazioni di categoria : assicurati di selezionare l’area dell’e-mail transazionale
 * L’oggetto deve essere personalizzato con il nome del destinatario e deve includere la frase &quot;grazie per il tuo acquisto&quot;
 * Utilizza la **Luma - Riepilogo ordine** e modificalo:
 
-Seguendo la linea guida al marchio Luma, l’e-mail deve essere strutturata come segue:
+L’e-mail deve essere strutturata come segue:
 <table>
 <tr>
 <td>
@@ -118,7 +118,7 @@ Seguendo la linea guida al marchio Luma, l’e-mail deve essere strutturata come
       </p><br>
       <p><b>Suggerimenti:</b>
       <li>Informazioni sull’evento contestuali.
-      <li>Utilizzare la funzione di supporto !UICONTROL]: [!UICONTROL Ciascuno]
+      <li>Utilizzare la funzione helper [!UICONTROL]: [!UICONTROL Ciascuno]
       <li>Passa al formato dell'editor di codice per aggiungere i dati contestuali.
       <li>Inserisci le informazioni nei contenitori utilizzando i tag DIV.
   </td>
