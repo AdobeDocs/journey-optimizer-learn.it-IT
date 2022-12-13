@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: a9b6559d308823f5af7c2b26c3b2ae59d60d5a60
+source-git-commit: 1b6f6cadc2d85a8baa5c95aca026f868a27e78fa
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '432'
 ht-degree: 4%
 
 ---
@@ -43,12 +43,8 @@ Quando un cliente fidelizzato si qualifica per il livello platino, dovrebbe rice
 1. Crea un [!UICONTROL segmento] in Journey Optimizer denominato `Luma – status upgrade`.
 2. Crea un percorso denominato `Luma – New Status – platinum`.
    1. Un cliente entra nel percorso quando si qualifica per il livello di fedeltà platino.
-   2. Il cliente deve ricevere un messaggio e-mail contrassegnato `Luma – Platinum Status - Welcome`, con l&#39;oggetto `Welcome to Platinum Status, (recipient's first name)!` con il corpo dell’e-mail fornito dal team creativo.
+   2. Il cliente deve ricevere un messaggio e-mail contrassegnato `Luma – Platinum Status - Welcome`, con l&#39;oggetto `Welcome to Platinum Status, (recipient's first name)!` con il corpo dell’e-mail fornito dal team creativo. Questa è una [!UICONTROL transazionale] Posta elettronica.
    3. Quando carichi il file HTML, noterai che l’e-mail si riferisce allo stato &quot;diamante&quot;, invece di &quot;platino&quot;. Invece di richiedere un nuovo file al team creativo, aggiorna l’e-mail in E-mail Designer.
-
->[SUGGERISCI!]
-> Assicurati che Luma - Stato Platinum - E-mail di benvenuto sia[!UICONTROL transazionale].
-
 
 >[!TAB Criteri di successo]
 
@@ -69,7 +65,7 @@ Test del percorso:
 4. Attiva un evento
 5. Aggiungi quanto segue [!DNL CRM ID] per [!DNL Stanleigh Stooke] nel [!UICONTROL Identificatore profilo] campo: `4f34057d9d9e792c28ba18ecae378e98`
 
-Dovresti ricevere il *Luma - Stato platino - Benvenuto* e-mail.
+**Risultato:** Dovresti ricevere il *Luma - Stato platino - Benvenuto* e-mail.
 
 >[!TAB Controlla il tuo lavoro]
 
