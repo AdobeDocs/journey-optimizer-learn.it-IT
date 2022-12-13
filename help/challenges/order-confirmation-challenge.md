@@ -7,10 +7,10 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: eb31a78738ec32e4f468f620a96525714997ad04
+source-git-commit: 08dfd48d34fac09d05e57438728e1afa5f6cdef9
 workflow-type: tm+mt
-source-wordcount: '682'
-ht-degree: 4%
+source-wordcount: '706'
+ht-degree: 3%
 
 ---
 
@@ -39,16 +39,15 @@ Crea un percorso che invia un’e-mail di conferma dell’ordine quando un clien
 
 >[!TAB Attività]
 
-1. Crea un percorso chiamato &quot;il tuo nome _Conferma ordine&quot;
-2. Utilizza l’evento : [!DNL LumaOnlinePurchase] come attivatore
-
-3. Crea l’e-mail di conferma dell’ordine:
+1. Crea un percorso denominato `Luma - Order Confirmation`
+1. Utilizza l’evento : [!DNL LumaOnlinePurchase] come attivatore
+1. Crea l’e-mail di conferma dell’ordine denominata `Luma - Order Confirmation`
 
 * Transazioni di categoria : assicurati di selezionare l’area dell’e-mail transazionale
 * L’oggetto deve essere personalizzato con il nome del destinatario e deve includere la frase &quot;grazie per il tuo acquisto&quot;
+* Utilizza la **Luma - Riepilogo ordine** e modificalo:
 
-Seguendo la linea guida al marchio Luma, l’e-mail deve essere strutturata come segue: puoi utilizzare la **Luma - Riepilogo ordine** e modificalo:
-
+Seguendo la linea guida al marchio Luma, l’e-mail deve essere strutturata come segue:
 <table>
 <tr>
 <td>
@@ -79,22 +78,30 @@ Seguendo la linea guida al marchio Luma, l’e-mail deve essere strutturata come
     <strong>Testo</strong><p>
     <em>Ciao {nome}</em><p>
     <li>Allineamento: sinistra  </li>
-   <li>Colore testo: rgb(101, 106, 119); font-size:14 px</li>
-    <li>Spaziatura: sinistra (95), destra (95)</li><div>
+   <li>Colore testo: rgb(69, 97, 162) #4461a2; 
+   <li>font: 20 px</li>
+   <div>
     <p>
      <em>Il tuo ordine è stato effettuato.
     <p>Una volta spedito il tuo pacchetto, ti invieremo un'e-mail con un numero di registrazione in modo da poter tenere traccia del tuo ordine.</p></em>
-    </strong><p>
-    <li>Allineamento: sinistra  </li>
-    <li>Colore testo: rgb(101, 106, 119); font-size:14 px </li>
-    <li>Spaziatura: sinistra (95), destra (95)</li><div>
-    </a><p>
-    <em>Spedisci a:<p>
-    <p>Cognome</p>
-    Via<p>
-    Città, Stato, CAP</p></em>
-    <strong>Pulsante:</strong></p>
-   <p><em>Visualizza ordine</em></p>
+    </strong>
+    </tr>
+  </td>
+ <td>
+  <div>
+     <strong> Sezione spedizione</strong>
+      </div>
+      <p><li>Sostituisci l’indirizzo hardcoded nel modello con il payload dell’indirizzo dal profilo
+      <li> Rimuovi lo sconto, il totale, l'arrivo</p>
+  </td>
+  <td>
+  <p> Spedisci a:</p>
+      <em>Cognome<br>
+      Via<br>
+      Città, Stato, CAP</em></p>
+
+    &lt;strong>Pulsante:&lt;/strong>&lt;/p>
+<p><em>Visualizza ordine</em></p>
       <li>Colore di sfondo: rgb(25, 121, 195)</li>
       <li>Colore testo: Bianco</li>
       <li>Nessun bordo</li>
@@ -107,11 +114,13 @@ Seguendo la linea guida al marchio Luma, l’e-mail deve essere strutturata come
   <div>
      <strong>Sezione Dettagli ordine</strong>
       </div>
-      <p>Suggerimenti:
-      <li>Informazioni sull’evento contestuali.</li>
-      <li>Utilizzare la funzione helper: Ogni</li>
-      <li>Passa al formato dell'editor di codice per aggiungere i dati contestuali. <li>
-      <li>Inserisci le informazioni nei contenitori utilizzando i tag DIV.</li>
+       <p><li>Aggiungi questa sezione tra <b>Spedisci a</b> la sezione <b>Visualizza ordine</b> pulsante
+      </p><br>
+      <p><b>Suggerimenti:</b>
+      <li>Informazioni sull’evento contestuali.
+      <li>Utilizzare la funzione di supporto !UICONTROL]: [!UICONTROL Ciascuno]
+      <li>Passa al formato dell'editor di codice per aggiungere i dati contestuali.
+      <li>Inserisci le informazioni nei contenitori utilizzando i tag DIV.
   </td>
   <td>
     <strong>Intestazione</strong>
@@ -156,8 +165,7 @@ Seguendo la linea guida al marchio Luma, l’e-mail deve essere strutturata come
 >
 >Per consentire la risoluzione dei problemi dei percorsi, è consigliabile aggiungere un percorso alternativo a tutte le azioni del messaggio in caso di timeout o errore.
 
-
->[!TAB Controlla il tuo lavoro]
+>[!TAB Criteri di successo]
 
 Attiva il Percorso creato in modalità di test e invia l’e-mail a te stesso:
 
@@ -186,7 +194,8 @@ Dovresti ricevere l’e-mail di conferma dell’acquisto personalizzato, con il 
    43913 Terrazza Thierer, Washington DC 20099
 
 
->[!TAB Criteri di successo]
+
+>[!TAB Controlla il tuo lavoro]
 
 ** Percorso
 
