@@ -9,9 +9,9 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: cc9d123e4b8efd82eea348c31f5b993556438074
+source-git-commit: db681243c066911af03b75f045a4dc4a990daa7d
 workflow-type: tm+mt
-source-wordcount: '1065'
+source-wordcount: '1058'
 ht-degree: 7%
 
 ---
@@ -286,9 +286,9 @@ Ora hai il [!UICONTROL namespace] e [!DNL Luma Loyalty schema] configurato. Prim
 
    * Tipo: [!UICONTROL Oggetto]
 
-   * Gruppo di campi: [!DNLLGruppo campi dettagli evento inventario prodotto uma]
+   * Gruppo di campi: `Luma Product Inventory Event Details Field Group`
 
-1. Aggiungi i campi seguenti al **[!DNL Product Inventory Event Details]** oggetto:
+1. Aggiungi i campi seguenti al `Product Inventory Event Details` oggetto:
 
    | [!UICONTROL Nome campo] | [!UICONTROL Nome visualizzato] | [!UICONTROL Tipo] |
    |-------------|-----------|----------|
@@ -311,9 +311,9 @@ Ora hai il [!UICONTROL namespace] e [!DNL Luma Loyalty schema] configurato. Prim
 
       ![enum](assets/enum.png)
 
-2. Imposta `productId` campo come **[!UICONTROL identità principale]** utilizzo **[!DNL Luma Product namespace]**.
+1. Imposta `productId` campo come **[!UICONTROL identità principale]** utilizzo **[!DNL Luma Product namespace]**.
 
-3. Seleziona la `sku` e definire una relazione con `product.sku` nel campo **[!DNL Luma Product catalog Schema]** Schema:
+1. Seleziona la `sku` e definire una relazione con `product.sku` nel campo **[!DNL Luma Product catalog Schema]** Schema:
 
    1. Scorri verso il basso fino alla parte inferiore del **[!UICONTROL Proprietà campo]**.
 
@@ -329,9 +329,9 @@ Ora hai il [!UICONTROL namespace] e [!DNL Luma Loyalty schema] configurato. Prim
       ![Relazione SKU](assets/sku_relationship.png)
 
 
-4. Abilita per **Profilo**.
+1. Abilita per **Profilo**.
 
-5. Seleziona [!UICONTROL Salva] per salvare lo schema.
+1. Seleziona [!UICONTROL Salva] per salvare lo schema.
 
 ### Crea il [!DNL Luma CRM] e [!DNL Luma Product Interactions] schemi {#create-luma-crm-and-luma-product-interactions-schemas}
 
