@@ -7,10 +7,10 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: cc9d123e4b8efd82eea348c31f5b993556438074
+source-git-commit: d361a15661642f770ab7f5527f561eb0bce16b9d
 workflow-type: tm+mt
-source-wordcount: '701'
-ht-degree: 3%
+source-wordcount: '671'
+ht-degree: 4%
 
 ---
 
@@ -33,19 +33,19 @@ Luma, lancia il loro negozio online e vuole garantire una buona esperienza del c
 
 ## La tua sfida
 
-Crea un percorso che invia un’e-mail di conferma dell’ordine quando un cliente Luma completa un ordine online.
+Crea un percorso che invia un’e-mail di conferma dell’ordine quando un cliente Luma completa un ordine online. Luma
 
 >[!BEGINTABS]
 
 >[!TAB Attività]
 
 1. Crea un percorso denominato `Luma - Order Confirmation`
-1. Utilizza l’evento : [!DNL LumaOnlinePurchase] come attivatore
-1. Crea l’e-mail di conferma dell’ordine denominata `Luma - Order Confirmation`:
+2. Utilizza l’evento : `LumaOnlinePurchase` come attivatore
+3. Crea l’e-mail di conferma dell’ordine denominata `Luma - Order Confirmation`:
 
 * Transazioni di categoria : assicurati di selezionare l’area dell’e-mail transazionale
 * L’oggetto deve essere personalizzato con il nome del destinatario e deve includere la frase &quot;grazie per il tuo acquisto&quot;
-* Utilizza la **Luma - Riepilogo ordine** e modificalo:
+* Utilizza la `Luma - Order summary` e modificalo:
 
 L’e-mail deve essere strutturata come segue:
 <table>
@@ -59,7 +59,6 @@ L’e-mail deve essere strutturata come segue:
     <strong>Logo Luma</strong>
       <p>
      <li>luma_logo.png</li>
-    <li>Dimensioni 35%, sfondo bianco centrato </li>
     <li>Dovrebbe avere un collegamento al sito web luma: https://publish1034.adobedemo.com/content/luma/us/en.html</li>
     <p>
     </td>
@@ -71,9 +70,6 @@ L’e-mail deve essere strutturata come segue:
     </strong>
   </td>
   <td>
-    <strong>Immagine</strong><p>
-    <li>luma-transactional-order-confirmation-2.jpg </li>
-    <li>Margine: Superiore, inferiore (10)<div>
     <p>
     <strong>Testo</strong><p>
     <em>Ciao {nome}</em><p>
@@ -91,23 +87,15 @@ L’e-mail deve essere strutturata come segue:
   <div>
      <strong> Sezione spedizione</strong>
       </div>
-      <p><li>Sostituisci l’indirizzo hardcoded nel modello con il payload dell’indirizzo dal profilo
+      <p><li>Sostituisci l'indirizzo hardcoded nel modello con l'indirizzo di spedizione 
+      <li>I dettagli sono attributi contestuali dell’evento (strada, città, codice postale, stato)
+      <li>Il nome e il cognome provengono dal profilo
       <li> Rimuovi lo sconto, il totale, l'arrivo</p>
   </td>
   <td>
   <p> Spedisci a:</p>
       <em>Cognome<br>
-      Via<br>
-      Città, Stato, CAP</em></p>
-
-    &lt;strong>Pulsante:&lt;/strong>&lt;/p>
-<p><em>Visualizza ordine</em></p>
-      <li>Colore di sfondo: rgb(25, 121, 195)</li>
-      <li>Colore testo: Bianco</li>
-      <li>Nessun bordo</li>
-      <li>Altezza: 40</li>
-      <li>Aggiungere un collegamento a un sito web desiderato </li>
-      <li>Allinea a sinistra con il testo precedente (suggerimento: utilizzare il margine del contenitore)</li>
+      Indirizzo<br></em></p>
   </td>
  <tr>
 <td>
