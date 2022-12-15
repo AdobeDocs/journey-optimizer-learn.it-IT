@@ -7,10 +7,10 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: d361a15661642f770ab7f5527f561eb0bce16b9d
+source-git-commit: 7a178b9c523ead0cf27aaa87d25b3752ef53f519
 workflow-type: tm+mt
-source-wordcount: '671'
-ht-degree: 4%
+source-wordcount: '692'
+ht-degree: 3%
 
 ---
 
@@ -113,7 +113,7 @@ L’e-mail deve essere strutturata come segue:
   <td>
     <strong>Intestazione</strong>
     <p>
-    <em>Ordine {Numero ordine di acquisto}</em>
+    <em>Ordine: `purchaseOrderNumber`</em>
     </p>
     <strong>Elenco dei prodotti ordinati:
   </strong>
@@ -164,7 +164,7 @@ Attiva il Percorso creato in modalità di test e invia l’e-mail a te stesso:
    3. Nella schermata successiva aggiungi il tuo indirizzo e-mail tra parentesi: *yourname@yourdomain* nell’editor espressioni e fai clic su ok.
 2. Mettere il percorso in modalità di prova
 3. Attiva l&#39;evento con i seguenti parametri:
-   * Imposta l’identificatore del profilo su: Jenna_Palmer9530@emailsim.io
+   * Imposta l’identificatore del profilo su: Valore identità:`a8f14eab3b483c2b96171b575ecd90b1`
    * Tipo evento: commerce.purchase
    * Nome: Kit Yoga Sprite Companion
    * Quantità: 1
@@ -172,12 +172,13 @@ Attiva il Percorso creato in modalità di test e invia l’e-mail a te stesso:
    * Numero ordine: 6253728
    * SKU: 24-WG080
    * productImageURL: <https://publish1034.adobedemo.com/content/dam/luma/en/products/gear/fitness-equipment/luma-yoga-kit-2.jpg>
+   * 
 
 Dovresti ricevere l’e-mail di conferma dell’acquisto personalizzato, con il prodotto specificato.
 
-* L’oggetto deve iniziare con il nome del profilo di test: Jenna
+* L’oggetto deve avere il nome del profilo di test: Leora
 * La sezione dettagli ordine deve essere compilata con i dettagli ordine immessi durante il test
-* Le informazioni sul cliente devono avere la città e il codice postale del profilo di test:
+* La *Spedisci a* La sezione deve contenere la città e il codice postale del profilo di test:
 
    43913 Terrazza Thierer, Washington DC 20099
 
@@ -185,17 +186,30 @@ Dovresti ricevere l’e-mail di conferma dell’acquisto personalizzato, con il 
 
 >[!TAB Controlla il tuo lavoro]
 
-** Percorso
+**Percorso**
 
 ![Percorso](/help/challenges/assets/c2-journey.png)
 
 
-** E-mail
+**E-mail**
 
 **Oggetto:**
 
 {{ profile.person.name.firstName }}, grazie per il tuo acquisto!
 
+**Sezione di spedizione:**
+
+Ecco come dovrebbe essere il tuo codice:
+
+```javascript
+{{ profile.person.name.firstName }} {{ profile.person.name.lastName }}
+{{context.journey.events.454181416.commerce.shipping.address.street1}}
+{{context.journey.events.454181416.commerce.shipping.address.city}}, {{context.journey.events.454181416.commerce.shipping.address.state}} {{context.journey.events.454181416.commerce.shipping.address.postalCode}}
+```
+
+*event.45481416* Sarà un numero diverso per te.
+
+SUGGERIMENTO: Personalizzare separatamente ogni riga
 
 **Sezione dettagli ordine:**
 
