@@ -181,15 +181,13 @@ Visualizza l’anteprima del messaggio e-mail con il profilo di test *Louise Pet
 >
 >1. Assicurati che [!UICONTROL Attività Leggi segmento] presenti lo spazio dei nomi impostato su **ID CRM Luma (lumaCrmId)**
 >1. Per ogni e-mail, sovrascrivi i parametri e-mail predefiniti per le e-mail in modo che vengano inviati al tuo indirizzo e-mail:
-   >    * Mostra i valori nascosti facendo clic sul simbolo a forma di occhio.
-   >    * Nei parametri e-mail, fai clic sul simbolo T (abilita sostituzione parametro).
-
-      >
-      >      ![Sostituisci i parametri e-mail](/help/challenges/assets/c3-override-email-paramters.jpg)
-   > 
-   >    * Fai clic sul campo [!UICONTROL Indirizzo]
-   >    * Nella schermata successiva, aggiungi il tuo indirizzo e-mail tra parentesi: `"yourname@yourdomain"` nell’editor di espressioni e fai clic su ok.
-
+>    * Mostra i valori nascosti facendo clic sul simbolo a forma di occhio.
+>    * Nei parametri e-mail, fai clic sul simbolo T (abilita sostituzione parametro).
+>
+>      ![Sostituisci i parametri e-mail](/help/challenges/assets/c3-override-email-paramters.jpg)
+> 
+>    * Fai clic sul campo [!UICONTROL Indirizzo]
+>    * Nella schermata successiva, aggiungi il tuo indirizzo e-mail tra parentesi: `"yourname@yourdomain"` nell’editor di espressioni e fai clic su ok.
 >
 
 
