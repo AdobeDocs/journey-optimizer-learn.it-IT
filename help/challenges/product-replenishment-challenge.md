@@ -1,5 +1,5 @@
 ---
-title: Sfida di rifornimento del prodotto
+title: Sfida per il riassortimento del prodotto
 description: Applica ciò che hai imparato sulla creazione di segmenti e verifica le tue abilità.
 kt: 8417
 feature: Segments
@@ -8,113 +8,113 @@ level: Beginner
 hide: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
 source-git-commit: 0e83d8fbad6bd87ed25980251970898cb5b94bc0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '609'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
-# Sfida di rifornimento del prodotto
+# Sfida per il riassortimento del prodotto
 
-| Sfida | Rifornimento del prodotto |
+| Sfida | Riassortimento del prodotto |
 |---|---|
-| Persona | Percorsi Manager |
-| Competenze richieste | <ul><li>[Creare segmenti](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-segments.html?lang=en)</li><li> [Importare e creare contenuti e-mail HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/import-and-author-html-email-content.html?lang=en)</li><li>[Caso d’uso: attività “Leggi segmento”](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=en)</li> |
-| Risorse da scaricare | [File e-mail di Raccolta stagionale](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip) |
+| Persona | Gestione del percorso |
+| Competenze richieste | <ul><li>[Creare segmenti](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-segments.html?lang=it)</li><li> [Importare e creare contenuti e-mail HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/import-and-author-html-email-content.html?lang=it)</li><li>[Caso d’uso: attività “Leggi segmento”](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=it)</li> |
+| Risorse da scaricare | [File e-mail sulla Collezione stagionale](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip) |
 
-## La storia
+## Il contesto
 
-Durante la navigazione nel sito web Luma, i clienti possono aggiungere prodotti di loro interesse a una lista di desideri. che consente a Luma di inviare ai clienti messaggi di marketing mirati e informazioni sui prodotti.
+Durante la navigazione sul sito web Luma, i clienti possono aggiungere prodotti di loro interesse a una lista di desideri, che consente a Luma di inviare ai clienti messaggi di marketing mirati e informazioni sui prodotti.
 
 ## La tua sfida
 
-Luma ti chiede di implementare un percorso in Journey Optimizer che avvisa i clienti che hanno un articolo sulla loro lista dei desideri che era precedentemente esaurito, quando questo articolo è di nuovo in magazzino.
+Luma chiede di implementare un percorso in Journey Optimizer che avvisa i clienti con un articolo sulla lista dei desideri precedentemente esaurito, quando questo articolo è di nuovo disponibile.
 
-## Definire il segmento - Articoli della lista dei desideri esauriti
+## Definire il segmento - Articoli esauriti sulla lista dei desideri
 
-Per eseguire il targeting dei potenziali clienti interessati quando i prodotti vengono riconcentrati, crea un segmento composto da clienti
+Quando i prodotti vengono riassortiti, per eseguire il targeting dei potenziali clienti interessati, crea un segmento costituito da clienti
 
-* Chi ha aggiunto almeno un elemento al proprio elenco di desideri (Usa tipo di evento: [!UICONTROL Salvataggio Di Commerce Per I Latenti])
-* Che era **esaurito** negli ultimi tre mesi (utilizzare la quantità delle scorte = 0)
-* E non hanno da allora acquistato l&#39;articolo.
+* che hanno aggiunto almeno un elemento alla loro lista dei desideri (Utilizza tipo di evento: [!UICONTROL Salva per dopo di Commerce])
+* che era **esaurito** negli ultimi tre mesi (utilizza quantità di magazzino = 0)
+* e che non lo hanno ancora acquistato.
 
-Assegna un nome al segmento: *il tuo nome - Out-of-stock-Wishlist*
+Assegna un nome al segmento: *il tuo nome - esaurito - lista dei desideri*
 
-+++**CONTROLLA IL TUO LAVORO**
++++**VERIFICA IL TUO LAVORO**
 
-Questo è l’aspetto del segmento:
+Ecco come dovrebbe apparire il tuo segmento:
 
-![Segmento - Articoli della lista dei desideri esauriti](/help/challenges/assets/C1-S2.png)
+![Segmento - Articoli esauriti sulla lista dei desideri](/help/challenges/assets/C1-S2.png)
 
 Clienti che hanno aggiunto una voce alla lista dei desideri che non era disponibile negli ultimi 3 mesi:
 
-* Evento: Salva per i moduli più recenti
+* Evento: salva per dopo
    * Includi almeno 1
-   * Se la quantità delle scorte è 0
+   * Se la quantità del magazzino è 0
 
-e da allora non hanno acquistato l&#39;articolo:
+e che non lo hanno ancora acquistato:
 
-* Escludere tutti i tipi di evento Purchases in cui la SKU corrisponde alla SKU dalla **Salva per evento successivo**.
+* Escludi tutti i tipi di evento Acquisti in cui lo SKU corrisponde allo SKU dall’**evento Salva per dopo**.
 
 >[!TIP]
-> * Seleziona lo SKU sotto Salva per Laters nel *Sfoglia variabili* sezione
-> * Utilizza l’opzione di confronto quando rilascia lo SKU in Save for later nel campo event
+> * Seleziona lo SKU in Salva per dopo nella sezione *Sfoglia variabili*
+> * Utilizza l’opzione di confronto quando rilasci lo SKU in Salva per dopo nel campo evento
 
 
-Controlla il codice nell&#39;angolo in basso a destra della schermata Modifica segmento, in Eventi. Il codice deve essere simile al seguente:
+In Eventi, verifica il codice nell’angolo in basso a destra della schermata Modifica segmento. Il codice deve essere simile al seguente:
 
 Codice:
 ```(Include have at least 1 Save For Laters event where ((Stock Quantity equals 0)) THENExclude all  Purchases events where ((SKU equals Save For Laters1 SKU)) ) and occurs in last 3 month(s)```
 
 +++
 
-### Crea e-mail - Rifornimento prodotto Luma
+### Crea e-mail - Riassortimento prodotto Luma
 
-Comunica ai clienti che hanno aggiunto un articolo non disponibile con una chiamata per iniziare lo shopping ora che l’articolo è di nuovo in magazzino.
+Comunica ai clienti che hanno aggiunto un articolo esaurito con una chiamata per iniziare lo shopping ora che l’articolo è di nuovo disponibile.
 
-### Creare il percorso - Notifica di ripristino del prodotto
+### Crea il percorso - Notifica per prodotto in riassortimento
 
-Quando un articolo precedentemente esaurito è di nuovo in magazzino, avvisa i clienti che hanno aggiunto un articolo non disponibile con una chiamata per iniziare lo shopping ora che l&#39;articolo è di nuovo in magazzino.
+Quando un articolo precedentemente esaurito è di nuovo disponibile, avvisa i clienti che hanno aggiunto un articolo esaurito con una chiamata per iniziare lo shopping ora che l’articolo è di nuovo disponibile.
 
-1. Crea un percorso chiamato &quot;your name_Luma - Product Restock&quot;
-1. Il percorso deve essere attivato quando un prodotto è tornato in magazzino
-1. Invia *Rifornimento prodotto Luma* invia a
-1. Utenti che hanno aggiunto questo elemento alla propria lista dei desideri mentre era esaurito
+1. Crea un percorso chiamato “il tuo nome_Luma - Prodotto in riassortimento”
+1. Il percorso deve essere attivato quando un prodotto è di nuovo disponiblie
+1. Invia l’e-mail *Luma - Prodotto in riassortimento* agli
+1. utenti che hanno aggiunto questo elemento alla propria lista dei desideri quando era esaurito
 
 >[!TIP]
 >
-> Utilizza l&#39;evento aziendale esistente. È necessario aggiungere una condizione che controlli che la SKU di ripristino sia inclusa nel salvataggio del tipo di evento (qualsiasi) per i secondi.
+> Utilizza l’evento di business esistente. È necessario aggiungere una condizione per verificare che lo SKU di riassortimento sia incluso nel (qualsiasi) tipo di evento Salva per dopo.
 
 +++**CRITERI DI SUCCESSO**
 
 Test del percorso:
 
-1. Assicurati che l&#39;evento di qualificazione del segmento abbia Namespace = Email
-1. Ignora i parametri e-mail predefiniti e impostali sul tuo indirizzo e-mail (vedi e-mail n. 1 per le istruzioni)
-1. Impostare il percorso sulla modalità di prova
+1. Assicurati che l’evento di qualificazione del segmento abbia Spazio dei nomi = E-mail
+1. Sostituisci i parametri e-mail predefiniti e impostali sul tuo indirizzo e-mail (consulta e-mail #1 per le istruzioni)
+1. Imposta il percorso in modalità di test
 1. Attiva un evento - immetti i dati seguenti:
 
-   * Descrizione: Dimenticate macchine fantasia e appartenenze costose - l&#39;Harmony Lumaflex Resistenza Kit è tutto ciò che serve per un allenamento incredibile. Il kit ha tutto il necessario per una serie di esercizi di rinforzo e tonificazione.
-   * Nome: Armonia Lumaflex Band Kit
+   * Descrizione: dimenticate i macchinari sofisticati e gli abbonamenti costosi - Harmony Lumaflex Strength Band Kit è tutto ciò che serve per un allenamento incredibile. Il kit presenta tutto il necessario per una serie di esercizi rinforzanti e tonificanti.
+   * Nome: Harmony Lumaflex Strength Band Kit
    * Prezzo: 22
    * ID prodotto: 24/UG03
-   * URL immagine prodotto: https://publish1034.adobedemo.com/content/dam/luma/en/products/gear/fitness-equipment/ug03-bk-0.jpSKU 24/UG03
-   * Tipo evento stock: ribaltamento
+   * URL immagine prodotto: https://publish1034.adobedemo.com/content/dam/luma/en/products/gear/fitness-equipment/ug03-bk-0.jp SKU: 24-UG03
+   * Tipo evento magazzino: riassortimento
    * Identificatore profilo: Jenna_Palmer9530@emailsim.io
 
-Dovresti ricevere l’e-mail &quot;Luma Email Product Replenitution&quot; con i dettagli del prodotto e la personalizzazione per Jenna.
+Dovresti ricevere l’e-mail “Email Luma Riassortimento prodotto” con i dettagli del prodotto e la personalizzazione per Jenna.
 
 +++
 
-+++**CONTROLLA IL TUO LAVORO**
++++**VERIFICA IL TUO LAVORO**
 
-Ecco come dovrebbe essere il tuo percorso:
+Ecco come dovrebbe apparire il tuo percorso:
 
-![Percorso di rifornimento del prodotto](/help/challenges/assets/c3-j3-journey.png)
+![Percorso di riassortimento del prodotto](/help/challenges/assets/c3-j3-journey.png)
 
-Condizione: Nella lista dei desideri
+Condizione: nella lista dei desideri
 
-![Condizione - in wishlist](/help/challenges/assets/c3-j3-condition.png)
+![Condizione - nella lista dei desideri](/help/challenges/assets/c3-j3-condition.png)
 
 Codice condizione:
 
