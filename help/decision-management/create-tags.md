@@ -8,7 +8,7 @@ exl-id: 155a35bf-8704-4e85-8647-479aecd2a9ce
 source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
 workflow-type: tm+mt
 source-wordcount: '105'
-ht-degree: 73%
+ht-degree: 92%
 
 ---
 
@@ -22,4 +22,4 @@ Per ulteriori informazioni su come creare tag con un’API, consulta la [guida d
 
 >[!INFO]
 >
-> Questo video fa parte di un corso, [Guida introduttiva alla gestione delle decisioni per gli addetti al marketing](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)disponibile gratuitamente all&#39;Experience League!
+> Questo video fa parte del corso [Guida introduttiva alla gestione delle decisioni per gli esperti di marketing](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponibile gratuitamente su Experience League.

@@ -10,7 +10,7 @@ exl-id: 8fa673de-9be9-4ab2-94cf-cfa8ac518223
 source-git-commit: 8a2062f0719e799dd2d039488e6bba943fb458c4
 workflow-type: tm+mt
 source-wordcount: '349'
-ht-degree: 5%
+ht-degree: 9%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 5%
 
 Questa esercitazione è stata progettata per gli amministratori e i data engineer incaricati di fornire un ambiente di formazione Adobe Journey Optimizer. Scopri i passaggi necessari per configurare gli schemi, acquisire dati di esempio e creare eventi. Inoltre, creerai tre profili di test che consentono agli studenti di controllare il loro lavoro.
 
-I dati di esempio forniti si basano su una società di abbigliamento atletico fittizia denominata _[!DNL Luma]_. [!DNL Luma] ha negozi in più paesi, una presenza online con un sito web e app mobili. [!DNL Luma] utilizza Adobe Journey Optimizer per fornire ai propri clienti esperienze personalizzate, contestuali ed connesse.
+I dati di esempio forniti si basano su una società di abbigliamento atletico fittizia denominata _[!DNL Luma]_. [!DNL Luma] ha negozi in più paesi, una presenza online con un sito web e app mobili. [!DNL Luma] utilizza Adobe Journey Optimizer per fornire ai propri clienti esperienze connesse, contestuali e personalizzate.
 
 Al termine di questa esercitazione, disporrai di una sandbox che supporta la funzione [!DNL Luma] casi d&#39;uso coperti negli esercizi pratici nella [Sfide Journey Optimizer](/help/challenges/introduction-and-prerequisites.md) sezione .
 
@@ -43,7 +43,7 @@ Prima di iniziare a configurare la sandbox di formazione, assicurati di disporre
 
       Questi file contengono i dati di esempio inseriti nella sandbox.
 
-   1. Apri ciascun file e trova **`yourOrganizationID`** e sostituiscilo con il tuo [ID organizzazione](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=en).
+   1. Apri ciascun file e trova **`yourOrganizationID`** e sostituiscilo con il tuo [ID organizzazione](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=it).
 
    1. Salva i file.
 

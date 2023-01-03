@@ -52,7 +52,7 @@ Inizia creando un [!UICONTROL namespace] per [!DNL Luma Loyalty ID] schema:
 
 ## Passaggio 2: Creare schemi
 
-In questo passaggio è possibile definire la struttura dei dati di esempio creando sei [[!UICONTROL schemi]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html):
+In questo passaggio è possibile definire la struttura dei dati di esempio creando sei [[!UICONTROL schemi]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=it):
 
 * [[!DNL Luma Loyalty Schema]](#create-luma-loyalty-schema)
 
