@@ -1,7 +1,7 @@
 ---
-source-git-commit: 856a8da9fd383f6bf7562e53bebb1d7ec3dd98f9
+source-git-commit: 906e7a0f1f258d53605d1a155214c61a5335285b
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '294'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,7 @@ prevede il rispetto di tale codice. Segnala comportamenti inaccettabili all’in
 
 ## Documentazione della guida per i collaboratori
 
-Consulta la [Guida per i collaboratori](https://docs.adobe.com/content/help/it-IT/contributor/contributor-guide/introduction.html).
+Consulta la [Guida per i collaboratori](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=it).
 
 ## Hai una domanda?
 
@@ -36,7 +36,7 @@ come parte del progetto. [Firma il Contratto di licenza da collaboratore](http:/
 
 Tutti gli invii devono pervenire sotto forma di richieste di pull e devono essere revisionati
 dai committenti del progetto. Per ulteriori informazioni sull’invio di richieste di pull,
-consulta la [Documentazione sulle richieste di pull di GitHub](https://help.github.com/it/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
+consulta la [Documentazione sulle richieste di pull di GitHub](https://help.github.com/it/articles/about-pull-requests/).
 
 <!--
 Lastly, please follow the [pull request template](PULL_REQUEST_TEMPLATE.md) when
