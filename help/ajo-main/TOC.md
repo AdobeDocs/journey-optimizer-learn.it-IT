@@ -2,7 +2,7 @@
 user-guide-title: Tutorial su Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Di seguito sono elencati i tutorial di Journey Optimizer.
-source-git-commit: 615038fe6d2a3e8e48d9533a6e87a452bf3d7447
+source-git-commit: 8f2b7582a3d7bf4964d8780413b19e29f44b472b
 workflow-type: tm+mt
 source-wordcount: '289'
 ht-degree: 94%
@@ -78,13 +78,13 @@ ht-degree: 94%
       + [Configurare i connettori di origini](/help/set-up-data/configure-source-connectors.md)
    + Configurare i canali {#channel-configuration}
       + [Impostare il canale e-mail](/help/set-up-channels/set-up-email-channel.md)
-      + [Configurare le credenziali API SMS e le superfici del canale](/help/set-up-channels/set-up-sms-channel.md)
       + [Delegare sottodomini CName](/help/set-up-channels/delegate-cname-subdomains.md)
+      + [Configurare le credenziali API SMS e le superfici del canale](/help/set-up-channels/set-up-sms-channel.md)
       + [Configurare le regole di frequenza dei messaggi](/help/administration/configure-frequency-rules.md)
    + Configurare i percorsi {#journey-configuration}
-      + [Configurare le origini dati](/help/set-up-journeys/configure-data-sources.md)
-      + [Creare gli eventi](/help/set-up-journeys/create-events.md)
-      + [Creare azioni](/help/set-up-journeys/create-actions.md)
+   + [Configurare le origini dati](/help/set-up-journeys/configure-data-sources.md)
+   + [Creare gli eventi](/help/set-up-journeys/create-events.md)
+   + [Creare azioni](/help/set-up-journeys/create-actions.md)
 + Controllo dell’accesso {#access-control}
    + [Gestione degli accessi](/help/set-up-access/access-management.md)
    + [Creare e gestire sandbox](/help/set-up-access/create-and-manage-sandboxes.md)
