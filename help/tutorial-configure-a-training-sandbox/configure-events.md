@@ -8,10 +8,10 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: db681243c066911af03b75f045a4dc4a990daa7d
+source-git-commit: 70815c3cd30de22aad7ec667b8baf9b4c8642491
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 9%
+source-wordcount: '198'
+ht-degree: 10%
 
 ---
 
@@ -23,13 +23,9 @@ Guarda il video [Creare eventi](/help/set-up-journeys/create-events.md) per info
 
 ## Creare l’evento di acquisto online Luma
 
-1. Dalla navigazione a sinistra, passa a [!UICONTROL AMMINISTRAZIONE] e seleziona *[!UICONTROL Configurazione]*
-1. Da [!UICONTROL Dashboard], seleziona *[!UICONTROL Gestione*]* Eventi
+Quando utilizzi questo evento, Journey Optimizer riceve informazioni quando una persona acquista online prodotti luma.
 
-![Gestire gli eventi](assets/create-events.png)
-
-1. Fai clic su *[!UICONTROL Crea evento]*
-1. Compila i dettagli e i parametri dell’evento:
+1. Crea un evento con i seguenti parametri:
 
    | [!UICONTROL Parametro] | [!UICONTROL Valore] |
    |-------------|-----------|
@@ -39,7 +35,7 @@ Guarda il video [Creare eventi](/help/set-up-journeys/create-events.md) per info
    | [!UICONTROL Schema] | `Luma Web Events Schema` |
    | [!UICONTROL Campi] | `eventType` <br>`commerce.order.priceTotal`<br>`commerce.order.purchaseOrderNumber`<br>`commerce.shipping.adress.street1`<br>`commerce.shipping.adress.city`<br>`commerce.shipping.adress.postalCode`<br>`commerce.shipping.adress.state`<br>`productListItems.quantity`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.name`<br>`productListItems.Luma Product Catalog Schema._your Organization_IDprice`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.imageURL`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.url` |
 
-1. Aggiungi il [!UICONTROL Condizione ID evento]: `LumaOnlinePurchase.eventType is commerce.purchases`
+2. Aggiungi il [!UICONTROL Condizione ID evento]: `LumaOnlinePurchase.eventType is commerce.purchases`
 
    1. Seleziona l’icona a forma di matita per modificare il campo
    2. Sulla [!UICONTROL Aggiungere una condizione ID evento] modale, trascina e rilascia la `eventType` sull&#39;area di lavoro
