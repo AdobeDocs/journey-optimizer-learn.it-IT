@@ -7,10 +7,10 @@ role: User
 level: Beginner
 hide: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
-source-git-commit: 0e83d8fbad6bd87ed25980251970898cb5b94bc0
+source-git-commit: 2bddc86066f265cda1d2063db8eb37c9f211eb76
 workflow-type: tm+mt
-source-wordcount: '609'
-ht-degree: 100%
+source-wordcount: '570'
+ht-degree: 91%
 
 ---
 
@@ -30,62 +30,34 @@ Durante la navigazione sul sito web Luma, i clienti possono aggiungere prodotti 
 
 Luma chiede di implementare un percorso in Journey Optimizer che avvisa i clienti con un articolo sulla lista dei desideri precedentemente esaurito, quando questo articolo è di nuovo disponibile.
 
-## Definire il segmento - Articoli esauriti sulla lista dei desideri
+>[!BEGINTABS]
 
-Quando i prodotti vengono riassortiti, per eseguire il targeting dei potenziali clienti interessati, crea un segmento costituito da clienti
+>[!TAB Attività]
 
-* che hanno aggiunto almeno un elemento alla loro lista dei desideri (Utilizza tipo di evento: [!UICONTROL Salva per dopo di Commerce])
-* che era **esaurito** negli ultimi tre mesi (utilizza quantità di magazzino = 0)
+## 1. Definisci il segmento - Articoli della lista dei desideri esauriti
+
+Quando i prodotti vengono riassortiti, per eseguire il targeting dei potenziali clienti interessati, crea un segmento costituito da clienti:
+
+* Chi ha aggiunto almeno un elemento al proprio elenco di desideri (Utilizza il tipo di evento: [!UICONTROL Salvataggio Di Commerce Per I Latenti])
+* che era esaurito negli ultimi tre mesi (utilizza quantità di magazzino = 0)
 * e che non lo hanno ancora acquistato.
 
-Assegna un nome al segmento: *il tuo nome - esaurito - lista dei desideri*
-
-+++**VERIFICA IL TUO LAVORO**
-
-Ecco come dovrebbe apparire il tuo segmento:
-
-![Segmento - Articoli esauriti sulla lista dei desideri](/help/challenges/assets/C1-S2.png)
-
-Clienti che hanno aggiunto una voce alla lista dei desideri che non era disponibile negli ultimi 3 mesi:
-
-* Evento: salva per dopo
-   * Includi almeno 1
-   * Se la quantità del magazzino è 0
-
-e che non lo hanno ancora acquistato:
-
-* Escludi tutti i tipi di evento Acquisti in cui lo SKU corrisponde allo SKU dall’**evento Salva per dopo**.
-
 >[!TIP]
-> * Seleziona lo SKU in Salva per dopo nella sezione *Sfoglia variabili*
-> * Utilizza l’opzione di confronto quando rilasci lo SKU in Salva per dopo nel campo evento
+>Escludi tutti i tipi di evento Acquisti in cui lo SKU corrisponde allo SKU dall’*evento Salva per dopo*. Puoi trovare il campo nella *Sfoglia variabili* sezione .
+
+Assegna un nome al segmento: `Out-of-stock-Wishlist`
 
 
-In Eventi, verifica il codice nell’angolo in basso a destra della schermata Modifica segmento. Il codice deve essere simile al seguente:
-
-Codice:
-```(Include have at least 1 Save For Laters event where ((Stock Quantity equals 0)) THENExclude all  Purchases events where ((SKU equals Save For Laters1 SKU)) ) and occurs in last 3 month(s)```
-
-+++
-
-### Crea e-mail - Riassortimento prodotto Luma
-
-Comunica ai clienti che hanno aggiunto un articolo esaurito con una chiamata per iniziare lo shopping ora che l’articolo è di nuovo disponibile.
-
-### Crea il percorso - Notifica per prodotto in riassortimento
+### 2. Creare il percorso - Notifica di ripristino del prodotto
 
 Quando un articolo precedentemente esaurito è di nuovo disponibile, avvisa i clienti che hanno aggiunto un articolo esaurito con una chiamata per iniziare lo shopping ora che l’articolo è di nuovo disponibile.
 
-1. Crea un percorso chiamato “il tuo nome_Luma - Prodotto in riassortimento”
-1. Il percorso deve essere attivato quando un prodotto è di nuovo disponiblie
-1. Invia l’e-mail *Luma - Prodotto in riassortimento* agli
-1. utenti che hanno aggiunto questo elemento alla propria lista dei desideri quando era esaurito
+1. Chiama il percorso: `Product Restock`
+2. Il percorso deve essere attivato quando un prodotto è di nuovo disponiblie
+3. Invia l’e-mail *Luma - Prodotto in riassortimento* agli
+4. utenti che hanno aggiunto questo elemento alla propria lista dei desideri quando era esaurito
 
->[!TIP]
->
-> Utilizza l’evento di business esistente. È necessario aggiungere una condizione per verificare che lo SKU di riassortimento sia incluso nel (qualsiasi) tipo di evento Salva per dopo.
-
-+++**CRITERI DI SUCCESSO**
+>[!TAB Criteri di successo]
 
 Test del percorso:
 
@@ -104,9 +76,14 @@ Test del percorso:
 
 Dovresti ricevere l’e-mail “Email Luma Riassortimento prodotto” con i dettagli del prodotto e la personalizzazione per Jenna.
 
-+++
+>[!TAB Verifica il tuo lavoro]
 
-+++**VERIFICA IL TUO LAVORO**
+Ecco come dovrebbe apparire il tuo segmento:
+
+![Segmento - Articoli esauriti sulla lista dei desideri](/help/challenges/assets/C1-S2.png)
+
+
+
 
 Ecco come dovrebbe apparire il tuo percorso:
 
@@ -120,4 +97,29 @@ Codice condizione:
 
 ```in(@{LumaProductRestock._wwfovlab065.sku},#{ExperiencePlatform.ExperienceEvents.experienceevent.all(currentDataPackField.eventType=="commerce.saveForLaters").productListItems.all().SKU})```
 
-+++
+
+>[!TIP]
+> * Seleziona lo SKU in Salva per dopo nella sezione *Sfoglia variabili*
+> * Utilizza l’opzione di confronto quando rilasci lo SKU in Salva per dopo nel campo evento
+
+
+In Eventi, verifica il codice nell’angolo in basso a destra della schermata Modifica segmento. Il codice deve essere simile al seguente:
+
+Codice:
+```(Include have at least 1 Save For Laters event where ((Stock Quantity equals 0)) THENExclude all  Purchases events where ((SKU equals Save For Laters1 SKU)) ) and occurs in last 3 month(s)```
+
+>[!ENDTABS]
+
+### Crea e-mail - Riassortimento prodotto Luma
+
+Comunica ai clienti che hanno aggiunto un articolo esaurito con una chiamata per iniziare lo shopping ora che l’articolo è di nuovo disponibile.
+
+
+
+>[!TIP]
+>
+> Utilizza l’evento di business esistente. È necessario aggiungere una condizione per verificare che lo SKU di riassortimento sia incluso nel (qualsiasi) tipo di evento Salva per dopo.
+
+
+
+
