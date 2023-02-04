@@ -6,89 +6,34 @@ doc-type: tutorial
 kt: 9382
 role: Admin
 level: Beginner
+hide: true
 recommendations: noDisplay, noCatalog
 exl-id: 5e7bf81d-4d70-48ef-b357-c361b28359db
-source-git-commit: 8a2062f0719e799dd2d039488e6bba943fb458c4
+source-git-commit: a0f089635df6af8fce9127083ecf582a56b5d569
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '85'
 ht-degree: 8%
 
 ---
 
-# Inserire i dati manualmente
+# Creare set di dati e acquisire dati
 
-Questa sezione descrive i passaggi necessari per creare set di dati e acquisire dati di esempio.
+La seguente esercitazione video spiega come creare manualmente set di dati e acquisire dati:
 
->[!TIP]
->
-> Guarda il tutorial video [Creare set di dati e acquisire dati](/help/set-up-data/create-datasets-and-ingest-data.md) prima di iniziare.
+>[!VIDEO](https://video.tv.adobe.com/v/334293?quality=12)
 
-Ne creerai cinque [!UICONTROL set di dati] basato sulla Luma [!UICONTROL schemi] creato in [sezione precedente](/help/tutorial-configure-a-training-sandbox/manual-data-set-up.md). Una volta creati i set di dati, puoi acquisire i dati dai file JSON scaricati e modificati. (Vedi [Introduzione e prerequisiti](/help/tutorial-configure-a-training-sandbox/introduction-and-prerequisites.md) per istruzioni).
 
-## Creare il primo set di dati
+Crea i seguenti set di dati:
 
-Creare un set di dati denominato *[!DNL Luma Loyalty Data]* da [!DNL Luma Loyalty schema]
+![Creare set di dati](/help/tutorial-configure-a-training-sandbox/assets/datasets.png)
 
-1. Dalla navigazione a sinistra, sotto [!UICONTROL GESTIONE DATI], seleziona **[!UICONTROL Set di dati]**.
+Se non lo hai già fatto, scarica i seguenti file JSON con i dati di esempio e trasferisci i dati nei rispettivi set di dati:
 
-1. Seleziona **[!UICONTROL Creare un set di dati]**.
+* [luma-crm-data](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-crm-data.json)
+* [luma-loyalty-data](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-loyalty-data.json)
+* [luma-product-catalog-data](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-product-catalog-data.json)
+* [luma-test-profile-data](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-test-profiles-data.json)
 
-   ![Creare un set di dati](assets/create-dataset.png)
-
-1. Nella pagina successiva, seleziona [!UICONTROL Creare un set di dati dallo schema].
-
-   ![Creare un set di dati da uno schema](assets/create-dataset-from-schema.png)
-
-1. Nella pagina successiva, cerca il *[!DNL Luma Loyalty]* schema creato in precedenza.
-
-1. Seleziona *[!DNL Luma Loyalty]*.
-
-1. Fai clic su **[!UICONTROL Avanti]**.
-
-   ![Ricerca e selezione dello schema](assets/create-dataset-select-schema.png)
-
-1. Configura il set di dati:
-
-   * Nome: `Luma Loyalty Data`
-
-1. Fai clic su **[!UICONTROL Fine]**.
-
-   ![Configurare il set di dati](assets/create-dataset-configure.png)
-
-## Inserire dati di esempio
-
-Dopo aver creato un set di dati, puoi inserire i dati nel set di dati.
-
-1. Sulla [!DNL Luma Loyalty Data] , scorri verso il basso nella parte inferiore del pannello di destra fino al [!UICONTROL AGGIUNGI DATI] e abilita:
-
-   * **[!UICONTROL Diagnostica degli errori]** e
-
-   * **[!UICONTROL Acquisizione parziale]**
-
-   ![Acquisisci dati](assets/ingest-data.png)
-
-1. Trascina e rilascia la `luma-loyalty.json` per caricare dati di esempio nel set di dati.
-
-1. Aggiorna la pagina e controlla lo stato del batch per confermare che il file sia stato acquisito correttamente.
-
-   375 record avrebbero dovuto essere acquisiti. L’acquisizione dei dati potrebbe richiedere un paio di minuti.
-
->[!TIP]
->
->Se il batch non riesce, assicurati di aver sostituito l&#39;ID organizzazione nel `luma-loyalty.json` file con il tuo [ID organizzazione](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=it).
-
-## Crea cinque ulteriori [!UICONTROL set di dati]
-
-Quindi, crea i seguenti cinque ulteriori [!UICONTROL set di dati] e inserire i dati nel `Luma CRM Data`, `Luma Products Data`e `Luma Test Profiles` set di dati.
-
-| Nome set di dati | Da schema | File da acquisire | Record |
-| -----| ------ | -------| ------- |
-| `Luma CRM Data` | `Luma CRM` | `luma-crm.json` | 500 |
-| `Luma Products Data` | `Luma Products` | `luma-products.json` | 92 |
-| `Luma Product Interactions Data` | `Luma Product Interactions` | Nessuno | 0 |
-| `Luma Product Inventory Events` | `Luma Product Inventory Events` | Nessuno | 0 |
-| `Luma Test Profiles` | `Luma Test Profiles` | `luma-test-profiles.json` | 3 |
-
-## Passaggi successivi
+## Passaggio successivo
 
 Hai creato tutti i set di dati richiesti e acquisito i dati di esempio. La fase finale è [configurare eventi](/help/tutorial-configure-a-training-sandbox/configure-events.md).
