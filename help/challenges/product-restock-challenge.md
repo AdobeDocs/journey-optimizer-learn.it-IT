@@ -7,10 +7,10 @@ role: User
 level: Beginner
 hide: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
-source-git-commit: 2f7074e5d9109cdbc1db69f6f5c48667b2276da7
+source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
 workflow-type: tm+mt
-source-wordcount: '581'
-ht-degree: 86%
+source-wordcount: '580'
+ht-degree: 72%
 
 ---
 
@@ -19,12 +19,12 @@ ht-degree: 86%
 | Sfida | Riassortimento del prodotto |
 |---|---|
 | Persona | Gestione del percorso |
-| Competenze richieste | <ul><li>[Creare segmenti](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-segments.html?lang=it)</li><li> [Importare e creare contenuti e-mail HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/import-and-author-html-email-content.html?lang=it)</li><li>[Caso d’uso: attività “Leggi segmento”](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=it)</li> |
+| Competenze richieste | <ul><li>[Creare segmenti](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=it)</li><li> [Importare e creare contenuti e-mail HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=en)</li><li>[Caso d’uso: attività “Leggi segmento”](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=it)</li> |
 | Risorse da scaricare | [File e-mail di ripristino del prodotto](/help/challenges/assets/email-assets/ProductRestockEmail.html.zip) |
 
 ## Il contesto
 
-Durante la navigazione sul sito web Luma, i clienti possono aggiungere prodotti di loro interesse a una lista di desideri, che consente a Luma di inviare ai clienti messaggi di marketing mirati e informazioni sui prodotti.
+Durante la navigazione nel sito web Luma, i clienti possono aggiungere prodotti di loro interesse a una lista di desideri, che consente a Luma di inviare ai clienti messaggi di marketing mirati e informazioni sui prodotti.
 
 ## La tua sfida
 
@@ -39,7 +39,7 @@ Luma chiede di implementare un percorso in Journey Optimizer che avvisa i client
 Quando i prodotti vengono riassortiti, per eseguire il targeting dei potenziali clienti interessati, crea un segmento costituito da clienti:
 
 * Chi ha aggiunto almeno un elemento al proprio elenco di desideri (Utilizza il tipo di evento: [!UICONTROL Salvataggio Di Commerce Per I Latenti])
-* che era esaurito negli ultimi tre mesi (utilizza quantità di magazzino = 0)
+* Che è stato esaurito negli ultimi tre mesi (utilizzare la quantità delle scorte = 0)
 * e che non lo hanno ancora acquistato.
 
 >[!TIP]
@@ -54,7 +54,7 @@ Quando un articolo precedentemente esaurito è di nuovo disponibile, avvisa i cl
 
 1. Chiama il percorso: `Product Restock`
 2. Il percorso deve essere attivato quando un prodotto è di nuovo disponiblie
-3. Invia *E-mail di ripristino del prodotto* invia a
+3. Invia *E-mail di ripristino del prodotto* a
 4. utenti che hanno aggiunto questo elemento alla propria lista dei desideri quando era esaurito
 
 >[!TAB Criteri di successo]
@@ -101,7 +101,7 @@ Codice condizione:
 > * Utilizza l’opzione di confronto quando rilasci lo SKU in Salva per dopo nel campo evento
 
 
-In Eventi, verifica il codice nell’angolo in basso a destra della schermata Modifica segmento. Il codice deve essere simile al seguente:
+Controlla il codice nell&#39;angolo in basso a destra della schermata Modifica segmento, in Eventi. Il codice deve essere simile al seguente:
 
 Codice:
 ```(Include have at least 1 Save For Laters event where ((Stock Quantity equals 0)) THENExclude all  Purchases events where ((SKU equals Save For Laters1 SKU)) ) and occurs in last 3 month(s)```
@@ -116,7 +116,7 @@ Comunica ai clienti che hanno aggiunto un articolo esaurito con una chiamata per
 
 >[!TIP]
 >
-> Utilizza l’evento di business esistente. È necessario aggiungere una condizione per verificare che lo SKU di riassortimento sia incluso nel (qualsiasi) tipo di evento Salva per dopo.
+> Utilizza l’evento di business esistente. Aggiungi una condizione che controlla che il codice SKU di ripristino sia incluso nel salvataggio del tipo di evento (qualsiasi) per le versioni successive.
 
 
 

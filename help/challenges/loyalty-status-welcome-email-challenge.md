@@ -7,10 +7,10 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 2bddc86066f265cda1d2063db8eb37c9f211eb76
+source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
 workflow-type: tm+mt
-source-wordcount: '426'
-ht-degree: 86%
+source-wordcount: '425'
+ht-degree: 85%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 86%
 | Sfida | Creare un messaggio e-mail di benvenuto di per lo stato di fedeltà |
 |---|---|
 | Persona | Gestione del percorso |
-| Competenze richieste | <ul><li>[Creare segmenti](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=it)</li> <li>[Qualificazione del segmento](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html?lang=it)</li><li>[Importare contenuto HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=it)</li></ul> |
+| Competenze richieste | <ul><li>[Creare segmenti](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=it)</li> <li>[Qualificazione del segmento](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html?lang=it)</li><li>[Importare contenuto HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html)</li></ul> |
 | Risorse da scaricare | [StatusUpgradeEmail.zip](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip) |
 
 ## Il contesto
@@ -44,7 +44,7 @@ Quando un cliente fidelizzato si qualifica per il livello platino, deve ricevere
 2. Crea un percorso denominato `Luma – New Status – platinum`.
    1. Un cliente entra nel percorso quando è idoneo per il livello di fedeltà platino.
    2. Il cliente deve ricevere un messaggio e-mail contrassegnato `Luma – Platinum Status - Welcome`, con l’oggetto `Welcome to Platinum Status, {firstName}!` e il corpo dell’e-mail fornito dal team creativo. Si tratta di un messaggio e-mail [!UICONTROL transazionale].
-   3. Durante il caricamento del file HTML, noti che l’e-mail si riferisce allo stato “diamante”, invece di “platino”. Invece di richiedere un nuovo file al team creativo, aggiorna l’e-mail nel [!UICONTROL progettista di posta elettronica].
+   3. Durante il caricamento del file HTML, noti che l’e-mail si riferisce allo stato “diamante”, invece di “platino”. Invece di richiedere un nuovo file al team creativo, aggiorna l’e-mail nel [!UICONTROL E-mail Designer].
 
 >[!TAB Criteri di successo]
 
