@@ -5,7 +5,7 @@ breadcrumb-title: Journey Optimizer - Sfide
 breadcrumb-url: /docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html
 index: false
 hide: true
-source-git-commit: e148101f8404c8e2019ee17823bcf1d7a9668bc5
+source-git-commit: abd24af6025ddd6483c7da390190b4f981871737
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 100%
@@ -17,6 +17,5 @@ ht-degree: 100%
 
 + [Journey Optimizer - Sfide](/help/challenges/introduction-and-prerequisites.md)
 + [Sfida - Crea un annuncio sulla collezione estiva](/help/challenges/summer-collection-announcement-challenge.md)
-+ [Sfida - Crea un messaggio e-mail di conferma dell’ordine](/help/challenges/order-confirmation-challenge.md)
 + [Sfida - Crea un messaggio e-mail di benvenuto per lo stato di fedeltà](/help/challenges/loyalty-status-welcome-email-challenge.md)
-
++ [Sfida - Crea un messaggio e-mail di conferma dell’ordine](/help/challenges/order-confirmation-challenge.md)
