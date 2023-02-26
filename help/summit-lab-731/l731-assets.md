@@ -8,13 +8,13 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
-source-git-commit: ce271a2bbddd7cd36d773cc9360d9a0724f0c77d
+exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
+source-git-commit: 5557b1d2005c62ce738120e80c3450545725ba65
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '178'
 ht-degree: 6%
 
 ---
-
 
 # Summit Lab L731
 
@@ -38,7 +38,12 @@ In questa pagina sono presenti testi e collegamenti utilizzati nel laboratorio d
 
 ## Lezione 3 Creare un Percorso omni-channel
 
-| Messaggio | Testo | Collegamenti |
+| Messaggio | Testo | Collegamenti | Immagine |
 |----|----|----|
 | SMS | Benvenuto a Vegas Stay. Salta la riga e accedi con l’app mobile: lab://checkin |  |
-| Push | Benvenuto a Vegas Stay. Salta la riga e accedi con l’app mobile | lab://checkin |
+| Push | Benvenuto a Vegas Stay. Salta la riga e accedi con l’app mobile | lab://checkin |  |
+
+
+Questa è l’immagine che utilizziamo per l’SMS e la notifica push:
+
+![Check-In online](/help/assets/vegas_online_check_in.jpeg)
