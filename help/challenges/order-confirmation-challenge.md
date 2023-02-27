@@ -8,9 +8,9 @@ level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
 source-git-commit: e377ddb8b84dccd503274caf9ffa3d4c73eedc28
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '653'
-ht-degree: 50%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 50%
 | Sfida | Crea un messaggio e-mail transazionale di conferma dell’ordine |
 |---|---|
 | Persona | Gestione del percorso |
-| Competenze richieste | <ul><li>[Creare contenuti e-mail con l’editor messaggi](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=en)</li> <li>[Utilizzare informazioni contestuali sugli eventi per la personalizzazione](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=it)</li><li>[Utilizzare funzioni di assistenza per la personalizzazione](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=it)</li></ul> |
+| Competenze richieste | <ul><li>[Creare contenuti e-mail con l’editor messaggi](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=it)</li> <li>[Utilizzare informazioni contestuali sugli eventi per la personalizzazione](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=it)</li><li>[Utilizzare funzioni di assistenza per la personalizzazione](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=it)</li></ul> |
 | Risorse da scaricare | [Risorse di conferma dell’ordine](/help/challenges/assets/email-assets/order-confirmation-assets.zip) |
 
 ## Il contesto
@@ -40,11 +40,11 @@ Crea un percorso che invia un’e-mail di conferma dell’ordine quando un clien
 >[!TAB Attività]
 
 1. Crea un percorso denominato `Luma - Order Confirmation`
-2. Utilizza l’evento : `LumaOnlinePurchase`
-3. Crea un **transazionale**  e-mail chiamata `Luma - Order Confirmation`
-* L&#39;oggetto &quot;Grazie per il tuo acquisto, `FirstName`&quot;
+2. Utilizza l’evento: `LumaOnlinePurchase`
+3. Crea un’e-mail **transazionale** denominata `Luma - Order Confirmation`
+* L’oggetto “Grazie per il tuo acquisto, `FirstName`”
 * Utilizza il modello `Luma - Order summary` e modificalo:
-   * Rimuovi `You may also like` sezioni
+   * Rimuovi le sezioni `You may also like`
    * Aggiungi il collegamento per annullare l’abbonamento nella parte inferiore dell’e-mail
 
 L’e-mail deve essere strutturata nel modo seguente:
@@ -58,7 +58,7 @@ L’e-mail deve essere strutturata nel modo seguente:
   <td>
       <p>
      <li>luma_logo.png</li>
-    <li>Dovrebbe collegarsi al sito web luma: https://luma.enablementadobe.com/content/luma/us/en.html</li>
+    <li>Deve avere un collegamento al sito web luma: https://luma.enablementadobe.com/content/luma/us/en.html</li>
     <p>
     </td>
   </tr>
@@ -85,25 +85,25 @@ L’e-mail deve essere strutturata nel modo seguente:
       </div>
       <p>
       <li>Il nome e il cognome provengono dal profilo
-      <li>Sostituisci l’indirizzo hardcoded nel modello con il <b>indirizzo di spedizione</b>
-      <li>I dettagli dell’indirizzo sono attributi contestuali dell’evento (strada 1, città, codice postale, stato)
-      <li> Rimuovi <i>Sconto, Totale, Arrivo</i></p>
+      <li>Sostituisci l’indirizzo codificato nel modello con <b>l’indirizzo di spedizione</b>
+      <li>I dettagli dell’indirizzo sono attributi contestuali dell’evento (via 1, città, codice postale, stato)
+      <li> Rimuovi <i>sconto, totale, arrivo</i></p>
   </td>
   <td>
   <p> Spedisci a:</p>
       <em>{firstName} {lastName}<br>
-     {Via 1}<br>
-     {City}, {State} {postalCode}<br></em></p>
+     {Street 1}<br>
+     {City}, {State} {postalCode}<br></em></p>
   </td>
  <tr>
 <td>
   <div>
      <strong>Sezione Dettagli ordine</strong>
       </div>
-       <p><li>Aggiungi questa sezione sotto la <b>Spedisci a</b> sezione .
+       <p><li>Aggiungi questa sezione sotto la sezione <b>Spedisci a</b>.
       </p><br>
       <p><b>Suggerimenti:</b>
-      <li>Utilizzare il componente struttura <b>Colonna 1:2 a sinistra</b> per questa sezione
+      <li>Utilizza il componente della struttura <b>Colonna 1:2 a sinistra</b> per questa sezione
       <li>Si tratta di informazioni contestuali sull’evento.
       <li>Utilizza la [!UICONTROL helper function]: [!UICONTROL Each]
       <li>Passa al formato dell’editor di codice per aggiungere i dati contestuali.
@@ -119,7 +119,7 @@ L’e-mail deve essere strutturata nel modo seguente:
   <p>Il layout di ciascun elemento deve essere simile al seguente:
    <img alt="ordine" src="./assets/c2-order.png"> 
 <p><b>Aggiungi il collegamento al carrello</b>
-<p>Sostituisci l'ID ordine nell'URL con il numero dell'ordine di acquisto:
+<p>Sostituisci l’ID ordine nell’URL con il numero dell’ordine di acquisto:
    <i>https://luma.enablementadobe.com/content/luma/us/en/user/account/order-history/order-details.html?orderId=90845952-c2ea-4872-8466-5289183e4607</i>
 </td>
   </tr>
@@ -132,13 +132,13 @@ L’e-mail deve essere strutturata nel modo seguente:
 
 >[!TAB Criteri di successo]
 
-Attiva il Percorso creato in modalità di test e invia l’e-mail a te stesso:
+Attiva il percorso creato in modalità di test e invia l’e-mail a te stesso:
 
-1. Prima di passare alla modalità di test, sovrascrivi i parametri e-mail da inviare all’e-mail di test al tuo indirizzo e-mail:
+1. Prima di passare alla modalità di prova, sovrascrivi i parametri e-mail da inviare all’e-mail di prova al tuo indirizzo e-mail:
    1. Apri la visualizzazione dei dettagli dell’e-mail.
-   2. Nella sezione Parametri e-mail, fai clic sul simbolo T (abilita sostituzione parametro)
+   2. Nella sezione dei parametri e-mail fai clic sul simbolo T (abilita sostituzione parametro)
    3. Fai clic sul campo Indirizzo
-   4. Nella schermata successiva aggiungi il tuo indirizzo e-mail tra parentesi: *&quot;yourname@yourdomain&quot;* nell’editor espressioni e fai clic su ok.
+   4. Nella schermata successiva aggiungi il tuo indirizzo e-mail tra parentesi: *“yourname@yourdomain”* nell’editor di espressioni e fai clic su ok.
 2. Metti il percorso in modalità di test
 3. Attiva l’evento con i seguenti parametri:
    * Imposta l’identificatore del profilo su: Valore identità:`a8f14eab3b483c2b96171b575ecd90b1`
@@ -152,11 +152,11 @@ Attiva il Percorso creato in modalità di test e invia l’e-mail a te stesso:
    * `State`: CA
    * `Street:` 245 Park Avenue
 
-Dovresti ricevere l’e-mail di conferma dell’acquisto personalizzato.
+Dovresti ricevere l’e-mail di conferma dell’acquisto personalizzata.
 
 * L’oggetto deve avere il nome del profilo di test: Leora
 
-* Questo è l’aspetto del corpo dell’e-mail:
+* Il corpo della tua e-mail dovrebbe essere così:
 
 ![E-mail](/help/challenges/assets/c2-email.png)
 
@@ -171,7 +171,7 @@ Dovresti ricevere l’e-mail di conferma dell’acquisto personalizzato.
 
 **Oggetto:**
 
-Grazie per il tuo acquisto, {{ profile.person.name.firstName }}!
+Grazie per l’acquisto, {{ profile.person.name.firstName }}!
 
 **Sezione spedizione:**
 
@@ -183,7 +183,7 @@ Ecco come dovrebbe apparire il tuo codice:
 {{context.journey.events.454181416.commerce.shipping.address.city}}, {{context.journey.events.454181416.commerce.shipping.address.state}} {{context.journey.events.454181416.commerce.shipping.address.postalCode}}
 ```
 
-*event.45481416* è un numero diverso per te.
+*event.45481416* sarà un numero diverso per te.
 
 SUGGERIMENTO: personalizza separatamente ogni riga
 
@@ -199,7 +199,7 @@ Order #: {{context.journey.events.1627840522.commerce.order.purchaseOrderNumber}
 
 **Elenco dei prodotti:**
 
-Utilizza la funzione “ciascuno” per creare l’elenco dei prodotti. Visualizzale in una tabella. Questo è l&#39;aspetto del codice (con le variabili specifiche come l&#39;ID evento - invece di `454181416` e la tua organizzazione I anziché `techmarketingdemos` ):
+Utilizza la funzione “ciascuno” per creare l’elenco dei prodotti. Visualizzale in una tabella. Il codice dovrebbe essere così (con le variabili specifiche come l’ID evento - invece di `454181416` e la tua organizzazione I anziché `techmarketingdemos` ):
 
 ```javascript
 {{#each context.journey.events.454181416.productListItems as |product|}}<tr> <th class="colspan33"><div class="acr-fragment acr-component image-container" data-component-id="image" style="width:100%;text-align:center;" contenteditable="false"><!--[if mso]><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td style="text-align: center;" ><![endif]--><img src="{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.imageUrl}}" style="height:auto;width:100%;" height="233" width="233"><!--[if mso]></td></tr></table><![endif]--></div></th> <th class="colspan66"><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p><span style="font-weight:700;">{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}</span></p></div></div><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p>${{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.price}}.00</p></div></div></th></tr> {{/each}}
