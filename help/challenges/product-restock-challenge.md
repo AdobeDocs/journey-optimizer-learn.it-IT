@@ -8,9 +8,9 @@ level: Beginner
 hide: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
 source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '580'
-ht-degree: 72%
+ht-degree: 100%
 
 ---
 
@@ -19,8 +19,8 @@ ht-degree: 72%
 | Sfida | Riassortimento del prodotto |
 |---|---|
 | Persona | Gestione del percorso |
-| Competenze richieste | <ul><li>[Creare segmenti](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=it)</li><li> [Importare e creare contenuti e-mail HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=en)</li><li>[Caso d’uso: attività “Leggi segmento”](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=it)</li> |
-| Risorse da scaricare | [File e-mail di ripristino del prodotto](/help/challenges/assets/email-assets/ProductRestockEmail.html.zip) |
+| Competenze richieste | <ul><li>[Creare segmenti](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=it)</li><li> [Importare e creare contenuti e-mail HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=it)</li><li>[Caso d’uso: attività “Leggi segmento”](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=it)</li> |
+| Risorse da scaricare | [File e-mail di rifornimento del prodotto](/help/challenges/assets/email-assets/ProductRestockEmail.html.zip) |
 
 ## Il contesto
 
@@ -28,40 +28,40 @@ Durante la navigazione nel sito web Luma, i clienti possono aggiungere prodotti 
 
 ## La tua sfida
 
-Luma chiede di implementare un percorso in Journey Optimizer che avvisa i clienti con un articolo sulla lista dei desideri precedentemente esaurito, quando questo articolo è di nuovo disponibile. Il team creativo fornisce [File e-mail di ripristino del prodotto](/help/challenges/assets/email-assets/ProductRestockEmail.html.zip).
+Luma chiede di implementare un percorso in Journey Optimizer che avvisa i clienti con un articolo sulla lista dei desideri precedentemente esaurito, quando questo articolo è di nuovo disponibile. Il team creativo fornisce il [file e-mail di rifornimento del prodotto](/help/challenges/assets/email-assets/ProductRestockEmail.html.zip).
 
 >[!BEGINTABS]
 
 >[!TAB Attività]
 
-## 1. Definisci il segmento - Articoli della lista dei desideri esauriti
+## 1. Definisci il segmento - Articoli esauriti nella lista dei desideri
 
 Quando i prodotti vengono riassortiti, per eseguire il targeting dei potenziali clienti interessati, crea un segmento costituito da clienti:
 
-* Chi ha aggiunto almeno un elemento al proprio elenco di desideri (Utilizza il tipo di evento: [!UICONTROL Salvataggio Di Commerce Per I Latenti])
-* Che è stato esaurito negli ultimi tre mesi (utilizzare la quantità delle scorte = 0)
+* che hanno aggiunto almeno un elemento alla loro lista dei desideri (utilizza tipo di evento: [!UICONTROL Salva per dopo di Commerce])
+* elemento che era esaurito negli ultimi tre mesi (utilizza quantità di stock = 0)
 * e che non lo hanno ancora acquistato.
 
 >[!TIP]
->Escludi tutti i tipi di evento Acquisti in cui lo SKU corrisponde allo SKU dall’*evento Salva per dopo*. Puoi trovare il campo nella *Sfoglia variabili* sezione .
+>Escludi tutti i tipi di evento Acquisti in cui la referenza di magazzino corrisponde a quella dall’*evento Salva per dopo*. Puoi trovare il campo nella sezione *Sfoglia variabili*.
 
 Assegna un nome al segmento: `Out-of-stock-Wishlist`
 
 
-### 2. Creare il percorso - Notifica di ripristino del prodotto
+### 2. Crea il percorso - Notifica di rifornimento prodotto
 
 Quando un articolo precedentemente esaurito è di nuovo disponibile, avvisa i clienti che hanno aggiunto un articolo esaurito con una chiamata per iniziare lo shopping ora che l’articolo è di nuovo disponibile.
 
 1. Chiama il percorso: `Product Restock`
 2. Il percorso deve essere attivato quando un prodotto è di nuovo disponiblie
-3. Invia *E-mail di ripristino del prodotto* a
+3. Invia *e-mail di rifornimento del prodotto* a
 4. utenti che hanno aggiunto questo elemento alla propria lista dei desideri quando era esaurito
 
 >[!TAB Criteri di successo]
 
 Test del percorso:
 
-1. Assicurati che l&#39;evento del segmento letto abbia Namespace = `Luma CRM ID`
+1. Assicurati che l’evento del segmento letto abbia lo spazio dei nomi = `Luma CRM ID`
 1. Sostituisci i parametri e-mail predefiniti e impostali sul tuo indirizzo e-mail (consulta e-mail #1 per le istruzioni)
 1. Imposta il percorso in modalità di test
 1. Attiva un evento - immetti i dati seguenti:
@@ -101,7 +101,7 @@ Codice condizione:
 > * Utilizza l’opzione di confronto quando rilasci lo SKU in Salva per dopo nel campo evento
 
 
-Controlla il codice nell&#39;angolo in basso a destra della schermata Modifica segmento, in Eventi. Il codice deve essere simile al seguente:
+Sotto Eventi, verifica il codice nell’angolo in basso a destra della schermata Modifica segmento. Il codice deve essere simile al seguente:
 
 Codice:
 ```(Include have at least 1 Save For Laters event where ((Stock Quantity equals 0)) THENExclude all  Purchases events where ((SKU equals Save For Laters1 SKU)) ) and occurs in last 3 month(s)```
@@ -116,7 +116,7 @@ Comunica ai clienti che hanno aggiunto un articolo esaurito con una chiamata per
 
 >[!TIP]
 >
-> Utilizza l’evento di business esistente. Aggiungi una condizione che controlla che il codice SKU di ripristino sia incluso nel salvataggio del tipo di evento (qualsiasi) per le versioni successive.
+> Utilizza l’evento di business esistente. È necessario aggiungere una condizione per verificare che la referenza di magazzino di riassortimento sia inclusa in qualsiasi tipo di evento Salva per dopo.
 
 
 
