@@ -8,9 +8,9 @@ level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
 source-git-commit: a4f2d3e7f5cd4255d029315ffb21dd44609ebf38
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '425'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 85%
 | Sfida | Creare un messaggio e-mail di benvenuto di per lo stato di fedeltà |
 |---|---|
 | Persona | Gestione del percorso |
-| Competenze richieste | <ul><li>[Creare segmenti](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=it)</li> <li>[Qualificazione del segmento](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html?lang=it)</li><li>[Importare contenuto HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html)</li></ul> |
+| Competenze richieste | <ul><li>[Creare segmenti](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=it)</li> <li>[Qualificazione del segmento](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html?lang=it)</li><li>[Importare contenuto HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=it)</li></ul> |
 | Risorse da scaricare | [StatusUpgradeEmail.zip](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip) |
 
 ## Il contesto
@@ -38,13 +38,13 @@ Ti è stato chiesto di configurare un percorso che invia automaticamente un’e-
 
 >[!TAB Attività]
 
-Quando un cliente fidelizzato si qualifica per il livello platino, deve ricevere un&#39;e-mail per congratularsi e informarlo dei suoi nuovi vantaggi. Il team creativo ha fornito un file HTML **[Luma - aggiornamento dello stato - e-mail di benvenuto](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip)** con il corpo dell’e-mail.
+Quando un cliente fidelizzato si qualifica per il livello platino, dovrebbe ricevere un’e-mail di congratulazioni in cui viene informato sui nuovi vantaggi. Il team creativo ha fornito un file HTML **[Luma - aggiornamento dello stato - e-mail di benvenuto](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip)** con il corpo dell’e-mail.
 
 1. Crea un [!UICONTROL segmento] in Journey Optimizer denominato `Luma – platinum status`.
 2. Crea un percorso denominato `Luma – New Status – platinum`.
    1. Un cliente entra nel percorso quando è idoneo per il livello di fedeltà platino.
    2. Il cliente deve ricevere un messaggio e-mail contrassegnato `Luma – Platinum Status - Welcome`, con l’oggetto `Welcome to Platinum Status, {firstName}!` e il corpo dell’e-mail fornito dal team creativo. Si tratta di un messaggio e-mail [!UICONTROL transazionale].
-   3. Durante il caricamento del file HTML, noti che l’e-mail si riferisce allo stato “diamante”, invece di “platino”. Invece di richiedere un nuovo file al team creativo, aggiorna l’e-mail nel [!UICONTROL E-mail Designer].
+   3. Durante il caricamento del file HTML, noti che l’e-mail si riferisce allo stato “diamante”, invece di “platino”. Invece di richiedere un nuovo file al team creativo, aggiorna l’e-mail nell’[!UICONTROL E-mail Designer].
 
 >[!TAB Criteri di successo]
 
@@ -67,9 +67,9 @@ Ecco come dovrebbe apparire la tua e-mail:
 
 >[!TAB Verifica il tuo lavoro]
 
-Questo è l’aspetto del segmento:
+Il segmento dovrebbe essere così:
 
-![Luma - stato platino - segmento](/help/challenges/assets/segment-luma-platinum-status.png)
+![Luma - stato platino- segmento](/help/challenges/assets/segment-luma-platinum-status.png)
 
 Ecco come dovrebbe apparire il tuo percorso:
 
