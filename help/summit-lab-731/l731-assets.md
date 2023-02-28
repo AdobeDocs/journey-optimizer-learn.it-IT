@@ -9,9 +9,9 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 16031e0e4ef29f5243a7a2e933aa83d7b1fbd7ac
+source-git-commit: 01216aba7c23af67ad131aa24f017f95e6fa9025
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '214'
 ht-degree: 5%
 
 ---
@@ -20,13 +20,21 @@ ht-degree: 5%
 
 In questa pagina sono presenti testi e collegamenti utilizzati nel laboratorio del Summit L731. Consente di copiare e incollare il contenuto nei messaggi Journey Optimizer.
 
-## Lezione 1 - Scaricare e installare l’app
+## Esercizio 1.1 - Scaricare e installare l’app
 
-[http://ajolab.s3-website-us-east-1.amazonaws.com/index.html](http://ajolab.s3-website-us-east-1.amazonaws.com/index.html)
+[Fai clic qui per installare l’app](https://testflight.apple.com/join/H0N5iWvW)
 
-## Lezione 2 - Creazione di campagne mobile
+## Esercizio 1.3: Accedere a Adobe Journey Optimizer
 
-### Esercizio 2.1 Creare una campagna in-app
+[Fai clic qui per accedere a Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home)
+
+**Dettagli di accesso:**
+
+* Nome utente: `L731+<your seat number>@summitlab.us`
+* Password: Adobe 2023!
+
+
+## Esercizio 2.1 Creare una campagna in-app
 
 | Campo | Testo | Collegamenti |
 |----|----|----|
@@ -34,6 +42,7 @@ In questa pagina sono presenti testi e collegamenti utilizzati nel laboratorio d
 | Title | Sta succedendo ed è live! |  |
 | Corpo | L&#39;Adobe Summit torna a Las Vegas dal 21 al 23 marzo 2023. Preparati per altoparlanti ispiratori, sessioni in espansione delle competenze e nuove connessioni. |  |
 | Pulsante | Prenota subito l&#39;hotel e risparmia il 10% | lab://booking?suite=presidential&amp;discount=10 |
+
 
 
 ## Lezione 3 Creare un Percorso omni-channel
