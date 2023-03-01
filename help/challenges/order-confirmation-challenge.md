@@ -1,16 +1,16 @@
 ---
 title: Crea un messaggio e-mail di conferma dell’ordine
-description: Verifica le tue conoscenze su come creare e personalizzare messaggi transazionali
+description: Verifica le tue conoscenze su come creare e personalizzare messaggi transazionali.
 kt: 7531
 feature: Journeys
 role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: e377ddb8b84dccd503274caf9ffa3d4c73eedc28
-workflow-type: ht
-source-wordcount: '653'
-ht-degree: 100%
+source-git-commit: 6737f81f9cd9fc34740ce60e10c8036e29f97f68
+workflow-type: tm+mt
+source-wordcount: '657'
+ht-degree: 94%
 
 ---
 
@@ -25,11 +25,11 @@ ht-degree: 100%
 | Competenze richieste | <ul><li>[Creare contenuti e-mail con l’editor messaggi](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=it)</li> <li>[Utilizzare informazioni contestuali sugli eventi per la personalizzazione](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=it)</li><li>[Utilizzare funzioni di assistenza per la personalizzazione](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=it)</li></ul> |
 | Risorse da scaricare | [Risorse di conferma dell’ordine](/help/challenges/assets/email-assets/order-confirmation-assets.zip) |
 
+{style=&quot;table-layout:auto&quot;}
+
 ## Il contesto
 
-Luma, lancia il proprio negozio online e vuole garantire un’ottima esperienza cliente fornendo un’e-mail di conferma dell’ordine una volta che un cliente ha effettuato un ordine.
-
-
+Luma sta lanciando il suo negozio online e vuole garantire una buona esperienza del cliente. Forniscono un’e-mail di conferma dell’ordine una volta che un cliente ha effettuato un ordine.
 
 ## La tua sfida
 
@@ -39,20 +39,26 @@ Crea un percorso che invia un’e-mail di conferma dell’ordine quando un clien
 
 >[!TAB Attività]
 
-1. Crea un percorso denominato `Luma - Order Confirmation`
-2. Utilizza l’evento: `LumaOnlinePurchase`
-3. Crea un’e-mail **transazionale** denominata `Luma - Order Confirmation`
-* L’oggetto “Grazie per il tuo acquisto, `FirstName`”
-* Utilizza il modello `Luma - Order summary` e modificalo:
-   * Rimuovi le sezioni `You may also like`
-   * Aggiungi il collegamento per annullare l’abbonamento nella parte inferiore dell’e-mail
+1. Crea un percorso denominato `Luma - Order Confirmation`.
+
+1. Utilizza l’evento: `LumaOnlinePurchase`.
+
+1. Crea un’e-mail **transazionale** denominata `Luma - Order Confirmation`.
+
+   * L’oggetto “Grazie per il tuo acquisto, `FirstName`”
+
+   * Utilizza il modello `Luma - Order summary` e modificalo:
+
+      * Rimuovi le sezioni `You may also like`
+
+      * Aggiungi il collegamento per annullare l’abbonamento nella parte inferiore dell’e-mail
 
 L’e-mail deve essere strutturata nel modo seguente:
 <table>
 <tr>
 <td>
   <div>
-     <strong>Sezione intestazione</strong>
+     <strong> Sezione intestazione</strong>
       </div>
   </td>
   <td>
@@ -65,7 +71,7 @@ L’e-mail deve essere strutturata nel modo seguente:
   <tr>
   <td>
   <div>
-    <strong>Sezione Conferma dell’ordine
+    <strong>Sezione conferma ordine
     </strong>
   </td>
   <td>
@@ -98,7 +104,7 @@ L’e-mail deve essere strutturata nel modo seguente:
  <tr>
 <td>
   <div>
-     <strong>Sezione Dettagli ordine</strong>
+     <strong>Sezione dettagli ordine</strong>
       </div>
        <p><li>Aggiungi questa sezione sotto la sezione <b>Spedisci a</b>.
       </p><br>
@@ -125,7 +131,6 @@ L’e-mail deve essere strutturata nel modo seguente:
   </tr>
 </table>
 
-
 >[!TIP]
 >
 >Per consentire la risoluzione dei problemi dei percorsi, è consigliabile aggiungere un percorso alternativo a tutte le azioni del messaggio in caso di timeout o errore.
@@ -136,11 +141,11 @@ Attiva il percorso creato in modalità di test e invia l’e-mail a te stesso:
 
 1. Prima di passare alla modalità di prova, sovrascrivi i parametri e-mail da inviare all’e-mail di prova al tuo indirizzo e-mail:
    1. Apri la visualizzazione dei dettagli dell’e-mail.
-   2. Nella sezione dei parametri e-mail fai clic sul simbolo T (abilita sostituzione parametro)
-   3. Fai clic sul campo Indirizzo
-   4. Nella schermata successiva aggiungi il tuo indirizzo e-mail tra parentesi: *“yourname@yourdomain”* nell’editor di espressioni e fai clic su ok.
-2. Metti il percorso in modalità di test
-3. Attiva l’evento con i seguenti parametri:
+   1. Nella sezione dei parametri e-mail fai clic sul simbolo T (abilita sostituzione parametro)
+   1. Fai clic sul campo Indirizzo
+   1. Nella schermata successiva aggiungi il tuo indirizzo e-mail tra parentesi: *“yourname@yourdomain”* nell’editor di espressioni e fai clic su ok.
+1. Metti il percorso in modalità di test
+1. Attiva l’evento con i seguenti parametri:
    * Imposta l’identificatore del profilo su: Valore identità:`a8f14eab3b483c2b96171b575ecd90b1`
    * Tipo evento: commerce.purchases
    * `Quantity`: 1
