@@ -1,6 +1,6 @@
 ---
-title: Inserire i dati manualmente
-description: Crea manualmente set di dati e acquisisci dati di esempio.
+title: Creare set di dati e acquisire dati
+description: Crea set di dati e acquisisci manualmente i dati di esempio.
 feature: Sandboxes, Data Management, Application Settings
 doc-type: tutorial
 kt: 9382
@@ -9,25 +9,24 @@ level: Beginner
 hide: true
 recommendations: noDisplay, noCatalog
 exl-id: 5e7bf81d-4d70-48ef-b357-c361b28359db
-source-git-commit: a0f089635df6af8fce9127083ecf582a56b5d569
+source-git-commit: 2a671ad01f1cdb60c731a707b0584bf2f4262d9b
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 8%
+source-wordcount: '88'
+ht-degree: 7%
 
 ---
 
 # Creare set di dati e acquisire dati
 
-La seguente esercitazione video spiega come creare manualmente set di dati e acquisire dati:
+Il seguente tutorial video spiega come creare set di dati e acquisire manualmente i dati:
 
 >[!VIDEO](https://video.tv.adobe.com/v/334293?quality=12)
-
 
 Crea i seguenti set di dati:
 
 ![Creare set di dati](/help/tutorial-configure-a-training-sandbox/assets/datasets.png)
 
-Se non lo hai già fatto, scarica i seguenti file JSON con i dati di esempio e trasferisci i dati nei rispettivi set di dati:
+Se non lo hai già fatto, scarica i seguenti file JSON con i dati di esempio e acquisisci i dati nei rispettivi set di dati:
 
 * [luma-crm-data](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-crm-data.json)
 * [luma-loyalty-data](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-loyalty-data.json)
@@ -36,4 +35,4 @@ Se non lo hai già fatto, scarica i seguenti file JSON con i dati di esempio e t
 
 ## Passaggio successivo
 
-Hai creato tutti i set di dati richiesti e acquisito i dati di esempio. La fase finale è [configurare eventi](/help/tutorial-configure-a-training-sandbox/configure-events.md).
+Hai creato tutti i set di dati richiesti e acquisito i dati di esempio. Il passaggio finale consiste nel [configurare gli eventi](/help/tutorial-configure-a-training-sandbox/configure-events.md).
