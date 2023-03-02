@@ -1,6 +1,6 @@
 ---
 title: Risorse L731
-description: In questa pagina sono presenti testo e collegamenti utilizzati nel laboratorio dell’L731 Summit.
+description: In questa pagina sono presenti testi e collegamenti utilizzati nel Laboratorio di Adobe Summit L731.
 feature: In App, SMS, Push, Email
 doc-type: article
 role: User
@@ -12,13 +12,13 @@ exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
 source-git-commit: b9c836756122dd555cbc1e6150f91e5e5ff9b176
 workflow-type: tm+mt
 source-wordcount: '219'
-ht-degree: 5%
+ht-degree: 78%
 
 ---
 
-# Laboratorio Summit L731
+# Laboratorio di Adobe Summit L731
 
-In questa pagina sono presenti testo e collegamenti utilizzati nel laboratorio dell’L731 Summit. Consente di copiare e incollare il contenuto nei messaggi di Journey Optimizer.
+In questa pagina sono presenti testi e collegamenti utilizzati nel Laboratorio di Adobe Summit L731. Consente di copiare e incollare il contenuto nei messaggi di Journey Optimizer.
 
 ## Esercizio 1.1 - Scaricare e installare l’app
 
@@ -34,27 +34,27 @@ In questa pagina sono presenti testo e collegamenti utilizzati nel laboratorio d
 * Password: Adobe2023!
 
 
-## Esercizio 2.1: Creare una campagna in-app
+## Esercizio 2.1 Creare una campagna in-app
 
 | Campo | Testo | Collegamenti |
 |----|----|----|
 | Nome campagna | `<your seat number> March Vegas Campaign` |  |
-| Opzione URL file multimediale |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
-| Title | Sta succedendo ed è live! |  |
-| Corpo | Adobe Summit ritorna a Las Vegas dal 21 al 23 marzo 2023. Preparati a interlocutori coinvolgenti, sessioni di espansione delle competenze e nuove connessioni. |  |
-| Pulsante | Prenota subito un hotel e risparmia il 10% | lab://booking?suite=presidential&amp;discount=10 |
+| Opzione URL del contenuto multimediale |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
+| Titolo | Sta accadendo ed è in diretta! |  |
+| Corpo | Adobe Summit torna a Las Vegas dal 21 al 23 marzo 2023. Preparati ad ascoltare relatori stimolanti, sessioni per ampliare le competenze e nuove connessioni. |  |
+| Pulsante | Prenota subito l’hotel e risparmia il 10% | lab://booking?suite=presidential&amp;discount=10 |
 | URL di base |  | lab:// |
 
 
 
-## Lezione 3 Creazione di un Percorso Omni-Channel
+## Lezione 3 Creare un percorso omni-channel
 
-| Messaggio | Testo | Collegamento profondo | Media |
+| Messaggio | Testo | Collegamento diretto | Media |
 |----|----|----|----|
-| Push | Benvenuti a Vegas Stay. Ignora la riga e effettua il check-in con l’app mobile | lab://checkin | https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg |
-| SMS | Benvenuti a Vegas Stay. Ignora la riga e effettua il check-in con l’app mobile: lab://checkin |  |
+| Push | Ti diamo il benvenuto a Las Vegas. Salta la fila e fai il check-in con l’app mobile | lab://checkin | https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg |
+| SMS | Ti diamo il benvenuto a Las Vegas. Salta la fila e fai il check-in con l’app mobile: lab://checkin |  |
 
 
-Questa è l’immagine che utilizziamo per l’SMS e la notifica push:
+Questa è l’immagine che viene utilizzata per l’SMS e la notifica push:
 
 ![Check-in online](/help/assets/vegas_online_check_in.jpg)

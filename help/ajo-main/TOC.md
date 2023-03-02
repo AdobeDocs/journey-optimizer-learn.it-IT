@@ -5,7 +5,7 @@ user-guide-description: Questi sono i tutorial di Journey Optimizer.
 source-git-commit: 3bc6680939544f5c4e054a658d1e17e077b9fa63
 workflow-type: tm+mt
 source-wordcount: '293'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -91,4 +91,4 @@ ht-degree: 99%
    + [Creare e gestire sandbox](/help/set-up-access/create-and-manage-sandboxes.md)
 + Privacy {#privacy}
    + [Mascherare i dati nei messaggi](/help/privacy/mask-data-in-messages.md)
-+ [Summit Lab](/help/summit-lab-731/l731-assets.md)
++ [Laboratorio Adobe Summit](/help/summit-lab-731/l731-assets.md)
