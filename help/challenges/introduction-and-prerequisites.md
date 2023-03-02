@@ -6,10 +6,10 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
-workflow-type: ht
-source-wordcount: '456'
-ht-degree: 100%
+source-git-commit: dfa4c8a0fd984bdd1a99e4b0a819dbb9cbd4c321
+workflow-type: tm+mt
+source-wordcount: '463'
+ht-degree: 83%
 
 ---
 
@@ -23,15 +23,18 @@ Ogni sfida in questa sezione riguarda un caso d’uso univoco implementato dall�
 
 ## Prerequisiti
 
+Verifica che siano soddisfatti i seguenti prerequisiti.
+
 ### Requisiti di sistema
 
-* Accesso a una sandbox di Journey Optimizer - consigliamo di completare la richiesta in una sandbox di formazione dedicata.
-* È necessario eseguire il provisioning di AEM Assets Essentials per la tua istanza
-* Il canale e-mail deve essere configurato per i messaggi transazionali e di marketing
+* Accesso a una sandbox di Journey Optimizer: si consiglia di completare la sfida in una sandbox di formazione dedicata.
+* È necessario eseguire il provisioning di AEM Assets Essentials per la tua istanza.
+* Il canale e-mail deve essere configurato per i messaggi transazionali e di marketing.
 
 ### Diritti di accesso
 
 Sono necessari i seguenti diritti di accesso:
+
 * *Gestione del percorso* o *Amministratore del percorso*
 * Visualizzare i profili di test e i relativi attributi
 
@@ -40,8 +43,7 @@ Sono necessari i seguenti diritti di accesso:
 
 ### Azioni necessarie
 
-* Se hai poca esperienza con Adobe Journey Optimizer, completa il corso [Guida introduttiva di Journey Optimizer per amministratori e gestione dei percorsi](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html?lang=it).
-
+* Se hai poca esperienza con Adobe Journey Optimizer, completa il corso [Guida introduttiva di Journey Optimizer per amministratori e manager di Percorso](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html?lang=it).
 
 ## Il contesto
 
@@ -86,7 +88,7 @@ Luma sta cercando di promuovere la sua ultima collezione di abbigliamento e di a
     </a>
     </div>
     <p>
-    <em>Inviare un’e-mail di congratulazioni quando un cliente fidelizzato si sposta su un nuovo livello per informarlo dei suoi nuovi vantaggi.</em>
+    <em>Invia un’e-mail di congratulazioni quando un cliente fidelizzato si sposta su un nuovo livello per informarlo dei suoi nuovi vantaggi.</em>
     <p>
     <b>Competenze richieste:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=it"> Creare segmenti</li>
