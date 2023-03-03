@@ -1,5 +1,5 @@
 ---
-title: Risorse L731
+title: Scheda di riferimento L731
 description: In questa pagina sono presenti testi e collegamenti utilizzati nel Laboratorio di Adobe Summit L731.
 feature: In App, SMS, Push, Email
 doc-type: article
@@ -9,14 +9,14 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: b9c836756122dd555cbc1e6150f91e5e5ff9b176
+source-git-commit: 5d9b95a5953994708686a2fbd83d0522fbbeaeb5
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 78%
+source-wordcount: '222'
+ht-degree: 76%
 
 ---
 
-# Laboratorio di Adobe Summit L731
+# Laboratorio di Adobe Summit L731 - Scheda di riferimento rapido
 
 In questa pagina sono presenti testi e collegamenti utilizzati nel Laboratorio di Adobe Summit L731. Consente di copiare e incollare il contenuto nei messaggi di Journey Optimizer.
 
