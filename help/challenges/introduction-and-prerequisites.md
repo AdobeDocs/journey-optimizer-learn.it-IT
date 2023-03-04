@@ -1,15 +1,15 @@
 ---
 title: Sfide di Journey Optimizer - Introduzione e prerequisiti
-description: Scopri le basi della costruzione di un percorso nell’area di lavoro del percorso.
+description: Le sfide forniscono uno scenario e i requisiti necessari per mettere in pratica ciò che hai imparato. Ogni sfida riguarda un caso d’uso univoco implementato dall’utente.
 feature: Journeys
 role: Admin
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: f56ada2b4adeced3a77f2313a1a211f71260d0b7
+source-git-commit: aaf273b8b6fe0a5f33c132cc0113ec2460152349
 workflow-type: tm+mt
-source-wordcount: '463'
-ht-degree: 80%
+source-wordcount: '475'
+ht-degree: 79%
 
 ---
 
