@@ -23,7 +23,7 @@ ht-degree: 100%
 | Competenze richieste | <ul><li>[Creare segmenti](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=it)</li><li> [Importare e creare contenuti e-mail HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=it)</li><li>[Caso d’uso: attività “Leggi segmento”](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=it)</li> |
 | Risorse da scaricare | [File e-mail sulla Collezione stagionale](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip) |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Il contesto
 
@@ -180,15 +180,13 @@ Visualizza l’anteprima del messaggio e-mail con il profilo di test *Louise Pet
 >
 >1. Assicurati che [!UICONTROL Attività Leggi segmento] presenti lo spazio dei nomi impostato su **ID CRM Luma (lumaCrmId)**
 >1. Per ogni e-mail, sovrascrivi i parametri e-mail predefiniti per le e-mail in modo che vengano inviati al tuo indirizzo e-mail:
-   >    * Mostra i valori nascosti facendo clic sul simbolo a forma di occhio.
-   >    * Nei parametri e-mail, fai clic sul simbolo T (abilita sostituzione parametro).
-
-      >
-      >      ![Sostituisci i parametri e-mail](/help/challenges/assets/c3-override-email-paramters.jpg)
-   > 
-   >    * Fai clic sul campo [!UICONTROL Indirizzo]
-   >    * Nella schermata successiva, aggiungi il tuo indirizzo e-mail tra parentesi: `"yourname@yourdomain"` nell’editor di espressioni e fai clic su ok.
-
+>    * Mostra i valori nascosti facendo clic sul simbolo a forma di occhio.
+>    * Nei parametri e-mail, fai clic sul simbolo T (abilita sostituzione parametro).
+>
+>      ![Sostituisci i parametri e-mail](/help/challenges/assets/c3-override-email-paramters.jpg)
+> 
+>    * Fai clic sul campo [!UICONTROL Indirizzo]
+>    * Nella schermata successiva, aggiungi il tuo indirizzo e-mail tra parentesi: `"yourname@yourdomain"` nell’editor di espressioni e fai clic su ok.
 >
 
 
