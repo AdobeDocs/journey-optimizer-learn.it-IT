@@ -7,8 +7,8 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
 source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
-workflow-type: tm+mt
-source-wordcount: '1178'
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -180,13 +180,15 @@ Visualizza l’anteprima del messaggio e-mail con il profilo di test *Louise Pet
 >
 >1. Assicurati che [!UICONTROL Attività Leggi segmento] presenti lo spazio dei nomi impostato su **ID CRM Luma (lumaCrmId)**
 >1. Per ogni e-mail, sovrascrivi i parametri e-mail predefiniti per le e-mail in modo che vengano inviati al tuo indirizzo e-mail:
->    * Mostra i valori nascosti facendo clic sul simbolo a forma di occhio.
->    * Nei parametri e-mail, fai clic sul simbolo T (abilita sostituzione parametro).
->
->      ![Sostituisci i parametri e-mail](/help/challenges/assets/c3-override-email-paramters.jpg)
-> 
->    * Fai clic sul campo [!UICONTROL Indirizzo]
->    * Nella schermata successiva, aggiungi il tuo indirizzo e-mail tra parentesi: `"yourname@yourdomain"` nell’editor di espressioni e fai clic su ok.
+   >    * Mostra i valori nascosti facendo clic sul simbolo a forma di occhio.
+   >    * Nei parametri e-mail, fai clic sul simbolo T (abilita sostituzione parametro).
+
+      >
+      >      ![Sostituisci i parametri e-mail](/help/challenges/assets/c3-override-email-paramters.jpg)
+   > 
+   >    * Fai clic sul campo [!UICONTROL Indirizzo]
+   >    * Nella schermata successiva, aggiungi il tuo indirizzo e-mail tra parentesi: `"yourname@yourdomain"` nell’editor di espressioni e fai clic su ok.
+
 >
 
 
