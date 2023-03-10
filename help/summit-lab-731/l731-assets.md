@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 16a2a4ab090b96f52555b543cd9d1924dc9f09cb
+source-git-commit: c0b7fa47fac1ad16121d0f568de358c83de44a90
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 49%
+source-wordcount: '258'
+ht-degree: 51%
 
 ---
 
@@ -32,7 +32,7 @@ Esegui la scansione del codice QR per scaricare l’app
 
 >[!TAB Android]
 
-![QR code per Android](/help/assets/lab731-ios-qr-code.png)
+![QR code per Android](/help/assets/lab731-android-qr-code.png)
 
 >[!ENDTABS]
 
@@ -82,8 +82,6 @@ https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_onl
 Questa è l’immagine che utilizziamo per la notifica push:
 
 ![Check-in online](/help/assets/vegas_online_check_in.jpg)
-
-|SMS| ||| |e-mail|{{profile.person.name.firstName}}, hai effettuato il check-in, ora controlla le nostre offerte per il tuo soggiorno!||
 
 >[!TAB Messaggio SMS]
 
