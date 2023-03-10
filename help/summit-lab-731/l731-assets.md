@@ -9,9 +9,9 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: c0b7fa47fac1ad16121d0f568de358c83de44a90
+source-git-commit: 066b26ab466094c90edbde1887867f1aa0a618dc
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '259'
 ht-degree: 51%
 
 ---
@@ -30,7 +30,7 @@ Esegui la scansione del codice QR per scaricare l’app
 
 ![QR code per iOS](/help/assets/lab731-ios-qr-code.png)
 
->[!TAB Android]
+>[!TAB Android™]
 
 ![QR code per Android](/help/assets/lab731-android-qr-code.png)
 
@@ -57,7 +57,7 @@ Esegui la scansione del codice QR per scaricare l’app
 | Corpo | Adobe Summit torna a Las Vegas dal 21 al 23 marzo 2023. Preparati ad ascoltare relatori stimolanti, sessioni per ampliare le competenze e nuove connessioni. |  |
 | Pulsante | Prenota subito l’hotel e risparmia il 10% | lab://booking?suite=presidential&amp;discount=10 |
 | Pulsante: evento interattivo | CTA in-app |  |
-| URL di base |  | iOS: lab:// <br>Android: https://lab |
+| URL di base |  | iOS: lab:// <br>Android™: https://lab |
 
 
 ## Lezione 3 Creare un percorso omni-channel
