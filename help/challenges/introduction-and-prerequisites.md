@@ -1,6 +1,6 @@
 ---
 title: Sfide di Journey Optimizer - Introduzione e prerequisiti
-description: Le sfide forniscono uno scenario e i requisiti necessari per mettere in pratica ciò che hai imparato. Ogni sfida riguarda un caso d’uso univoco implementato dall’utente.
+description: Le sfide forniscono uno scenario e i requisiti necessari per mettere in pratica ciò che hai imparato. Ogni sfida risolve un caso d’uso univoco implementato dall’utente.
 feature: Journeys
 role: Admin
 level: Beginner
@@ -27,7 +27,7 @@ Verifica che siano soddisfatti i seguenti prerequisiti.
 
 ### Requisiti di sistema
 
-* Accesso a una sandbox di Journey Optimizer: si consiglia di completare la sfida in una sandbox di formazione dedicata.
+* Accesso a una sandbox Journey Optimizer: si consiglia di completare la sfida in una sandbox di formazione dedicata.
 * È necessario eseguire il provisioning di AEM Assets Essentials per la tua istanza.
 * Il canale e-mail deve essere configurato per i messaggi transazionali e di marketing.
 
@@ -51,7 +51,7 @@ Luma è un’azienda di abbigliamento sportivo fittizia, con negozi in più paes
 
 Luma sta cercando di promuovere la sua ultima collezione di abbigliamento e di attrezzature e di stimolare le vendite per i propri clienti. Sei stato assunto per implementare le campagne di marketing e fidelizzazione di Luma in Journey Optimizer.
 
-## Le tue sfide
+## Le sfide
 
 <table>
 <tr>
@@ -88,7 +88,7 @@ Luma sta cercando di promuovere la sua ultima collezione di abbigliamento e di a
     </a>
     </div>
     <p>
-    <em>Invia un’e-mail di congratulazioni quando un cliente fidelizzato si sposta su un nuovo livello per informarlo dei suoi nuovi vantaggi.</em>
+    <em>Invia un'e-mail quando un cliente fidelizzato si sposta su un nuovo livello per congratularsi e informarlo dei suoi nuovi vantaggi.</em>
     <p>
     <b>Competenze richieste:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=it"> Creare segmenti</li>
