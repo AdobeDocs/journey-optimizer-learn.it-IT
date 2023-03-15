@@ -1,5 +1,5 @@
 ---
-title: Scheda di riferimento L731
+title: L731 Foglio di carne
 description: In questa pagina sono presenti testi e collegamenti utilizzati nel Laboratorio di Adobe Summit L731.
 feature: In App, SMS, Push, Email
 doc-type: article
@@ -9,34 +9,34 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 55d91b1ebe1b55a2c0a7d2a7e4ff1a63187b7fdf
+source-git-commit: 8e9f7460410a117031598096d81eabd3090647af
 workflow-type: tm+mt
-source-wordcount: '325'
-ht-degree: 40%
+source-wordcount: '327'
+ht-degree: 39%
 
 ---
 
-# Laboratorio di Adobe Summit L731 - Scheda di riferimento rapido
+# Laboratorio di Adobe Summit L731 - Foglio di carne
 
 In questa pagina sono presenti testi e collegamenti utilizzati nel Laboratorio di Adobe Summit L731. Consente di copiare e incollare il contenuto nei messaggi di Journey Optimizer.
 
 ## Esercizio 1.1 - Scaricare e installare l’app
 
-Esegui la scansione del codice QR per scaricare l’app
+Analizza il codice QR per scaricare l&#39;app
 
 >[!BEGINTABS]
 
 >[!TAB iOS]
 
-![QR code per iOS](/help/assets/lab731-ios-qr-code.png)
+![Codice QR per iOS](/help/assets/lab731-ios-qr-code.png)
 
-Ti verrà chiesto di installare Testflight. Dopo aver installato Testflight, seguire i passaggi per installare l&#39;app Vegas Stay:
+Ti verrà chiesto di installare Testflight. Una volta installato Testflight seguire i passaggi per installare l&#39;app Vegas Stay:
 
 ![passaggi per installare iOS](/help/assets/lab731-install-ios.png)
 
 >[!TAB Android™]
 
-![QR code per Android](/help/assets/lab731-android-qr-code.png)
+![Codice QR per Android](/help/assets/lab731-android-qr-code.png)
 
 Se utilizzi il simulatore Android, utilizza questo collegamento: [https://ajolab.s3.amazonaws.com/ajolabapp-release.apk](https://ajolab.s3.amazonaws.com/ajolabapp-release.apk)
 
@@ -44,7 +44,7 @@ Poiché l’app non è registrata in Google Play Store, riceverai un messaggio d
 
 ![Schermata di avviso Android](/help/assets/lab731-install-android.png)
 
-Clic **Installa comunque**
+Fai clic su **Installa comunque**
 
 >[!ENDTABS]
 
@@ -63,12 +63,12 @@ Clic **Installa comunque**
 | Campo | Testo | Collegamenti |
 |----|----|----|
 | Nome campagna | `<your seat number> March Vegas Campaign` |  |
-| Matcher | booknow |  |
+| Matcher | sciocca |  |
 | Opzione URL del contenuto multimediale |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
-| Titolo | Sta accadendo ed è in diretta! |  |
+| Titolo | Sta succedendo ed è live! |  |
 | Corpo | Adobe Summit torna a Las Vegas dal 21 al 23 marzo 2023. Preparati ad ascoltare relatori stimolanti, sessioni per ampliare le competenze e nuove connessioni. |  |
 | Pulsante | Prenota subito l’hotel e risparmia il 10% | lab://booking?suite=presidential&amp;discount=10 |
-| Pulsante: evento interattivo | CTA in-app |  |
+| Pulsante: Evento interattivo | CTA in-app |  |
 | URL di base |  | iOS: lab:// <br>Android™: https://lab |
 
 
@@ -79,12 +79,12 @@ Clic **Installa comunque**
 >[!TAB Messaggio push]
 
 **Titolo:**\
-Benvenuti a Vegas Stay!
+Benvenuto a Vegas Stay!
 
 **Corpo:**\
 Salta la fila e fai il check-in con l’app mobile
 
-**Deeplink:** lab://checkin
+**Collegamento profondo:** lab://checkin
 
 **Media:**
 
@@ -98,7 +98,7 @@ Questa è l’immagine che utilizziamo per la notifica push:
 >[!TAB Messaggio SMS]
 
 **Messaggio:**
-Benvenuti a Vegas Stay. Salta la fila e fai il check-in con l’app mobile: lab://checkin
+Benvenuto a Vegas Stay. Salta la fila e fai il check-in con l’app mobile: lab://checkin
 
 >[!TAB Messaggio e-mail]
 
