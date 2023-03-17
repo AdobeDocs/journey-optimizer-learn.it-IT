@@ -1,6 +1,6 @@
 ---
 title: Creare set di dati e acquisire dati
-description: Crea set di dati e acquisisci manualmente i dati di esempio.
+description: Crea set di dati e acquissci manualmente i dati di esempio.
 feature: Sandboxes, Data Management, Application Settings
 doc-type: tutorial
 kt: 9382
@@ -9,15 +9,15 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: 5e7bf81d-4d70-48ef-b357-c361b28359db
 source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '88'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
 
 # Creare set di dati e acquisire dati
 
-Il seguente tutorial video spiega come creare set di dati e acquisire manualmente i dati:
+Il seguente video tutorial spiega come creare set di dati e acquisire manualmente i dati:
 
 >[!VIDEO](https://video.tv.adobe.com/v/334293?quality=12)
 
@@ -34,4 +34,4 @@ Se non lo hai già fatto, scarica i seguenti file JSON con i dati di esempio e a
 
 ## Passaggio successivo
 
-Hai creato tutti i set di dati richiesti e acquisito i dati di esempio. Il passaggio finale consiste nel [configurare gli eventi](/help/tutorial-configure-a-training-sandbox/configure-events.md).
+Hai creato tutti i set di dati richiesti e acquisito i dati di esempio correttamente. Il passaggio finale consiste nel [configurare gli eventi](/help/tutorial-configure-a-training-sandbox/configure-events.md).
