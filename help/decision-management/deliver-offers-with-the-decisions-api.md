@@ -1,15 +1,15 @@
 ---
 title: Distribuisci le offerte con l’API dell’hub Decisions
-description: Scopri come distribuire le offerte di Gestione delle decisioni con l’API Decisioni.
+description: Scopri come distribuire le offerte di Gestione delle decisioni con l’API Decisions.
 role: Developer
 feature: Offers
 kt: 6819
 thumbnail: 329919.jpg
 exl-id: 3084c52b-adc8-42bc-a203-5e39bcff77ef
 source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '155'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ Scopri come distribuire le offerte [con l’API dell’hub Decisions](https://ex
 
 >[!INFO]
 >
-> Questo video fa parte del corso [Guida introduttiva alla gestione delle decisioni per gli esperti di marketing](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponibile gratuitamente su Experience League.
+> Questo video fa parte del corso [Guida introduttiva alla gestione delle decisioni per marketer](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponibile gratuitamente su Experience League.
 
 ## Risorse aggiuntive
 
