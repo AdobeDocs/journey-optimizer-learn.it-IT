@@ -288,7 +288,7 @@ Ora hai configurato lo [!UICONTROL spazio dei nomi] e il [!DNL Luma Loyalty sche
 
 1. Aggiungi i seguenti campi all’oggetto `Product Inventory Event Details`:
 
-   | [!UICONTROL Nome campo] | [!UICONTROL Nome visualizzato] | [!UICONTROL Tipo] |
+   | [!UICONTROL Nomecampo] | [!UICONTROL Nome visualizzato] | [!UICONTROL Tipo] |
    |-------------|-----------|----------|
    | `sku` | `SKU` | [!UICONTROL Stringa] |
    | `stockEventType` | `Stock Event Type` | [!UICONTROL Stringa] |
