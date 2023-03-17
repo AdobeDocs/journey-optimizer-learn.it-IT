@@ -5,7 +5,7 @@ recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 2a934b9e833f1dde36a995bcd565fca585e320ec
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '490'
 ht-degree: 100%
 
@@ -107,7 +107,7 @@ La presente guida utente contiene video e tutorial sulle funzioni e caratteristi
     </a>
     </div>
     <p>
-    <em>Il video illustra le problematiche aziendali che è possibile risolvere con la gestione delle decisioni, le funzionalità chiave, l’architettura di base e i principali casi di utilizzo.
+    <em>Il video illustra le sfide aziendali che è possibile risolvere con la gestione delle decisioni, le funzionalità chiave, l’architettura di base e i principali casi di utilizzo.
 
 </em>
     <p>
