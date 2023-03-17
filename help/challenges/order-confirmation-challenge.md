@@ -8,9 +8,9 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
 source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
-workflow-type: tm+mt
-source-wordcount: '657'
-ht-degree: 94%
+workflow-type: ht
+source-wordcount: '654'
+ht-degree: 100%
 
 ---
 
@@ -25,11 +25,11 @@ ht-degree: 94%
 | Competenze richieste | <ul><li>[Creare contenuti e-mail con l’editor messaggi](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=it)</li> <li>[Utilizzare informazioni contestuali sugli eventi per la personalizzazione](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=it)</li><li>[Utilizzare funzioni di assistenza per la personalizzazione](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=it)</li></ul> |
 | Risorse da scaricare | [Risorse di conferma dell’ordine](/help/challenges/assets/email-assets/order-confirmation-assets.zip) |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Il contesto
 
-Luma sta lanciando il suo negozio online e vuole garantire una buona esperienza del cliente. Forniscono un’e-mail di conferma dell’ordine una volta che un cliente ha effettuato un ordine.
+Luma sta lanciando il suo negozio online e vuole garantire un&#39;ottima esperienza del cliente. Una volta che un cliente ha effettuato un ordine, gli viene inviata un’e-mail di conferma.
 
 ## La tua sfida
 
@@ -58,7 +58,7 @@ L’e-mail deve essere strutturata nel modo seguente:
 <tr>
 <td>
   <div>
-     <strong> Sezione intestazione</strong>
+     <strong>Sezione Intestazione</strong>
       </div>
   </td>
   <td>
@@ -71,8 +71,8 @@ L’e-mail deve essere strutturata nel modo seguente:
   <tr>
   <td>
   <div>
-    <strong>Sezione conferma ordine
-    </strong>
+    <strong>Sezione Conferma dell’ordine
+ </strong>
   </td>
   <td>
     <p>
@@ -104,7 +104,7 @@ L’e-mail deve essere strutturata nel modo seguente:
  <tr>
 <td>
   <div>
-     <strong>Sezione dettagli ordine</strong>
+     <strong>Sezione Dettagli ordine</strong>
       </div>
        <p><li>Aggiungi questa sezione sotto la sezione <b>Spedisci a</b>.
       </p><br>
