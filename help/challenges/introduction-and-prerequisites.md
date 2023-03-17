@@ -1,19 +1,19 @@
 ---
-title: Sfide di Journey Optimizer - Introduzione e prerequisiti
-description: Le sfide forniscono uno scenario e i requisiti necessari per mettere in pratica ciò che hai imparato. Ogni sfida risolve un caso d’uso univoco implementato dall’utente.
+title: 'Sfide di Journey Optimizer: introduzione e prerequisiti'
+description: Le sfide forniscono uno scenario e i requisiti necessari per mettere in pratica ciò che hai imparato. Ogni sfida riguarda un caso d’uso specifico implementato dall’utente.
 feature: Journeys
 role: Admin
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
 source-git-commit: aaf273b8b6fe0a5f33c132cc0113ec2460152349
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '475'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
-# Sfide di Journey Optimizer - Introduzione e prerequisiti
+# Sfide di Journey Optimizer: introduzione e prerequisiti
 
 ![Banner per le sfide AJO](./assets/ajo-banner-challenges.png)
 
@@ -27,7 +27,7 @@ Verifica che siano soddisfatti i seguenti prerequisiti.
 
 ### Requisiti di sistema
 
-* Accesso a una sandbox Journey Optimizer: si consiglia di completare la sfida in una sandbox di formazione dedicata.
+* Accesso a una sandbox di Journey Optimizer: consigliamo di completare la sfida in una sandbox di formazione dedicata.
 * È necessario eseguire il provisioning di AEM Assets Essentials per la tua istanza.
 * Il canale e-mail deve essere configurato per i messaggi transazionali e di marketing.
 
@@ -43,7 +43,7 @@ Sono necessari i seguenti diritti di accesso:
 
 ### Azioni necessarie
 
-* Se hai poca esperienza con Adobe Journey Optimizer, completa il corso [Guida introduttiva di Journey Optimizer per amministratori e manager di Percorso](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html?lang=it).
+* Se hai poca esperienza con Adobe Journey Optimizer, completa il corso [Guida introduttiva a Journey Optimizer per amministratori e manager dei percorsi](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html?lang=it).
 
 ## Il contesto
 
@@ -51,7 +51,7 @@ Luma è un’azienda di abbigliamento sportivo fittizia, con negozi in più paes
 
 Luma sta cercando di promuovere la sua ultima collezione di abbigliamento e di attrezzature e di stimolare le vendite per i propri clienti. Sei stato assunto per implementare le campagne di marketing e fidelizzazione di Luma in Journey Optimizer.
 
-## Le sfide
+## Le tue sfide
 
 <table>
 <tr>
@@ -88,7 +88,7 @@ Luma sta cercando di promuovere la sua ultima collezione di abbigliamento e di a
     </a>
     </div>
     <p>
-    <em>Invia un'e-mail quando un cliente fidelizzato si sposta su un nuovo livello per congratularsi e informarlo dei suoi nuovi vantaggi.</em>
+    <em>Invia un’e-mail di congratulazioni quando un cliente fidelizzato passa a un nuovo livello per informarlo dei suoi nuovi vantaggi.</em>
     <p>
     <b>Competenze richieste:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=it"> Creare segmenti</li>
