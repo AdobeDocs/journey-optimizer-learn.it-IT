@@ -1,14 +1,14 @@
 ---
 title: Creare i tag
-description: Scopri come creare tag in Gestione delle decisioni. I tag sono componenti di base facoltativi delle offerte.
+description: Scopri come creare i tag in Gestione delle decisioni. I tag sono componenti di base facoltativi delle offerte.
 feature: Offers
 kt: 6753
 thumbnail: 329374.jpg
 exl-id: 155a35bf-8704-4e85-8647-479aecd2a9ce
 source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '105'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -22,4 +22,4 @@ Per ulteriori informazioni su come creare tag con un’API, consulta la [guida d
 
 >[!INFO]
 >
-> Questo video fa parte del corso [Guida introduttiva alla gestione delle decisioni per gli esperti di marketing](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponibile gratuitamente su Experience League.
+> Questo video fa parte del corso [Guida introduttiva alla gestione delle decisioni per marketer](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponibile gratuitamente su Experience League.
