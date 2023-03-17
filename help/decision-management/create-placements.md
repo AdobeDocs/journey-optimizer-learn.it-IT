@@ -6,7 +6,7 @@ kt: 6736
 thumbnail: 329372.jpg
 exl-id: 71d6fa23-e6e7-49d7-997c-c1b58207dff0
 source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
 ht-degree: 100%
 
@@ -22,4 +22,4 @@ Per ulteriori informazioni su come creare posizionamenti con un’API, consulta 
 
 >[!INFO]
 >
-> Questo video fa parte del corso [Guida introduttiva alla gestione delle decisioni per gli esperti di marketing](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponibile gratuitamente su Experience League.
+> Questo video fa parte del corso [Guida introduttiva alla gestione delle decisioni per marketer](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponibile gratuitamente su Experience League.
