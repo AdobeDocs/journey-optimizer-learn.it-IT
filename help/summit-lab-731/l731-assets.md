@@ -1,5 +1,5 @@
 ---
-title: L731 Foglio di carne
+title: Scheda di riferimento rapido L731
 description: In questa pagina sono presenti testi e collegamenti utilizzati nel Laboratorio di Adobe Summit L731.
 feature: In App, SMS, Push, Email
 doc-type: article
@@ -12,15 +12,15 @@ exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
 source-git-commit: 8e9f7460410a117031598096d81eabd3090647af
 workflow-type: tm+mt
 source-wordcount: '327'
-ht-degree: 39%
+ht-degree: 55%
 
 ---
 
-# Laboratorio di Adobe Summit L731 - Foglio di carne
+# Laboratorio di Adobe Summit L731 - Scheda di riferimento rapido
 
 In questa pagina sono presenti testi e collegamenti utilizzati nel Laboratorio di Adobe Summit L731. Consente di copiare e incollare il contenuto nei messaggi di Journey Optimizer.
 
-## Esercizio 1.1 - Scaricare e installare l’app
+## Esercizio 1.1: scaricare e installare l’app
 
 Analizza il codice QR per scaricare l&#39;app
 
@@ -48,7 +48,7 @@ Fai clic su **Installa comunque**
 
 >[!ENDTABS]
 
-## Esercizio 1.3: Accedere a Adobe Journey Optimizer
+## Esercizio 1.3: accedere a Adobe Journey Optimizer
 
 [Fai clic qui per accedere a Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home)
 
@@ -62,13 +62,13 @@ Fai clic su **Installa comunque**
 
 | Campo | Testo | Collegamenti |
 |----|----|----|
-| Nome campagna | `<your seat number> March Vegas Campaign` |  |
-| Matcher | sciocca |  |
+| Nome della campagna | `<your seat number> March Vegas Campaign` |  |
+| Corrispondenza | booknow |  |
 | Opzione URL del contenuto multimediale |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
 | Titolo | Sta succedendo ed è live! |  |
 | Corpo | Adobe Summit torna a Las Vegas dal 21 al 23 marzo 2023. Preparati ad ascoltare relatori stimolanti, sessioni per ampliare le competenze e nuove connessioni. |  |
 | Pulsante | Prenota subito l’hotel e risparmia il 10% | lab://booking?suite=presidential&amp;discount=10 |
-| Pulsante: Evento interattivo | CTA in-app |  |
+| Pulsante: evento interattivo | CTA in-app |  |
 | URL di base |  | iOS: lab:// <br>Android™: https://lab |
 
 
@@ -79,7 +79,7 @@ Fai clic su **Installa comunque**
 >[!TAB Messaggio push]
 
 **Titolo:**\
-Benvenuto a Vegas Stay!
+Ti diamo il benvenuto a Las Vegas!
 
 **Corpo:**\
 Salta la fila e fai il check-in con l’app mobile
