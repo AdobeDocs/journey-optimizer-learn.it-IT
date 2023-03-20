@@ -3,10 +3,8 @@ user-guide-title: Journey Optimizer - Sfide
 user-guide-description: Verifica la tua conoscenza di Journey Optimizer applicando ciò che hai imparato per risolvere i casi d’uso reali.
 breadcrumb-title: Journey Optimizer - Sfide
 breadcrumb-url: /docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html
-index: false
-hide: true
-source-git-commit: 4fbb578555827ead66aa0d908b70a61f9280516a
-workflow-type: ht
+source-git-commit: 84d1ad8ed2ffa48ccdd5cb8faac1079a98f33c7f
+workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 100%
 
