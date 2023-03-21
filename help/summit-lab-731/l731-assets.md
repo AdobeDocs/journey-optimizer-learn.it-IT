@@ -9,7 +9,7 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: ea4ba49056ad3e575c0953ad963966bcecf54c9f
+source-git-commit: 675f402b8c2ad8511736bbb683922fc07763e247
 workflow-type: tm+mt
 source-wordcount: '355'
 ht-degree: 53%
@@ -120,7 +120,7 @@ Ti verrà chiesto di installare Testflight (passaggi da 1 a 4). Una volta instal
   </td>
   </tr>
 </table>
-&gt;[!TAB Android™]
+&gt;[!TAB Android]
 
 ![Codice QR per Android](/help/assets/lab731-android-qr-code.png)
 
@@ -155,13 +155,13 @@ Fai clic su **Installa comunque**
 | Corpo | Adobe Summit torna a Las Vegas dal 21 al 23 marzo 2023. Preparati ad ascoltare relatori stimolanti, sessioni per ampliare le competenze e nuove connessioni. |  |
 | Pulsante | Prenota subito l’hotel e risparmia il 10% | lab://booking?suite=presidential&amp;discount=10 |
 | Pulsante: evento interattivo | CTA in-app |  |
-| URL di base |  | iOS: lab:// <br>Android™: https://lab |
+| URL di base |  | iOS: lab:// <br>Android&amp;: https://lab |
 
 
 ## Lezione 3 Creare un percorso omni-channel
 
 **Etichetta percorso:**
-<your seat number> - Percorso di benvenuto
+`<your seat number>` - Percorso di benvenuto
 
 >[!BEGINTABS]
 
