@@ -9,7 +9,7 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 3d39dc6e04992175331a3bf2855370359a8d4527
+source-git-commit: 879eeea18f565db742f62d7dbdf65f61341ead2e
 workflow-type: tm+mt
 source-wordcount: '354'
 ht-degree: 53%
@@ -30,7 +30,7 @@ Analizza il codice QR per scaricare l&#39;app
 
 ![Codice QR per iOS](/help/assets/lab731-ios-qr-code.png)
 
-Ti verrà chiesto di installare Testflight (passaggi da 1 a 4). Una volta installato Testflight seguire i passaggi da 5 a 8 per installare l&#39;app Vegas Stay:
+Ti verrà chiesto di installare Testflight, passaggi da 1 a 4. Una volta installato Testflight seguire i passaggi da 5 a 8 per installare l&#39;app Vegas Stay:
 
 <table>
 <tr>
@@ -41,7 +41,7 @@ Ti verrà chiesto di installare Testflight (passaggi da 1 a 4). Una volta instal
       <p>
       <b>Passaggio 1 </b>
       <p>
-      <a href="Step 1:">
+      <a href="Step 1">
         <img alt="volo di prova 1" src="../assets/l731-ios-install/ios-install-1.png"/>
       </a>
       </div>
@@ -51,7 +51,7 @@ Ti verrà chiesto di installare Testflight (passaggi da 1 a 4). Una volta instal
       <p>
       <b>Passaggio 2 </b>
       <p>
-      <a href="Step 1:">
+      <a href="Step 2">
         <img alt="volo di prova 1" src="../assets/l731-ios-install/ios-install-2.PNG"/>
       </a>
       </div>
@@ -61,7 +61,7 @@ Ti verrà chiesto di installare Testflight (passaggi da 1 a 4). Una volta instal
       <p>
       <b>Passaggio 3 </b>
       <p>
-      <a href="Step 1:">
+      <a href="Step 3">
         <img alt="volo di prova 1" src="../assets/l731-ios-install/ios-install-3.PNG"/>
       </a>
       </div>
@@ -71,7 +71,7 @@ Ti verrà chiesto di installare Testflight (passaggi da 1 a 4). Una volta instal
       <p>
       <b>Passaggio 4 </b>
       <p>
-      <a href="Step 4">
+      <a href="Step 4" 3>
         <img alt="volo di prova 1" src="../assets/l731-ios-install/ios-install-4.PNG"/>
       </a>
       </div>
@@ -83,7 +83,7 @@ Ti verrà chiesto di installare Testflight (passaggi da 1 a 4). Una volta instal
       <p>
       <b>Passaggio 5 </b>
       <p>
-      <a href="Step 1:">
+      <a href="Step 5">
         <img alt="volo di prova 1" src="../assets/l731-ios-install/ios-install-5.PNG"/>
       </a>
       </div>
@@ -93,7 +93,7 @@ Ti verrà chiesto di installare Testflight (passaggi da 1 a 4). Una volta instal
       <p>
       <b>Passaggio 6 </b>
       <p>
-      <a href="Step 1:">
+      <a href="Step 6">
         <img alt="volo di prova 1" src="../assets/l731-ios-install/ios-install-6.PNG"/>
       </a>
       </div>
@@ -103,7 +103,7 @@ Ti verrà chiesto di installare Testflight (passaggi da 1 a 4). Una volta instal
       <p>
       <b>Passaggio 7 </b>
       <p>
-      <a href="Step 1:">
+      <a href="Step 7">
         <img alt="volo di prova 1" src="../assets/l731-ios-install/ios-install-7.PNG"/>
       </a>
       </div>
@@ -113,7 +113,7 @@ Ti verrà chiesto di installare Testflight (passaggi da 1 a 4). Una volta instal
       <p>
       <b>Passaggio 8 </b>
       <p>
-      <a href="Step 4">
+      <a href="Step 8">
         <img alt="volo di prova 1" src="../assets/l731-ios-install/ios-install-8.PNG"/>
       </a>
       </div>
