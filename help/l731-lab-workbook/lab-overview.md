@@ -1,6 +1,6 @@
 ---
-title: Panoramica di Lab
-description: In questo laboratorio pratico, scopri come implementare una strategia di marketing multicanale che include campagne e percorsi in-app, notifiche push, SMS e di messaggistica e-mail in Adobe Journey Optimizer.
+title: Panoramica del laboratorio
+description: In questo laboratorio pratico, scopri come implementare una strategia di marketing multicanale che include campagne e percorsi con messaggi in-app, notifiche push, SMS e-mail in Adobe Journey Optimizer.
 feature: In App, SMS, Push, Email
 doc-type: article
 role: User
@@ -9,22 +9,22 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 source-git-commit: 675f402b8c2ad8511736bbb683922fc07763e247
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '108'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# L731 - Creare momenti mobili personalizzati con Journey Optimizer
+# L731: creare esperienze personalizzate per dispositivi mobili con Journey Optimizer
 
-## Panoramica di Lab
+## Panoramica del laboratorio
 
-In questo laboratorio pratico, scopri come implementare una strategia di marketing multicanale che include campagne e percorsi in-app, notifiche push, SMS e di messaggistica e-mail in Adobe Journey Optimizer.
+In questo laboratorio pratico, scopri come implementare una strategia di marketing multicanale che include campagne e percorsi con messaggi in-app, notifiche push, SMS e-mail in Adobe Journey Optimizer.
 
-## Aree principali
+## Conclusioni principali
 
-* Scopri come si riflettono le interazioni con un’app mobile nei dati del profilo.
+* Scopri come le interazioni con un’app mobile si riflettono nei dati del profilo.
 * Scopri come configurare le campagne in-app e push.
-* Crea un percorso omni-channel e scopri quando utilizzare quale canale.
+* Crea un percorso multicanale e scopri quando utilizzare quale canale.
 * Impara a testare il tuo percorso.
