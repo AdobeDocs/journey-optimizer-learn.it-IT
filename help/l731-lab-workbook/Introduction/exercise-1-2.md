@@ -7,25 +7,25 @@ role: User
 recommendations: noDisplay, noCatalog
 hide: true
 source-git-commit: 879eeea18f565db742f62d7dbdf65f61341ead2e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '193'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
 
-# Esercizio 1.2: Registrati come utente con l’app
+# Esercizio 1.2: registrarsi come utente con l’app
 
 >[!IMPORTANT]\
->Iscriviti a un **indirizzo e-mail a cui puoi accedere durante la sessione di laboratorio** e **numero di telefono cellulare**.
+>Registrati con un **indirizzo e-mail a cui puoi accedere durante la sessione di laboratorio** e **con il tuo numero di telefono cellulare**.
 >
-> Queste informazioni sono necessarie per ricevere i messaggi che invierai. Consente inoltre di accedere alle informazioni in Journey Optimizer. Non sarà utilizzato per scopi diversi da questo laboratorio.
+> Queste informazioni sono necessarie per ricevere i messaggi che invierai. Consentono inoltre di accedere alle informazioni in Journey Optimizer. Non verranno utilizzate per scopi diversi da quelli di questo laboratorio.
 
 1. Apri l’app.
 1. Nella finestra a comparsa, fare clic su Consenti.
-1. Iscriviti:
+1. Registrati:
 
-   Quando apri l’app per la prima volta, ti verrà richiesto di iscriverti. Inserire i seguenti dettagli:
+   Quando apri l’app per la prima volta, ti verrà richiesto di registrarti. Inserire i seguenti dettagli:
 
    <table>
     <tr>
@@ -35,18 +35,18 @@ ht-degree: 1%
     </div>
     </td>
     <td>
-    <strong>E-mail: </strong><br>Inserisci un indirizzo e-mail a cui puoi accedere durante il laboratorio.
+    <strong>E-mail: </strong><br>inserisci un indirizzo e-mail a cui puoi accedere durante il laboratorio.
     </p><p>
-    <strong>Nome, cognome </strong>
+    <strong>Nome, cognome</strong>
     </p><p>
-    <strong>Numero di telefono: </strong> <br>Immettere il numero di cellulare utilizzando il formato seguente: 
-    <p>+16501245566 (+numero di telefono del paese).
+    <strong>Numero di telefono: </strong> <br>inserisci il numero di cellulare utilizzando il formato seguente: 
+    <p>+16501245566 (+ numero di telefono con prefisso internazionale).
     </p><p>
-    <strong>Numero del sedile: </strong><br>Il numero del posto è situato sulla vostra postazione di lavoro. È MOLTO IMPORTANTE inserire il numero di posto corretto!
+    <strong>Numero di postazione: </strong><br>il numero di postazione si trova presso la workstation. È MOLTO IMPORTANTE inserire il numero di postazione corretto.
     </p><p>
-    <strong>Seleziona interesse: </strong></br>Sport, Benessere, Cena o Intrattenimento
+    <strong>Seleziona interesse: </strong></br>sport, benessere, gastronomia o intrattenimento
     </p><p>
-    <strong>Selezionare il livello di appartenenza: </strong></br>Rosso, Blu, Verde o Giallo</p>
+    <strong>Seleziona il livello di iscrizione: </strong></br>rosso, blu, verde o giallo</p>
     </td>
     </tr>
     </table>
@@ -55,4 +55,4 @@ ht-degree: 1%
 
 >[!SUCCESS]
 >
->Hai creato un utente dell’app e un profilo per questo utente è stato creato in Adobe Journey Optimizer.
+>Hai creato un utente sull’app e un profilo per questo utente è stato creato in Adobe Journey Optimizer.
