@@ -7,32 +7,32 @@ role: User
 recommendations: noDisplay, noCatalog
 hide: true
 source-git-commit: c3f1e87ad556d630d03a359408edb7c23f1cf3e9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '121'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# Esercizio 1.1: Scaricare e installare l’app mobile
+# Esercizio 1.1: scaricare e installare l’app mobile
 
-Abbiamo creato un&#39;app mobile per la prenotazione dell&#39;Hotel per questo laboratorio. Ti consente di interagire ed utilizzare il percorso di utenti come cliente.
+Per questo laboratorio abbiamo creato un’app mobile per la prenotazione di una stanza dell’hotel. che ti consente di interagire e provare il percorso utente come cliente.
 
-Analizza il codice QR per scaricare l&#39;app
+Scansiona il QR code per scaricare l’app
 
 >[!BEGINTABS]
 
 >[!TAB iOS]
 
-![Codice QR per iOS](/help/assets/lab731-ios-qr-code.png)
+![QR code per iOS](/help/assets/lab731-ios-qr-code.png)
 
-Ti verrà chiesto di installare Testflight. Una volta installato Testflight seguire i passaggi per installare l&#39;app Vegas Stay:
+Ti verrà chiesto di installare Testflight, Una volta installato Testflight, segui i passaggi per installare l’app Vegas Stay:
 
-![passaggi per installare iOS](/help/assets/lab731-install-ios.png)
+![passaggi per l’installazione su iOS](/help/assets/lab731-install-ios.png)
 
 >[!TAB Android;]
 
-![Codice QR per Android](/help/assets/lab731-android-qr-code.png)
+![QR code per Android](/help/assets/lab731-android-qr-code.png)
 
 Se utilizzi il simulatore Android, utilizza questo collegamento: [https://ajolab.s3.amazonaws.com/ajolabapp-release.apk](https://ajolab.s3.amazonaws.com/ajolabapp-release.apk)
 
