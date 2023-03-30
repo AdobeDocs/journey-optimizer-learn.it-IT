@@ -8,9 +8,9 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 source-git-commit: c3f1e87ad556d630d03a359408edb7c23f1cf3e9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '395'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
@@ -19,24 +19,24 @@ ht-degree: 1%
 
 ## Finalità di apprendimento
 
-1. Conoscere il caso d’uso del workshop e l’app mobile.
+1. Familiarizza con il caso d’uso del workshop e l’app mobile.
 2. Introduzione:
-   * Installa l&#39;app e registra un utente con l&#39;app.
-   * Accedi a Adobe Journey Optimizer.
+   * Installa l’app e registra un utente.
+   * Accedi ad Adobe Journey Optimizer.
 3. Scopri quali dati di profilo vengono acquisiti tramite l’app.
 
 ## Comprendere il caso d’uso del workshop
 
-Sei un addetto al marketing mobile che lavora per il resort Vegas Stay a Las Vegas. Sapete che alcuni grandi eventi come il torneo NCAA Sweet 16, il concerto Taylor Swift e, soprattutto, l&#39;Adobe Summit stanno tutti accadendo la stessa settimana in marzo! Vuoi capitalizzare il più possibile su questo, così **hai l&#39;obiettivo di aumentare il numero di prenotazioni in hotel effettuate tramite la tua app mobile**.
+Sei un esperto in campagne per dispositivi mobili che lavora per il resort Vegas Stay a Las Vegas. Sai che alcuni grandi eventi come il torneo NCAA Sweet 16, il concerto di Taylor Swift e, più importante di tutti, gli Adobe Summit si svolgeranno tutti per la stessa settimana di marzo. Vuoi sfruttare questi dati il più possibile **per aumentare il numero di prenotazioni in hotel effettuate tramite la tua app mobile**.
 
-Per raggiungere questo obiettivo, hai deciso di creare una strategia di marketing multicanale che include campagne di messaggistica in-app, push, SMS e e-mail.  E, non sorprende, decidi di usare il miglior prodotto là fuori, **Adobe Journey Optimizer**!
+Per raggiungere questo obiettivo, hai deciso di creare una strategia di marketing multicanale che include campagne con messaggi in-app, push, SMS ed e-mail.  Ovviamente con **Adobe Journey Optimizer**, il miglior prodotto sul mercato.
 
-La campagna in-app ti consente di eseguire il targeting degli utenti che utilizzano l&#39;app Vegas Stay. Puoi creare banner e pop-up accattivanti che vengono visualizzati mentre gli utenti navigano nell’app. Questi striscioni evidenziano offerte speciali e sconti sulle camere dell&#39;hotel e includono un chiaro invito all&#39;azione per prenotare una stanza.
+Con la campagna in-app puoi raggiungere gli utenti mentre utilizzano l’app Vegas Stay. Puoi creare banner e pop-up accattivanti che vengono visualizzati mentre gli utenti navigano nell’app. I banner evidenziano offerte speciali e sconti sulle camere in hotel e includono un chiaro invito all’azione per prenotare una stanza.
 
-Progetta una singola campagna di notifica push. Vuoi creare una notifica push semplice ma efficace per richiamare gli utenti nell’app che non hanno ancora prenotato una stanza. Vuoi creare un messaggio che informa tutti sugli eventi emozionanti in arrivo a Las Vegas e attrarre gli utenti all&#39;app.
+Progetti una campagna di notifica push singola. Vuoi creare una notifica push semplice ma efficace per portare nell’app gli utenti che ancora non hanno prenotato una stanza. Vuoi creare un messaggio per far sapere a tutti quali eventi emozionanti sono in arrivo a Las Vegas e portare gli utenti sull’app.
 
-Per offrire all’ospite un’esperienza di marchio straordinaria, crea un percorso multicanale. Il percorso viene attivato all&#39;arrivo dell&#39;ospite al resort. Utilizza push e SMS per dare il benvenuto all’ospite al resort e indirizzarlo nell’app, per il check-in online. Una volta effettuato il check-in, l&#39;ospite riceve una conferma via e-mail con un voucher per uno dei servizi dell&#39;hotel e ulteriori offerte con le cose da fare durante il loro soggiorno.
+Per offrire all’ospite una brand experience straordinaria, crei un percorso multicanale. Il percorso viene attivato all’arrivo dell’ospite al resort. Utilizzi push e SMS per dare il benvenuto all’ospite al resort e indirizzarlo sull’app per il check-in online. Una volta effettuato il check-in, l’ospite riceve una conferma via e-mail con un voucher per uno dei servizi dell’hotel e ulteriori offerte con proposte di attività durante il soggiorno.
 
-Con questo approccio multicanale, si è in grado di raggiungere un pubblico più ampio, aumentare il numero di prenotazioni in hotel fatte attraverso l&#39;app, e allo stesso tempo semplificare i vostri sforzi utilizzando AJO.
+Con questo approccio multicanale, riesci a raggiungere un pubblico più ampio, aumentare il numero di prenotazioni in hotel fatte attraverso l’app e semplificare le operazioni grazie ad AJO.
 
-Alla fine, i vostri sforzi sono stati un grande successo, e l&#39;azienda ha visto un aumento significativo dei ricavi come risultato!
+Alla fine, i tuoi sforzi sono stati premiati e la tua azienda ha avuto un aumento significativo dei ricavi.
