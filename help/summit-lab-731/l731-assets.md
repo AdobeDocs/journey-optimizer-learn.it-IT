@@ -10,9 +10,9 @@ hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
 source-git-commit: a3ac293c29e9965344c518215c2f034caa41557e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '357'
-ht-degree: 52%
+ht-degree: 100%
 
 ---
 
@@ -22,15 +22,15 @@ In questa pagina sono presenti testi e collegamenti utilizzati nel Laboratorio d
 
 ## Esercizio 1.1: scaricare e installare l’app
 
-Analizza il codice QR per scaricare l&#39;app
+Scansiona il QR code per scaricare l’app
 
 >[!BEGINTABS]
 
 >[!TAB iOS]
 
-![Codice QR per iOS](/help/assets/lab731-ios-qr-code.png)
+![QR code per iOS](/help/assets/lab731-ios-qr-code.png)
 
-Ti verrà chiesto di installare Testflight, passaggi da 1 a 4. Una volta installato Testflight seguire i passaggi da 5 a 8 per installare l&#39;app Vegas Stay:
+Ti verrà chiesto di installare Testflight, passaggi da 1 a 4. Una volta installato Testflight segui i passaggi da 5 a 8 per installare l’app Vegas Stay:
 
 <table>
 <tr>
@@ -42,7 +42,7 @@ Ti verrà chiesto di installare Testflight, passaggi da 1 a 4. Una volta install
       <b>Passaggio 1 </b>
       <p>
       <a>
-        <img alt="volo di prova 1" src="../assets/l731-ios-install/ios-install-1.png"/>
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-1.png"/>
       </a>
       </div>
   </td>
@@ -52,7 +52,7 @@ Ti verrà chiesto di installare Testflight, passaggi da 1 a 4. Una volta install
       <b>Passaggio 2 </b>
       <p>
       <a>
-        <img alt="volo di prova 1" src="../assets/l731-ios-install/ios-install-2.PNG"/>
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-2.PNG"/>
       </a>
       </div>
   </td>
@@ -62,7 +62,7 @@ Ti verrà chiesto di installare Testflight, passaggi da 1 a 4. Una volta install
       <b>Passaggio 3 </b>
       <p>
       <a>
-        <img alt="volo di prova 1" src="../assets/l731-ios-install/ios-install-3.PNG"/>
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-3.PNG"/>
       </a>
       </div>
   </td>
@@ -72,7 +72,7 @@ Ti verrà chiesto di installare Testflight, passaggi da 1 a 4. Una volta install
       <b>Passaggio 4 </b>
       <p>
       <a>
-        <img alt="volo di prova 1" src="../assets/l731-ios-install/ios-install-4.PNG"/>
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-4.PNG"/>
       </a>
       </div>
   </td>
@@ -84,7 +84,7 @@ Ti verrà chiesto di installare Testflight, passaggi da 1 a 4. Una volta install
       <b>Passaggio 5 </b>
       <p>
       <a>
-        <img alt="volo di prova 1" src="../assets/l731-ios-install/ios-install-5.PNG"/>
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-5.PNG"/>
       </a>
       </div>
   </td>
@@ -92,9 +92,9 @@ Ti verrà chiesto di installare Testflight, passaggi da 1 a 4. Una volta install
  <div>
       <p>
       <a>
-      <b>Passaggio 6 </b>
+<b>Passaggio 6 </b>
       <p>
-        <img alt="volo di prova 1" src="../assets/l731-ios-install/ios-install-6.PNG"/>
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-6.PNG"/>
       </a>
       </div>
   </td>
@@ -102,9 +102,9 @@ Ti verrà chiesto di installare Testflight, passaggi da 1 a 4. Una volta install
  <div>
       <p>
       <a>
-      <b>Passaggio 7 </b>
+<b>Passaggio 7 </b>
       <p>
-        <img alt="volo di prova 1" src="../assets/l731-ios-install/ios-install-7.PNG"/>
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-7.PNG"/>
       </a>
       </div>
   </td>
@@ -112,9 +112,9 @@ Ti verrà chiesto di installare Testflight, passaggi da 1 a 4. Una volta install
  <div>
       <p>
       <a>
-      <b>Passaggio 8 </b>
+<b>Passaggio 8 </b>
       <p>
-        <img alt="volo di prova 1" src="../assets/l731-ios-install/ios-install-8.PNG"/>
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-8.PNG"/>
       </a>
       </div>
   </td>
@@ -123,7 +123,7 @@ Ti verrà chiesto di installare Testflight, passaggi da 1 a 4. Una volta install
 
 >[!TAB Android]
 
-![Codice QR per Android](/help/assets/lab731-android-qr-code.png)
+![QR code per Android](/help/assets/lab731-android-qr-code.png)
 
 Se utilizzi il simulatore Android, utilizza questo collegamento: [https://ajolab.s3.amazonaws.com/ajolabapp-release.apk](https://ajolab.s3.amazonaws.com/ajolabapp-release.apk)
 
@@ -142,7 +142,7 @@ Fai clic su **Installa comunque**
 **Dettagli di accesso:**
 
 * **Nome utente:** `L731+<your seat number>@summitlab.us` (esempio: L731+001@summitlab.us)
-* **Password:** Adobe 2023!
+* **Password:** Adobe2023.
 
 
 ## Esercizio 2.1 Creare una campagna in-app
@@ -152,7 +152,7 @@ Fai clic su **Installa comunque**
 | Nome della campagna | `<your seat number> March Vegas Campaign` |  |
 | Corrispondenza | booknow |  |
 | Opzione URL del contenuto multimediale |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
-| Titolo | Sta succedendo ed è live! |  |
+| Titolo | Sta accadendo ed è in diretta. |  |
 | Corpo | Adobe Summit torna a Las Vegas dal 21 al 23 marzo 2023. Preparati ad ascoltare relatori stimolanti, sessioni per ampliare le competenze e nuove connessioni. |  |
 | Pulsante | Prenota subito l’hotel e risparmia il 10% | lab://booking?suite=presidential&amp;discount=10 |
 | Pulsante: evento interattivo | CTA in-app |  |
@@ -172,16 +172,16 @@ Fai clic su **Installa comunque**
 Messaggio di benvenuto
 
 **Titolo:**\
-Ti diamo il benvenuto a Las Vegas!
+Ti diamo il benvenuto a Las Vegas.
 
 **Corpo:**\
 Salta la fila e fai il check-in con l’app mobile
 
-**Collegamento profondo:** iOS: lab://, Android&amp;: https://lab
+**Collegamento diretto:** iOS: lab://, Android&amp;:https://lab
 
 **Media:**
 
-https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg?lang=en
+https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg?lang=it
 
 
 Questa è l’immagine che utilizziamo per la notifica push:
@@ -194,7 +194,7 @@ Questa è l’immagine che utilizziamo per la notifica push:
 Messaggio di benvenuto
 
 **Messaggio:**
-Benvenuto a Vegas Stay. Salta la fila e fai il check-in con l’app mobile: lab://checkin
+Ti diamo il benvenuto a Vegas Stay. Salta la fila e fai il check-in con l’app mobile: lab://checkin
 
 >[!TAB Messaggio e-mail]
 
@@ -202,6 +202,6 @@ Benvenuto a Vegas Stay. Salta la fila e fai il check-in con l’app mobile: lab:
 Messaggio di conferma
 
 **Oggetto:**
-{{profile.person.name.firstName}}, hai effettuato il check-in, ora controlla le nostre offerte per il tuo soggiorno!
+{{profile.person.name.firstName}}hai effettuato il check-in, ora scopri le nostre offerte per il tuo soggiorno.
 
 >[!ENDTABS]
