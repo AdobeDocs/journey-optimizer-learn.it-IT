@@ -1,6 +1,6 @@
 ---
-title: Utilizzare l’iscrizione a profilo e segmento per la personalizzazione
-description: Scopri come aggiungere a un messaggio la personalizzazione basata sul profilo e come utilizzare l’iscrizione a un segmento come condizione preliminare per un blocco di personalizzazione.
+title: Utilizzare il profilo e l’appartenenza a un segmento per la personalizzazione
+description: Scopri come aggiungere a un messaggio la personalizzazione basata sul profilo e come utilizzare l’appartenenza a un segmento come condizione preliminare per un blocco di personalizzazione.
 landing-page-description: Scopri come aggiungere la personalizzazione basata sul profilo a un messaggio e come utilizzare l’appartenenza a un segmento come condizione preliminare per un blocco di personalizzazione.
 short-description: Learn how to add profile-based personalization to a message and how to use segment membership as a pre-condition to a personalization block.
 kt: 8034
@@ -18,8 +18,8 @@ ht-degree: 100%
 
 ---
 
-# Utilizzare l’iscrizione a profilo e segmento per la personalizzazione
+# Utilizzare il profilo e l’appartenenza a un segmento per la personalizzazione
 
-Scopri come aggiungere a un messaggio la personalizzazione basata sul profilo e come utilizzare l’iscrizione a un segmento come condizione preliminare per un blocco di personalizzazione.
+Scopri come aggiungere a un messaggio la personalizzazione basata sul profilo e come utilizzare l’appartenenza a un segmento come condizione preliminare per un blocco di personalizzazione.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334078?quality=12)
