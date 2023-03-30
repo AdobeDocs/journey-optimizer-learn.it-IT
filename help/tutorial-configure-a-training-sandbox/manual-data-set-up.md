@@ -8,10 +8,10 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
+source-git-commit: b91d6ccdb54213873b91b7ffa9d95d7cb5261ee8
 workflow-type: tm+mt
-source-wordcount: '1020'
-ht-degree: 100%
+source-wordcount: '1021'
+ht-degree: 98%
 
 ---
 
@@ -245,7 +245,7 @@ Ora hai configurato lo [!UICONTROL spazio dei nomi] e il [!DNL Luma Loyalty sche
    | `size` | `Product Size` | [!UICONTROL Stringa] |
    | `price` | `Product Price` | [!UICONTROL Doppio] |
    | `description` | `Product Description` | [!UICONTROL Stringa] |
-   | `imageURL` | `Product Image URL` | [!UICONTROL Stringa] |
+   | `imageUrl` | `Product Image URL` | [!UICONTROL Stringa] |
    | `stockQuantity` | `Product Stock Quantity` | [!UICONTROL Stringa] |
    | `url` | `Product URL` | [!UICONTROL Stringa] |
 
@@ -345,4 +345,4 @@ Crea i seguenti [!UICONTROL schemi] aggiuntivi:
 
 ## Passaggi successivi
 
-Dopo aver creato la struttura dati, [crea set di dati e acquisisci dati di esempio](/help/tutorial-configure-a-training-sandbox/manual-data-ingestion.md).
+Dopo aver creato la struttura dati, puoi [creare set di dati e acquisire dati di esempio](/help/tutorial-configure-a-training-sandbox/manual-data-ingestion.md).
