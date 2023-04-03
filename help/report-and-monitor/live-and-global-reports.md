@@ -9,7 +9,7 @@ team: PM
 role: Admin
 level: Beginner
 exl-id: 9e94b335-7e5d-4753-aead-d18f42776fdd
-source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
+source-git-commit: b2afc28f82967324ebed0ee17e291e83c85c3a4c
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 100%
@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Scopri la differenza tra rapporti live e globali, come accedere e analizzare i rapporti specifici per percorsi e messaggi, e come modificare le dashboard dei rapporti.  
 
->[!VIDEO](https://video.tv.adobe.com/v/334108?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/334108?quality=12&learn=on)
