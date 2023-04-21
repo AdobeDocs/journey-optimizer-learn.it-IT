@@ -1,6 +1,6 @@
 ---
 title: 'Gestione delle decisioni: quota limite'
-description: Informazioni su come funziona la quota limite in Offer Decisioning. Scopri come configurare la quota limite per un evento personalizzato e come configurare gli incrementi definendo la frequenza.
+description: Come funziona la quota limite in Offer Decisioning. Scopri come configurare la quota limite per un evento personalizzato e come impostare gli incrementi definendo la frequenza.
 feature: Offers
 role: User
 level: Beginner
@@ -18,6 +18,6 @@ ht-degree: 100%
 
 # Gestione delle decisioni: quota limite
 
-Informazioni su come funziona la quota limite in Offer Decisioning. Scopri come configurare la quota limite per un evento personalizzato e come configurare gli incrementi definendo la frequenza.
+Come funziona la quota limite in Offer Decisioning. Scopri come configurare la quota limite per un evento personalizzato e come impostare gli incrementi definendo la frequenza.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3417853/?quality=12&learn=on)

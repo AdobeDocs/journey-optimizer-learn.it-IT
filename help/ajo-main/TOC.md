@@ -5,7 +5,7 @@ user-guide-description: Questi sono i tutorial di Journey Optimizer.
 source-git-commit: 3a70dc06dee3e0e35557455ca0aa933873f787fe
 workflow-type: tm+mt
 source-wordcount: '321'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -67,7 +67,7 @@ ht-degree: 97%
    + [Creare raccolte](/help/decision-management/create-collections.md)
    + [Creare decisioni](/help/decision-management/create-decisions.md)
    + [Distribuire le offerte con l’API Decisions](/help/decision-management/deliver-offers-with-the-decisions-api.md)
-   + [Limite di frequenza](/help/decision-management/frequency-capping.md)
+   + [Quota limite](/help/decision-management/frequency-capping.md)
 + Gestione dei dati {#data-management}
    + [Panoramica](/help/set-up-data/set-up-data-overview.md)
    + [Creare uno schema](/help/set-up-data/create-schema.md)
