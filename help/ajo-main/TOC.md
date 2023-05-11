@@ -3,9 +3,9 @@ user-guide-title: Tutorial su Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial di Journey Optimizer.
 source-git-commit: 58333495c7a4fba108f171b28a977cdb8f36b758
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '331'
+ht-degree: 100%
 
 ---
 
@@ -44,9 +44,9 @@ ht-degree: 0%
 + Canale SMS{#sms-channel}
    + [Crea e invia messaggi SMS](/help/channels/author-and-deliver-sms-messages.md)
    + [Supporto di parole chiave in entrata per SMS](/help/channels/inbound-keyword-support-for-sms.md)
-+ Canale web {#web-channel}
++ Canale Web {#web-channel}
    + [Creare una campagna web](/help/channels/create-a-web-campaign.md)
-   + [Creare una campagna web](/help/channels/author-a-web-campaign.md)
+   + [Authoring di una campagna web](/help/channels/author-a-web-campaign.md)
 + Profili cliente, segmenti e iscrizioni {#profiles-segments-subscriptions}
    + [Profilo unificato e segmentazione: panoramica](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [Creare segmenti](/help/set-up-resources/create-segments.md)
@@ -71,13 +71,13 @@ ht-degree: 0%
    + [Creare decisioni](/help/decision-management/create-decisions.md)
    + [Distribuire le offerte con l’API Decisions](/help/decision-management/deliver-offers-with-the-decisions-api.md)
    + [Quota limite](/help/decision-management/frequency-capping.md)
-+ Gestione dei dati {#data-management}
++ Gestione dati {#data-management}
    + [Panoramica](/help/set-up-data/set-up-data-overview.md)
    + [Creare uno schema](/help/set-up-data/create-schema.md)
    + [Mappare le identità](/help/set-up-data/map-identities.md)
    + [Creare set di dati e acquisire dati](/help/set-up-data/create-datasets-and-ingest-data.md)
    + [Configurare i connettori di origini](/help/set-up-data/configure-source-connectors.md)
-   + [Esportare i set di dati in percorsi di archiviazione cloud](/help/set-up-data/export-datasets.md)
+   + [Esporta i set di dati nelle posizioni di archiviazione cloud](/help/set-up-data/export-datasets.md)
 + Rapporto e monitoraggio {#report-and-monitor}
    + [Rapporti live e globali](/help/report-and-monitor/live-and-global-reports.md)
    + [Utilizzare gli avvisi](/help/administration/alerts.md)
