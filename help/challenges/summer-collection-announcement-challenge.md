@@ -6,10 +6,10 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
+source-git-commit: 1cde681f2604982ddcdc68fc6cb7b6e9186b6d8f
 workflow-type: tm+mt
-source-wordcount: '1175'
-ht-degree: 100%
+source-wordcount: '1126'
+ht-degree: 98%
 
 ---
 
@@ -140,7 +140,6 @@ Visualizza l’anteprima del messaggio e-mail:
 Risultato:
 
 * L’oggetto deve contenere il testo: Louise, la nuova collezione Luma è arrivata!
-* Il corpo dell’e-mail deve corrispondere a quello visualizzato nell’anteprima: [Nuovo annuncio sulla collezione stagionale](/help/challenges/assets/email-assets/SeasonalCollectionEmail.html)
 
 **Messaggio e-mail #2 - Collezione da uomo Luma**
 
@@ -149,11 +148,11 @@ Invia una bozza a te stesso:
 1. Aggiungi un profilo di test: Stanleigh Stooke:
    * Spazio dei nomi delle identità: *ID CRM Luma*
    * Valore identità: `4f34057d9d9e792c28ba18ecae378e98`
-1. Seleziona il profilo di test: Stanleigh Stooke.
-1. Invia una bozza a te stesso.
+2. Seleziona il profilo di test: Stanleigh Stooke.
+3. Invia una bozza a te stesso.
 
 Risultato:\
-Dovresti ricevere un’e-mail. L’oggetto deve contenere il testo *Stanleigh, scopri il nuovo abbigliamento sportivo da uomo!* e il corpo dell’e-mail deve corrispondere a quello visualizzato nell’anteprima: [Collezione da uomo Luma](/help/challenges/assets/email-assets/MensCollectionEmail.html)
+Dovresti ricevere un’e-mail. L’oggetto deve contenere il testo *Stanleigh, scopri il nuovo abbigliamento sportivo da uomo!* e il corpo dell’e-mail deve corrispondere a quello visualizzato nell’anteprima.
 
 >[!NOTE]
 >La ricezione della bozza potrebbe richiedere un paio di minuti.
@@ -163,14 +162,12 @@ Dovresti ricevere un’e-mail. L’oggetto deve contenere il testo *Stanleigh, s
 Visualizza l’anteprima del messaggio e-mail con il profilo di test *Louise Petti.*
 
 * L’oggetto deve contenere il testo: *Louise, esplora la Collezione da donna di Luma!*
-* Il corpo dell’e-mail deve corrispondere a quello visualizzato nell’anteprima: [Collezione da donna Luma](/help/challenges/assets/email-assets/WomensCollectionEmail.html)
 
 **Messaggio e-mail #4 - Luma 20% di sconto sulla collezione**
 
 Visualizza l’anteprima del messaggio e-mail con il profilo di test *Louise Petti.*
 
 * L’oggetto deve contenere il testo: *Louise, approfitta del 20% di sconto!*
-* Il corpo dell’e-mail deve corrispondere a quello visualizzato nell’anteprima: [Luma 20% di sconto sulla collezione](/help/challenges/assets/email-assets/20OOffCollectionEmail.html)
 
 #### Test del percorso
 
@@ -180,13 +177,15 @@ Visualizza l’anteprima del messaggio e-mail con il profilo di test *Louise Pet
 >
 >1. Assicurati che [!UICONTROL Attività Leggi segmento] presenti lo spazio dei nomi impostato su **ID CRM Luma (lumaCrmId)**
 >1. Per ogni e-mail, sovrascrivi i parametri e-mail predefiniti per le e-mail in modo che vengano inviati al tuo indirizzo e-mail:
->    * Mostra i valori nascosti facendo clic sul simbolo a forma di occhio.
->    * Nei parametri e-mail, fai clic sul simbolo T (abilita sostituzione parametro).
->
->      ![Sostituisci i parametri e-mail](/help/challenges/assets/c3-override-email-paramters.jpg)
-> 
->    * Fai clic sul campo [!UICONTROL Indirizzo]
->    * Nella schermata successiva, aggiungi il tuo indirizzo e-mail tra parentesi: `"yourname@yourdomain"` nell’editor di espressioni e fai clic su ok.
+   >    * Mostra i valori nascosti facendo clic sul simbolo a forma di occhio.
+   >    * Nei parametri e-mail, fai clic sul simbolo T (abilita sostituzione parametro).
+
+      >
+      >      ![Sostituisci i parametri e-mail](/help/challenges/assets/c3-override-email-paramters.jpg)
+   > 
+   >    * Fai clic sul campo [!UICONTROL Indirizzo]
+   >    * Nella schermata successiva, aggiungi il tuo indirizzo e-mail tra parentesi: `"yourname@yourdomain"` nell’editor di espressioni e fai clic su ok.
+
 >
 
 
