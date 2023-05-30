@@ -2,9 +2,9 @@
 user-guide-title: Tutorial su Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial di Journey Optimizer.
-source-git-commit: 13ee94169f1e9c31bdf4394aa132dd4b2700a411
+source-git-commit: 42c9b46a628c8655fe56112cd3fad06fcaa8269f
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '371'
 ht-degree: 92%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 92%
    + [Funzionalità mobili per sviluppatori](/help/channels/mobile-capabilities-for-developers.md)
 + Campagne {#create-campaigns}
    + [Creare una campagna](/help/create-campaigns/create-a-campaign.md)
-   + [Creare una campagna in-app](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/create-an-in-app-campaign.html?lang=it)
+   + [Creare una campagna in-app](/help/create-campaigns/in-app.md)
    + [Creare una campagna web](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html)
    + [Creare esperimenti di contenuto per le campagne e-mail](/help/create-campaigns/content-experiments.md)
 + Percorsi {#create-journeys}
