@@ -5,7 +5,7 @@ user-guide-description: Questi sono i tutorial di Journey Optimizer.
 source-git-commit: 42c9b46a628c8655fe56112cd3fad06fcaa8269f
 workflow-type: tm+mt
 source-wordcount: '371'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -24,8 +24,8 @@ ht-degree: 92%
 + Campagne {#create-campaigns}
    + [Creare una campagna](/help/create-campaigns/create-a-campaign.md)
    + [Creare una campagna in-app](/help/create-campaigns/in-app.md)
-   + [Creare una campagna web](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html)
-   + [Creare esperimenti di contenuto per le campagne e-mail](/help/create-campaigns/content-experiments.md)
+   + [Creare una campagna web](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html?lang=it)
+   + [Creare esperimenti sui contenuti per le campagne e-mail](/help/create-campaigns/content-experiments.md)
 + Percorsi {#create-journeys}
    + [Panoramica sull’area di lavoro del percorso](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [Introduzione alla creazione di un percorso](/help/create-journeys/introduction-to-building-a-journey.md)
@@ -41,12 +41,12 @@ ht-degree: 92%
    + [Importare e creare contenuti e-mail HTML](/help/channels/import-and-author-html-email-content.md)
    + [Anteprima, bozza e pubblicazione](/help/channels/preview-proof-and-publish.md)
    + [Modelli di contenuto](/help/channels/content-templates.md)
-   + [Gestire, creare e utilizzare frammenti](/help/content-management/manage-author-use-fragments.md)
-   + [Configurare esperimenti di contenuto per le e-mail](/help/experimentation/content-experiments-for-emails.md)
+   + [Gestire, creare e utilizzare i frammenti](/help/content-management/manage-author-use-fragments.md)
+   + [Configurare esperimenti sui contenuti per le e-mail](/help/experimentation/content-experiments-for-emails.md)
 + Canale in-app{#in-app-channel}
    + [Creare una campagna in-app](/help/channels/create-an-in-app-campaign.md)
    + [Creare un messaggio in-app](/help/channels/author-in-app-messages.md)
-   + [Configurare esperimenti di contenuto per i messaggi in-app](/help/experimentation/content-experiments-for-in-app-messages.md)
+   + [Configurare esperimenti sui contenuti per i messaggi in-app](/help/experimentation/content-experiments-for-in-app-messages.md)
 + Canale SMS{#sms-channel}
    + [Crea e invia messaggi SMS](/help/channels/author-and-deliver-sms-messages.md)
    + [Supporto di parole chiave in entrata per SMS](/help/channels/inbound-keyword-support-for-sms.md)
