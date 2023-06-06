@@ -2,10 +2,10 @@
 user-guide-title: Tutorial su Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial di Journey Optimizer.
-source-git-commit: 42c9b46a628c8655fe56112cd3fad06fcaa8269f
+source-git-commit: f999fc9a893f88b0d1ed7a65c3dc4aebc483a843
 workflow-type: tm+mt
-source-wordcount: '371'
-ht-degree: 100%
+source-wordcount: '382'
+ht-degree: 97%
 
 ---
 
@@ -72,7 +72,7 @@ ht-degree: 100%
    + [Creare le regole](/help/decision-management/create-rules.md)
    + [Creare tag](/help/decision-management/create-tags.md)
    + [Creare offerte personalizzate](/help/decision-management/create-personalized-offers.md)
-   + [Crea modelli AI](/help/decision-management/create-ai-models.md)
+   + [Creare modelli AI](/help/decision-management/create-ai-models.md)
    + [Creare offerte di fallback](/help/decision-management/create-fallback-offers.md)
    + [Creare raccolte](/help/decision-management/create-collections.md)
    + [Creare decisioni](/help/decision-management/create-decisions.md)
@@ -100,6 +100,7 @@ ht-degree: 100%
    + [Creare azioni](/help/set-up-journeys/create-actions.md)
 + Controllo dell’accesso {#access-control}
    + [Gestione degli accessi](/help/set-up-access/access-management.md)
+   + [Configurare il controllo degli accessi basato su attributi](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/configure-attribute-based-access-control.html)
    + [Creare e gestire sandbox](/help/set-up-access/create-and-manage-sandboxes.md)
 + Privacy {#privacy}
    + [Mascherare i dati nei messaggi](/help/privacy/mask-data-in-messages.md)
