@@ -1,12 +1,12 @@
 ---
 title: Crea un annuncio sulla Collezione estiva - sfida
 description: Invia un annuncio sulla Collezione estiva a un segmento di clienti esistenti per promuovere la nuova Collezione estiva Luma.
-kt: 8109
+jira: KT-8109
 role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 1cde681f2604982ddcdc68fc6cb7b6e9186b6d8f
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
 workflow-type: ht
 source-wordcount: '1126'
 ht-degree: 100%
@@ -185,7 +185,6 @@ Visualizza l’anteprima del messaggio e-mail con il profilo di test *Louise Pet
 >    * Fai clic sul campo [!UICONTROL Indirizzo]
 >    * Nella schermata successiva, aggiungi il tuo indirizzo e-mail tra parentesi: `"yourname@yourdomain"` nell’editor di espressioni e fai clic su ok.
 >
-
 
 Testa il percorso e invia le e-mail al tuo account:
 
