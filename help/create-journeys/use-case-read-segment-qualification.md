@@ -1,7 +1,7 @@
 ---
 title: 'Caso d’uso: qualificazione di un segmento'
 description: Comprendi i casi d’uso applicabili ai percorsi di qualificazione dei segmenti. Scopri come creare un percorso con qualificazione dei segmenti e quali best practice applicare.
-kt: 7704
+jira: KT-7704
 thumbnail: 334231.jpg
 feature: Journeys
 doc-type: feature video
@@ -9,8 +9,8 @@ team: PM
 role: User
 level: Beginner
 exl-id: e7626542-1399-4fcd-966a-cd9b3c7cd454
-source-git-commit: b2afc28f82967324ebed0ee17e291e83c85c3a4c
-workflow-type: tm+mt
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+workflow-type: ht
 source-wordcount: '56'
 ht-degree: 100%
 
