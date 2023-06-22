@@ -1,15 +1,15 @@
 ---
 title: Sfida per il riassortimento del prodotto
 description: Applica ciò che hai imparato sulla creazione di segmenti e verifica le tue abilità.
-kt: 8417
+jira: KT-8417
 feature: Segments
 role: User
 level: Beginner
 hide: true
 hidefromtoc: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
-source-git-commit: 5d9b95a5953994708686a2fbd83d0522fbbeaeb5
-workflow-type: tm+mt
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+workflow-type: ht
 source-wordcount: '580'
 ht-degree: 100%
 
@@ -101,7 +101,6 @@ Codice condizione:
 > * Seleziona lo SKU in Salva per dopo nella sezione *Sfoglia variabili*
 > * Utilizza l’opzione di confronto quando rilasci lo SKU in Salva per dopo nel campo evento
 
-
 Sotto Eventi, verifica il codice nell’angolo in basso a destra della schermata Modifica segmento. Il codice deve essere simile al seguente:
 
 Codice:
@@ -118,6 +117,7 @@ Comunica ai clienti che hanno aggiunto un articolo esaurito con una chiamata per
 >[!TIP]
 >
 > Utilizza l’evento di business esistente. È necessario aggiungere una condizione per verificare che la referenza di magazzino di riassortimento sia inclusa in qualsiasi tipo di evento Salva per dopo.
+>
 
 
 
