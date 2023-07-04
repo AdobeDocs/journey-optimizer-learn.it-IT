@@ -10,15 +10,15 @@ role: User
 level: Beginner
 exl-id: 3186f91b-71a5-486a-9948-ec1994a19874
 source-git-commit: 2df3f69611c4f3c2e93b3b5746b80b0814ad0497
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 69%
+ht-degree: 100%
 
 ---
 
 # Creare contenuti con E-mail Designer
 
-Scopri come creare e-mail da zero. Scopri come utilizzare le risorse della libreria Adobe Experience Manager Assets Essentials, modificare la progettazione delle e-mail dinamiche e creare e-mail dai modelli.
+Scopri come creare e-mail da zero. Scopri come utilizzare le risorse dalla libreria di Adobe Experience Manager Assets Essentials, modificare la progettazione delle e-mail responsive e creare e-mail a partire da un modello.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334150?quality=12&learn=on)
 
