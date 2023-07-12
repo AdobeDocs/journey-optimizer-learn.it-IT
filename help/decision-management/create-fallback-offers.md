@@ -2,12 +2,14 @@
 title: Creare le offerte di fallback
 description: Scopri come creare offerte di fallback per la gestione delle decisioni. Alle offerte di fallback vengono associate delle regole di idoneità che consentono di mostrarle solo ai clienti rilevanti.
 feature: Offers
+role: User
+level: Beginner
 jira: KT-6780
 thumbnail: 329383.jpg
 exl-id: 77dad738-4046-410d-8886-e88f9c872320
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: 542ed8b8a55d7f1a2153313c6184b759c68f33e2
 workflow-type: ht
-source-wordcount: '94'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
