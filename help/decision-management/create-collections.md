@@ -2,12 +2,14 @@
 title: Creare le raccolte
 description: Scopri come creare raccolte per la gestione delle decisioni. Alle raccolte vengono associate delle regole di idoneità che consentono di mostrarle solo ai clienti rilevanti.
 feature: Offers
+role: User
+level: Beginner
 jira: KT-6747
 thumbnail: 329376.jpg
 exl-id: a255a0cd-b4ab-46a9-9c49-a4588ae12ea4
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: 542ed8b8a55d7f1a2153313c6184b759c68f33e2
 workflow-type: ht
-source-wordcount: '74'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
