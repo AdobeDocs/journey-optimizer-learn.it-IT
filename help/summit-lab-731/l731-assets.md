@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 4c2215615647da8db51914ea48f1af32936ccc57
-workflow-type: ht
-source-wordcount: '357'
-ht-degree: 100%
+source-git-commit: e7deb1d6c57a5b582448542a2679de6aeef44750
+workflow-type: tm+mt
+source-wordcount: '342'
+ht-degree: 92%
 
 ---
 
@@ -125,8 +125,6 @@ Ti verrà chiesto di installare Testflight, passaggi da 1 a 4. Una volta install
 
 ![QR code per Android](/help/assets/lab731-android-qr-code.png)
 
-Se utilizzi il simulatore Android, utilizza questo collegamento: [https://ajolab.s3.amazonaws.com/ajolabapp-release.apk](https://ajolab.s3.amazonaws.com/ajolabapp-release.apk)
-
 Poiché l’app non è registrata in Google Play Store, riceverai un messaggio di avviso:
 
 ![Schermata di avviso Android](/help/assets/lab731-install-android.png)
@@ -149,14 +147,14 @@ Fai clic su **Installa comunque**
 
 | Campo | Testo | Collegamenti |
 |----|----|----|
-| Nome della campagna | `<your seat number> March Vegas Campaign` |  |
+| Nome della campagna | `<your seat number> Vegas Stay Campaign` |  |
 | Corrispondenza | booknow |  |
 | Opzione URL del contenuto multimediale |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
-| Titolo | Sta accadendo ed è in diretta. |  |
-| Corpo | Adobe Summit torna a Las Vegas dal 21 al 23 marzo 2023. Preparati ad ascoltare relatori stimolanti, sessioni per ampliare le competenze e nuove connessioni. |  |
-| Pulsante | Prenota subito l’hotel e risparmia il 10% | lab://booking?suite=presidential&amp;discount=10 |
+| Titolo | Ottieni il tuo sconto anticipato per uccello! |  |
+| Corpo | Adobe Summit ritorna a Las Vegas nel 2024. Preparati ad ascoltare relatori stimolanti, sessioni per ampliare le competenze e nuove connessioni. Prenota subito la tua suite e ottieni uno sconto del 10%. |  |
+| Pulsante | Prenota ora | lab://booking?suite=presidential&amp;discount=10 |
 | Pulsante: evento interattivo | CTA in-app |  |
-| URL di base |  | iOS: lab:// <br>Android&amp;: https://lab |
+| URL di base |  | **iOS:** lab:// <br>**Android**: https://lab |
 
 
 ## Lezione 3 Creare un percorso omni-channel
