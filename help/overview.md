@@ -2,10 +2,13 @@
 title: Tutorial su Journey Optimizer - Panoramica
 description: È disponibile una serie di tutorial video che illustrano come sfruttare i vantaggi di Journey Optimizer.
 recommendations: noDisplay, noCatalog
+feature: Get Started
+role: User, Developer, Admin, Leader
+level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 2a934b9e833f1dde36a995bcd565fca585e320ec
-workflow-type: tm+mt
+source-git-commit: 542ed8b8a55d7f1a2153313c6184b759c68f33e2
+workflow-type: ht
 source-wordcount: '490'
 ht-degree: 100%
 
@@ -25,20 +28,16 @@ La presente guida utente contiene video e tutorial sulle funzioni e caratteristi
 ## Novità
 
 * **[Creare contenuti dinamici con il generatore di regole di condizione](/help/personalize-content/create-dynamic-content.md)**
-
-   *Scopri come creare e salvare regole di condizione e come applicarle ai contenuti su tutti i canali.*
+  *Scopri come creare e salvare regole di condizione e come applicarle ai contenuti su tutti i canali.*
 
 * **[Utilizzare gli avvisi](/help/administration/alerts.md)**
-
-   *Scopri come abbonarti agli avvisi predefiniti per comportamenti di percorso imprevisti e ricevere notifiche tramite e-mail, in Journey Optimizer o utilizzando un’API.*
+  *Scopri come abbonarti agli avvisi predefiniti per comportamenti di percorso imprevisti e ricevere notifiche tramite e-mail, in Journey Optimizer o utilizzando un’API.*
 
 * **[Copiare un percorso in un’altra sandbox](/help/create-journeys/copy-a-journey.md)**
-
-   *Scopri come copiare un percorso e i relativi oggetti dipendenti da una sandbox all’altra.*
+  *Scopri come copiare un percorso e i relativi oggetti dipendenti da una sandbox all’altra.*
 
 * **[Mascherare i dati nei messaggi](/help/privacy/mask-data-in-messages.md)**
-
-   *Scopri cos’è il mascheramento dei dati e perché mascherarli. Scopri come mascherare i dati nei messaggi di Journey Optimizer.*
+  *Scopri cos’è il mascheramento dei dati e perché mascherarli. Scopri come mascherare i dati nei messaggi di Journey Optimizer.*
 
 </div>
 
@@ -48,12 +47,10 @@ La presente guida utente contiene video e tutorial sulle funzioni e caratteristi
 ## Eventi Experience League Live
 
 * **[Eseguire le campagne in Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=it)**
-
-   *In questo episodio Experience League Live, originariamente svolto il 22 settembre 2022, è possibile vedere l’ospite Sandra Hausmann e gli esperti di prodotto Bridgette Darling e Frederic Mary mentre discutono i casi d’uso che copre questa nuova funzionalità e mostrano come configurare ed eseguire facilmente una campagna in Journey Optimizer.*
+  *In questo episodio Experience League Live, originariamente svolto il 22 settembre 2022, è possibile vedere l’ospite Sandra Hausmann e gli esperti di prodotto Bridgette Darling e Frederic Mary mentre discutono i casi d’uso che copre questa nuova funzionalità e mostrano come configurare ed eseguire facilmente una campagna in Journey Optimizer.*
 
 * **[Notifiche push con Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=it)**
-
-   *In questo episodio di Experience League Live, parleremo dei casi d’uso comuni per le notifiche push con Adobe Journey Optimizer e approfondiremo i dettagli tecnici per sapere come configurare un’app per il push basato su Adobe Experience Platform.*
+  *In questo episodio di Experience League Live, parleremo dei casi d’uso comuni per le notifiche push con Adobe Journey Optimizer e approfondiremo i dettagli tecnici per sapere come configurare un’app per il push basato su Adobe Experience Platform.*
 
 </div>
 
