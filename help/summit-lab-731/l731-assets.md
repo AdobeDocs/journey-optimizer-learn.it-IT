@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: d44943b27a1681a2f264e762a2eac9d993ce46be
+source-git-commit: cfb9b9ba25b07a3325a74d0703f24b1d658f1277
 workflow-type: tm+mt
-source-wordcount: '285'
-ht-degree: 76%
+source-wordcount: '284'
+ht-degree: 77%
 
 ---
 
@@ -152,7 +152,7 @@ Fai clic su **Installa comunque**
 | Opzione URL del contenuto multimediale |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
 | Titolo | Ottieni il tuo sconto anticipato per uccello! |  |
 | Corpo | Adobe Max ritorna a Las Vegas. Preparati ad ascoltare relatori stimolanti, sessioni per ampliare le competenze e nuove connessioni. Prenota subito la tua suite e ottieni uno sconto del 10%. |  |
-| Pulsante | Ottieni il tuo 10% di sconto! | lab://booking?suite=presidential&amp;discount=10 |
+| Pulsante | Prenota ora | lab://booking?suite=presidential&amp;discount=10 |
 | Pulsante: evento interattivo | CTA in-app |  |
 | URL di base da utilizzare per l&#39;anteprima sul dispositivo |  | **iOS:** lab:// <br>**Android**: https://lab |
 
