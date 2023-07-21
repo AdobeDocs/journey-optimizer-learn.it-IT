@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: af22cd4dfe86ade11a88428cd44460fad721942a
+source-git-commit: 056965ea13a84a182971b10138e5d9a75522d5c7
 workflow-type: tm+mt
-source-wordcount: '305'
-ht-degree: 71%
+source-wordcount: '326'
+ht-degree: 66%
 
 ---
 
@@ -142,7 +142,7 @@ Fai clic su **Installa comunque**
 
 ## Esercizio 1: accedere a Adobe Journey Optimizer
 
-[Fai clic qui per accedere a Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home)
+[Fai clic qui per accedere a Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home){target="_blank"}
 
 **Dettagli di accesso:**
 
@@ -152,16 +152,16 @@ Fai clic su **Installa comunque**
 
 ## Esercizio 2 Creare una campagna in-app
 
-| Campo | Testo | Collegamenti |
-|----|----|----|
-| Nome della campagna | `<your seat number> Vegas Stay Campaign` |  |
-| Corrispondenza | booknow |  |
-| Opzione URL del contenuto multimediale |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
-| Titolo | Ottieni il tuo sconto anticipato per uccello! |  |
-| Corpo | Adobe Max ritorna a Las Vegas. Preparati ad ascoltare relatori stimolanti, sessioni per ampliare le competenze e nuove connessioni. Prenota subito la tua suite e ottieni uno sconto del 10%. |  |
-| Pulsante | Ottieni il tuo 10% di sconto! | lab://booking?suite=presidential&amp;discount=10 |
-| Pulsante: evento interattivo | CTA in-app |  |
-| URL di base da utilizzare per l&#39;anteprima sul dispositivo |  | **iOS:** lab:// <br>**Android**: https://lab |
+| Sezione | Campo | Testo | Collegamenti |
+|----|----|----|----|
+| **Proprietà** |  | Nome della campagna | `<your seat number> Vegas Stay Campaign` |  |
+| **Triggers** | Stato | booknow |  |
+| **Modifica contenuto:** Contenuti multimediali | Opzione URL del contenuto multimediale |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
+| **Modifica contenuto:** Contenuto | Titolo | Ottieni il tuo sconto anticipato per uccello! |  |
+| **Modifica contenuto:** Contenuto | Corpo | Adobe Max ritorna a Las Vegas. Preparati ad ascoltare relatori stimolanti, sessioni per ampliare le competenze e nuove connessioni. Prenota subito la tua suite e ottieni uno sconto del 10%. |  |
+| **Modifica contenuto:** Pulsanti | Pulsante | Ottieni il tuo 10% di sconto! | lab://booking?suite=presidential&amp;discount=10 |
+| **Modifica contenuto:** Contenuto |  | Pulsante: evento di interazione | CTA in-app |  |
+| **Anteprima sul dispositivo** |  | URL di base da utilizzare per l’anteprima sul dispositivo |  | **iOS:** lab:// <br>**Android**: https://lab |
 
 
 ## Esercizio 3: Creare una notifica push
