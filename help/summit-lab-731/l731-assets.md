@@ -9,9 +9,9 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 056965ea13a84a182971b10138e5d9a75522d5c7
+source-git-commit: 0932b5cd3ad318b0094e859cbc64c5de4f8ba747
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '325'
 ht-degree: 66%
 
 ---
@@ -160,9 +160,8 @@ Fai clic su **Installa comunque**
 | **Modifica contenuto:** Contenuto | Titolo | Ottieni il tuo sconto anticipato per uccello! |  |
 | **Modifica contenuto:** Contenuto | Corpo | Adobe Max ritorna a Las Vegas. Preparati ad ascoltare relatori stimolanti, sessioni per ampliare le competenze e nuove connessioni. Prenota subito la tua suite e ottieni uno sconto del 10%. |  |
 | **Modifica contenuto:** Pulsanti | Pulsante | Ottieni il tuo 10% di sconto! | lab://booking?suite=presidential&amp;discount=10 |
-| **Modifica contenuto:** Contenuto |  | Pulsante: evento di interazione | CTA in-app |  |
+| **Modifica contenuto:** Pulsanti | Evento di interazione | CTA in-app |  |
 | **Anteprima sul dispositivo** |  | URL di base da utilizzare per l’anteprima sul dispositivo |  | **iOS:** lab:// <br>**Android**: https://lab |
-
 
 ## Esercizio 3: Creare una notifica push
 
