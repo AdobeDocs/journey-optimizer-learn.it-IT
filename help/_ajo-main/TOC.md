@@ -5,7 +5,7 @@ user-guide-description: Questi sono i tutorial di Journey Optimizer.
 source-git-commit: 391abc80e405fee1e56bbf534d6c0cc822fbc389
 workflow-type: tm+mt
 source-wordcount: '396'
-ht-degree: 92%
+ht-degree: 96%
 
 ---
 
@@ -31,8 +31,8 @@ ht-degree: 92%
    + [Introduzione alla creazione di un percorso](/help/create-journeys/introduction-to-building-a-journey.md)
    + [Caso d’uso: percorso transazionale](/help/create-journeys/use-case-transactional-journey.md)
    + [Caso d’uso: evento di business](/help/create-journeys/use-case-business-event.md)
-   + [Caso d’uso: lettura del pubblico](/help/create-journeys/use-case-read-audience.md)
-   + [Caso d’uso: qualificazione del pubblico](/help/create-journeys/use-case-audience-qualification.md)
+   + [Caso d’uso: attività “Leggi pubblico”](/help/create-journeys/use-case-read-audience.md)
+   + [Caso d’uso: qualificazione di un pubblico](/help/create-journeys/use-case-audience-qualification.md)
    + [Creare un profilo di test](/help/create-journeys/test-a-journey.md)
    + [Pubblicare un percorso](/help/create-journeys/publish-a-journey.md)
    + [Copiare un percorso in un’altra sandbox](/help/create-journeys/copy-a-journey.md)

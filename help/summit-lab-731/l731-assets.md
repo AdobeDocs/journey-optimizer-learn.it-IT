@@ -12,7 +12,7 @@ exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
 source-git-commit: 01869838bb08e0d7848934f345afdd54824aaa75
 workflow-type: tm+mt
 source-wordcount: '325'
-ht-degree: 66%
+ht-degree: 91%
 
 ---
 
@@ -150,24 +150,24 @@ Fai clic su **Installa comunque**
 * **Password:** Adobe2023.
 
 
-## Esercizio 2 Creare una campagna in-app
+## Esercizio 2: creare una campagna in-app
 
 | Sezione | Campo | Testo | Collegamenti |
 |----|----|----|----|
 | **Proprietà** | Nome della campagna | `<your seat number> Vegas Stay Campaign` |  |
 | **Triggers** | Stato | booknow |  |
 | **Modifica contenuto:** Contenuti multimediali | Opzione URL del contenuto multimediale |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
-| **Modifica contenuto:** Contenuto | Titolo | Ottieni il tuo sconto anticipato per uccello! |  |
+| **Modifica contenuto:** Contenuto | Titolo | Ottieni il tuo sconto early bird! |  |
 | **Modifica contenuto:** Contenuto | Corpo | Adobe Max ritorna a Las Vegas. Preparati ad ascoltare relatori stimolanti, sessioni per ampliare le competenze e nuove connessioni. Prenota subito la tua suite e ottieni uno sconto del 10%. |  |
 | **Modifica contenuto:** Pulsanti | Pulsante | Ottieni il tuo 10% di sconto! | lab://booking?suite=presidential&amp;discount=10 |
 | **Modifica contenuto:** Pulsanti | Evento di interazione | CTA in-app |  |
 | **Anteprima sul dispositivo** | URL di base da utilizzare per l’anteprima sul dispositivo |  | **iOS:** lab:// <br>**Android**: https://lab |
 
-## Esercizio 3: Creare una notifica push
+## Esercizio 3: crea una notifica push
 
 | Campo | Testo | Collegamenti |
 |----|----|----|
 | Nome della campagna | `<your seat number> Max Push Campaign` |  |
 | Titolo | Ehi! |  |
-| Corpo | Lo sapevi che Adobe Max sta tornando a Las Vegas? Prenota subito la tua camera e ottieni uno sconto del 10%. |  |
+| Corpo | Lo sapevi che Adobe Max sta tornando a Las Vegas? Prenota ora la tua camera e ottieni uno sconto del 10%. |  |
 | Opzione URL del contenuto multimediale |  | https://i.ibb.co/1M0BnZn/Firefly-Big-conference-big-stage-with-ADBE-text-on-screen-40178.jpg |
