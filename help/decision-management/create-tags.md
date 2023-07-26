@@ -16,7 +16,7 @@ ht-degree: 100%
 
 # Creare i tag
 
-Scopri come [creare i tag](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-tags.html?lang=it) in [!DNL Decision Management]. I tag sono componenti di blocco predefinito facoltativi delle offerte. Possono essere utilizzati per organizzare le offerte e raggrupparle in raccolte dinamiche.
+Scopri come [creare i tag](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-tags.html?lang=it) in [!DNL Decision Management]. I tag sono componenti di base facoltativi delle offerte. Possono essere utilizzati per organizzare le offerte e raggrupparle in raccolte dinamiche.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329374?quality=12&learn=on)
 
