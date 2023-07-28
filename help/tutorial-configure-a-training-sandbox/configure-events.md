@@ -8,10 +8,10 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
-workflow-type: ht
-source-wordcount: '190'
-ht-degree: 100%
+source-git-commit: df055830da42b94d751890af6c19074ddfea2237
+workflow-type: tm+mt
+source-wordcount: '159'
+ht-degree: 97%
 
 ---
 
@@ -52,26 +52,14 @@ Utilizzando questo evento, Journey Optimizer riceve informazioni quando una pers
 
 1. Seleziona **[!UICONTROL Salva]**.
 
-## Creare l’evento *[!DNL Luma Wishlist Add]*
-
-| [!UICONTROL Parametro] | [!UICONTROL Valore] |
-|-------------|-----------|
-| [!UICONTROL NOME] | `LumaWishlistAdd` |
-| [!UICONTROL TIPO] | [!UICONTROL Unitario] |
-| [!UICONTROL Tipo ID evento] | [!UICONTROL Basato su regole] |
-| [!UICONTROL Schema] | `Luma Product Interactions` |
-| [!UICONTROL Campi] | EventType<br>productListItem.quantity<br><b>In Elementi elenco prodotti > Prodotti Luma > _*[!DNL yourOrganizationID]* > Prodotto:</b> <br>Nome<br>Prezzo<br> ProductImageURL<br>ProductURL |
-| [!UICONTROL Condizione] | [!DNL LumaWishlistAdd.eventType is commerce.saveForLaters] |
-| [!UICONTROL Spazio dei nomi] | E-mail(e-mail) |
-
 ## Creare l’evento *[!DNL Luma Product Restock]*
 
 | [!UICONTROL Parametro] | [!UICONTROL Valore] |
 |-------------|-----------|
 | [!UICONTROL NOME] | `LumaProductRestock` |
 | [!UICONTROL TIPO] | [!UICONTROL Business] |
-| [!UICONTROL Schema] | [!DNL Luma Product Inventory Events] |
-| [!UICONTROL Campi] | SKU <br> stockEventType<br><b> yourOrganizationID > product:</b> <br>nome<br>prezzo<br> ImageURL<br>descrizione |
+| [!UICONTROL Schema] | [!DNL Luma Product Inventory Event Schema] |
+| [!UICONTROL Campi] | SKU <br> stockEventType<br><b>LumaProductCatalogSchema._yourOrganizationID.product:</b> <br>nome<br>prezzo<br> ImageURL<br>descrizione |
 | [!UICONTROL Condizione] | LumaProductRestock._`your organization's ID`.inventoryEvent.stockEventType è il rifornimento |
 
 Congratulazioni! Ora la sandbox è pronta per l’uso.

@@ -8,10 +8,10 @@ level: Beginner
 hide: true
 hidefromtoc: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
-workflow-type: ht
+source-git-commit: 5c763ec877c75c07132f4cc714d63695e12638dc
+workflow-type: tm+mt
 source-wordcount: '580'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
@@ -37,7 +37,7 @@ Luma chiede di implementare un percorso in Journey Optimizer che avvisa i client
 
 ## 1. Definisci il segmento - Articoli esauriti nella lista dei desideri
 
-Quando i prodotti vengono riassortiti, per eseguire il targeting dei potenziali clienti interessati, crea un segmento costituito da clienti:
+Per eseguire il targeting dei potenziali clienti interessati quando i prodotti vengono riassortiti, crea un pubblico costituito da clienti:
 
 * che hanno aggiunto almeno un elemento alla loro lista dei desideri (utilizza tipo di evento: [!UICONTROL Salva per dopo di Commerce])
 * elemento che era esaurito negli ultimi tre mesi (utilizza quantità di stock = 0)

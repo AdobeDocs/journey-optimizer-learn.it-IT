@@ -1,16 +1,16 @@
 ---
 title: Crea un annuncio sulla Collezione estiva - sfida
-description: Invia un annuncio sulla Collezione estiva a un segmento di clienti esistenti per promuovere la nuova Collezione estiva Luma.
+description: Invia un annuncio sulla collezione estiva a un pubblico di clienti esistenti per promuovere la nuova collezione estiva Luma.
 jira: KT-8109
 feature: Segments, Journeys, Email
 role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 035d568fc25119142b92e0caa8adfb0ae5e21be8
+source-git-commit: 5c763ec877c75c07132f4cc714d63695e12638dc
 workflow-type: tm+mt
-source-wordcount: '1126'
-ht-degree: 100%
+source-wordcount: '1125'
+ht-degree: 94%
 
 ---
 
@@ -28,24 +28,24 @@ ht-degree: 100%
 
 ## Il contesto
 
-Luma, un’azienda fittizia di abbigliamento sportivo, sta promuovendo la sua ultima collezione di abbigliamento e attrezzatura per stimolare le vendite per i clienti esistenti. Luma sta lanciando la nuova collezione estiva e desidera mirare in modo specifico diversi segmenti di clienti.
+Luma, un’azienda fittizia di abbigliamento sportivo, sta promuovendo la sua ultima collezione di abbigliamento e attrezzatura per stimolare le vendite per i clienti esistenti. Luma sta lanciando la nuova collezione estiva e desidera rivolgersi in modo specifico a tipi di pubblico diversi.
 
 ## La tua sfida
 
 Il team di marketing Luma ti chiede di implementare una campagna di marketing per la collezione estiva in Journey Optimizer. La sfida è quella di:
 
-* creare un segmento che definisce quali profili sono idonei a ricevere la promozione.
+* Crea un pubblico che definisca quali profili sono idonei a ricevere la promozione.
 * Creare il percorso.
 
-### Passaggio 1: definire il segmento - clienti attivi
+### Passaggio 1: definire il pubblico - Clienti attivi
 
 >[!BEGINTABS]
 
 >[!TAB Attività]
 
-#### Crea un segmento in [!DNL Journey Optimizer]
+#### Creare un pubblico in [!DNL Journey Optimizer]
 
-* In [!DNL Journey Optimizer], crea un segmento denominato *Clienti attivi*.
+* Creare un pubblico in [!DNL Journey Optimizer] ha chiamato *Clienti attivi*.
 * Il segmento deve includere solo clienti Luma attivi.
 * I clienti attivi sono definiti come clienti che hanno un livello nel programma fedeltà di Luma (bronzo, argento, oro o platino).
 
