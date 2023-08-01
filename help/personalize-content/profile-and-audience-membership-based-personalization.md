@@ -9,17 +9,14 @@ team: PM
 role: User
 level: Beginner
 exl-id: 3a11a1ac-9bc7-4485-a1c2-a6b1beabcce4
-source-git-commit: c5e5a2fc5a0c4ded46565b998e36f10a26db15df
+source-git-commit: 84a5a9944d26f1a11bb65b5caebec9aaa4316392
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 32%
+source-wordcount: '56'
+ht-degree: 17%
 
 ---
 
 # Personalizzazione basata su profilo e appartenenza a un pubblico
-
->[!NOTE]
->Tieni presente la seguente modifica all’interfaccia utente: **Segmenti** ora sono denominati **Tipi di pubblico**.
 
 Scopri come aggiungere a un messaggio la personalizzazione basata sul profilo e come utilizzare l’iscrizione a un pubblico come condizione preliminare per un blocco di personalizzazione.
 
