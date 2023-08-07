@@ -9,9 +9,9 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
 source-git-commit: df055830da42b94d751890af6c19074ddfea2237
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '159'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -59,7 +59,7 @@ Utilizzando questo evento, Journey Optimizer riceve informazioni quando una pers
 | [!UICONTROL NOME] | `LumaProductRestock` |
 | [!UICONTROL TIPO] | [!UICONTROL Business] |
 | [!UICONTROL Schema] | [!DNL Luma Product Inventory Event Schema] |
-| [!UICONTROL Campi] | SKU <br> stockEventType<br><b>LumaProductCatalogSchema._yourOrganizationID.product:</b> <br>nome<br>prezzo<br> ImageURL<br>descrizione |
+| [!UICONTROL Campi] | SKU <br> stockEventType<br><b>LumaProductCatalogSchema._yourOrganizationID.product :</b> <br>nome<br>prezzo<br> ImageURL<br>descrizione |
 | [!UICONTROL Condizione] | LumaProductRestock._`your organization's ID`.inventoryEvent.stockEventType è il rifornimento |
 
 Congratulazioni! Ora la sandbox è pronta per l’uso.
