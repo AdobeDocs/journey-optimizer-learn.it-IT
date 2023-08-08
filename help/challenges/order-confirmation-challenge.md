@@ -7,8 +7,8 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
-workflow-type: ht
+source-git-commit: 8b8d163b65dbd34f769a26231638f0bfeb6eb0b1
+workflow-type: tm+mt
 source-wordcount: '654'
 ht-degree: 100%
 
@@ -54,6 +54,7 @@ Crea un percorso che invia un’e-mail di conferma dell’ordine quando un clien
       * Aggiungi il collegamento per annullare l’abbonamento nella parte inferiore dell’e-mail
 
 L’e-mail deve essere strutturata nel modo seguente:
+
 <table>
 <tr>
 <td>
@@ -176,7 +177,7 @@ Dovresti ricevere l’e-mail di conferma dell’acquisto personalizzata.
 
 **Oggetto:**
 
-Grazie per l’acquisto, {{ profile.person.name.firstName }}!
+Grazie per l’acquisto, `{{ profile.person.name.firstName }}`!
 
 **Sezione spedizione:**
 
