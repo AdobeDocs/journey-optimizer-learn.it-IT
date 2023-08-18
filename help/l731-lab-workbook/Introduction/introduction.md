@@ -35,7 +35,7 @@ Con la campagna in-app puoi raggiungere gli utenti mentre utilizzano l’app Veg
 
 Progetti una campagna di notifica push singola. Vuoi creare una notifica push semplice ma efficace per portare nell’app gli utenti che ancora non hanno prenotato una stanza. Vuoi creare un messaggio per far sapere a tutti quali eventi emozionanti sono in arrivo a Las Vegas e portare gli utenti sull’app.
 
-Per offrire all’ospite una brand experience straordinaria, crei un percorso multicanale. Il percorso viene attivato all’arrivo dell’ospite al resort. Utilizzi push e SMS per dare il benvenuto all’ospite al resort e indirizzarlo sull’app per il check-in online. Una volta effettuato il check-in, l’ospite riceve una conferma via e-mail con un voucher per uno dei servizi dell’hotel e ulteriori offerte con proposte di attività durante il soggiorno.
+Per offrire all’ospite una brand experience straordinaria, crei un percorso multicanale. Il percorso viene attivato all’arrivo dell’ospite al resort. Con messaggi push e SMS dai il benvenuto all’ospite al resort e lo indirizzi all’app per il check-in online. Una volta effettuato il check-in, l’ospite riceve una conferma via e-mail con un voucher per uno dei servizi dell’hotel e ulteriori offerte con proposte di attività durante il soggiorno.
 
 Con questo approccio multicanale, riesci a raggiungere un pubblico più ampio, aumentare il numero di prenotazioni in hotel fatte attraverso l’app e semplificare le operazioni grazie ad AJO.
 
