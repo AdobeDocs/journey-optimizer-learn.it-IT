@@ -7,10 +7,10 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 1f1b8b3237dccebbf6741253edaf380e4a83753b
+source-git-commit: cc84bc66485a7136e433ea500352a0b029a71592
 workflow-type: tm+mt
-source-wordcount: '594'
-ht-degree: 100%
+source-wordcount: '627'
+ht-degree: 96%
 
 ---
 
@@ -45,6 +45,9 @@ La presente guida utente contiene video e tutorial sulle funzioni e caratteristi
 <div id="events-section">
 
 ## Eventi Experience League Live
+
+* **[Messaggi attivati da API in Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=it)**
+  *Scopri come utilizzare le API REST per comunicazioni transazionali e di marketing contestuali, personalizzate e in tempo reale.*
 
 * **[Ottimizzare il potenziale dell’app mobile con Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=it)**
   *Scopri i vantaggi della messaggistica in-app come canale di coinvolgimento in tempo reale e come configurare e creare esperienze personalizzate per app mobili in Adobe Journey Optimizer.*
