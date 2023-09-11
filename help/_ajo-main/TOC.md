@@ -3,9 +3,9 @@ user-guide-title: Tutorial su Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial di Journey Optimizer.
 source-git-commit: 08a38625b59b7116166dcada05232a20b12a7ffd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '403'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -47,7 +47,7 @@ ht-degree: 98%
    + [Configurare esperimenti sui contenuti per le e-mail](/help/experimentation/content-experiments-for-emails.md)
 + Canale in-app{#in-app-channel}
    + [Creare una campagna in-app](/help/channels/create-an-in-app-campaign.md)
-   + [Creazione di un messaggio in-app in un percorso](/help/channels/create-an-in-app-message-in-a-journey.md)
+   + [Creare un messaggio in-app in un percorso](/help/channels/create-an-in-app-message-in-a-journey.md)
    + [Creare un messaggio in-app](/help/channels/author-in-app-messages.md)
    + [Configurare esperimenti sui contenuti per i messaggi in-app](/help/experimentation/content-experiments-for-in-app-messages.md)
 + Canale push{#push-channel}
