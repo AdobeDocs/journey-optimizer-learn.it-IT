@@ -8,10 +8,10 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: df055830da42b94d751890af6c19074ddfea2237
+source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 100%
+source-wordcount: '161'
+ht-degree: 98%
 
 ---
 
@@ -21,7 +21,7 @@ In questa sezione, puoi impostare i tre eventi necessari per gli esercizi pratic
 
 Il video seguente spiega come creare gli eventi:
 
->[!VIDEO](https://video.tv.adobe.com/v/336253?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/336253?quality=12&learn=on){transcript=true}
 
 ## Creare l’evento di acquisto online Luma
 

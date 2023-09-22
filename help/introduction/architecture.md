@@ -11,10 +11,10 @@ level: Beginner
 exl-id: 33b8ee09-4cd8-475c-bf8e-a7934eff19a1
 hide: true
 hidefromtoc: true
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 100%
+source-wordcount: '54'
+ht-degree: 96%
 
 ---
 
@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Scopri l’architettura di base di Adobe Journey Optimizer, i punti di integrazione e la relazione con altre applicazioni Adobe.
 
->[!VIDEO](https://video.tv.adobe.com/v/334205?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/334205?quality=12&learn=on){transcript=true}
