@@ -3,10 +3,10 @@ user-guide-title: Tutorial su Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial di Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: bc127e90867bcda59a44881e7e4f462be2e88d5e
+source-git-commit: d848272dba814c300aa21110316b5b37ccb719ce
 workflow-type: tm+mt
-source-wordcount: '422'
-ht-degree: 95%
+source-wordcount: '427'
+ht-degree: 94%
 
 ---
 
@@ -87,12 +87,13 @@ ht-degree: 95%
    + [Distribuire le offerte con l’API Decisions](/help/decision-management/deliver-offers-with-the-decisions-api.md)
    + [Quota limite](/help/decision-management/frequency-capping.md)
 + Gestione dati {#data-management}
-   + [Panoramica](/help/set-up-data/set-up-data-overview.md)
-   + [Creare uno schema](/help/set-up-data/create-schema.md)
-   + [Mappare le identità](/help/set-up-data/map-identities.md)
-   + [Creare set di dati e acquisire dati](/help/set-up-data/create-datasets-and-ingest-data.md)
-   + [Configurare i connettori di origini](/help/set-up-data/configure-source-connectors.md)
-   + [Esporta i set di dati nelle posizioni di archiviazione cloud](/help/set-up-data/export-datasets.md)
+   + [Panoramica](/help/data-management/set-up-data-overview.md)
+   + [Creare uno schema](/help/data-management/create-schema.md)
+   + [Mappare le identità](/help/data-management/map-identities.md)
+   + [Creare set di dati e acquisire dati](/help/data-management/create-datasets-and-ingest-data.md)
+   + [Configurare i connettori di origini](/help/data-management/configure-source-connectors.md)
+   + [Configurare una destinazione di esportazione del set di dati](/help/data-management/configure-dataset-export-destination.md)
+   + [Esporta i set di dati nelle posizioni di archiviazione cloud](/help/data-management/export-datasets.md)
 + Rapporto e monitoraggio {#report-and-monitor}
    + [Rapporti live e globali](/help/report-and-monitor/live-and-global-reports.md)
    + [Rapporti a livello di canale](/help/report-and-monitor/channel-level-reports.md)
