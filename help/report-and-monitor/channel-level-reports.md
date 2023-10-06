@@ -1,6 +1,6 @@
 ---
 title: Rapporti a livello di canale
-description: Scopri come accedere, navigare ed esportare i rapporti a livello di canale.
+description: Scopri come accedere ai rapporti a livello di canale, consultarli ed esportarli.
 feature: Reporting
 role: User
 level: Beginner
@@ -9,16 +9,16 @@ last-substantial-update: 2023-09-28T00:00:00Z
 jira: KT-14033
 thumbnail: 3424537.jpeg
 hidefromtoc: false
-source-git-commit: 2e12d30c620620155985a5d8c13a9e6c593332e8
-workflow-type: tm+mt
+exl-id: cd22e955-9cdc-4bb8-b83e-253148c289eb
+source-git-commit: 2493f6cad316173f5b33d664e3215ed71d13ff76
+workflow-type: ht
 source-wordcount: '47'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-
 # Rapporti a livello di canale
 
-Scopri come accedere, navigare ed esportare i rapporti a livello di canale. Per ulteriori informazioni, visitare il [Documentazione dei rapporti sul canale](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/channel-report/channel-report.html).
+Scopri come accedere ai rapporti a livello di canale, consultarli ed esportarli. Per ulteriori informazioni, consulta la [documentazione sui rapporti di canale](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/channel-report/channel-report.html?lang=it).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424537/?learn=on)
