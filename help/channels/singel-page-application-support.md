@@ -9,13 +9,13 @@ last-substantial-update: 2023-09-28T00:00:00Z
 jira: KT-14009
 thumbnail: 3424536.jpeg
 hidefromtoc: false
-source-git-commit: 2e12d30c620620155985a5d8c13a9e6c593332e8
-workflow-type: tm+mt
+exl-id: 2076e22d-d633-4bd2-ad26-6d9f5e6150e2
+source-git-commit: 2493f6cad316173f5b33d664e3215ed71d13ff76
+workflow-type: ht
 source-wordcount: '96'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
-
 
 # Supporto di applicazioni a pagina singola (SPA) nell’editor web
 
@@ -23,11 +23,11 @@ Scopri come creare applicazioni a pagina singola (SPA) nell’editor web di Jour
 
 Questo video spiega come:
 
-* Scopri le visualizzazioni SPA utilizzando la modalità Sfoglia
-* Eseguire l&#39;authoring sulla visualizzazione corrente
-* Applica le modifiche al sito web a più visualizzazioni o a tutte le visualizzazioni individuate
-* Eseguire azioni in blocco sulle modifiche&quot;
+* Individuare le viste di applicazioni a pagina singola utilizzando la modalità Sfoglia
+* Eseguire l’authoring sulla vista corrente
+* Applicare le modifiche al sito web per più viste o tutte le viste individuate
+* Eseguire azioni in blocco sulle modifiche
 
-Per ulteriori informazioni, visitare il [Introduzione alla documentazione del canale web](https://experienceleague.adobe.com/docs/journey-optimizer/using/web/get-started-web.html).
+Per ulteriori informazioni, visita la [documentazione di introduzione al canale web](https://experienceleague.adobe.com/docs/journey-optimizer/using/web/get-started-web.html?lang=it).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424536/?learn=on)
