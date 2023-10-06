@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial di Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: f08f646c2317cc17356594052d3174065ef00384
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '420'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -60,7 +60,7 @@ ht-degree: 94%
 + Canale Web {#web-channel}
    + [Creare una campagna web](/help/channels/create-a-web-campaign.md)
    + [Authoring di una campagna web](/help/channels/author-a-web-campaign.md)
-   + [Supporto SPA nell’editor web](/help/channels/singel-page-application-support.md)
+   + [Supporto di applicazioni a pagina singola (SPA) nell’editor web](/help/channels/singel-page-application-support.md)
 + Profili, tipi di pubblico e abbonamenti {#profiles-segments-subscriptions}
    + [Profilo unificato e segmentazione: panoramica](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [Creare segmenti](/help/set-up-resources/create-segments.md)
@@ -92,12 +92,12 @@ ht-degree: 94%
    + [Mappare le identità](/help/data-management/map-identities.md)
    + [Creare set di dati e acquisire dati](/help/data-management/create-datasets-and-ingest-data.md)
    + [Configurare i connettori di origini](/help/data-management/configure-source-connectors.md)
-   + [Configurare una destinazione di esportazione del set di dati](/help/data-management/configure-dataset-export-destination.md)
+   + [Configurare la destinazione di esportazione per un set di dati](/help/data-management/configure-dataset-export-destination.md)
    + [Esporta i set di dati nelle posizioni di archiviazione cloud](/help/data-management/export-datasets.md)
 + Rapporto e monitoraggio {#report-and-monitor}
    + [Rapporti live e globali](/help/report-and-monitor/live-and-global-reports.md)
    + [Rapporti a livello di canale](/help/report-and-monitor/channel-level-reports.md)
-   + [Esportare rapporti in formato CSV](/help/report-and-monitor/export-reports-in-csv-format.md)
+   + [Esportare i rapporti in formato CSV](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [Utilizzare gli avvisi](/help/administration/alerts.md)
 + Configurazione {#configuration}
    + Configurare i canali {#channel-configuration}
