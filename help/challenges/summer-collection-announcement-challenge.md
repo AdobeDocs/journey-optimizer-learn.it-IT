@@ -7,16 +7,14 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 5c763ec877c75c07132f4cc714d63695e12638dc
+source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
 workflow-type: tm+mt
-source-wordcount: '1125'
+source-wordcount: '1120'
 ht-degree: 100%
 
 ---
 
 # Crea un annuncio sulla Collezione estiva - sfida
-
-![Banner di annuncio sulla collezione estiva AJO](/help/challenges/assets/email-assets/luma-transactional-onboarding-3.png)
 
 | Sfida | Crea un annuncio sulla Collezione estiva |
 |---|---|
@@ -192,13 +190,13 @@ Testa il percorso e invia le e-mail al tuo account:
 1. Metti il percorso in modalità di test.
 1. Seleziona **[!UICONTROL Profilo singolo alla volta]**.
 1. Tempo di attesa: imposta il timer su 120 secondi (digitalo nel campo).
-1. Attiva l’entrata del profilo
+1. Attiva l’ingresso del profilo
 1. È possibile eseguire il test di ogni ramo utilizzando uno dei seguenti *ID CRM Luma* come identificatori di profilo:
    * Femmina: Leora Dietsche. Valore identità: `a8f14eab3b483c2b96171b575ecd90b1`
    * Maschio: Stanleigh Stooke. Valore identità: `4f34057d9d9e792c28ba18ecae378e98`
    * Genere non specificato: Louise Petti. Valore identità: `d1f132f9f9502bba047a6ec86c4b61f9`
 
-1. Dopo aver attivato l’entrata del profilo, dovresti ricevere la prima e-mail. L’intestazione deve essere personalizzata in base al profilo scelto.
+1. Dopo aver attivato l’ingresso del profilo, dovresti ricevere la prima e-mail. L’intestazione deve essere personalizzata in base al profilo scelto.
 1. Il percorso deve continuare nel rispettivo ramo e dovresti ricevere l’e-mail correlata (ad esempio, se hai scelto *Jenna*, riceverai l’e-mail *Collezione da donna Luma*).
 1. Apri la seconda e-mail e il percorso dovrebbe terminare.
 1. È possibile ripetere il passaggio 4. - 7. per tutti e tre i profili per verificare se i rami funzionano correttamente.
