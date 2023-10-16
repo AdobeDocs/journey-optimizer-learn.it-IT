@@ -3,13 +3,13 @@ title: Creare una campagna
 description: Scopri come distribuire contenuti una tantum a un pubblico specifico eseguendo azioni immediatamente o secondo una pianificazione specifica.
 jira: KT-10590
 thumbnail: 346680.jpg
-feature: Journeys
+feature: Campaigns
 doc-type: feature video
 team: PM
 role: User
 level: Beginner
 exl-id: 543678e6-5803-4997-a6ea-a45ed571d7d4
-source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
+source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
 workflow-type: ht
 source-wordcount: '107'
 ht-degree: 100%
