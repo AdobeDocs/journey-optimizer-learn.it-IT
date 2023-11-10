@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial di Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: 78d8e19a8ab0cf1253cdb724a4d05e8d5b4dfdc4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '428'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -39,8 +39,8 @@ ht-degree: 98%
    + [Pubblicare un percorso](/help/create-journeys/publish-a-journey.md)
    + [Copiare un percorso in un’altra sandbox](/help/create-journeys/copy-a-journey.md)
 + Profili, tipi di pubblico e abbonamenti {#profiles-audiences-subscriptions}
-   + [Profilo unificato e segmentazione: panoramica](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
-   + [Creare tipi di pubblico con il generatore di regole](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
+   + [Profilo unificato e segmentazione - panoramica](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
+   + [Creare tipi di pubblico tramite il generatore di regole](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [Iscrizioni e pagine di destinazione](/help/subscriptions-and-landing-pages.md)
 + Canale e-mail{#email-channel}
    + [Creare contenuti con E-mail Designer](/help/channels/create-content-with-the-email-designer.md)
