@@ -1,6 +1,6 @@
 ---
-title: Creare ed eseguire un piano di riscaldamento IP
-description: Scopri come creare ed eseguire un piano di riscaldamento IP.
+title: Creare ed eseguire un piano di preparazione IP
+description: Scopri come creare ed eseguire un piano di preparazione IP.
 feature: IP Warmup Plans
 role: Admin
 level: Beginner
@@ -14,16 +14,16 @@ hide: true
 badgeBeta: label="Beta" type="Informative"
 exl-id: 90b80e5c-ce12-4298-b7be-20a94512062e
 source-git-commit: 507745fa63e82f8fde800c8538fdf8a2e2506c8d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '50'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
-# Creare ed eseguire un piano di riscaldamento IP
+# Creare ed eseguire un piano di preparazione IP
 
-Scopri come creare ed eseguire un piano di riscaldamento IP.
+Scopri come creare ed eseguire un piano di preparazione IP.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425965/?learn=on)
 
-Consulta la documentazione del prodotto [Introduzione ai piani di riscaldamento IP](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/implement-ip-warmup-plan/ip-warmup-gs.html) per ulteriori informazioni.
+Per ulteriori informazioni, consulta la documentazione del prodotto [Introduzione ai piani di preparazione IP](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/implement-ip-warmup-plan/ip-warmup-gs.html?lang=it).
