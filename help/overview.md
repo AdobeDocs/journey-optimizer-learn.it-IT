@@ -7,9 +7,9 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 0d3c552a0c66a80447221b5e99945de2615f1404
-workflow-type: ht
-source-wordcount: '588'
+source-git-commit: 146e1ef57ccdc1f192fc377a6c1df893168f447b
+workflow-type: tm+mt
+source-wordcount: '490'
 ht-degree: 100%
 
 ---
@@ -20,25 +20,6 @@ ht-degree: 100%
 Journey Optimizer aiuta le aziende a fornire ai loro clienti esperienze connesse, contestuali e personalizzate. Per “percorso del cliente” si intende l’intero processo delle interazioni del cliente con il brand, dal primo contatto fino a quando il cliente esce dal sito.
 
 La presente guida utente contiene video e tutorial sulle funzioni e caratteristiche di Adobe Journey Optimizer.
-
-<div id="whats-new-section">
-
-## Novità
-
-* **[Creare contenuti dinamici con il generatore di regole di condizione](/help/personalize-content/create-dynamic-content.md)**
-  *Scopri come creare e salvare regole di condizione e come applicarle ai contenuti su tutti i canali.*
-
-* **[Utilizzare gli avvisi](/help/administration/alerts.md)**
-  *Scopri come abbonarti agli avvisi predefiniti per comportamenti di percorso imprevisti e ricevere notifiche tramite e-mail, in Journey Optimizer o utilizzando un’API.*
-
-* **[Copiare un percorso in un’altra sandbox](/help/create-journeys/copy-a-journey.md)**
-  *Scopri come copiare un percorso e i relativi oggetti dipendenti da una sandbox all’altra.*
-
-* **[Mascherare i dati nei messaggi](/help/privacy/mask-data-in-messages.md)**
-  *Scopri cos’è il mascheramento dei dati e perché mascherarli. Scopri come mascherare i dati nei messaggi di Journey Optimizer.*
-
-</div>
-
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
