@@ -9,14 +9,14 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 01869838bb08e0d7848934f345afdd54824aaa75
+source-git-commit: ec5d79920c305ad77f042db845932a8b1671e65b
 workflow-type: tm+mt
-source-wordcount: '325'
-ht-degree: 100%
+source-wordcount: '334'
+ht-degree: 98%
 
 ---
 
-# Laboratorio di Adobe Summit L731 - Scheda di riferimento rapido
+# Summit Lab L731 - Scheda di riferimento
 
 In questa pagina sono presenti testi e collegamenti utilizzati nel Laboratorio di Adobe Summit L731. Consente di copiare e incollare il contenuto nei messaggi di Journey Optimizer.
 
@@ -167,7 +167,7 @@ Fai clic su **Installa comunque**
 
 | Campo | Testo | Collegamenti |
 |----|----|----|
-| Nome della campagna | `<your seat number> Max Push Campaign` |  |
+| Nome della campagna | **`<your seat number> Max Push Campaign`** |  |
 | Titolo | Ehi! |  |
 | Corpo | Lo sapevi che Adobe Max sta tornando a Las Vegas? Prenota ora la tua camera e ottieni uno sconto del 10%. |  |
 | Opzione URL del contenuto multimediale |  | https://i.ibb.co/1M0BnZn/Firefly-Big-conference-big-stage-with-ADBE-text-on-screen-40178.jpg |
