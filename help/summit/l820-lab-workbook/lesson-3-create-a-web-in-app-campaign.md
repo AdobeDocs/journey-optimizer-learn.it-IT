@@ -9,14 +9,13 @@ duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-13983
 thumbnail: KT-13983.jpeg
-source-git-commit: c509c768d07984d07ed2ec65634e000c54bb6ff1
+exl-id: 0f84adfb-edb1-47fa-b696-58eec2b33bb1
+source-git-commit: 4f5c92f79eba3651b3633b7850e993160cb1f72c
 workflow-type: tm+mt
-source-wordcount: '660'
-ht-degree: 0%
+source-wordcount: '699'
+ht-degree: 2%
 
 ---
-
-
 
 # Lezione 3 - Creare una campagna web in-app
 
@@ -144,3 +143,18 @@ In questa sezione puoi definire il contenuto, la progettazione e il layout del m
 >Facendo clic sul pulsante Invia con il valore univoco, il messaggio Web in-app verrà attivato. Dovresti visualizzare il messaggio in-app web sullo schermo.
 >
 >Questo esercizio simulava un evento di invio XDM personalizzato che hai visto attraverso la tua esperienza cliente Fréscopa.
+
+
+## Risorse aggiuntive
+
+**Video su come:**
+
+* [Creare una campagna in-app](/help/channels/create-an-in-app-campaign.md)
+* [Creare un messaggio in-app](/help/channels/author-in-app-messages.md)
+
+**Documentazione del prodotto:**
+
+* [Introduzione al canale in-app](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [Creare un messaggio Web in-app](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app-web)
+* [Creare contenuto in-app](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
+* [Verifica e invia la notifica in-app](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)

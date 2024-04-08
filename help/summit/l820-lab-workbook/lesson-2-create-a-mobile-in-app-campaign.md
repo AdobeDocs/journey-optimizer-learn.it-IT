@@ -9,13 +9,13 @@ duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-14983
 thumbnail: KT-14983.jpeg
-source-git-commit: c509c768d07984d07ed2ec65634e000c54bb6ff1
+exl-id: fe18eca7-229c-4867-ab34-1862bad63124
+source-git-commit: 4f5c92f79eba3651b3633b7850e993160cb1f72c
 workflow-type: tm+mt
-source-wordcount: '1395'
-ht-degree: 0%
+source-wordcount: '1434'
+ht-degree: 1%
 
 ---
-
 
 # Lezione 2 - Creare una campagna in-app mobile
 
@@ -309,4 +309,18 @@ Il **Duplica campagna** e **Anteprima sul dispositivo** Le funzioni sono funzion
 >
 > Il messaggio in-app viene visualizzato sul dispositivo.
 >
-> *Una volta connesso, il messaggio in-app dovrebbe essere visualizzato ogni volta, fai clic sul pulsante **[!UICONTROL Anteprima sul dispositivo] pulsante**.*
+> *Una volta connesso, il messaggio in-app dovrebbe essere visualizzato ogni volta, facendo clic sul pulsante **[!UICONTROL Anteprima sul dispositivo] pulsante**.
+
+## Risorse aggiuntive
+
+**Video su come:**
+
+* [Creare una campagna in-app](/help/channels/create-an-in-app-campaign.md)
+* [Creare un messaggio in-app](/help/channels/author-in-app-messages.md)
+
+**Documentazione del prodotto:**
+
+* [Introduzione al canale in-app](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [Creare un messaggio in-app mobile](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app)
+* [Creare contenuto in-app](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
+* [Verifica e invia la notifica in-app](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)
