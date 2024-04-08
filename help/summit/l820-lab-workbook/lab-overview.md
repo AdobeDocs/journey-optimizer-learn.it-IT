@@ -6,16 +6,16 @@ role: User
 level: Intermediate
 doc-type: Tutorial
 duration: 0
-recommendations: noDisplay, noCatalog
 jira: KT-14977
 thumbnail: KT-14977.jpeg
-source-git-commit: 654520e25814eb94c5b19cb13087c1b93b4e4683
+last-substantial-update: 2024-03-26T00:00:00Z
+exl-id: e6d029f9-c936-427b-9d6e-4e296fd3c3ce
+source-git-commit: b4eb509d50afeea02eac937be85643aa22370249
 workflow-type: tm+mt
 source-wordcount: '503'
 ht-degree: 0%
 
 ---
-
 
 # CARTELLA DI LAVORO LAB
 
@@ -67,4 +67,3 @@ Il cuore dell&#39;attività di Fréscopa risiede nei suoi servizi di abbonamento
 A complemento dei suoi servizi di abbonamento, il sito web e l&#39;app mobile di Fréscopa offrono una gamma completa di prodotti correlati al caffè, consentendo ai clienti di esplorare e migliorare i loro rituali del caffè. Dalle attrezzature per la produzione della birra agli accessori artigianali, Fréscopa offre un unico punto vendita per gli appassionati di caffè che cercano qualità e convenienza.
 
 L&#39;impegno di Fréscopa per l&#39;eccellenza si estende oltre i suoi prodotti, in quanto l&#39;azienda si dedica alla creazione di un percorso di clienti fluido e piacevole. La combinazione di tecnologie innovative e un approccio incentrato sul cliente posiziona Fréscopa in prima linea nell&#39;industria del caffè in evoluzione. In sostanza, Fréscopa incarna la fusione di passione e tecnologia, ridefinendo il modo in cui gli individui sperimentano e godono il loro caffè. Con un focus sulla qualità, la comodità e le offerte personalizzate, Fréscopa invita gli appassionati di caffè a intraprendere un percorso di gusto, consegnato direttamente alla loro porta.
-
