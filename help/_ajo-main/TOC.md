@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial di Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: 64e4cdd312f1ad9807023c8dca1989d1ca9e30bd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '487'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -127,5 +127,5 @@ ht-degree: 96%
    + [Fornire l’offerta giusta al momento giusto con la gestione delle decisioni](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=it){target="_blank"}
    + [Eseguire le campagne in Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-22-22.html?lang=it){target="_blank"}
    + [Notifiche push con Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=it){target="_blank"}
-+ Laboratori Summit {#summit-labs}
-   + [Creare momenti mobili personalizzati con Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
++ Laboratori di Summit {#summit-labs}
+   + [Creare esperienze personalizzate per dispositivi mobili con Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
