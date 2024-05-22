@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial di Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: ecaa9e4d2d63494f8c0f6ac75c3cb6b390bc654d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '524'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 94%
    + [Creare una campagna in-app](/help/create-campaigns/in-app.md)
    + [Configurare e inviare una campagna push](/help/create-campaigns/push-campaign.md)
    + [Creare una campagna web](/help/create-campaigns/web-campaign.md)
-   + [Creare una campagna di esperienza basata su codice](/help/create-campaigns/code-based-experience.md)
+   + [Creare un’esperienza basata su codice campagna](/help/create-campaigns/code-based-experience.md)
    + [Attivare campagne tramite API](/help/create-campaigns/api-triggered-campaigns.md)
    + [Creare esperimenti sui contenuti per le campagne e-mail](/help/create-campaigns/content-experiments.md)
 + Percorsi {#create-journeys}
@@ -53,8 +53,8 @@ ht-degree: 94%
    + [Gestire, creare e utilizzare i frammenti](/help/content-management/manage-author-use-fragments.md)
    + [Creare e utilizzare frammenti di espressione](/help/content-management/expression-fragments.md)
    + [Configurare esperimenti sui contenuti per le e-mail](/help/experimentation/content-experiments-for-emails.md)
-+ Canale di esperienza basato su codice{#code-based-experience-channel}
-   + [Creare una campagna di esperienza basata su codice](/help/channels/create-a-code-based-experience-campaign.md)
++ Canale di esperienza basata su codice{#code-based-experience-channel}
+   + [Creare un’esperienza basata su codice campagna](/help/channels/create-a-code-based-experience-campaign.md)
 + Canale direct mail{#direct-mail-channel}
    + [Canale direct mail](/help/channels/direct-mail.md)
 + Canale in-app{#in-app-channel}
