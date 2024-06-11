@@ -3,7 +3,7 @@ user-guide-title: Tutorial su Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial di Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 640be5f146208fb7fc3729acbb36edf90aae06e4
+source-git-commit: 0865b233b05eceab34881d42ab6b0182e30dc3f5
 workflow-type: tm+mt
 source-wordcount: '525'
 ht-degree: 99%
@@ -50,7 +50,7 @@ ht-degree: 99%
       + [Creare un’esperienza basata su codice campagna](/help/channels/create-a-code-based-experience-campaign.md)
    + Canale direct mail{#direct-mail-channel}
       + [Canale direct mail](/help/channels/direct-mail.md)
-   + Canale e-mail{#email}
+   + Canale e-mail{#email-channel}
       + [Creare contenuti con E-mail Designer](/help/channels/create-content-with-the-email-designer.md)
       + [Importare e creare contenuti e-mail HTML](/help/channels/import-and-author-html-email-content.md)
       + [Anteprima, bozza e pubblicazione](/help/channels/preview-proof-and-publish.md)
