@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial di Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: c9a4813c607c87a44c8a70ceea727e554f097521
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '556'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 95%
    + [Architettura](/help/introduction/architecture.md)
    + [Funzionalità mobili per gli addetti al marketing](/help/channels/mobile-capabilities.md)
    + [Funzionalità mobili per sviluppatori](/help/channels/mobile-capabilities-for-developers.md)
-   + [Ottieni aiuto con l’Assistente AI](/help/ai-assistant.md)
+   + [Ottenere aiuto con Assistente IA](/help/ai-assistant.md)
 + Campagne {#create-campaigns}
    + [Creare una campagna](/help/create-campaigns/create-a-campaign.md)
    + [Creare una campagna in-app](/help/create-campaigns/in-app.md)
@@ -76,9 +76,9 @@ ht-degree: 95%
       + [Authoring di una campagna web](/help/channels/author-a-web-campaign.md)
       + [Supporto di applicazioni a pagina singola (SPA) nell’editor web](/help/channels/singel-page-application-support.md)
 + Gestione dei contenuti{#content-management}
-   + [Gestire Assets](/help/assets-essentials-overview.md)
-   + [Creare e utilizzare frammenti di espressione](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/email-channel/expression-fragments)
-   + [Impostare messaggi multilingue](/help/content-management/set-up-multilingual-messages.md)
+   + [Gestire le risorse](/help/assets-essentials-overview.md)
+   + [Creare e utilizzare frammenti di espressione](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/channels/email-channel/expression-fragment)
+   + [Impostare i messaggi multilingue](/help/content-management/set-up-multilingual-messages.md)
 + Personalizzare il contenuto {#personalize-content}
    + [Personalizzazione basata su profilo e appartenenza a un pubblico](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
    + [Aggiungere offerte come personalizzazione](/help/personalize-content/add-offer-decisioning-to-messages.md)
@@ -112,7 +112,7 @@ ht-degree: 95%
    + [Rapporti a livello di canale](/help/report-and-monitor/channel-level-reports.md)
    + [Esportare i rapporti in formato CSV](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [Utilizzare gli avvisi](/help/administration/alerts.md)
-   + [Generazione rapporti migliorata con Customer Journey Analytics](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
+   + [Reporting migliorato con Customer Journey Analytics](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
 + Configurazione {#configuration}
    + Configurare i canali {#channel-configuration}
       + [Impostare il canale e-mail](/help/set-up-channels/set-up-email-channel.md)

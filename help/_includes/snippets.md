@@ -1,8 +1,8 @@
 ---
 source-git-commit: def6df7acf248f61ac64f1c2d3fc99e519c3ffe6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 # Snippet AJO
@@ -31,5 +31,5 @@ Experience League LIVE:
 
 >[!NOTE]
 >
->Queste funzioni sono attualmente disponibili solo per un set di organizzazioni (disponibilità limitata). Per potervi accedere, contatta il tuo rappresentante Adobe.
+>Questa funzione è attualmente disponibile solo per alcune organizzazioni (disponibilità limitata). Per potervi accedere, contatta il tuo rappresentante Adobe.
 
