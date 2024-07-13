@@ -3,10 +3,10 @@ user-guide-title: Tutorial su Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial di Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 0feda01400ce1b8f87bb6143f1913fa6cdd54632
+source-git-commit: 45a973fa9700abbf254573906d5778ded9483316
 workflow-type: tm+mt
-source-wordcount: '560'
-ht-degree: 98%
+source-wordcount: '550'
+ht-degree: 97%
 
 ---
 
@@ -56,9 +56,6 @@ ht-degree: 98%
       + [Creare contenuti con E-mail Designer](/help/channels/create-content-with-the-email-designer.md)
       + [Importare e creare contenuti e-mail HTML](/help/channels/import-and-author-html-email-content.md)
       + [Anteprima, bozza e pubblicazione](/help/channels/preview-proof-and-publish.md)
-      + [Modelli di contenuto](/help/channels/content-templates.md)
-      + [Gestire, creare e utilizzare i frammenti](/help/content-management/manage-author-use-fragments.md)
-      + [Creare e utilizzare frammenti di espressione](/help/content-management/expression-fragments.md)
       + [Configurare esperimenti sui contenuti per le e-mail](/help/experimentation/content-experiments-for-emails.md)
    + Canale in-app{#in-app-channel}
       + [Creare una campagna in-app](/help/channels/create-an-in-app-campaign.md)
@@ -77,7 +74,9 @@ ht-degree: 98%
       + [Supporto di applicazioni a pagina singola (SPA) nell’editor web](/help/channels/singel-page-application-support.md)
 + Gestione dei contenuti{#content-management}
    + [Gestire le risorse](/help/assets-essentials-overview.md)
-   + [Creare e utilizzare frammenti di espressione](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/channels/email-channel/expression-fragment)
+   + [Gestire i modelli di contenuto](/help/content-management/content-templates.md)
+   + [Gestire i frammenti](/help/content-management/manage-fragments.md)
+   + [Creare frammenti di espressione](/help/content-management/expression-fragments.md)
    + [Configurare la messaggistica multilingue](/help/content-management/set-up-multilingual-messages.md)
    + [Creare un messaggio multilingue](/help/content-management/create-multilingual-messages.md)
 + Personalizzare il contenuto {#personalize-content}
