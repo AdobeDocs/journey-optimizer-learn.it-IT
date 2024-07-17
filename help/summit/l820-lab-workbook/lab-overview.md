@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # CARTELLA DI LAVORO LAB
 
-![Adobe Summit - Testo alternativo](/help/summit/l820-lab-workbook/assets/adobe-summit.png "Adobe Summit")
+![Adobe Summit - testo alternativo](/help/summit/l820-lab-workbook/assets/adobe-summit.png "Adobe Summit")
 
 ## L820 - Creare momenti mobili personalizzati con Adobe Journey Optimizer
 
@@ -39,7 +39,7 @@ In questo laboratorio pratico puoi esplorare vari scenari mobili e imparare a im
 >Adobe offre un accesso anticipato alle funzioni, che sfruttano la tecnologia di intelligenza artificiale generativa. Queste funzioni sono ancora in fase di sviluppo e possono produrre risposte impreviste o imprecise. Apprezziamo il tuo feedback nell&#39;introduzione di questa funzione sul mercato.
 
 
-### Elementi principali da ricordare
+### Punti chiave da eliminare
 
 * Scopri la varietà di esperienze mobili supportate.
 * Configurare una campagna push.
@@ -51,10 +51,10 @@ In questo laboratorio pratico puoi esplorare vari scenari mobili e imparare a im
 
 * Conoscere il proprio numero di posto: è possibile trovare il proprio numero di posto sulla scrivania della macchina da laboratorio:
 
-![Numero di posti](/help/summit/l820-lab-workbook/assets/locate-seat-number.png)
+![Postazione numero](/help/summit/l820-lab-workbook/assets/locate-seat-number.png)
 È necessario accedere a:
 
-* [Adobe Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-ajo-lab/journey-optimizer/home){target="_blank"}  - i dettagli di accesso vengono forniti durante gli esercizi.
+* [Adobe Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-ajo-lab/journey-optimizer/home){target="_blank"} - i dettagli di accesso vengono forniti durante gli esercizi.
 * [Sito Web Fréscopa](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzEwNTI0MTIwLCJleHAiOjE3MTIzMzg1MjB9.q2uGVst6HjJw8SCWl-3pViNzepkdGnNCvGqZnbbkTsY){target="_blank"}
 
 

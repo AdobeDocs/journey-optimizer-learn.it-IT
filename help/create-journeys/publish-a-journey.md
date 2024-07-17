@@ -1,5 +1,5 @@
 ---
-title: Pubblicare uno stato di percorso e percorso
+title: 'Publish: stati di percorso e percorso'
 description: Comprendi i diversi stati di un percorso e l’impatto della pubblicazione.
 jira: KT-7528
 thumbnail: 3424998.jpeg
@@ -17,7 +17,7 @@ ht-degree: 68%
 
 ---
 
-# Pubblicare uno stato di percorso e percorso
+# Publish: stati di percorso e percorso
 
 Comprendi i diversi stati di un percorso e l’impatto della pubblicazione.
 
