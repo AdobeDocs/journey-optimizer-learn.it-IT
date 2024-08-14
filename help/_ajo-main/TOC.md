@@ -3,7 +3,7 @@ user-guide-title: Tutorial su Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial di Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: d45d00e8d2ae83322f32fc458af1ce4f0c576bab
+source-git-commit: 56ce5f811573046687f735e0f1e6f3f8b972773e
 workflow-type: tm+mt
 source-wordcount: '557'
 ht-degree: 94%
@@ -117,10 +117,10 @@ ht-degree: 94%
    + Configurare i canali {#channel-configuration}
       + [Impostare il canale e-mail](/help/set-up-channels/set-up-email-channel.md)
       + [Delegare sottodomini CName](/help/set-up-channels/delegate-cname-subdomains.md)
+      + [Configurare ed eseguire un piano di riscaldamento IP](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
       + [Configurare le credenziali API SMS e le superfici del canale](/help/set-up-channels/set-up-sms-channel.md)
       + [Porta il tuo provider SMS (Beta)](/help/set-up-channels/bring-your-own-sms-provider.md)
       + [Configurare le regole di frequenza dei messaggi](/help/administration/configure-frequency-rules.md)
-      + [Configurare ed eseguire un piano di riscaldamento IP](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
       + [Configurare le credenziali API MMS e le superfici di canale](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
    + Configurare i percorsi {#journey-configuration}
       + [Configurare le origini dati](/help/set-up-journeys/configure-data-sources.md)
