@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 56ce5f811573046687f735e0f1e6f3f8b972773e
 workflow-type: tm+mt
 source-wordcount: '557'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -74,10 +74,10 @@ ht-degree: 94%
       + [Supporto di applicazioni a pagina singola (SPA) nell’editor web](/help/channels/singel-page-application-support.md)
 + Gestione dei contenuti{#content-management}
    + [Gestire le risorse](/help/assets-essentials-overview.md)
-   + [Gestire i modelli di contenuto](/help/content-management/content-templates.md)
+   + [Gestire modelli di contenuto](/help/content-management/content-templates.md)
    + [Gestire i frammenti](/help/content-management/manage-fragments.md)
    + [Creare frammenti di espressione](/help/content-management/expression-fragments.md)
-   + [Configurare la messaggistica multilingue](/help/content-management/set-up-multilingual-messages.md)
+   + [Impostare la messaggistica multilingue](/help/content-management/set-up-multilingual-messages.md)
    + [Creare un messaggio multilingue](/help/content-management/create-multilingual-messages.md)
 + Personalizzare il contenuto {#personalize-content}
    + [Personalizzazione basata su profilo e appartenenza a un pubblico](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
@@ -117,9 +117,9 @@ ht-degree: 94%
    + Configurare i canali {#channel-configuration}
       + [Impostare il canale e-mail](/help/set-up-channels/set-up-email-channel.md)
       + [Delegare sottodomini CName](/help/set-up-channels/delegate-cname-subdomains.md)
-      + [Configurare ed eseguire un piano di riscaldamento IP](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
+      + [Impostare ed eseguire un piano di preparazione IP](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
       + [Configurare le credenziali API SMS e le superfici del canale](/help/set-up-channels/set-up-sms-channel.md)
-      + [Porta il tuo provider SMS (Beta)](/help/set-up-channels/bring-your-own-sms-provider.md)
+      + [Inserisci il tuo provider SMS (Beta)](/help/set-up-channels/bring-your-own-sms-provider.md)
       + [Configurare le regole di frequenza dei messaggi](/help/administration/configure-frequency-rules.md)
       + [Configurare le credenziali API MMS e le superfici di canale](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
    + Configurare i percorsi {#journey-configuration}

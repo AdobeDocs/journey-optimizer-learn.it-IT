@@ -1,6 +1,6 @@
 ---
-title: Configurare ed eseguire un piano di riscaldamento IP
-description: Scopri cos’è il riscaldamento IP e come impostare ed eseguire un piano di riscaldamento IP in Adobe Journey Optimizer.
+title: Impostare ed eseguire un piano di preparazione IP
+description: Scopri cos’è la preparazione IP e come impostare ed eseguire un piano di preparazione IP in Adobe Journey Optimizer.
 feature: IP Warmup Plans
 role: Admin
 level: Beginner
@@ -13,14 +13,14 @@ jira: KT-14602
 source-git-commit: 5e6503b8f15ee0dfc7f2894e8d1d7a8493abe63d
 workflow-type: tm+mt
 source-wordcount: '99'
-ht-degree: 4%
+ht-degree: 62%
 
 ---
 
 
-# Configurare ed eseguire un piano di riscaldamento IP
+# Impostare ed eseguire un piano di preparazione IP
 
-Scopri cos’è il riscaldamento IP e come impostare ed eseguire un piano di riscaldamento IP in Adobe Journey Optimizer.
+Scopri cos’è la preparazione IP e come impostare ed eseguire un piano di preparazione IP in Adobe Journey Optimizer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432637/?learn=on)
 
