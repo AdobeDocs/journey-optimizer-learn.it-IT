@@ -10,10 +10,10 @@ last-substantial-update: 2024-08-23T00:00:00Z
 jira: KT-16041
 hidefromtoc: true
 hide: true
-source-git-commit: 79e5376bdf570664ff308ae18b27168f8fefd891
-workflow-type: ht
-source-wordcount: '150'
-ht-degree: 100%
+source-git-commit: bf17a3a7c03e1da68bb938a58fd626d0e5322425
+workflow-type: tm+mt
+source-wordcount: '138'
+ht-degree: 91%
 
 ---
 
@@ -28,7 +28,5 @@ Scopri come impostare e convalidare una notifica push del canale su un’app di 
 
 Per ulteriori informazioni, consulta la documentazione del prodotto.
 
-* [Introduzione alla configurazione guidata del canale](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config)
-* [Configurazione Android Mobile](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-android)
-* [Configurazione iOS](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-ios)
-* [Configurazione web](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-web)
+* [Introduzione alla configurazione guidata del canale](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config.html)
+* [Crea una configurazione del canale](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/create-channel-set-up.html)
