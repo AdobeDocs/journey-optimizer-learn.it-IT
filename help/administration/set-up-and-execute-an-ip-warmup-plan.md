@@ -11,9 +11,9 @@ duration: 741
 last-substantial-update: 2024-08-14T00:00:00Z
 jira: KT-14602
 source-git-commit: 5e6503b8f15ee0dfc7f2894e8d1d7a8493abe63d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '99'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
@@ -24,6 +24,6 @@ Scopri cos’è la preparazione IP e come impostare ed eseguire un piano di prep
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432637/?learn=on)
 
-Consulta la [Guida alle best practice per il recapito messaggi](https://experienceleague.adobe.com/it/docs/deliverability-learn/deliverability-best-practice-guide/introduction) per le best practice relative ai [criteri di targeting](https://experienceleague.adobe.com/it/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/targeting-criteria), [considerazioni specifiche per ISP durante la preparazione dell&#39;IP](https://experienceleague.adobe.com/it/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/isp-specific-considerations-during-ip-warming) e [volume](https://experienceleague.adobe.com/it/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/volume) durante la preparazione dell&#39;IP.
+Durante la preparazione dell’IP, consulta la [Guida alle best practice per la recapitabilità](https://experienceleague.adobe.com/it/docs/deliverability-learn/deliverability-best-practice-guide/introduction) per le best practice su [Criteri di targeting](https://experienceleague.adobe.com/it/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/targeting-criteria), [Considerazioni specifiche dell’ISP durante la preparazione dell’IP](https://experienceleague.adobe.com/it/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/isp-specific-considerations-during-ip-warming) e [Volume](https://experienceleague.adobe.com/it/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/volume).
 
-Per ulteriori informazioni su questa funzione, vedere la [Guida introduttiva ai piani di espansione IP](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/implement-ip-warmup-plan/ip-warmup-gs).
+Per ulteriori informazioni su questa funzione, consulta la [Guida introduttiva ai piani di preparazione IP](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/configuration/implement-ip-warmup-plan/ip-warmup-gs).
