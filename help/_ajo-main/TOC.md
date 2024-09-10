@@ -3,9 +3,9 @@ user-guide-title: Tutorial su Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial di Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 25c9704ad0a1080d6796a6b1ec1557f986c2a786
+source-git-commit: c67f80685fdd15541ad3817251e76eb34e2f6e7b
 workflow-type: tm+mt
-source-wordcount: '579'
+source-wordcount: '575'
 ht-degree: 96%
 
 ---
@@ -122,7 +122,6 @@ ht-degree: 96%
       + [Impostare ed eseguire un piano di preparazione IP](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
       + [Configurare le credenziali API SMS e le superfici di canale](/help/set-up-channels/set-up-sms-channel.md)
       + [Inserisci il tuo provider SMS (Beta)](/help/set-up-channels/bring-your-own-sms-provider.md)
-      + [Configurare le regole di frequenza dei messaggi](/help/administration/configure-frequency-rules.md)
       + [Configurare le credenziali API MMS e le superfici di canale](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
    + Configurare i percorsi {#journey-configuration}
       + [Configurare le origini dati](/help/set-up-journeys/configure-data-sources.md)
