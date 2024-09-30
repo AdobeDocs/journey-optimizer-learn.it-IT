@@ -3,10 +3,10 @@ user-guide-title: Tutorial su Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial di Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 4add927932ca713a1812df56c70f07910dca44f6
+source-git-commit: cf1bf6d0602314e870834035882f2bf1929f307a
 workflow-type: tm+mt
-source-wordcount: '606'
-ht-degree: 91%
+source-wordcount: '622'
+ht-degree: 89%
 
 ---
 
@@ -144,6 +144,7 @@ ht-degree: 91%
    + [Configurare una sandbox di formazione](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=it)
    + [Sfide](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=it)
 + Registrazioni di eventi Experience League Live{#experience-league-live-recordings}
+   + [Bash IA - Sblocco della potenza dell&#39;Assistente di IA nelle applicazioni e nelle campagne Adobe Experience Platform](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
    + [Riflettori estivi - È necessario provare le funzionalità di Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24)
    + [Nuovo canale di esperienza basata su codice in Journey Optimizer](https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)
    + [Messaggi attivati da API in Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=it){target="_blank"}
