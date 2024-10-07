@@ -8,9 +8,9 @@ level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: cf1bf6d0602314e870834035882f2bf1929f307a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '377'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -30,12 +30,12 @@ La presente guida utente contiene video e tutorial sulle funzioni e caratteristi
 
 <div id="events-section">
 
-## Ultimi eventi live di Experience League
+## Gli eventi più recenti di Experience League Live
 
-* **[Bash IA - Sblocco della potenza dell&#39;Assistente di IA nelle applicazioni e nelle campagne Adobe Experience Platform](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)**
-  *Scopri in che modo l&#39;Assistente IA trasforma le interazioni dei clienti e migliora la produttività in Adobe Experience Cloud Applications e Adobe Campaign.*
-* **[Riflettori estivi - È necessario provare le funzionalità di Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24)**
-  *Migliorate il vostro impegno con i clienti quest&#39;estate con le tre funzionalità di Adobe Journey Optimizer: sperimentazione di percorso, quota limite e messaggistica multilingue.*
+* **[Bash sull’intelligenza artificiale: sbloccare la potenza dell’Assistente IA nelle applicazioni e nelle campagne Adobe Experience Platform](https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)**
+  *Scopri in che modo l’Assistente IA trasforma le interazioni della clientela e migliora la produttività nelle applicazioni Adobe Experience Cloud e in Adobe Campaign.*
+* **[Riflettori puntati sull’estate: tre caratteristiche da provare assolutamente in Adobe Journey Optimizer](https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24)**
+  *Quest’estate potenzia l’impegno con la clientela grazie alle tre funzionalità di Adobe Journey Optimizer: sperimentazione di percorso, quota limite e messaggistica multilingue.*
 * **[Nuovo canale di esperienza basata su codice in Journey Optimizer](https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)**
   *Scopri come attivare le superfici in entrata e il controllo della personalizzazione granulare con azioni incentrate sullo sviluppatore.*
 
