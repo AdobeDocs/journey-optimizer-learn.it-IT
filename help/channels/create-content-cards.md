@@ -1,6 +1,6 @@
 ---
 title: Creare schede contenuto
-description: Scopri come creare schede di contenuti per la tua applicazione.
+description: Scopri come creare schede contenuto per la tua applicazione.
 feature: In App
 role: User
 level: Beginner
@@ -13,13 +13,13 @@ hide: false
 source-git-commit: e98a023c6c30444dd58d9030868e3619c0958a37
 workflow-type: tm+mt
 source-wordcount: '24'
-ht-degree: 25%
+ht-degree: 100%
 
 ---
 
 
 # Creare schede contenuto
 
-Scopri come creare schede di contenuti per la tua applicazione.
+Scopri come creare schede contenuto per la tua applicazione.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434783/?learn=on)

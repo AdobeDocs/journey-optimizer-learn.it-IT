@@ -1,5 +1,5 @@
 ---
-title: Panoramica del framework per la governance dei dati
+title: Panoramica del Framework di governance dei dati
 description: Comprendere le funzioni di governance di Adobe Experience Platform.
 feature: Governance, Privacy
 role: Data Architect, User
@@ -13,14 +13,14 @@ hidefromtoc: true
 source-git-commit: e98a023c6c30444dd58d9030868e3619c0958a37
 workflow-type: tm+mt
 source-wordcount: '79'
-ht-degree: 0%
+ht-degree: 32%
 
 ---
 
 
-# Panoramica del framework per la governance dei dati
+# Panoramica del Framework di governance dei dati
 
-Comprendere il framework per la governance dei dati in Adobe Experience Platform.
+Comprendere il Framework di governance dei dati in Adobe Experience Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29708/?learn=on)
 
@@ -28,6 +28,6 @@ Per ulteriori informazioni sulla [governance dei dati](https://experienceleague.
 
 ## Apprendimento aggiuntivo
 
-* [Playlist: guida introduttiva alla governance dei dati di Adobe Experience Platform](https://experienceleague.adobe.com/en/playlists/experience-platform-get-started-with-data-governance)
+* [Playlist: guida introduttiva alla governance dei dati di Adobe Experience Platform](https://experienceleague.adobe.com/it/playlists/experience-platform-get-started-with-data-governance)
 
   *Ulteriori informazioni sulla governance dei dati in Adobe Experience Platform e su come classificare i dati utilizzando le etichette, creare criteri di utilizzo dei dati e applicare criteri di utilizzo dei dati in Experience Platform.*
