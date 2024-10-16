@@ -1,6 +1,6 @@
 ---
-title: Creare contenuti con l’Acceleratore contenuto dell’Assistente IA
-description: Scopri come utilizzare l’Acceleratore dei contenuti dell’Assistente di intelligenza artificiale per generare suggerimenti di varianti di contenuto proattive sia per il testo che per le immagini.
+title: Creare contenuti con l’acceleratore di contenuti dell’Assistente IA
+description: Scopri come utilizzare l’accelerazione dei contenuti dell’assistente IA per generare suggerimenti proattivi per la variazione dei contenuti per il testo e le immagini.
 feature: Content Assistant
 role: User
 level: Beginner, Intermediate, Experienced
@@ -9,15 +9,15 @@ duration: 323
 last-substantial-update: 2024-09-23T00:00:00Z
 jira: KT-16226
 source-git-commit: 32998cff3d2506b65b98c0396f37520ffe4140b4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '56'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Creare contenuti con l’Acceleratore contenuto dell’Assistente IA
+# Creare contenuti con l’acceleratore di contenuti dell’Assistente IA
 
-Scopri come utilizzare l’Acceleratore dei contenuti dell’Assistente di intelligenza artificiale per generare suggerimenti di varianti di contenuto proattive sia per il testo che per le immagini.
+Scopri come utilizzare l’accelerazione dei contenuti dell’assistente IA per generare suggerimenti proattivi per la variazione dei contenuti per il testo e le immagini.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434635/?learn=on)

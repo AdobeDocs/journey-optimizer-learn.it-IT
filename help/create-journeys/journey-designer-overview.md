@@ -1,6 +1,6 @@
 ---
-title: Percorsi Designer - Panoramica
-description: Questo video offre una panoramica su come progettare e gestire percorsi di clienti utilizzando la finestra di progettazione del Percorso.
+title: 'Designer del percorso: panoramica'
+description: Questo video offre una panoramica su come progettare e gestire percorsi cliente utilizzando il Designer del percorso.
 feature: Journeys
 role: User
 level: Beginner
@@ -9,15 +9,15 @@ duration: 98
 last-substantial-update: 2024-10-08T00:00:00Z
 jira: KT-16290
 source-git-commit: dde5bc9f9d453b5b3df8cc3625329ee81d1889ab
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '42'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Percorsi Designer - Panoramica
+# Designer del percorso: panoramica
 
-Questo video offre una panoramica su come progettare e gestire percorsi di clienti utilizzando la finestra di progettazione del Percorso.
+Questo video offre una panoramica su come progettare e gestire percorsi cliente utilizzando il Designer del percorso.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432672/?learn=on)

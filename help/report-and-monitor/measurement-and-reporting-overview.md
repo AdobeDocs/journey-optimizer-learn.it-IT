@@ -1,6 +1,6 @@
 ---
-title: Misurazione e reporting - Panoramica
-description: Scopri come generare rapporti in Journey Optimizer.
+title: 'Misurazione e reporting: panoramica'
+description: Informazioni sul reporting in Journey Optimizer.
 feature: Reporting
 role: User
 level: Beginner
@@ -9,15 +9,15 @@ duration: 69
 last-substantial-update: 2024-10-07T00:00:00Z
 jira: KT-16292
 source-git-commit: b88998c6bba3f21e1325e0e03025fb6066d7e89b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '18'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Misurazione e reporting - Panoramica
+# Misurazione e reporting: panoramica
 
-Scopri come generare rapporti in Journey Optimizer.
+Informazioni sul reporting in Journey Optimizer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432673/?learn=on)

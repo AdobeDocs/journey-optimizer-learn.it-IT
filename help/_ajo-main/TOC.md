@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial di Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: f0c457a9aa6e96ca185e526058797479bfbf72da
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '685'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 88%
    + [Attivare campagne tramite API](/help/create-campaigns/api-triggered-campaigns.md)
    + [Creare esperimenti sui contenuti per le campagne e-mail](/help/create-campaigns/content-experiments.md)
 + Percorsi {#create-journeys}
-   + [Percorsi Designer - Panoramica](/help/create-journeys/journey-designer-overview.md)
+   + [Designer del percorso: panoramica](/help/create-journeys/journey-designer-overview.md)
    + [Scopri il nuovo Designer del percorso](/help/create-journeys/new-journey-designer.md)
    + [Introduzione alla creazione di un percorso](/help/create-journeys/introduction-to-building-a-journey.md)
    + [Caso d’uso: percorso transazionale](/help/create-journeys/use-case-transactional-journey.md)
@@ -44,18 +44,18 @@ ht-degree: 88%
    + [Aggiornare il contenuto in un percorso live](/help/create-journeys/update-content-in-live-journey.md)
    + [Copiare un percorso in un’altra sandbox](/help/create-journeys/copy-a-journey.md)
 + Profili, tipi di pubblico e abbonamenti {#profiles-audiences-subscriptions}
-   + [Profili e pubblico - Panoramica](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
+   + [Profili e tipi di pubblico: panoramica](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
    + [Profilo unificato e segmentazione - panoramica](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [Creare tipi di pubblico tramite il generatore di regole](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [Iscrizioni e pagine di destinazione](/help/subscriptions-and-landing-pages.md)
 + Canali {#channels}
-   + [Ottimizzazione delle app mobili - Panoramica](/help/channels/mobile-app-optimization-overview.md)
+   + [Ottimizzazione delle app mobili: panoramica](/help/channels/mobile-app-optimization-overview.md)
    + Canale di esperienza basata su codice{#code-based-experience-channel}
       + [Creare un’esperienza basata su codice campagna](/help/channels/create-a-code-based-experience-campaign.md)
    + Canale direct mail{#direct-mail-channel}
       + [Creare una direct mail](/help/channels/direct-mail.md)
    + Canale e-mail{#email-channel}
-      + [Canale e-mail - Panoramica](/help/channels/email-channel-overview.md)
+      + [Canale e-mail: panoramica](/help/channels/email-channel-overview.md)
       + [Progettazione e personalizzazione delle e-mail: panoramica](/help/channels/email-design-and-personalization-overview.md)
       + [Creare contenuti con E-mail Designer](/help/channels/create-content-with-the-email-designer.md)
       + [Importare e creare contenuti e-mail HTML](/help/channels/import-and-author-html-email-content.md)
@@ -70,34 +70,34 @@ ht-degree: 88%
       + [Creare un messaggio in-app](/help/channels/author-in-app-messages.md)
       + [Configurare esperimenti sui contenuti per i messaggi in-app](/help/experimentation/content-experiments-for-in-app-messages.md)
    + Canale push{#push-channel}
-      + [Notifiche push - Panoramica](/help/channels/push-notifications-overview.md)
+      + [Notifiche push: panoramica](/help/channels/push-notifications-overview.md)
       + [Configurare e inviare una campagna push](/help/channels/create-a-push-campaign.md)
    + Canale SMS{#sms-channel}
-      + [Messaggi SMS/MMS - Panoramica](/help/channels/sms-mms-messages-overview.md)
+      + [Messaggi SMS/MMS: panoramica](/help/channels/sms-mms-messages-overview.md)
       + [Configurare, creare e consegnare messaggi SMS](/help/channels/author-sms-messages.md)
       + [Creare un messaggio MMS](/help/channels/author-mms.md)
       + [SMS - Doppio consenso per Sinch e Infobip](/help/channels/sms-double-opt-in.md)
    + Canale Web {#web-channel}
-      + [Personalizzazione web - Panoramica](/help/channels/web-personalization-overview.md)
+      + [Personalizzazione web: panoramica](/help/channels/web-personalization-overview.md)
       + [Creare una campagna web](/help/channels/create-a-web-campaign.md)
       + [Authoring di una campagna web](/help/channels/author-a-web-campaign.md)
       + [Supporto di applicazioni a pagina singola (SPA) nell’editor web](/help/channels/singel-page-application-support.md)
 + Gestione dei contenuti{#content-management}
-   + [Authoring dei messaggi - Panoramica](/help/content-management/message-authoring-overview.md)
+   + [Creazione dei messaggi: panoramica](/help/content-management/message-authoring-overview.md)
    + [Gestione delle risorse digitali: panoramica](/help/content-management/digital-asset-management-overview.md)
    + [Gestire le risorse](/help/assets-essentials-overview.md)
    + [Gestire modelli di contenuto](/help/content-management/content-templates.md)
    + [Gestire i frammenti](/help/content-management/manage-fragments.md)
    + [Creare frammenti di espressione](/help/content-management/expression-fragments.md)
-   + [Sperimentazione - Panoramica](/help/content-management/experimentation-overview.md)
+   + [Sperimentazione: panoramica](/help/content-management/experimentation-overview.md)
    + Messaggistica multilingue {#multilingual-messaging}
       + [Impostare la messaggistica multilingue](/help/content-management/set-up-multilingual-messages.md)
       + [Creare un messaggio multilingue](/help/content-management/create-multilingual-messages.md)
    + Accelerazione contenuti dell’Assistente IA{#content-accelerator}
-      + [IA Assistant Content Accelerator - Panoramica](/help/content-management/ai-assistant-content-accelerator-overview.md)
-      + [Creare contenuti con l’Acceleratore contenuto dell’Assistente IA](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
+      + [Acceleratore di contenuti dell’Assistente IA: panoramica](/help/content-management/ai-assistant-content-accelerator-overview.md)
+      + [Creare contenuti con l’acceleratore di contenuti dell’Assistente IA](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
 + Personalizzare il contenuto {#personalize-content}
-   + [Editor Personalization - Panoramica](/help/personalize-content/personalization-editor-overview.md)
+   + [Editor di personalizzazione: panoramica](/help/personalize-content/personalization-editor-overview.md)
    + [Personalizzazione basata su profilo e appartenenza a un pubblico](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
    + [Aggiungere offerte come personalizzazione](/help/personalize-content/add-offer-decisioning-to-messages.md)
    + [Utilizzare informazioni contestuali sugli eventi per la personalizzazione](/help/personalize-content/use-contextual-event-information-for-personalization.md)
@@ -155,8 +155,8 @@ ht-degree: 88%
    + [Creare e gestire le sandbox](/help/set-up-access/create-and-manage-sandboxes.md)
 + Governance dei dati e privacy {#data-governance-and-privacy}
    + [Framework della governance dei dati](/help/privacy/data-governance-framework.md)
-   + [Classificare i dati tramite etichette](/help/privacy/classify-data-using-lables.md)
-   + [Creare criteri di utilizzo dati](/help/privacy/create-data-usage-policies.md)
+   + [Classificare i dati usando le etichette](/help/privacy/classify-data-using-lables.md)
+   + [Creare criteri di utilizzo dei dati](/help/privacy/create-data-usage-policies.md)
    + [Applicazione dei criteri di utilizzo dei dati nei canali Journey Optimizer](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [Mascherare i dati nei messaggi](/help/privacy/mask-data-in-messages.md)
 + Esercizi e sfide {#exercises-and-challenges}

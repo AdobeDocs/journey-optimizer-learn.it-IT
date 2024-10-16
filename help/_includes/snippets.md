@@ -1,8 +1,8 @@
 ---
 source-git-commit: f6e9e2b286c220bf90eab7632f2110176b0c7ba2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '178'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 # Snippet AJO
@@ -39,8 +39,8 @@ Experience League LIVE:
 >
 >Questa funzionalità è disponibile nella versione beta e solo per clienti beta. Per partecipare al programma beta, contatta l’Assistenza clienti di Adobe.
 
-## Video Platform - Criteri (#platform-video)
+## Piattafoma video: criteri (#platform-video)
 
 >[!NOTE]
 >
->Il video illustra questa funzione nell’interfaccia utente di Adobe Experience Platform. La stessa funzionalità è disponibile in Journey Optimizer nelle sezioni GESTIONE DATI e PRIVACY nel menu di navigazione a sinistra.
+>Il video mostra questa funzione nell’interfaccia utente di Adobe Experience Platform. La stessa funzionalità è disponibile in Journey Optimizer nelle sezioni GESTIONE DATI e PRIVACY nel menu di navigazione a sinistra.

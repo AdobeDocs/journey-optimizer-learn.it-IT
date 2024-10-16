@@ -11,9 +11,9 @@ jira: KT-16263
 hide: false
 hidefromtoc: false
 source-git-commit: 810601d8bfdf71386831f439877316b3a91d5cc2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '79'
-ht-degree: 32%
+ht-degree: 100%
 
 ---
 
@@ -24,10 +24,10 @@ Comprendere il Framework di governance dei dati in Adobe Experience Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29708/?learn=on)
 
-Per ulteriori informazioni sulla [governance dei dati](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/action-privacy-restricted) in Journey Optimizer, consulta la documentazione del prodotto.
+Consulta la documentazione sul prodotto per ulteriori informazioni sulla [governance dei dati](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/privacy/action-privacy-restricted) in Journey Optimizer.
 
 ## Apprendimento aggiuntivo
 
-* [Playlist: guida introduttiva alla governance dei dati di Adobe Experience Platform](https://experienceleague.adobe.com/it/playlists/experience-platform-get-started-with-data-governance)
+* [Playlist: Introduzione alla governance dei dati in Adobe Experience Platform](https://experienceleague.adobe.com/it/playlists/experience-platform-get-started-with-data-governance)
 
   *Ulteriori informazioni sulla governance dei dati in Adobe Experience Platform e su come classificare i dati utilizzando le etichette, creare criteri di utilizzo dei dati e applicare criteri di utilizzo dei dati in Experience Platform.*
