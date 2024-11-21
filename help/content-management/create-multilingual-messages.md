@@ -8,18 +8,18 @@ doc-type: Feature Video
 duration: 471
 last-substantial-update: 2024-07-08T00:00:00Z
 jira: KT-15747
-source-git-commit: f4830cf2df8be9dc4f3c515b4b8ad3ff4e5d7c2e
-workflow-type: tm+mt
+exl-id: cad09776-b39c-42c3-ba62-28490d5548a3
+source-git-commit: 55734ce3bc1329663bd65970892d80c99878e1a7
+workflow-type: ht
 source-wordcount: '45'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
-
 
 # Creare un messaggio multilingue
 
 {{limited-availability}}
 
-La funzione di messaggio multilingue consente di creare contenuti in più lingue all’interno di una singola campagna o percorso. Scopri come creare messaggi multilingue in Journey Optimizer.
+La funzione di messaggistica multilingue consente di creare facilmente contenuti in più lingue all’interno di una campagna o di un percorso. Scopri come creare messaggi multilingue in Journey Optimizer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430921/?learn=on)

@@ -8,9 +8,9 @@ level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 7b1947ff1df01b8119bd0dd5ddf8745cd229394e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '372'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -49,29 +49,29 @@ La presente guida utente contiene video e tutorial sulle funzioni e caratteristi
 <tr>
     <td>
     <a href="../content-management/ai-assistant-content-accelerator-overview.md">
-      <img alt="Creare contenuti con l’Assistente AI Content Accelerator (video)" src="../assets/3434635.jpg"/>
+      <img alt="Creare contenuti con l’Acceleratore di contenuti dell’Assistente IA (video)" src="../assets/3434635.jpg"/>
     </a>
     <div>
       <a href="../content-management/ai-assistant-content-accelerator-overview.md">
-    <strong>Crea contenuto utilizzando l'Acceleratore contenuto dell'Assistente di intelligenza artificiale</strong>
+    <strong>Creare contenuti con l’Acceleratore di contenuti nell’Assistente IA</strong>
     </a>
     </div>
     <p>
-    <em>Scopri come utilizzare l’Acceleratore contenuto dell’Assistente di intelligenza artificiale per generare suggerimenti di varianti di contenuto proattive sia per il testo che per le immagini.
+    <em>Scopri come utilizzare l’Acceleratore di contenuti dell’Assistente IA per generare suggerimenti proattivi per varianti dei contenuti per testo e immagini.
 </em>
     <p>
   </td>
     <td>
     <a href="../experimentation/content-experiments-for-emails.md">
-      <img alt="Configurare esperimenti di contenuto per campagne e-mail (video)" src="../assets/3419893.jpeg"/>
+      <img alt="Configurare esperimenti sui contenuti per le campagne e-mail (video)" src="../assets/3419893.jpeg"/>
     </a>
     <div>
       <a href="../experimentation/content-experiments-for-emails.md">
-    <strong>Configurare esperimenti di contenuto per le campagne e-mail </strong>
+    <strong>Configurare esperimenti sui contenuti per le campagne e-mail </strong>
     </a>
     </div>
     <p>
-    <em>Scopri come configurare gli esperimenti sui contenuti in test A/B ed esplorare al meglio i contenuti delle e-mail per raggiungere gli obiettivi aziendali.</em>
+    <em>Scopri come configurare gli esperimenti sui contenuti per test A/B ed esplora quali contenuti e-mail sono più efficaci per raggiungere gli obiettivi aziendali.</em>
     <p>
   </td>
   </td>
