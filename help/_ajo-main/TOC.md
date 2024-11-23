@@ -3,10 +3,10 @@ user-guide-title: Tutorial su Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial di Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: f445b5c7572cf8b85d1e1ef053b9385fcb9c3fbd
+source-git-commit: bf1a97a0950782838946ecf2e21d82e84913340f
 workflow-type: tm+mt
-source-wordcount: '599'
-ht-degree: 98%
+source-wordcount: '597'
+ht-degree: 99%
 
 ---
 
@@ -139,7 +139,7 @@ ht-degree: 98%
       + [Delegare sottodomini CName](/help/set-up-channels/delegate-cname-subdomains.md)
       + [Impostare ed eseguire un piano di preparazione IP](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
       + [Configurare le credenziali API SMS e le superfici di canale](/help/set-up-channels/set-up-sms-channel.md)
-      + [Inserisci il tuo provider SMS (Beta)](/help/set-up-channels/bring-your-own-sms-provider.md)
+      + [Inserire il provider SMS (Beta)](/help/set-up-channels/bring-your-own-sms-provider.md)
       + [Configurare le credenziali API MMS e le superfici di canale](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
    + Configurare i percorsi {#journey-configuration}
       + [Configurare le origini dati](/help/set-up-journeys/configure-data-sources.md)
@@ -151,7 +151,7 @@ ht-degree: 98%
 + Controllo dell’accesso {#access-control}
    + [Gestione degli accessi](/help/set-up-access/access-management.md)
    + [Configurare il controllo degli accessi basato su attributi](/help/administration/attribute-based-access-control.md)
-   + [Creare e gestire le sandbox](/help/set-up-access/create-and-manage-sandboxes.md)
+   + [Utilizzare le sandbox](/help/set-up-access/create-and-manage-sandboxes.md)
 + Governance dei dati e privacy {#data-governance-and-privacy}
    + [Framework della governance dei dati](/help/privacy/data-governance-framework.md)
    + [Classificare i dati usando le etichette](/help/privacy/classify-data-using-lables.md)
@@ -161,6 +161,6 @@ ht-degree: 98%
 + Esercizi e sfide {#exercises-and-challenges}
    + [Configurare una sandbox di formazione](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=it)
    + [Sfide](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=it)
-+ [Experienci League di registrazioni di eventi live](/help/experience-league-live-show-recordings.md)
++ [Registrazioni di eventi Experience League live](/help/experience-league-live-show-recordings.md)
 + Laboratori di Summit {#summit-labs}
    + [Creare esperienze personalizzate per dispositivi mobili con Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
