@@ -9,9 +9,9 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: 1c3f4341-1293-463d-bee0-57440fcff23a
-source-git-commit: 43e9bc85143de7c60e5055bd2403a5b898cb93e1
+source-git-commit: c158039db46bf4337d73e2152ff9293ba364f8e3
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '58'
 ht-degree: 25%
 
 ---
@@ -20,6 +20,8 @@ ht-degree: 25%
 
 In questa pagina sono presenti testo e collegamenti utilizzati nel laboratorio dell’evento L535 Summit Lab. Consente di copiare e incollare il contenuto nei messaggi di Journey Optimizer.
 
-Immagini:
+## Immagini
 
 ![Telefono cellulare](/help/summit-lab-assets/assets/online-banking-app-01.png)
+
+## Installare l’app
