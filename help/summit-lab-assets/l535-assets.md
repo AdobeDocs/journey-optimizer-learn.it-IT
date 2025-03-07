@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: 1c3f4341-1293-463d-bee0-57440fcff23a
-source-git-commit: c1a77892652df0a91a6add1ad0dc5a4bd0770d8b
+source-git-commit: c25ebab9fedd0218d087fc679a8da05b06e71227
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 29%
+source-wordcount: '133'
+ht-degree: 24%
 
 ---
 
@@ -27,6 +27,15 @@ In questa pagina sono presenti testo e collegamenti utilizzati nel laboratorio d
 * [Scarica l&#39;app](https://demo-system-next.s3.amazonaws.com/dxdemo/summit/index.html)
 
 ## Copia e incolla per esercizi
+
+### Esercizio 2.1 - Accesso a Journey Optimizer
+
+Effettua l’accesso con i seguenti dettagli:
+
+Indirizzo e-mail:    L535+*numero di posto*@adobeeventlab.com
+
+Password:       Adobe4Summit
+
 
 ### Esercizio 2.3 - Comporre il messaggio e-mail
 
@@ -94,7 +103,7 @@ Thank you for downloading the app. You can find ATMs, track your spending and mo
 #### URL file multimediale
 
 ```
-https://demo-systemnext.s3.amazonaws.com/assets/securfinancial/homeloan.jpg
+https://demo-system-next.s3.amazonaws.com/assets/securfinancial/home-loan.jpg
 ```
 
 #### Titolo pulsante
