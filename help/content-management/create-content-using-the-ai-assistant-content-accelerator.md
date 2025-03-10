@@ -1,6 +1,6 @@
 ---
-title: Creare contenuti utilizzando l’Assistente AI per la generazione di contenuti
-description: Scopri come utilizzare l’Assistente AI per la generazione di contenuti per generare suggerimenti di varianti di contenuto proattive sia per testo che per immagini.
+title: Creare contenuti utilizzando l’Assistente IA per la generazione di contenuti
+description: Scopri come utilizzare l’Assistente IA per la generazione di contenuti per ottenere suggerimenti proattivi per la variazione dei contenuti per il testo e le immagini.
 feature: Content Assistant
 role: User
 level: Beginner, Intermediate, Experienced
@@ -10,14 +10,14 @@ last-substantial-update: 2024-09-23T00:00:00Z
 jira: KT-16226
 exl-id: cd14c201-58a4-4459-a368-4024dc337798
 source-git-commit: dd1b5afc1547169139371247255f4d42a5c105be
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '60'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Creare contenuti utilizzando l’Assistente AI per la generazione di contenuti
+# Creare contenuti utilizzando l’Assistente IA per la generazione di contenuti
 
-Scopri come utilizzare l’Assistente AI per la generazione di contenuti per generare suggerimenti di varianti di contenuto proattive sia per testo che per immagini.
+Scopri come utilizzare l’Assistente IA per la generazione di contenuti per ottenere suggerimenti proattivi per la variazione dei contenuti per il testo e le immagini.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434635/?learn=on)
