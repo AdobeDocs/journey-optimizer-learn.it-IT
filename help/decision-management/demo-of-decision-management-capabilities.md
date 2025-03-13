@@ -1,6 +1,6 @@
 ---
-title: Demo delle funzionalità decisionali di Journey Optimizer
-description: Scopri come i brand possono utilizzare il decisioning per definire e gestire le proprie offerte, sfruttare i dati sui clienti in tempo reale e fornire esperienze che soddisfino le aspettative dei clienti.
+title: Dimostrazione delle funzionalità per le decisioni in Journey Optimizer
+description: Scopri come i brand possono utilizzare la funzione Decisioni per definire e gestire le offerte, applicare i dati cliente in tempo reale e offrire le esperienze più appropriate in base alle aspettative della clientela.
 feature: Offers
 role: User
 level: Beginner
@@ -8,14 +8,14 @@ jira: KT-6492
 thumbnail: 326841.jpg
 exl-id: 44136443-a3fd-435f-9f6d-23c7696acabe
 source-git-commit: aad0b70a4d4a4c5566d4a08dd029a2e03bf3b9ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '62'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Demo delle funzionalità decisionali di Journey Optimizer
+# Dimostrazione delle funzionalità per le decisioni in Journey Optimizer
 
-Scopri come i brand possono utilizzare il decisioning per definire e gestire le proprie offerte, sfruttare i dati sui clienti in tempo reale e fornire esperienze che soddisfino le aspettative dei clienti.
+Scopri come i brand possono utilizzare la funzione Decisioni per definire e gestire le offerte, applicare i dati cliente in tempo reale e offrire le esperienze più appropriate in base alle aspettative della clientela.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3451100?quality=12&learn=on){transcript=true}

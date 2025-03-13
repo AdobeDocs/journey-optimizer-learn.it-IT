@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial di Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: e9aa3f63bfc54d165dd044a645aaa366f34c2921
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '635'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -101,7 +101,7 @@ ht-degree: 97%
       + [Creare contenuti utilizzando l’Assistente IA per la generazione di contenuti](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
    + Modelli di contenuto{#content-templates}
       + [Creare modelli di contenuto](/help/content-management/templates/create-content-templates.md)
-      + [Bloccare il contenuto nei modelli](/help/content-management/templates/content-locking.md)
+      + [Bloccare il contenuto dei modelli](/help/content-management/templates/content-locking.md)
 + Personalizzare il contenuto {#personalize-content}
    + [Editor di personalizzazione: panoramica](/help/personalize-content/personalization-editor-overview.md)
    + [Personalizzazione basata su profilo e appartenenza a un pubblico](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
@@ -110,9 +110,9 @@ ht-degree: 97%
    + [Utilizzare funzioni di assistenza per la personalizzazione](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [Utilizzare e gestire le espressioni salvate nella libreria di personalizzazione](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
    + [Creare contenuti dinamici con il generatore di regole di condizione](/help/personalize-content/create-dynamic-content.md)
-+ Decisioning {#decisioning}
-   + [Introduzione al decisioning](/help/decision-management/introduction-to-decisioning.md)
-   + [Demo delle funzionalità di decisioning](/help/decision-management/demo-of-decision-management-capabilities.md)
++ Funzione Decisioni {#decisioning}
+   + [Introduzione alla funzione Decisioni](/help/decision-management/introduction-to-decisioning.md)
+   + [Dimostrazione delle funzionalità per le decisioni](/help/decision-management/demo-of-decision-management-capabilities.md)
    + [Creare i posizionamenti](/help/decision-management/create-placements.md)
    + [Creare le regole](/help/decision-management/create-rules.md)
    + [Creare tag](/help/decision-management/create-tags.md)
