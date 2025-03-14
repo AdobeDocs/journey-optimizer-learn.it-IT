@@ -3,10 +3,10 @@ user-guide-title: Tutorial su Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial di Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: e9aa3f63bfc54d165dd044a645aaa366f34c2921
-workflow-type: ht
-source-wordcount: '635'
-ht-degree: 100%
+source-git-commit: 8727d3b84573f78ac28da260177aab607014f6fe
+workflow-type: tm+mt
+source-wordcount: '647'
+ht-degree: 97%
 
 ---
 
@@ -110,19 +110,23 @@ ht-degree: 100%
    + [Utilizzare funzioni di assistenza per la personalizzazione](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [Utilizzare e gestire le espressioni salvate nella libreria di personalizzazione](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
    + [Creare contenuti dinamici con il generatore di regole di condizione](/help/personalize-content/create-dynamic-content.md)
-+ Funzione Decisioni {#decisioning}
-   + [Introduzione alla funzione Decisioni](/help/decision-management/introduction-to-decisioning.md)
-   + [Dimostrazione delle funzionalità per le decisioni](/help/decision-management/demo-of-decision-management-capabilities.md)
-   + [Creare i posizionamenti](/help/decision-management/create-placements.md)
-   + [Creare le regole](/help/decision-management/create-rules.md)
-   + [Creare tag](/help/decision-management/create-tags.md)
-   + [Creare offerte personalizzate](/help/decision-management/create-personalized-offers.md)
-   + [Creare modelli IA](/help/decision-management/create-ai-models.md)
-   + [Creare offerte di fallback](/help/decision-management/create-fallback-offers.md)
-   + [Creare raccolte](/help/decision-management/create-collections.md)
-   + [Creare decisioni](/help/decision-management/create-decisions.md)
-   + [Distribuire le offerte con l’API Decisions](/help/decision-management/deliver-offers-with-the-decisions-api.md)
-   + [Quota limite](/help/decision-management/frequency-capping.md)
++ Capacità di decisione{#decision-capabilites}
+   + Funzione Decisioni {#decisioning}
+      + [Introduzione a Decisioning](/help/decisioning/introduction-to-decisioning.md)
+      + [Procedura dettagliata sul decisioning end-to-end](/help/decisioning/decisioning-end-to-end.md)
+   + Gestione delle decisioni {#decision-management}
+      + [Introduzione alla gestione delle decisioni](/help/decision-management/introduction-to-decision-management.md)
+      + [Demo delle funzionalità di gestione delle decisioni](/help/decision-management/demo-of-decision-management-capabilities.md)
+      + [Creare i posizionamenti](/help/decision-management/create-placements.md)
+      + [Creare le regole](/help/decision-management/create-rules.md)
+      + [Creare tag](/help/decision-management/create-tags.md)
+      + [Creare offerte personalizzate](/help/decision-management/create-personalized-offers.md)
+      + [Creare modelli IA](/help/decision-management/create-ai-models.md)
+      + [Creare offerte di fallback](/help/decision-management/create-fallback-offers.md)
+      + [Creare raccolte](/help/decision-management/create-collections.md)
+      + [Creare decisioni](/help/decision-management/create-decisions.md)
+      + [Distribuire le offerte con l’API Decisions](/help/decision-management/deliver-offers-with-the-decisions-api.md)
+      + [Quota limite](/help/decision-management/frequency-capping.md)
 + Gestione dati {#data-management}
    + [Panoramica](/help/data-management/set-up-data-overview.md)
    + [Creare uno schema](/help/data-management/create-schema.md)
@@ -152,7 +156,7 @@ ht-degree: 100%
       + [Configurare le origini dati](/help/set-up-journeys/configure-data-sources.md)
       + [Creare gli eventi](/help/set-up-journeys/create-events.md)
       + [Creare azioni](/help/set-up-journeys/create-actions.md)
-   + Regole aziendali {#business-rules}
+   + Regole di business {#business-rules}
       + [Configurare le regole della quota limite](/help/business-rules/configure-frequency-capping-rules.md)
       + [Utilizzare i set di regole](/help/business-rules/work-with-rule-sets.md)
       + [Test e rapporto sulle regole di frequenza](/help/business-rules/test-and-report-on-frequency-rules.md)
