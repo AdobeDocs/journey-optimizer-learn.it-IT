@@ -3,10 +3,10 @@ user-guide-title: Tutorial su Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial di Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 070dd91ef8fee8ff1801d6cfb5fc4a6658fc9d15
+source-git-commit: bb6dc1a70df284f58645336e139d1b78c5cfe590
 workflow-type: tm+mt
-source-wordcount: '647'
-ht-degree: 97%
+source-wordcount: '652'
+ht-degree: 96%
 
 ---
 
@@ -88,8 +88,10 @@ ht-degree: 97%
       + [Supporto di applicazioni a pagina singola (SPA) nell’editor web](/help/channels/singel-page-application-support.md)
 + Gestione dei contenuti{#content-management}
    + [Creazione dei messaggi: panoramica](/help/content-management/message-authoring-overview.md)
+   + 
    + [Gestione delle risorse digitali: panoramica](/help/content-management/digital-asset-management-overview.md)
    + [Gestire le risorse](/help/assets-essentials-overview.md)
+   + [Modificare le risorse con Adobe Express](/help/content-management/edit-assets-with-adobe-express.md)
    + [Gestire i frammenti](/help/content-management/manage-fragments.md)
    + [Creare frammenti di espressione](/help/content-management/expression-fragments.md)
    + [Sperimentazione: panoramica](/help/content-management/experimentation-overview.md)
