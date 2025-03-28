@@ -3,10 +3,10 @@ user-guide-title: Tutorial su Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial di Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 943d35a082ec511fd389ad8c439b94fdd528eed4
+source-git-commit: fc1d1eeb472e4f9f5230425c16220df86db9dbb7
 workflow-type: tm+mt
-source-wordcount: '652'
-ht-degree: 96%
+source-wordcount: '657'
+ht-degree: 95%
 
 ---
 
@@ -50,6 +50,7 @@ ht-degree: 96%
    + [Profilo unificato e segmentazione - panoramica](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [Creare tipi di pubblico tramite il generatore di regole](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [Creare un pubblico caricando un file CSV](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
+   + [Valuta i tipi di pubblico su richiesta](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)
    + [Iscrizioni e pagine di destinazione](/help/subscriptions-and-landing-pages.md)
 + Canali {#channels}
    + [Ottimizzazione delle app mobili: panoramica](/help/channels/mobile-app-optimization-overview.md)
