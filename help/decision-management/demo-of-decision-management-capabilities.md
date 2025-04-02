@@ -1,6 +1,6 @@
 ---
-title: Demo delle funzionalità di gestione delle decisioni di Journey Optimizer
-description: Scopri come i brand possono utilizzare la funzione di gestione delle decisioni per definire e gestire le offerte, sfruttare i dati sui clienti in tempo reale e soddisfare le aspettative dei clienti.
+title: Dimostrazione delle funzionalità per la gestione decisioni in Journey Optimizer
+description: Scopri come i brand possono utilizzare la gestione delle decisioni per definire e gestire le offerte, applicare i dati cliente in tempo reale e offrire esperienze più appropriate in base alle aspettative della clientela.
 feature: Offers
 role: User
 level: Beginner
@@ -8,14 +8,14 @@ jira: KT-6492
 thumbnail: 326841.jpg
 exl-id: 44136443-a3fd-435f-9f6d-23c7696acabe
 source-git-commit: 5a9739f647322a2a7211580f4fff04ae6f9453b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Demo delle funzionalità di gestione delle decisioni di Journey Optimizer
+# Dimostrazione delle funzionalità per la gestione decisioni in Journey Optimizer
 
-Scopri come i brand possono utilizzare la funzione di gestione delle decisioni per definire e gestire le offerte, sfruttare i dati sui clienti in tempo reale e soddisfare le aspettative dei clienti.
+Scopri come i brand possono utilizzare la gestione delle decisioni per definire e gestire le offerte, applicare i dati cliente in tempo reale e offrire esperienze più appropriate in base alle aspettative della clientela.
 
 >[!VIDEO](https://video.tv.adobe.com/v/326841?quality=12&learn=on){transcript=true}

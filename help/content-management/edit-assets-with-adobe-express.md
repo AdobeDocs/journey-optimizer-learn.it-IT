@@ -10,9 +10,9 @@ duration: 300
 last-substantial-update: 2025-03-27T00:00:00Z
 jira: KT-17529
 source-git-commit: 6f1e86b98dfa71330dcf15281d63c50b4b465a1f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '90'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -27,4 +27,4 @@ Scopri come modificare le risorse in Adobe Journey Optimizer utilizzando gli str
 
 >[!VIDEO](https://video.tv.adobe.com/v/3455523/?learn=on&enablevpops)
 
-Per ulteriori informazioni su come accedere a questa funzione dall&#39;editor dei contenuti, consulta la [documentazione del prodotto Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/assets-images/express). Per ulteriori informazioni su Adobe Express, consulta [questa documentazione](https://helpx.adobe.com/express/user-guide.html).
+Per ulteriori informazioni su come accedere a questa funzione dall’editor dei contenuti, consulta la [documentazione di prodotto di Journey Optimizer](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/assets-images/express). Per ulteriori informazioni su Adobe Express, consulta [questa documentazione](https://helpx.adobe.com/it/express/user-guide.html).
