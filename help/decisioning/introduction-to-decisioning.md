@@ -1,6 +1,6 @@
 ---
-title: Introduzione a Decisioning
-description: La funzione Decisioni semplifica la personalizzazione proponendo un catalogo centralizzato di offerte di marketing note come “elementi decisionali” e un motore decisionale sofisticato. Questo motore sfrutta le regole e i criteri di classificazione per selezionare e presentare a ogni persona gli elementi decisionali più rilevanti. Questo video offre una breve panoramica delle funzionalità Decisioning di Adobe Journey Optimizer&gt;
+title: Introduzione alla funzione Decisioni
+description: Scopri le funzionalità Decisioning di Journey Optimizer.
 feature: Decisioning
 topic: Integrations
 role: User
@@ -11,14 +11,14 @@ last-substantial-update: 2025-03-13T00:00:00Z
 jira: KT-17486
 thumbnail: KT-17486.jpeg
 exl-id: d5219ce1-ea44-4c41-b557-b094978e37cc
-source-git-commit: e9e120f6eee45bb2aa466a4cd4c64332e4380197
+source-git-commit: b9a223a583a2ceb7c6c55a144ab78c7963ae2969
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 70%
+source-wordcount: '65'
+ht-degree: 69%
 
 ---
 
-# Introduzione a Decisioning
+# Introduzione alla funzione Decisioni
 
 La funzione Decisioni semplifica la personalizzazione proponendo un catalogo centralizzato di offerte di marketing note come “elementi decisionali” e un motore decisionale sofisticato. Questo motore sfrutta le regole e i criteri di classificazione per selezionare e presentare a ogni persona gli elementi decisionali più rilevanti.
 
