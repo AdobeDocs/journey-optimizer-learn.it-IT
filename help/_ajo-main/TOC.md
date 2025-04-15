@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial di Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: 1f1b42fdd644cf9ac17e8ed055a521f114e5bb14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '662'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 99%
 
 + [Tutorial su Journey Optimizer](/help/_ajo-main/overview.md)
 + Casi d’uso {#use-cases}
-   + [Onboarding cliente](/help/use-cases/customer-onboarding.md)
+   + [Onboarding dei clienti](/help/use-cases/customer-onboarding.md)
    + [Carrello abbandonato](/help/use-cases/abandoned-cart.md)
 + Introduzione a Journey Optimizer {#introduction-to-journey-optimizer}
    + [Journey Optimizer - Panoramica](/help/introduction/journey-optimizer-overview.md)
@@ -45,7 +45,7 @@ ht-degree: 99%
    + [Pubblicare un percorso](/help/create-journeys/publish-a-journey.md)
    + [Aggiornare il contenuto in un percorso live](/help/create-journeys/update-content-in-live-journey.md)
    + [Copiare un percorso in un’altra sandbox](/help/create-journeys/copy-a-journey.md)
-+ Profili, tipi di pubblico e abbonamenti {#profiles-audiences-subscriptions}
++ Profili, tipi di pubblico e iscrizioni {#profiles-audiences-subscriptions}
    + [Profili e tipi di pubblico: panoramica](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
    + [Profilo unificato e segmentazione - panoramica](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [Creare tipi di pubblico tramite il generatore di regole](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
@@ -55,7 +55,7 @@ ht-degree: 99%
 + Canali {#channels}
    + [Ottimizzazione delle app mobili: panoramica](/help/channels/mobile-app-optimization-overview.md)
    + Canale di esperienza basata su codice{#code-based-experience-channel}
-      + [Creare un’esperienza basata su codice campagna](/help/channels/create-a-code-based-experience-campaign.md)
+      + [Creare una campagna con esperienza basata su codice ](/help/channels/create-a-code-based-experience-campaign.md)
       + [Utilizzare la funzione Decisioni in un canale basato su codice](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + Canale direct mail{#direct-mail-channel}
       + [Creare una direct mail](/help/channels/direct-mail.md)
@@ -82,7 +82,7 @@ ht-degree: 99%
       + [Configurare, creare e consegnare messaggi SMS](/help/channels/author-sms-messages.md)
       + [Creare un messaggio MMS](/help/channels/author-mms.md)
       + [SMS - Doppio consenso per Sinch e Infobip](/help/channels/sms-double-opt-in.md)
-   + Canale Web {#web-channel}
+   + Canale web {#web-channel}
       + [Personalizzazione web: panoramica](/help/channels/web-personalization-overview.md)
       + [Creare una campagna web](/help/channels/create-a-web-campaign.md)
       + [Authoring di una campagna web](/help/channels/author-a-web-campaign.md)
@@ -105,7 +105,7 @@ ht-degree: 99%
    + Modelli di contenuto{#content-templates}
       + [Creare modelli di contenuto](/help/content-management/templates/create-content-templates.md)
       + [Bloccare il contenuto dei modelli](/help/content-management/templates/content-locking.md)
-+ Personalizzare il contenuto {#personalize-content}
++ Personalizzazione dei contenuti {#personalize-content}
    + [Editor di personalizzazione: panoramica](/help/personalize-content/personalization-editor-overview.md)
    + [Personalizzazione basata su profilo e appartenenza a un pubblico](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
    + [Aggiungere offerte come personalizzazione](/help/personalize-content/add-offer-decisioning-to-messages.md)
@@ -113,7 +113,7 @@ ht-degree: 99%
    + [Utilizzare funzioni di assistenza per la personalizzazione](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [Utilizzare e gestire le espressioni salvate nella libreria di personalizzazione](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
    + [Creare contenuti dinamici con il generatore di regole di condizione](/help/personalize-content/create-dynamic-content.md)
-+ Funzionalità di decisione{#decision-capabilities}
++ Funzionalità per decisioni{#decision-capabilities}
    + Funzione Decisioni {#decisioning}
       + [Introduzione alla funzione Decisioni](/help/decisioning/introduction-to-decisioning.md)
       + [Procedura dettagliata sul decisioning end-to-end](/help/decisioning/decisioning-end-to-end.md)
@@ -137,8 +137,8 @@ ht-degree: 99%
    + [Creare set di dati e acquisire dati](/help/data-management/create-datasets-and-ingest-data.md)
    + [Configurare i connettori di origini](/help/data-management/configure-source-connectors.md)
    + [Configurare la destinazione di esportazione per un set di dati](/help/data-management/configure-dataset-export-destination.md)
-   + [Esporta i set di dati nelle posizioni di archiviazione cloud](/help/data-management/export-datasets.md)
-+ Rapporto e monitoraggio {#report-and-monitor}
+   + [Esportare i set di dati in posizioni di archiviazione cloud](/help/data-management/export-datasets.md)
++ Reporting e monitoraggio {#report-and-monitor}
    + [Misurazione e reporting: panoramica](/help/report-and-monitor/measurement-and-reporting-overview.md)
    + [Rapporti live e globali](/help/report-and-monitor/live-and-global-reports.md)
    + [Rapporti a livello di canale](/help/report-and-monitor/channel-level-reports.md)
@@ -160,10 +160,10 @@ ht-degree: 99%
       + [Creare gli eventi](/help/set-up-journeys/create-events.md)
       + [Creare azioni](/help/set-up-journeys/create-actions.md)
    + Regole di business {#business-rules}
-      + [Configurare le regole della quota limite](/help/business-rules/configure-frequency-capping-rules.md)
+      + [Configurare le regole di quota limite](/help/business-rules/configure-frequency-capping-rules.md)
       + [Utilizzare i set di regole](/help/business-rules/work-with-rule-sets.md)
-      + [Test e rapporto sulle regole di frequenza](/help/business-rules/test-and-report-on-frequency-rules.md)
-+ Controllo dell’accesso {#access-control}
+      + [Test e reporting per regole di frequenza](/help/business-rules/test-and-report-on-frequency-rules.md)
++ Controllo degli accessi {#access-control}
    + [Gestione degli accessi](/help/set-up-access/access-management.md)
    + [Configurare il controllo degli accessi basato su attributi](/help/administration/attribute-based-access-control.md)
    + [Utilizzare le sandbox](/help/set-up-access/create-and-manage-sandboxes.md)
@@ -177,7 +177,7 @@ ht-degree: 99%
    + [Configurare una sandbox di formazione](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=it)
    + [Sfide](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=it)
 + [Registrazioni di eventi Experience League live](/help/experience-league-live-show-recordings.md)
-+ Laboratori di Summit {#summit-labs}
++ Summit Labs {#summit-labs}
    + [Creare esperienze personalizzate per dispositivi mobili con Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
    + [Scheda di riferimento rapido](/help/summit-lab-assets/l535-assets.md)
    + [Installare l’app mobile](/help/summit-lab-assets/install-mobile-app.md)
