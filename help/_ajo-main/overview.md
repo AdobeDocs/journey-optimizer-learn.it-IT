@@ -7,10 +7,10 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 66092b7d9d2a377dcd3ad1e5a9da7891b117f7be
-workflow-type: ht
-source-wordcount: '378'
-ht-degree: 100%
+source-git-commit: 812d668949923db814f0ec44d858b72d9bac472d
+workflow-type: tm+mt
+source-wordcount: '375'
+ht-degree: 90%
 
 ---
 
@@ -49,15 +49,15 @@ La presente guida utente contiene video e tutorial sulle funzioni e caratteristi
 <tr>
     <td>
     <a href="../content-management/ai-assistant-content-accelerator-overview.md">
-      <img alt="Creare contenuti con l’Acceleratore di contenuti dell’Assistente IA (video)" src="../assets/3434635.jpg"/>
+      <img alt="Creare contenuti con AI Assistant Content Accelerator (video)" src="../assets/3434635.jpg"/>
     </a>
     <div>
       <a href="../content-management/ai-assistant-content-accelerator-overview.md">
-    <strong>Creare contenuti con l’Acceleratore di contenuti nell’Assistente IA</strong>
+    <strong>Crea contenuto tramite l'Acceleratore contenuto dell'Assistente IA</strong>
     </a>
     </div>
     <p>
-    <em>Scopri come utilizzare l’Acceleratore di contenuti dell’Assistente IA per generare suggerimenti proattivi per varianti dei contenuti per testo e immagini.
+    <em>Scopri come utilizzare l’Acceleratore contenuto dell’Assistente di intelligenza artificiale per generare suggerimenti di varianti di contenuto proattive sia per il testo che per le immagini.
 </em>
     <p>
   </td>
