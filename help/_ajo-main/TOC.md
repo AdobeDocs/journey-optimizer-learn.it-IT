@@ -3,10 +3,10 @@ user-guide-title: Tutorial su Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial di Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 1f1b42fdd644cf9ac17e8ed055a521f114e5bb14
-workflow-type: ht
-source-wordcount: '662'
-ht-degree: 100%
+source-git-commit: 602252c2f39bb97486460486ef9a6fec628a3aee
+workflow-type: tm+mt
+source-wordcount: '671'
+ht-degree: 99%
 
 ---
 
@@ -89,22 +89,25 @@ ht-degree: 100%
       + [Supporto di applicazioni a pagina singola (SPA) nell’editor web](/help/channels/singel-page-application-support.md)
 + Gestione dei contenuti{#content-management}
    + [Creazione dei messaggi: panoramica](/help/content-management/message-authoring-overview.md)
-   + [Gestione delle risorse digitali: panoramica](/help/content-management/digital-asset-management-overview.md)
-   + [Gestire le risorse](/help/assets-essentials-overview.md)
-   + [Modificare le risorse con Adobe Express](/help/content-management/edit-assets-with-adobe-express.md)
-   + [Gestire i frammenti](/help/content-management/manage-fragments.md)
-   + [Creare frammenti di espressione](/help/content-management/expression-fragments.md)
-   + [Sperimentazione: panoramica](/help/content-management/experimentation-overview.md)
-   + [Creare un’e-mail tramite GenStudio](/help/content-management/create-an-email-using-genstudio.md)
+   + [Gestione risorse]{#assets}
+      + [Gestione delle risorse digitali: panoramica](/help/content-management/digital-asset-management-overview.md)
+      + [Gestire le risorse](/help/assets-essentials-overview.md)
+      + [Modificare le risorse con Adobe Express](/help/content-management/edit-assets-with-adobe-express.md)
+   + Utilizzare i frammenti {#fragments}
+      + [Gestire i frammenti](/help/content-management/manage-fragments.md)
+      + [Creare frammenti di espressione](/help/content-management/expression-fragments.md)
+      + [Utilizzare i frammenti di contenuto di AEM](/help/content-management/aem_content_fragments.md)
+   + Modelli di contenuto{#content-templates}
+      + [Creare modelli di contenuto](/help/content-management/templates/create-content-templates.md)
+      + [Bloccare il contenuto dei modelli](/help/content-management/templates/content-locking.md)
    + Messaggistica multilingue {#multilingual-messaging}
       + [Impostare la messaggistica multilingue](/help/content-management/set-up-multilingual-messages.md)
       + [Creare un messaggio multilingue](/help/content-management/create-multilingual-messages.md)
    + Assistente IA per la generazione di contenuti {#content-accelerator}
       + [Assistente IA per la generazione di contenuti - Panoramica](/help/content-management/ai-assistant-content-accelerator-overview.md)
       + [Creare contenuti utilizzando l’Assistente IA per la generazione di contenuti](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
-   + Modelli di contenuto{#content-templates}
-      + [Creare modelli di contenuto](/help/content-management/templates/create-content-templates.md)
-      + [Bloccare il contenuto dei modelli](/help/content-management/templates/content-locking.md)
+   + [Sperimentazione: panoramica](/help/content-management/experimentation-overview.md)
+   + [Creare un’e-mail tramite GenStudio](/help/content-management/create-an-email-using-genstudio.md)
 + Personalizzazione dei contenuti {#personalize-content}
    + [Editor di personalizzazione: panoramica](/help/personalize-content/personalization-editor-overview.md)
    + [Personalizzazione basata su profilo e appartenenza a un pubblico](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
