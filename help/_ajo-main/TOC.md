@@ -88,7 +88,7 @@ ht-degree: 98%
       + [Authoring di una campagna web](/help/channels/author-a-web-campaign.md)
       + [Supporto di applicazioni a pagina singola (SPA) nell’editor web](/help/channels/singel-page-application-support.md)
 + Gestione dei contenuti{#content-management}
-   + [Creazione dei messaggi: panoramica](/help/content-management/message-authoring-overview.md)
+   + [Creazione dei messaggi - Panoramica](/help/content-management/message-authoring-overview.md)
    + Gestire le risorse {#assets}
       + [Gestione delle risorse digitali: panoramica](/help/content-management/digital-asset-management-overview.md)
       + [Gestire le risorse](/help/assets-essentials-overview.md)
@@ -107,7 +107,7 @@ ht-degree: 98%
    + Assistente IA per la generazione di contenuti {#content-accelerator}
       + [Assistente IA per la generazione di contenuti - Panoramica](/help/content-management/ai-assistant-content-accelerator-overview.md)
       + [Creare contenuti utilizzando l’Assistente IA per la generazione di contenuti](/help/content-management/create-content-using-ai-assistant-content-accelerator.md)
-   + [Sperimentazione: panoramica](/help/content-management/experimentation-overview.md)
+   + [Sperimentazione - Panoramica](/help/content-management/experimentation-overview.md)
    + [Creare un’e-mail tramite GenStudio](/help/content-management/create-an-email-using-genstudio.md)
 + Personalizzazione dei contenuti {#personalize-content}
    + [Editor di personalizzazione: panoramica](/help/personalize-content/personalization-editor-overview.md)
