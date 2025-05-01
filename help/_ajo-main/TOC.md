@@ -3,10 +3,10 @@ user-guide-title: Tutorial su Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial di Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: da95a1a259523039308cc5c5beb6bd93cf5de0f4
+source-git-commit: eccb016c737f94eef1cbd8357a9ce37a053904a1
 workflow-type: tm+mt
-source-wordcount: '678'
-ht-degree: 98%
+source-wordcount: '696'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 98%
 + Casi d’uso {#use-cases}
    + [Onboarding dei clienti](/help/use-cases/customer-onboarding.md)
    + [Carrello abbandonato](/help/use-cases/abandoned-cart.md)
+
 + Introduzione a Journey Optimizer {#introduction-to-journey-optimizer}
    + [Journey Optimizer - Panoramica](/help/introduction/journey-optimizer-overview.md)
    + [Introduzione a Journey Optimizer](/help/introduction/introduction.md)
@@ -181,7 +182,13 @@ ht-degree: 98%
 + Esercizi e sfide {#exercises-and-challenges}
    + [Configurare una sandbox di formazione](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=it)
    + [Sfide](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=it)
-+ [Registrazioni di eventi Experience League live](/help/experience-league-live-show-recordings.md)
++ [Registrazioni di Experience League Live Show](/help/experience-league-live-show-recordings.md)
++ Creazione di tipi di pubblico tramite Web SDK {#tutorial-creating-audiences}
+   + [Introduzione](../tutorial-creating-audience/introduction.md)
+   + [Crea schema, set di dati..ecc.](../tutorial-creating-audience/create-schema-and-dataset.md)
+   + [Creare tag AEP](../tutorial-creating-audience/create-aep-tags.md)
+   + [Crea modulo web](../tutorial-creating-audience/create-web-form.md)
+   + [Debug della soluzione](../tutorial-creating-audience/debug.md)
 + Summit Labs {#summit-labs}
    + [Creare esperienze personalizzate per dispositivi mobili con Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
    + [Scheda di riferimento rapido](/help/summit-lab-assets/l535-assets.md)
