@@ -22,4 +22,4 @@ Scopri come configurare le regole di quota limite.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433395/?learn=on)
 
-Per ulteriori informazioni, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/frequency-rules).
+Per ulteriori informazioni, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/configuration/frequency-rules).

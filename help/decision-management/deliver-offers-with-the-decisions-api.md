@@ -23,4 +23,4 @@ Scopri come distribuire le offerte [con l’API dell’hub Decisions](https://ex
 
 >[!INFO]
 >
-> Questo video fa parte del corso [Guida introduttiva alla gestione delle decisioni per marketer](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponibile gratuitamente su Experience League.
+> Questo video fa parte del corso [Guida introduttiva alla gestione delle decisioni per marketer](https://experienceleague.adobe.com/?lang=it&recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponibile gratuitamente su Experience League.
