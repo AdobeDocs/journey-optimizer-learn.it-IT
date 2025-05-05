@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Ambiente playground dell’editor di Personalization
 
-L&#39;area di riproduzione dell&#39;editor di personalizzazione [](https://experienceleague.adobe.com/en/apps/journey-optimizer/ajo-personalization#) fornisce un ambiente simulato per scrivere e testare il codice di personalizzazione utilizzando dati di esempio senza richiedere set di dati live.
+L&#39;area di riproduzione dell&#39;editor di personalizzazione [&#128279;](https://experienceleague.adobe.com/en/apps/journey-optimizer/ajo-personalization#) fornisce un ambiente simulato per scrivere e testare il codice di personalizzazione utilizzando dati di esempio senza richiedere set di dati live.
 
 Scopri come sfruttare gli esempi di codice predefiniti, modificare i payload di profilo fittizi e visualizzare in anteprima l’output del codice di personalizzazione in tempo reale.
 
