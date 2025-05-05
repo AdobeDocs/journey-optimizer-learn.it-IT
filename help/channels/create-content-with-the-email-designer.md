@@ -20,5 +20,5 @@ ht-degree: 100%
 
 Scopri come creare e-mail da zero. Scopri come utilizzare le risorse dalla libreria di Adobe Experience Manager Assets Essentials, modificare la progettazione delle e-mail responsive e creare e-mail a partire da un modello.
 
->[!VIDEO](https://video.tv.adobe.com/v/334150?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416233?quality=12&learn=on&captions=ita){transcript=true}
 

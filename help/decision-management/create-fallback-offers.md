@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Scopri come creare [offerte di fallback](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/managing-offers-in-the-offer-library/creating-fallback-offers.html?lang=it) per la gestione delle decisioni. Le offerte di fallback sono offerte predefinite che vengono mostrate ai clienti che non risultano idonei per nessuna delle offerte personalizzate.
 
->[!VIDEO](https://video.tv.adobe.com/v/329383?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/341355?quality=12&learn=on&captions=ita){transcript=true}
 
 Per ulteriori informazioni su come creare offerte di fallback con un’API, consulta la [guida del prodotto](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/fallback-offers/create.html?lang=it).

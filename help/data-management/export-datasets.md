@@ -27,6 +27,6 @@ Scopri come esportare un set di dati da Journey Optimizer a una destinazione Ama
 >[!NOTE]
 >Durante la fase beta, sono visibili tutti i set di dati. Quando questa funzione sarà disponibile, sarà limitata ai soli set di dati generati dal sistema.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418688/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432011/?quality=12&learn=on&captions=ita){transcript=true}
 
 Per ulteriori informazioni, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/docs/journey-optimizer/using/data-management/datasets/export-datasets.html?lang=it).

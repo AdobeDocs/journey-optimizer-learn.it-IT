@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Scopri come bloccare il contenuto dei modelli. Questo tutorial descrive come bloccare i modelli completamente o parzialmente, utilizzando le modalità di blocco in sola lettura e dei contenuti, e come gestire le aree modificabili all’interno di un modello bloccato.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451591/?learn=on&enablevpops){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451615/?learn=on&enablevpops&captions=ita){transcript=true}
 
 Per ulteriori informazioni, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/content-management/content-templates/content-locking).

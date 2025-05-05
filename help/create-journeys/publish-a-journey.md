@@ -21,4 +21,4 @@ ht-degree: 68%
 
 Comprendi i diversi stati di un percorso e l’impatto della pubblicazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424998?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3427935?quality=12&learn=on&captions=ita){transcript=true}

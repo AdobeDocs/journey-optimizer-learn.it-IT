@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Scopri come impostare il canale direct mail e come creare e visualizzare in anteprima le campagne di direct mail.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422019/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449362/?learn=on&captions=ita){transcript=true}

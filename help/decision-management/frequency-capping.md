@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Come funziona la quota limite in Offer Decisioning. Scopri come configurare la quota limite per un evento personalizzato e come impostare gli incrementi definendo la frequenza.
 
->[!VIDEO](https://video.tv.adobe.com/v/3417853/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422163/?quality=12&learn=on&captions=ita){transcript=true}

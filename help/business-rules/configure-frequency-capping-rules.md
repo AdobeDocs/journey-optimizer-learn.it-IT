@@ -20,6 +20,6 @@ ht-degree: 65%
 
 Scopri come configurare le regole di quota limite.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433395/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433403/?learn=on&captions=ita)
 
 Per ulteriori informazioni, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/configuration/frequency-rules).

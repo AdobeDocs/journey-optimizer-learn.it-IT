@@ -21,7 +21,7 @@ In questa sezione, puoi impostare i tre eventi necessari per gli esercizi pratic
 
 Il video seguente spiega come creare gli eventi:
 
->[!VIDEO](https://video.tv.adobe.com/v/336253?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431511?quality=12&learn=on&captions=ita){transcript=true}
 
 ## Creare l’evento di acquisto online Luma
 

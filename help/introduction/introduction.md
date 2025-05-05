@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Scopri Adobe Journey Optimizer, le sfide di business che consente di risolvere e quali sono i casi d’uso più importanti.
 
->[!VIDEO](https://video.tv.adobe.com/v/333745?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416291?quality=12&learn=on&captions=ita){transcript=true}
 
   <br>

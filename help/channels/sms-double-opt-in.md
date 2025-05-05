@@ -21,4 +21,4 @@ ht-degree: 57%
 
 Scopri come configurare il doppio consenso per gli SMS.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427129/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440287/?learn=on&captions=ita)

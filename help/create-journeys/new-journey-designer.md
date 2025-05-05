@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Scopri la nuova area di lavoro del percorso riprogettata e come sfruttare i rapporti live nei percorsi.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428767/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443603/?learn=on&captions=ita){transcript=true}

@@ -20,5 +20,5 @@ ht-degree: 100%
 
 Scopri come configurare un evento, specificare l’endpoint di streaming e il payload di un evento.
 
->[!VIDEO](https://video.tv.adobe.com/v/336253?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431511?quality=12&learn=on&captions=ita){transcript=true}
 

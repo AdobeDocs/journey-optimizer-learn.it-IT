@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Scopri come i brand possono utilizzare la gestione delle decisioni per definire e gestire le offerte, applicare i dati cliente in tempo reale e offrire esperienze più appropriate in base alle aspettative della clientela.
 
->[!VIDEO](https://video.tv.adobe.com/v/326841?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/340352?quality=12&learn=on&captions=ita){transcript=true}

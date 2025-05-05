@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Scopri come utilizzare le informazioni sugli eventi contestuali provenienti da un percorso per personalizzare un messaggio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425027?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3428529?quality=12&learn=on&captions=ita){transcript=true}

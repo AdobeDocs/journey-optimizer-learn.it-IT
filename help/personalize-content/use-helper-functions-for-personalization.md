@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Scopri come trasformare i valori di personalizzazione utilizzando le funzioni di assistenza alla personalizzazione e studia diversi casi d’uso per le funzioni di supporto.
 
->[!VIDEO](https://video.tv.adobe.com/v/334244?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416645?quality=12&learn=on&captions=ita){transcript=true}
 
 Per ulteriori informazioni sulle [funzioni helper](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalized-dynamic-content/personalization/build-expressions/functions/functions.html?lang=it) consulta la guida del prodotto.

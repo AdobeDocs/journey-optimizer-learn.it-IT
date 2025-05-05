@@ -22,4 +22,4 @@ Scopri la configurazione, il flusso di lavoro e i casi d’uso per l’esportazi
 
 Per ulteriori informazioni sull’esportazione dei set di dati da Adobe Journey Optimizer alle posizioni di archiviazione cloud, consulta la [documentazione](https://experienceleague.adobe.com/docs/journey-optimizer/using/data-management/datasets/export-datasets.html?lang=it).
 
->[!VIDEO](https://video.tv.adobe.com/v/3424392/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448826/?learn=on&captions=ita)

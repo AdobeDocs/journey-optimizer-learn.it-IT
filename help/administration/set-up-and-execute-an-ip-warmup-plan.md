@@ -22,7 +22,7 @@ ht-degree: 100%
 
 Scopri cos’è la preparazione IP e come impostare ed eseguire un piano di preparazione IP in Adobe Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432637/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453848/?learn=on&captions=ita)
 
 Durante la preparazione dell’IP, consulta la [Guida alle best practice per la recapitabilità](https://experienceleague.adobe.com/it/docs/deliverability-learn/deliverability-best-practice-guide/introduction) per le best practice su [Criteri di targeting](https://experienceleague.adobe.com/it/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/targeting-criteria), [Considerazioni specifiche dell’ISP durante la preparazione dell’IP](https://experienceleague.adobe.com/it/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/isp-specific-considerations-during-ip-warming) e [Volume](https://experienceleague.adobe.com/it/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/volume).
 

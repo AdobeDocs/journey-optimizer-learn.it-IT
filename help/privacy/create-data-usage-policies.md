@@ -28,6 +28,6 @@ Scopri come creare e gestire i criteri di utilizzo dei dati. I criteri di utiliz
 >
 >Guarda questo [tutorial](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md) per scoprire come vengono applicati i criteri nei canali Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/32977/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37131/?learn=on&captions=ita)
 
 Per ulteriori informazioni su come [utilizzare i criteri di consenso](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/privacy/consent/consent-restricted) in Journey Optimizer, consulta la documentazione sul prodotto.

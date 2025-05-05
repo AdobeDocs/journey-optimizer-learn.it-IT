@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Scopri come creare un profilo unificato e quindi segmenti basati sugli attributi del profilo per personalizzare i percorsi dei clienti.
 
->[!VIDEO](https://video.tv.adobe.com/v/342114?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/345509?quality=12&learn=on&captions=ita){transcript=true}

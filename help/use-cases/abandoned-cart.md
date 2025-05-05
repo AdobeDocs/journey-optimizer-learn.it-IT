@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Scopri come implementare il caso di utilizzo del carrello abbandonato utilizzando la funzione Playbook in Adobe Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443964/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443972/?learn=on&enablevpops&captions=ita)

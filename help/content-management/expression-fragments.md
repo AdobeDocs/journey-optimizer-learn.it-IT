@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Scopri come creare e utilizzare i frammenti di espressione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424587/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3438925/?learn=on&captions=ita)

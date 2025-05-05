@@ -23,4 +23,4 @@ Scopri come creare un’esperienza web utilizzando l’editor visivo web nelle c
 >[!NOTE]
 > È necessario installare l’[estensione Helper per editing video di Adobe Experience Cloud in Chrome](https://chrome.google.com/webstore/detail/adobe-experience-cloud-vi/kgmjjkfjacffaebgpkpcllakjifppnca) per poter caricare il sito web in Adobe Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418803/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452643/?quality=12&learn=on&captions=ita){transcript=true}

@@ -9,4 +9,4 @@ ht-degree: 100%
 
 Scopri come configurare gli esperimenti sui contenuti per test A/B ed esplora al meglio i contenuti e-mail per raggiungere gli obiettivi aziendali.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419893/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447339/?learn=on&captions=ita){transcript=true}

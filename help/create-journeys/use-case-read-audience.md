@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Comprendi i casi d’uso applicabili a un percorso attivato dall’attività Leggi pubblico. Scopri come creare percorsi basati su batch e quali best practice applicare.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424997?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430364?quality=12&learn=on&captions=ita){transcript=true}

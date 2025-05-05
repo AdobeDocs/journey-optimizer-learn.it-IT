@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Scopri come aggiungere un componente della Gestione delle decisioni ai messaggi in Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/334088?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3415689?quality=12&learn=on&captions=ita){transcript=true}

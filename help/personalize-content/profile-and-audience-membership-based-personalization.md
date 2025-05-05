@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Scopri come aggiungere una personalizzazione ai messaggi in base al profilo e come utilizzare l’appartenenza a un pubblico come condizione preliminare per un blocco di personalizzazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/334078?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416271?quality=12&learn=on&captions=ita){transcript=true}

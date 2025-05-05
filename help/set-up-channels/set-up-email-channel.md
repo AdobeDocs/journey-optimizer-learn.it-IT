@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Scopri come creare i predefiniti per messaggi, come utilizzarli e come delegare un sottodominio e creare un pool di indirizzi IP.
 
->[!VIDEO](https://video.tv.adobe.com/v/334343?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416660?quality=12&learn=on&captions=ita){transcript=true}

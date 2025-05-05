@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Scopri come importare e attivare in modo efficiente un pubblico caricando un file CSV. Scopri come personalizzare il contenuto applicando gli attributi di arricchimento da un file CSV, in modo da fornire un’esperienza personalizzata per il tuo pubblico.
 
->[!VIDEO](https://video.tv.adobe.com/v/3444298/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444351/?learn=on&enablevpops&captions=ita)

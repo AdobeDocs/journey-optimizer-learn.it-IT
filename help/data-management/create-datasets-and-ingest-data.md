@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Scopri come creare un set di dati, mapparlo su uno schema, aggiungervi dati e confermare che i dati sono stati acquisiti.
 
->[!VIDEO](https://video.tv.adobe.com/v/334293?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416650?quality=12&learn=on&captions=ita){transcript=true}

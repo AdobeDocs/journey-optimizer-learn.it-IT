@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Scopri come verificare il rendering delle e-mail nelle caselle in entrata utilizzando Litmus, visualizzare in anteprima le e-mail personalizzate rispetto ai profili di test, inviare bozze e pubblicare le e-mail.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425026?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430338?quality=12&learn=on&captions=ita){transcript=true}

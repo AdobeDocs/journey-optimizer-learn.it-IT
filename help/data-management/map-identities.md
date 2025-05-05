@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Scopri come e quando etichettare un campo di schema come identità, come creare uno spazio dei nomi, quando rendere un’identità primaria e come acquisire e verificare i dati di identità.
 
->[!VIDEO](https://video.tv.adobe.com/v/335918?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3418471?quality=12&learn=on&captions=ita){transcript=true}
