@@ -9,12 +9,12 @@ doc-type: Feature Video
 duration: 300
 last-substantial-update: 2025-03-27T00:00:00Z
 jira: KT-17529
-hidefromtoc: true
-hide: true
-index: false
+hidefromtoc: false
+hide: false
+index: true
 exl-id: c42fca4f-bc31-43ad-9e3a-9936a6623051
-source-git-commit: 55f3c99e9c21155ee227d73add83b4790b904d83
-workflow-type: ht
+source-git-commit: fd50ce73503ca6b42e0171d8476ea08928ebd165
+workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 100%
 
@@ -28,6 +28,6 @@ ht-degree: 100%
 
 Scopri come modificare le risorse in Adobe Journey Optimizer utilizzando gli strumenti di Adobe Express.
 
->[!VIDEO](https://video.tv.adobe.com/v/3455531/?learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3455523/?learn=on&enablevpops)
 
 Per ulteriori informazioni su come accedere a questa funzione dall’editor dei contenuti, consulta la [documentazione di prodotto di Journey Optimizer](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/assets-images/express). Per ulteriori informazioni su Adobe Express, consulta [questa documentazione](https://helpx.adobe.com/it/express/user-guide.html).
