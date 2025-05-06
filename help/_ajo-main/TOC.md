@@ -3,10 +3,10 @@ user-guide-title: Tutorial su Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial di Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: eccb016c737f94eef1cbd8357a9ce37a053904a1
+source-git-commit: 036ac1b9cf1618ff1e4727fc1560dee8dddb7c9f
 workflow-type: tm+mt
-source-wordcount: '696'
-ht-degree: 95%
+source-wordcount: '707'
+ht-degree: 93%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 95%
 + Casi d’uso {#use-cases}
    + [Onboarding dei clienti](/help/use-cases/customer-onboarding.md)
    + [Carrello abbandonato](/help/use-cases/abandoned-cart.md)
+   + [Ridimensionamento dell&#39;orchestrazione in un coinvolgimento omni-channel](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement){target="_blank"}
 
 + Introduzione a Journey Optimizer {#introduction-to-journey-optimizer}
    + [Journey Optimizer - Panoramica](/help/introduction/journey-optimizer-overview.md)
@@ -190,6 +191,6 @@ ht-degree: 95%
    + [Crea modulo web](../tutorial-creating-audience/create-web-form.md)
    + [Debug della soluzione](../tutorial-creating-audience/debug.md)
 + Summit Labs {#summit-labs}
-   + [Creare esperienze personalizzate per dispositivi mobili con Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
-   + [Scheda di riferimento rapido](/help/summit-lab-assets/l535-assets.md)
-   + [Installare l’app mobile](/help/summit-lab-assets/install-mobile-app.md)
+   + [Creare esperienze personalizzate per dispositivi mobili con Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
+   + [Ridimensionamento dell&#39;orchestrazione a un coinvolgimento omnicanale in Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
+
