@@ -3,7 +3,7 @@ user-guide-title: Tutorial su Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial di Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 0b3b022f682c7835d726b6f75bf26430b0b9de9a
+source-git-commit: 3d57364544365d1843904a9fb44e5aa393db4422
 workflow-type: tm+mt
 source-wordcount: '707'
 ht-degree: 93%
@@ -106,8 +106,8 @@ ht-degree: 93%
    + Messaggistica multilingue {#multilingual-messaging}
       + [Impostare la messaggistica multilingue](/help/content-management/set-up-multilingual-messages.md)
       + [Creare un messaggio multilingue](/help/content-management/create-multilingual-messages.md)
-   + Assistente IA per la generazione di contenuti {#content-accelerator}
-      + [Assistente IA per la generazione di contenuti - Panoramica](/help/content-management/ai-assistant-content-accelerator-overview.md)
+   + Assistente IA per la generazione di contenuti {#ai-assistant}
+      + [Assistente IA per la generazione di contenuti - Panoramica](/help/content-management/ai-assistant-for-content-generation-overview.md)
       + [Creare contenuti utilizzando l’Assistente IA per la generazione di contenuti](/help/content-management/create-content-using-ai-assistant-content-accelerator.md)
    + [Sperimentazione - Panoramica](/help/content-management/experimentation-overview.md)
    + [Creare un’e-mail tramite GenStudio](/help/content-management/create-an-email-using-genstudio.md)
