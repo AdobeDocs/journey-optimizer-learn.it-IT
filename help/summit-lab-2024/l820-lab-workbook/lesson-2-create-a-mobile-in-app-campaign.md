@@ -135,7 +135,7 @@ Nella sezione **[!UICONTROL Azione]**, fai clic su **[!UICONTROL Modifica conten
 
 ![Pulsante Modifica contenuto](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-1-edit-content-button.png)
 
-Viene visualizzato l&#39;editor del messaggio in-app [!UICONTROL 1} in cui puoi configurare il contenuto del messaggio in-app.]
+Viene visualizzato l&#39;editor del messaggio in-app [!UICONTROL 1&rbrace; in cui puoi configurare il contenuto del messaggio in-app.]
 
 #### Layout di 2.3.3.1
 
@@ -204,6 +204,7 @@ Quando fai clic all’esterno del campo del valore, viene visualizzata l’immag
          5. Posizione personalizzata
          6. Animazione personalizzata
          7. Angolo arrotondato messaggio
+
    <br>
 4. Al termine dell&#39;authoring dei contenuti e quando si è soddisfatti del messaggio, fare clic sul pulsante **[!UICONTROL Controlla per attivare]**.
 
