@@ -321,7 +321,7 @@ Le funzionalità **Duplica campagna** e **Anteprima sul dispositivo** sono funzi
 
 **Documentazione del prodotto:**
 
-* [Introduzione al canale in-app](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
-* [Creare un messaggio in-app mobile](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app)
-* [Creare contenuto in-app](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
-* [Controlla e invia la notifica in-app](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)
+* [Introduzione al canale in-app](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [Creare un messaggio in-app mobile](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/in-app/create-in-app)
+* [Creare contenuto in-app](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/in-app/design-in-app)
+* [Controlla e invia la notifica in-app](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/in-app/send-in-app)
