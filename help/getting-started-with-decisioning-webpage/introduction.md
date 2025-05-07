@@ -7,15 +7,15 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-17728
-source-git-commit: 9695a4db0d0caa44a8c7d49e069320309ffc40a6
+exl-id: 382ee746-e8cd-4843-bfe9-913df8914136
+source-git-commit: 5ab637d9b9955ab334ee67ed887e34026b04206d
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '271'
 ht-degree: 1%
 
 ---
 
-
-# Creazione di tipi di pubblico di AJO in base alle preferenze di investimento degli utenti (azioni, obbligazioni, CD)
+# Personalizzazione delle offerte di pagine web con AJO Decisioning in base al pubblico
 
 Questo tutorial si basa su una configurazione della segmentazione del pubblico creata in precedenza utilizzando Adobe Experience Platform (AEP) Web SDK. Nell’esercitazione precedente, le preferenze dell’utente, ad esempio interesse per azioni, obbligazioni o certificati di deposito (CD), venivano acquisite e utilizzate per segmentare i singoli utenti in tipi di pubblico mirati in Adobe Experience Platform (AEP). Questo tutorial si basa su queste basi utilizzando Adobe Journey Optimizer (AJO) Decisioning per fornire offerte finanziarie personalizzate in tempo reale a tali tipi di pubblico, migliorando sia i risultati di coinvolgimento che quelli di conversione.
 
@@ -47,8 +47,3 @@ Questa esercitazione ti guida attraverso la distribuzione di offerte di investim
 * AEP Web SDK (Alloy.js)
 * Segmentazione di AEP Edge
 * Una pagina web per visualizzare le offerte
-
-
-
-
-
