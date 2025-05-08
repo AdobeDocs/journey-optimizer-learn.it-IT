@@ -3,10 +3,10 @@ user-guide-title: Tutorial su Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial di Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 6bf0c2487afff4811aa94e9591ae29c38af15d34
+source-git-commit: 217e3e8b416c89f2d7141849028dc4d88e0bd484
 workflow-type: tm+mt
-source-wordcount: '744'
-ht-degree: 90%
+source-wordcount: '751'
+ht-degree: 89%
 
 ---
 
@@ -17,9 +17,9 @@ ht-degree: 90%
 + Casi d’uso {#use-cases}
    + [Onboarding dei clienti](/help/use-cases/customer-onboarding.md)
    + [Carrello abbandonato](/help/use-cases/abandoned-cart.md)
-   + [Crea tipi di pubblico in base alle preferenze utente](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/tutorial-creating-audiences/introduction)
-   + [Decisioning nella pagina Web](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/getting-started-with-decisioning-webpage/introduction)
-   + [Ridimensionamento dell&#39;orchestrazione in un coinvolgimento omni-channel](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
+   + [Crea tipi di pubblico in base alle preferenze utente](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/tutorial-creating-audiences/introduction)
+   + [Decisioning nella pagina Web](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/getting-started-with-decisioning-webpage/introduction)
+   + [Ridimensionamento dell&#39;orchestrazione in un coinvolgimento omni-channel](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 
 + Introduzione a Journey Optimizer {#introduction-to-journey-optimizer}
    + [Journey Optimizer - Panoramica](/help/introduction/journey-optimizer-overview.md)
@@ -49,6 +49,7 @@ ht-degree: 90%
    + [Pubblicare un percorso](/help/create-journeys/publish-a-journey.md)
    + [Aggiornare il contenuto in un percorso live](/help/create-journeys/update-content-in-live-journey.md)
    + [Copiare un percorso in un’altra sandbox](/help/create-journeys/copy-a-journey.md)
+   + [Attiva percorso giornaliero eseguito dopo la segmentazione batch](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
 + Profili, tipi di pubblico e iscrizioni {#profiles-audiences-subscriptions}
    + [Profili e tipi di pubblico: panoramica](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
    + [Profilo unificato e segmentazione - panoramica](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
@@ -205,6 +206,6 @@ ht-degree: 90%
    + [Crea pagina Web](../getting-started-with-decisioning-webpage/create-web-page.md)
 
 + Summit Labs {#summit-labs}
-   + [Creare esperienze personalizzate per dispositivi mobili con Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
-   + [Ridimensionamento dell&#39;orchestrazione a un coinvolgimento omnicanale in Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
+   + [Creare esperienze personalizzate per dispositivi mobili con Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
+   + [Ridimensionamento dell&#39;orchestrazione a un coinvolgimento omnicanale in Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 
