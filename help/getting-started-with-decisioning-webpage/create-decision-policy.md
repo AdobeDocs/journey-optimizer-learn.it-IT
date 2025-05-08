@@ -7,13 +7,13 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-17728
-source-git-commit: a675979bc590190e0481e63efbc2cfd30752b7c0
+exl-id: 186e4a7d-6077-401f-9958-2f955214bc35
+source-git-commit: 6bf0c2487afff4811aa94e9591ae29c38af15d34
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
 
 ---
-
 
 # Crea criterio di decisione
 
@@ -42,4 +42,4 @@ In questa fase, puoi includere direttamente nel codice tutti gli attributi di de
 Questo codice esamina un elenco di offerte personalizzate scelte per l’utente e visualizza il testo di ciascuna offerta sulla pagina web. Mostra il messaggio (denominato offerText) di ogni offerta all’interno di un paragrafo, in modo che gli utenti possano visualizzare chiaramente i contenuti personalizzati.
 Se non è disponibile alcuna offerta personalizzata, viene visualizzata un’offerta di fallback per garantire che lo spazio non venga lasciato vuoto.
 
-Fai clic su Salva, quindi attiva la campagna
+Fai clic su Salva, quindi attiva la campagna.
