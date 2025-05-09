@@ -1,5 +1,5 @@
 ---
-title: Ambiente playground dell’editor di Personalization
+title: Playground dell’editor di personalizzazione
 description: Scopri come sfruttare gli esempi di codice predefiniti, modificare i payload di profilo fittizi e visualizzare in anteprima l’output del codice di personalizzazione in tempo reale.
 feature: Personalization
 role: User
@@ -13,15 +13,15 @@ hide: false
 index: true
 exl-id: 4d2ec542-e148-4ee3-ba7f-99296b581c37
 source-git-commit: d92b5fff7209b341204b3ff1549c7530d4e060e6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '70'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Ambiente playground dell’editor di Personalization
+# Playground dell’editor di personalizzazione
 
-L&#39;area di riproduzione dell&#39;editor di personalizzazione [&#128279;](https://experienceleague.adobe.com/it/apps/journey-optimizer/ajo-personalization#) fornisce un ambiente simulato per scrivere e testare il codice di personalizzazione utilizzando dati di esempio senza richiedere set di dati live.
+Il [playground dell’editor di personalizzazione](https://experienceleague.adobe.com/it/apps/journey-optimizer/ajo-personalization#) fornisce un ambiente simulato per scrivere e testare il codice di personalizzazione utilizzando dati di esempio senza richiedere set di dati live.
 
 Scopri come sfruttare gli esempi di codice predefiniti, modificare i payload di profilo fittizi e visualizzare in anteprima l’output del codice di personalizzazione in tempo reale.
 
