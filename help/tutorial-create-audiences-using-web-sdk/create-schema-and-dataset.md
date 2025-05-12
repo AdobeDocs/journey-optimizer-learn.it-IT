@@ -22,7 +22,7 @@ ht-degree: 0%
 * Accedi a Adobe Experience Platform
 * Gestione dati -> Schemi -> Crea schema
 
-* Creare uno schema basato su eventi XDM denominato _Financial Advisors_. Se non sai creare uno schema, segui questa [documentazione](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)
+* Creare uno schema basato su eventi XDM denominato _Financial Advisors_. Se non sai creare uno schema, segui questa [documentazione](https://experienceleague.adobe.com/it/docs/experience-platform/xdm/tutorials/create-schema-ui)
 
 * Aggiungi la seguente struttura allo schema. L&#39;elemento PreferredFinancialInstrument memorizza la preferenza dell&#39;utente per Scorte, Obbligazioni, CD. **__techmarketingdemos_**&#x200B;è l&#39;ID tenant e sarà diverso nell&#39;ambiente.
   ![xdm-schema](assets/xdm-schema.png)
