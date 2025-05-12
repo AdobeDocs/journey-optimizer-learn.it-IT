@@ -34,7 +34,7 @@ I tipi di pubblico in Adobe Experience Platform sono gruppi di utenti creati in 
    * Clienti interessati al CD
 
 
-* Assicurati che il metodo di valutazione per ogni pubblico sia impostato su _**Edge**_ per la qualifica in tempo reale.
+* Assicurati che il metodo di valutazione per ogni pubblico sia impostato su _&#x200B;**Edge**&#x200B;_ per la qualifica in tempo reale.
   ![edge-audience](assets/audience-edge.png)
 
 * Utilizzare il campo PreferredFinancialInstrument per segmentare gli utenti in base all&#39;interesse di investimento selezionato, ad esempio azioni, obbligazioni o CD
@@ -48,7 +48,7 @@ I tipi di pubblico in Adobe Experience Platform sono gruppi di utenti creati in 
 
 >[!NOTE]
 >
->>Se il campo PreferredFinancialInstrument non è visibile nella scheda degli eventi, fai clic sull’icona delle impostazioni e attiva Mostra lo schema XDM completo.
+>&#x200B;>Se il campo PreferredFinancialInstrument non è visibile nella scheda degli eventi, fai clic sull’icona delle impostazioni e attiva Mostra lo schema XDM completo.
 
 
 
