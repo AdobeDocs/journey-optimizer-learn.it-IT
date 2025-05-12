@@ -1,5 +1,5 @@
 ---
-title: Crea una pagina web per testare la soluzione
+title: Creare una pagina web per testare la soluzione
 description: Pagina web per testare le offerte personalizzate distribuite tramite il decisioning.
 role: User
 level: Beginner
@@ -8,9 +8,9 @@ feature: Decisioning
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-17728
 exl-id: 72a67137-303d-4dfe-9b70-322c81e5fb27
-source-git-commit: 2ca9ffee1a2326b8ae55a8e8de496a632fea79c8
+source-git-commit: 9a35160921988103182815efd3551151c09b9bb4
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -21,18 +21,27 @@ Questa pagina web è stata creata per testare le offerte personalizzate distribu
 
 Lo script seguente è responsabile del recupero e della visualizzazione di un’offerta personalizzata in una pagina web tramite Adobe Journey Optimizer.
 
-1. Decodificare entità HTML: è disponibile una funzione di assistenza che converte in modo sicuro eventuali caratteri speciali nel contenuto dell’offerta in HTML leggibile.
+1. Decodificare le entità HTML:
 
-2. Esegui personalizzazione:
-Quando viene chiamato, invia una richiesta (sendEvent) al Web SDK di Adobe per ottenere contenuti personalizzati per un’area specifica della pagina (l’elemento #ajo-offer).
-Se viene restituita un’offerta, questa decodifica il HTML e lo inserisce nella pagina.
-Se non viene restituito nulla, registra un avviso.
+   È disponibile una funzione di assistenza che converte in modo sicuro eventuali caratteri speciali nel contenuto dell’offerta in HTML leggibile.
 
-3. Attendi SDK:
-Poiché la SDK (lega) di Adobe viene caricata in modo asincrono, lo script attende di essere completamente caricato prima di effettuare la richiesta.
-Controlla la lega ogni 200 millisecondi, fino a 20 volte, per evitare errori.
+1. Esegui personalizzazione:
 
-4. Al termine del caricamento della pagina: al termine del caricamento della pagina, lo script avvia il processo chiamando waitForAlloy().
+   Quando viene chiamato, invia una richiesta (`sendEvent`) al Web SDK di Adobe per ottenere contenuti personalizzati per un&#39;area specifica della pagina (l&#39;elemento `#ajo-offer`).
+
+   Se viene restituita un’offerta, questa decodifica il HTML e lo inserisce nella pagina.
+
+   Se non viene restituito nulla, registra un avviso.
+
+1. Attendi SDK:
+
+   Poiché la SDK (lega) di Adobe viene caricata in modo asincrono, lo script attende di essere completamente caricato prima di effettuare la richiesta.
+
+   Controlla la lega ogni 200 millisecondi, fino a 20 volte, per evitare errori.
+
+1. Al caricamento della pagina:
+
+   Al termine del caricamento, lo script avvia il processo chiamando `waitForAlloy()`.
 
 
 
