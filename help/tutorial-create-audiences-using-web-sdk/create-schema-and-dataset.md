@@ -1,28 +1,30 @@
 ---
-title: Configurare lo schema XDM, il set di dati, lo stream di dati e i tipi di pubblico in AEP
-description: Creazione di schemi XDM, set di dati, stream di dati e tipi di pubblico
+title: Configurare Schema XDM, Set di dati e Stream di dati in AEP
+description: Creazione di schema XDM, set di dati e stream di dati
 feature: Audiences
 role: User
 level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-04-30T00:00:00Z
-recommendations: noDisplay, noCatalog
 jira: KT-17923
 exl-id: 0efa418a-5b4f-4012-a6fc-afaa34a59285
-source-git-commit: 163edfb3367d03729d68c9339ee2af4a0fe3a1b3
+source-git-commit: 15b2379c251ed0d7583a01fb6af67815322456cf
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
 
-# Configurare schema XDM, set di dati, stream di dati e tipi di pubblico in AEP
+# Configurare schema XDM, set di dati e stream di dati in AEP
+
+## Crea schema XDM
 
 * Accedi a Adobe Experience Platform
+* Gestione dati -> Schemi -> Crea schema
 
-* Crea in Journey Optimizer uno schema basato su eventi XDM denominato Financial Advisors. Se non sai creare uno schema, segui questa [documentazione](https://experienceleague.adobe.com/it/docs/experience-platform/xdm/tutorials/create-schema-ui)
+* Creare uno schema basato su eventi XDM denominato _Financial Advisors_. Se non sai creare uno schema, segui questa [documentazione](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)
 
-* Aggiungi la seguente struttura allo schema. L&#39;elemento PreferredFinancialInstrument memorizza la preferenza dell&#39;utente per Scorte, Obbligazioni, CD
+* Aggiungi la seguente struttura allo schema. L&#39;elemento PreferredFinancialInstrument memorizza la preferenza dell&#39;utente per Scorte, Obbligazioni, CD. **__techmarketingdemos_**è l&#39;ID tenant e sarà diverso nell&#39;ambiente.
   ![xdm-schema](assets/xdm-schema.png)
 
 * L&#39;elemento PreferredFinancialInstrument ha valori enum definiti come illustrato di seguito
@@ -34,6 +36,8 @@ ht-degree: 0%
 
 Un **set di dati in Adobe Experience Platform (AEP)** è un contenitore di archiviazione strutturato utilizzato per acquisire, archiviare e attivare dati in base a uno schema XDM definito.
 
+
+* Gestione dati -> Set di dati -> Crea set di dati
 * Creare un set di dati denominato _Set di dati di Financial Advisors_ in base allo schema XDM (Financial Advisors) creato nel passaggio precedente.
 
 * Assicurati che il set di dati sia abilitato per il profilo
@@ -42,7 +46,7 @@ Un **set di dati in Adobe Experience Platform (AEP)** è un contenitore di archi
 
 Un flusso di dati in Adobe Experience Platform è simile a una pipeline (o autostrada) sicura che connette il sito web o l’app ai servizi Adobe, consentendo il flusso dei dati e la reintroduzione di contenuti personalizzati.
 
-* Vai a AEP > Datastreams (Stream di dati), quindi fai clic su New Datastream (Nuovo stream di dati). Denomina lo stream di dati _Flusso di dati di Financial Advisors_
+* Data Collection > Datastreams, quindi fai clic su New Datastream. Denomina lo stream di dati _Flusso di dati di Financial Advisors_
 
 * Fornisci i seguenti dettagli come mostrato nella schermata seguente
   ![flusso di dati](assets/datastream.png)
@@ -53,30 +57,3 @@ Un flusso di dati in Adobe Experience Platform è simile a una pipeline (o autos
 
 * Salvare lo stream di dati
 
-## Creare tipi di pubblico
-
-I tipi di pubblico in Adobe Experience Platform sono gruppi di utenti creati in base alle loro azioni, preferenze o informazioni di profilo, per fornire esperienze personalizzate.
-
-* Passa a Cliente -> Pubblico
-* Creare tipi di pubblico utilizzando il metodo Genera regola
-
-* Crea i seguenti 3 tipi di pubblico in AJO utilizzando l&#39;elemento PreferredFinancialInstrument dallo schema dell&#39;evento.
-
-   * Clienti interessati alle scorte
-
-   * Clienti interessati alle obbligazioni
-
-   * Clienti interessati al CD
-
-Assicurati che il metodo di valutazione per ogni pubblico sia impostato su Edge per la qualifica in tempo reale.
-
-Le schermate seguenti sono utili per creare i tipi di pubblico.
-
-![pubblico](assets/rule-based-audience.png)
-
-![evento](assets/event-attribute.png)
-
-
-![StrumentoFinanziarioPreferito](assets/stock-customers.png)
-
-![edge-audience](assets/audience-edge.png)
