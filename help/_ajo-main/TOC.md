@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial di Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: 2790e0765b1a4ee281516c437ef18cf35c7bf4d2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '714'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 96%
 + Casi d’uso {#use-cases}
    + [Onboarding dei clienti](/help/use-cases/customer-onboarding.md)
    + [Carrello abbandonato](/help/use-cases/abandoned-cart.md)
-   + [Migliora il coinvolgimento dei clienti](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
+   + [Migliorare il coinvolgimento della clientela](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [Ridimensionamento dell’orchestrazione a un coinvolgimento omnicanale](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + Introduzione a Journey Optimizer {#introduction-to-journey-optimizer}
    + [Journey Optimizer - Panoramica](/help/introduction/journey-optimizer-overview.md)
@@ -47,13 +47,13 @@ ht-degree: 96%
    + [Pubblicare un percorso](/help/create-journeys/publish-a-journey.md)
    + [Aggiornare il contenuto in un percorso live](/help/create-journeys/update-content-in-live-journey.md)
    + [Copiare un percorso in un’altra sandbox](/help/create-journeys/copy-a-journey.md)
-   + [Attiva percorso giornaliero eseguito dopo la segmentazione batch](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
+   + [Attivare il percorso giornaliero eseguito dopo la segmentazione in batch](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
 + Profili, tipi di pubblico e iscrizioni {#profiles-audiences-subscriptions}
    + [Profili e tipi di pubblico: panoramica](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
    + [Profilo unificato e segmentazione - panoramica](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [Creare tipi di pubblico tramite il generatore di regole](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [Creare un pubblico caricando un file CSV](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
-   + [Creazione di tipi di pubblico tramite Web SDK (tutorial)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
+   + [Creare di tipi di pubblico tramite Web SDK (tutorial)](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
    + [Valutare i tipi di pubblico su richiesta](https://experienceleague.adobe.com/it/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)
    + [Iscrizioni e pagine di destinazione](/help/subscriptions-and-landing-pages.md)
 + Canali {#channels}
@@ -139,7 +139,7 @@ ht-degree: 96%
       + [Creare decisioni](/help/decision-management/create-decisions.md)
       + [Distribuire le offerte con l’API Decisions](/help/decision-management/deliver-offers-with-the-decisions-api.md)
       + [Quota limite](/help/decision-management/frequency-capping.md)
-   + [Utilizzare il decisioning per personalizzare le offerte Web (tutorial)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
+   + [Utilizzare le decisioni per personalizzare le offerte web (tutorial)](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
 + Gestione dati {#data-management}
    + [Panoramica](/help/data-management/set-up-data-overview.md)
    + [Creare uno schema](/help/data-management/create-schema.md)
