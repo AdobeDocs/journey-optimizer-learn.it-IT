@@ -3,10 +3,10 @@ user-guide-title: Tutorial su Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial di Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 2790e0765b1a4ee281516c437ef18cf35c7bf4d2
-workflow-type: ht
-source-wordcount: '714'
-ht-degree: 100%
+source-git-commit: 455f76386b60c619c4bc4a6da67de4b96a1c2e03
+workflow-type: tm+mt
+source-wordcount: '719'
+ht-degree: 99%
 
 ---
 
@@ -188,6 +188,7 @@ ht-degree: 100%
    + [Sfide](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=it)
 + [Registrazioni di eventi Experience League live](/help/experience-league-live-show-recordings.md)
 + Summit Labs {#summit-labs}
+   + [Scheda di riferimento per il laboratorio Summit 2025](/help/summit-lab-assets/l535-assets.md)
    + [Creare esperienze personalizzate per dispositivi mobili con Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
    + [Ridimensionamento dell’orchestrazione a un coinvolgimento omnicanale in Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 
