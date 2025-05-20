@@ -8,16 +8,18 @@ doc-type: Tutorial
 duration: 373
 last-substantial-update: 2025-02-04T00:00:00Z
 jira: KT-16346
-source-git-commit: be0838d1d46606570994bc2a38f86cd678d1f2c2
+exl-id: 01216374-2457-4dcd-b970-42315578bb1a
+source-git-commit: 7d10b8f053f981cea8997f35e069acadde99ee2c
 workflow-type: tm+mt
-source-wordcount: '49'
-ht-degree: 0%
+source-wordcount: '65'
+ht-degree: 29%
 
 ---
 
-
 # Caso d’uso Playbook - Carrello abbandonato
 
-Scopri come implementare il caso di utilizzo del carrello abbandonato utilizzando la funzione Playbook in Adobe Journey Optimizer.
+Scopri come implementare il caso d’uso relativo all’abbandono del carrello utilizzando la funzione Playbook in Adobe Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443972/?learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3443964/?learn=on&enablevpops)
+
+Per ulteriori informazioni, visita [Configurare una sandbox del playbook](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"} e [Creare e pubblicare istanze del playbook](https://experienceleague.adobe.com/it/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}.
