@@ -10,10 +10,10 @@ last-substantial-update: 2025-05-01T00:00:00Z
 jira: KT-17875
 index: false
 exl-id: e3a93300-e5db-4c8b-8afc-18f101db93d0
-source-git-commit: 2744e115ee5569328cb187d1288b4f01b22c82de
+source-git-commit: 7dd827b24c709149201139d180e5bec4c1c6d5dd
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 6%
+source-wordcount: '159'
+ht-degree: 0%
 
 ---
 
@@ -27,6 +27,4 @@ In questo esercizio, ad esempio, applichi il contenuto dinamico all’SMS, ma pu
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457913/?learn=on&enablevpops)
 
-## Risorse aggiuntive
-
-* [Creare contenuti dinamici con il generatore di regole di condizione](/help/personalize-content/create-dynamic-content.md)
+Per ulteriori informazioni su questo argomento, consulta [Creare contenuto dinamico con il generatore di regole di condizione](/help/personalize-content/create-dynamic-content.md).

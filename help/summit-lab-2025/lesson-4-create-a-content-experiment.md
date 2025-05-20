@@ -10,10 +10,10 @@ last-substantial-update: 2025-05-01T00:00:00Z
 jira: KT-17876
 index: false
 exl-id: 2e756b8a-4fd8-47d5-99ea-4a18cdd6d974
-source-git-commit: 2744e115ee5569328cb187d1288b4f01b22c82de
+source-git-commit: 7dd827b24c709149201139d180e5bec4c1c6d5dd
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 3%
+source-wordcount: '141'
+ht-degree: 0%
 
 ---
 
@@ -27,8 +27,5 @@ In questa lezione, puoi applicare la sperimentazione dei contenuti al messaggio 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457924/?learn=on&enablevpops)
 
-## Risorse aggiuntive
 
-* [Sperimentazione - Panoramica](/help/content-management/experimentation-overview.md)
-*[Configurare esperimenti di contenuto per campagne e-mail](/help/create-campaigns/content-experiments.md)
-* [Notifiche push: panoramica](/help/channels/push-notifications-overview.md)
+Consulta [Sperimentazione - Panoramica](/help/content-management/experimentation-overview.md), [Configurare esperimenti di contenuto per le campagne e-mail](/help/create-campaigns/content-experiments.md) e [Notifiche push- Panoramica](/help/channels/push-notifications-overview.md) per ulteriori indicazioni su questo argomento.
