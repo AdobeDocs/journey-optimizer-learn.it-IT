@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Queste esercitazioni si concentrano sul miglioramento del coinvolgimento e della personalizzazione dei clienti utilizzando la creazione di tipi di pubblico in tempo reale e il processo decisionale personalizzato tramite moduli web e pagine web. Integrando queste potenti tecniche, le aziende possono garantire che il messaggio giusto raggiunga il pubblico giusto al momento giusto, aumentando il coinvolgimento dei clienti e guidando attività di marketing personalizzate.
 
-1. [Creazione di tipi di pubblico tramite Web SDK (tutorial)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
+1. [Creazione di tipi di pubblico tramite Web SDK (tutorial)](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
 
    Scopri come:
 
@@ -27,7 +27,7 @@ Queste esercitazioni si concentrano sul miglioramento del coinvolgimento e della
    * Ordina automaticamente gli utenti in tipi di pubblico specifici in base alle loro scelte.
 
 
-2. [Utilizzare il decisioning per personalizzare le offerte Web (tutorial)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
+2. [Utilizzare il decisioning per personalizzare le offerte Web (tutorial)](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
 
 Sulla base del primo tutorial, scopri come utilizzare un catalogo centralizzato di offerte di marketing e un motore decisionale intelligente per mostrare a ogni persona le offerte più rilevanti.
 
