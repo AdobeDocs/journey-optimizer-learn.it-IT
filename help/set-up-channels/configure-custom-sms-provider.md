@@ -22,4 +22,4 @@ Scopri come configurare un provider SMS diverso da Sinch, Twilio o Infobip in Ad
 
 Per ulteriori informazioni, vedere [Configurare un provider SMS personalizzato](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/channels/sms/configure-sms/sms-configuration-custom).
 
->[!VIDEO](https://video.tv.adobe.com/v/3431625/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443614/?learn=on&enablevpops&captions=ita)
