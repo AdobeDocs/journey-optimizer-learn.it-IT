@@ -3,9 +3,9 @@ user-guide-title: Tutorial su Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial di Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 7ff7eaa6fe6001b1d1923b950d0a8079a53feeb4
+source-git-commit: fbf3e591a39ca0fbc1572be602a2f1b2c10a7854
 workflow-type: tm+mt
-source-wordcount: '735'
+source-wordcount: '734'
 ht-degree: 98%
 
 ---
@@ -20,9 +20,9 @@ ht-degree: 98%
    + [Migliorare il coinvolgimento della clientela](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [Ridimensionamento dell’orchestrazione a un coinvolgimento omnicanale](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + Playbook di casi d’uso {#use-case-playbooks}
-   + [Panoramica](https://experienceleague.adobe.com/it/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
-   + [Configurare una sandbox del playbook](https://experienceleague.adobe.com/it/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
-   + [Crea e pubblica istanze playbook](http://experienceleague.adobe.com/it/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
+   + [Panoramica](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
+   + [Configurare una sandbox del playbook](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
+   + [Crea e pubblica istanze playbook](http://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Introduzione a Journey Optimizer {#introduction-to-journey-optimizer}
    + [Journey Optimizer - Panoramica](/help/introduction/journey-optimizer-overview.md)
    + [Introduzione a Journey Optimizer](/help/introduction/introduction.md)
@@ -167,7 +167,7 @@ ht-degree: 98%
       + [Delegare sottodomini CName](/help/set-up-channels/delegate-cname-subdomains.md)
       + [Impostare ed eseguire un piano di preparazione IP](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
       + [Configurare le credenziali API SMS e le superfici di canale](/help/set-up-channels/set-up-sms-channel.md)
-      + [Inserire il provider SMS (Beta)](/help/set-up-channels/bring-your-own-sms-provider.md)
+      + [Configurare un provider SMS personalizzato](/help/set-up-channels/configure-custom-sms-provider.md)
       + [Configurare le credenziali API MMS e le superfici di canale](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
    + Configurare i percorsi {#journey-configuration}
       + [Configurare le origini dati](/help/set-up-journeys/configure-data-sources.md)
