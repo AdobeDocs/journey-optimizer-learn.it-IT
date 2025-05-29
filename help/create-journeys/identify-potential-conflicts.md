@@ -1,6 +1,6 @@
 ---
 title: Identificare conflitti potenziali
-description: Scopri come utilizzare il visualizzatore di gestione dei conflitti in Adobe Journey Optimizer per evitare di sopraffare i clienti con troppe campagne e comunicazioni simultanee.
+description: Scopri come identificare e gestire i potenziali conflitti, ad esempio la sovrapposizione di tipi di pubblico, timeline simultanee, canali di comunicazione condivisi e vincoli di frequenza tra percorsi e campagne per garantire un’esperienza di comunicazione fluida e semplice per il cliente.
 feature: Journeys
 role: User
 level: Intermediate
@@ -8,16 +8,16 @@ doc-type: Feature Video
 duration: 203
 last-substantial-update: 2025-05-29T00:00:00Z
 jira: KT-17854
-source-git-commit: 7bc03eeca746ff5ee9394263e26b3585a1647c71
+exl-id: 2911535d-dcf2-4b24-a55f-28d750928b7c
+source-git-commit: 11a36b0557a3246126946235c6873d4b8e9a4f5a
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 11%
+source-wordcount: '70'
+ht-degree: 8%
 
 ---
 
-
 # Identificare conflitti potenziali
 
-Scopri come utilizzare il visualizzatore di gestione dei conflitti in Adobe Journey Optimizer per evitare di sopraffare i clienti con troppe campagne e comunicazioni simultanee.
+Scopri come identificare e gestire i potenziali conflitti, ad esempio la sovrapposizione di tipi di pubblico, timeline simultanee, canali di comunicazione condivisi e vincoli di frequenza tra percorsi e campagne per garantire un’esperienza di comunicazione fluida e semplice per il cliente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435528/?learn=on&enablevpops)
