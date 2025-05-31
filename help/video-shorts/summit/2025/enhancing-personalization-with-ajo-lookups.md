@@ -20,4 +20,4 @@ ht-degree: 0%
 Scopri come utilizzare i set di dati basati su record per la messaggistica personalizzata senza gonfiare i profili cliente in Adobe Journey Optimizer.
 
 <!-- 62_S522_3442522_70_enhancing-personalization-with-ajo-lookups -->
->[!VIDEO](https://video.tv.adobe.com/v/3458226/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460339/?learn=on&enablevpops=true&captions=ita)

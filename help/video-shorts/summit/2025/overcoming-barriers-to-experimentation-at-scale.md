@@ -20,4 +20,4 @@ ht-degree: 0%
 Scopri in che modo Adobe ha identificato e affrontato gli ostacoli principali alla sperimentazione su larga scala, dalla progettazione all’esecuzione, utilizzando soluzioni basate su piattaforme.
 
 <!-- 62_S531_3442531_165_overcoming-barriers-to-experimentation-at-scale -->
->[!VIDEO](https://video.tv.adobe.com/v/3458237/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460383/?learn=on&enablevpops=true&captions=ita)

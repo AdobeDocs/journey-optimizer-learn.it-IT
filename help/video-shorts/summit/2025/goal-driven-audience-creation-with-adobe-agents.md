@@ -20,4 +20,4 @@ ht-degree: 0%
 Scopri in che modo Adobe Audience Agent utilizza l’intelligenza artificiale per creare tipi di pubblico precisi e basati su obiettivi sfruttando i dati in tempo reale e i modelli di apprendimento automatico.
 
 <!-- 62_S653_3442539_281_goaldriven-audience-creation-with-adobe-agents -->
->[!VIDEO](https://video.tv.adobe.com/v/3458193/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460305/?learn=on&enablevpops=true&captions=ita)

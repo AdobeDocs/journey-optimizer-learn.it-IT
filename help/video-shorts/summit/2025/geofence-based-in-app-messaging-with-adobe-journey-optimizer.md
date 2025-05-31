@@ -20,4 +20,4 @@ ht-degree: 0%
 Scopri come utilizzare l’integrazione di Adobe Journey Optimizer con Places Service per creare messaggi in-app basati sulla posizione per un coinvolgimento personalizzato dei clienti.
 
 <!-- 72_S522_3442522_189_geofencebased-inapp-messaging-with-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458203/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460416/?learn=on&enablevpops=true&captions=ita)

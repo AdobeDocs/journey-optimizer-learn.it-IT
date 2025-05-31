@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Scopri in che modo l’Assistente IA per la generazione di contenuti può aiutare i marketer fornendo suggerimenti proattivi per varianti dei contenuti di testo e immagini.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432686/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3463108/?learn=on&captions=ita)

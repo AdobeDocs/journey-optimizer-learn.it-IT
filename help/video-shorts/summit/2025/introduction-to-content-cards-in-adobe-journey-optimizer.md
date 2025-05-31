@@ -20,4 +20,4 @@ ht-degree: 0%
 Scopri come le schede di contenuti in Adobe Journey Optimizer possono distribuire contenuti personalizzati e coinvolgenti direttamente all’interno della tua app mobile.
 
 <!-- 62_S603_3442534_62_introduction-to-content-cards-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458206/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460394/?learn=on&enablevpops=true&captions=ita)
