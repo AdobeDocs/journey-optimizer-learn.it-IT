@@ -7,7 +7,8 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-19T00:00:00Z
 jira: KT-18089
-source-git-commit: 68bd0a65e7d7f2d57f9620e76555485a1a79b4ae
+exl-id: 894ad6b7-c4b4-465e-8535-3fdcd77e00eb
+source-git-commit: 860f4fa4f6b491f3327776ba372bd5fa20e5d5d3
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 9%
@@ -22,7 +23,7 @@ Viene creata una proprietà AEP Tags denominata FinWise. Le seguenti estensioni 
 
 ![tag-estensioni](assets/tags-extensions.png)
 
-Configura l&#39;estensione AEP Web SDK utilizzando il DataStream di Financial Advisors creato nell&#39;esercitazione precedente.
+Configura l&#39;estensione AEP Web SDK utilizzando il flusso di dati Financial Advisors creato nel passaggio precedente.
 Il servizio Experience Cloud ID è un’estensione opzionale aggiunta alla proprietà tag a scopo di debug.
 
 ## Tag elementi dati
@@ -51,4 +52,3 @@ Azione Invia evento
 ## Salva e genera
 
 Salva le modifiche, crea e genera la libreria.
-
