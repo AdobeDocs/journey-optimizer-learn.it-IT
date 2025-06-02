@@ -7,13 +7,13 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-30T00:00:00Z
 jira: KT-18188
-source-git-commit: 58d2964644bc199b9db212040676d87d54f767b9
+exl-id: 7dd49746-bea6-4679-9d88-d8f9d2aa5b52
+source-git-commit: fb0ef6d502c6e3ba37ef528683a8888ed83f2990
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 0%
 
 ---
-
 
 # Creare offerte basate sulla posizione con targeting del codice postale
 
@@ -73,12 +73,9 @@ Testo dell’offerta per Offerta generica, senza alcun codice postale associato 
 </div>
 ```
 
-Raggruppa queste offerte in una raccolta denominata **_GenericOffers_**
+Raggruppa queste offerte in una raccolta denominata **offerte correlate al reddito**
 
 Le offerte sono disponibili per tutti i visitatori, il che significa che non esistono vincoli di idoneità rigidi; la formula di classificazione diventa quindi critica per determinare quale offerta deve essere visualizzata in base al contesto del profilo.
 Poiché le regole di idoneità non filtrano le offerte, tutte e tre sono trattate come candidati.
 La strategia di selezione recupera tutti e tre.
 La formula di classificazione li classifica in base agli attributi di profilo (come zipcode e annualIncome) per scegliere quello migliore.
-
-
-
