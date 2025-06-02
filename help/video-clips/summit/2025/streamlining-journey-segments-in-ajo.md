@@ -20,4 +20,4 @@ ht-degree: 0%
 Scopri come ottimizzare i segmenti di streaming e utilizzare Percorsi Canvas per i processi decisionali senza sovraccaricare il sistema.
 
 <!-- 62_S522_3442522_52_streamlining-journey-segments-in-ajo -->
->[!VIDEO](https://video.tv.adobe.com/v/3458244/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460461/?learn=on&enablevpops=true&captions=ita)
