@@ -1,0 +1,23 @@
+---
+title: Decisioning basato sull’intelligenza artificiale in Adobe Journey Optimizer
+description: Scopri come Adobe Journey Optimizer sfrutta l’intelligenza artificiale e l’apprendimento automatico per le azioni migliori successive, l’ottimizzazione del percorso e il processo decisionale per fornire esperienze cliente personalizzate.
+doc-type: Short Video
+duration: 185
+index: false
+hide: true
+hidefromtoc: true
+recommendations: noCatalog, noDisplay
+source-git-commit: 28e2477974df6d22cff87eb9c242657e23569b15
+workflow-type: tm+mt
+source-wordcount: '56'
+ht-degree: 0%
+
+---
+
+
+# Decisioning basato sull’intelligenza artificiale in Adobe Journey Optimizer
+
+Scopri come Adobe Journey Optimizer sfrutta l’intelligenza artificiale e l’apprendimento automatico per le azioni migliori successive, l’ottimizzazione del percorso e il processo decisionale per fornire esperienze cliente personalizzate.
+
+<!-- 62_S520_3442520_184_aipowered-decisioning-in-adobe-journey-optimizer -->
+>[!VIDEO](https://video.tv.adobe.com/v/3458219/?learn=on&enablevpops=true)
