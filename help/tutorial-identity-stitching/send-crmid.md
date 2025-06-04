@@ -6,14 +6,15 @@ role: User
 level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-19T00:00:00Z
+recommendations: noDisplay, noCatalog
 jira: KT-18089
-source-git-commit: 502cdc41b666959141ff4dfc63608cc463009811
+exl-id: e080149c-0ac0-4559-b99d-ebad9f03b98b
+source-git-commit: 82d82b3aac2bf91e259b01fd8c6b4d6065f9640a
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 0%
 
 ---
-
 
 # Creare l’applicazione di esempio per simulare l’attività di accesso
 
@@ -53,5 +54,3 @@ Lo script dei tag di Adobe Experience Platform è incluso nella sezione `<head>`
 `<script src="https://assets.adobedtm.com/b5eu4857867/4e4d84957/launch-b69e276bb9b5-development.min.js" async crossorigin="anonymous"></script>`
 
 Lo script AEP Tags è stato ottenuto pubblicando una proprietà abilitata per Web SDK creata nel passaggio precedente e copiando il codice da incorporare dalla scheda Ambienti.
-
-
