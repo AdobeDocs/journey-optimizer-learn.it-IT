@@ -20,9 +20,9 @@ ht-degree: 95%
    + [Migliorare il coinvolgimento della clientela](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [Ridimensionamento dell’orchestrazione a un coinvolgimento omnicanale](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + Playbook di casi d’uso {#use-case-playbooks}
-   + [Panoramica](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
-   + [Configurare una sandbox del playbook](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
-   + [Crea e pubblica istanze playbook](http://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
+   + [Panoramica](https://experienceleague.adobe.com/it/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
+   + [Configurare una sandbox del playbook](https://experienceleague.adobe.com/it/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
+   + [Crea e pubblica istanze playbook](http://experienceleague.adobe.com/it/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Introduzione a Journey Optimizer {#introduction-to-journey-optimizer}
    + [Journey Optimizer - Panoramica](/help/introduction/journey-optimizer-overview.md)
    + [Introduzione a Journey Optimizer](/help/introduction/introduction.md)
@@ -52,7 +52,7 @@ ht-degree: 95%
    + [Aggiornare il contenuto in un percorso live](/help/create-journeys/update-content-in-live-journey.md)
    + [Copiare un percorso in un’altra sandbox](/help/create-journeys/copy-a-journey.md)
    + [Attivare il percorso giornaliero eseguito dopo la segmentazione in batch](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
-   + [Risoluzione dei problemi relativi alle azioni in entrata nei percorsi](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/troubleshooting-inbound){target="_blank"}
+   + [Risoluzione dei problemi relativi alle azioni in entrata nei percorsi](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/troubleshooting-inbound){target="_blank"}
    + Gestione dei conflitti {#conflict-management}
       + [Identificare conflitti potenziali](/help/create-journeys/identify-potential-conflicts.md)
 + Profili, tipi di pubblico e iscrizioni {#profiles-audiences-subscriptions}
