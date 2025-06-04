@@ -27,7 +27,7 @@ Per creare uno schema XDM
 * Accedi a Adobe Experience Platform
 * Gestione dati -> Schemi -> Crea schema
 
-* Creare uno schema basato su eventi XDM denominato **_Financial Advisors_**. Se non sai creare uno schema, segui questa [documentazione](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)
+* Creare uno schema basato su eventi XDM denominato **_Financial Advisors_**. Se non sai creare uno schema, segui questa [documentazione](https://experienceleague.adobe.com/it/docs/experience-platform/xdm/tutorials/create-schema-ui)
 
 
 * Assicurati che lo schema sia abilitato per il profilo.
