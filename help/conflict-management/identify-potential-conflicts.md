@@ -22,4 +22,4 @@ Scopri come identificare e gestire i potenziali conflitti, ad esempio la sovrapp
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435528/?learn=on&enablevpops)
 
-Per ulteriori informazioni su come [rilevare potenziali conflitti in percorsi e campagne](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/conflicts), consulta la documentazione del prodotto.
+Per ulteriori informazioni su come [rilevare potenziali conflitti in percorsi e campagne](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/conflict-prioritization/conflicts), consulta la documentazione del prodotto.
