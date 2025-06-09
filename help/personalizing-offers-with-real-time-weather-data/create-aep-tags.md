@@ -23,7 +23,7 @@ Questo [video descrive il processo di creazione dei tag esperienza Adobe](https:
 
 * Accedi a Raccolta dati
 * Fai clic su Tag -> Nuova proprietà
-* Crea un tag Adobe Experience Platform denominato _**personalization-on-weather**_.
+* Crea un tag Adobe Experience Platform denominato _&#x200B;**personalization-on-weather**&#x200B;_.
 
 * Aggiungi le seguenti estensioni al tag
   ![tag-estensioni](assets/tags-extensions1.png)

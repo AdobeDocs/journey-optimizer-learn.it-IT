@@ -76,7 +76,7 @@ Questa impostazione utilizza l’ECID come identità principale per il riconosci
 
    Per inserire il criterio di decisione, fai clic su **_Modifica contenuto_** nelle sezioni Azioni, quindi su **_Modifica codice_** per aprire l&#39;editor di personalizzazione.
 
-   Seleziona l&#39;icona _**Criterio decisione**_ a sinistra e fai clic sul pulsante **Aggiungi criterio decisione** per aprire la schermata **Crea criterio decisione**. Specifica un nome significativo per il criterio di decisione e seleziona il numero di elementi che il criterio di decisione deve restituire. Il valore predefinito è 1.
+   Seleziona l&#39;icona _&#x200B;**Criterio decisione**&#x200B;_ a sinistra e fai clic sul pulsante **Aggiungi criterio decisione** per aprire la schermata **Crea criterio decisione**. Specifica un nome significativo per il criterio di decisione e seleziona il numero di elementi che il criterio di decisione deve restituire. Il valore predefinito è 1.
 Fai clic su **_avanti_** e aggiungi la strategia di selezione creata nel passaggio precedente al criterio di decisione, quindi fai clic su **avanti** per completare il processo di creazione del criterio di decisione. Non sono state associate offerte di fallback ai criteri di decisione.
 
 
@@ -85,7 +85,7 @@ Fai clic su **_avanti_** e aggiungi la strategia di selezione creata nel passagg
 
    ![editor di personalizzazione](assets/personalization-editor.png)
 
-   Inserire il criterio di decisione appena creato facendo clic sul pulsante _**Inserisci criterio**_. Inserisce un ciclo for nell’editor di personalizzazione sul lato destro.
+   Inserire il criterio di decisione appena creato facendo clic sul pulsante _&#x200B;**Inserisci criterio**&#x200B;_. Inserisce un ciclo for nell’editor di personalizzazione sul lato destro.
 Posizionare il cursore tra ogni ciclo sulla riga due e inserire offerText spostandosi sull&#39;offerta espandendo `tenant name`
 
    Il codice Handlebars esegue un ciclo tra le offerte restituite da un criterio di decisione specifico in Adobe Journey Optimizer.

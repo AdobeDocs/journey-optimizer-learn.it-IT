@@ -39,7 +39,7 @@ Un **set di dati in Adobe Experience Platform (AEP)** è un contenitore di archi
 
 
 * Gestione dati -> Set di dati -> Crea set di dati
-* Crea un set di dati denominato **_Set di dati-Schema-Meteo_** in base allo schema XDM(_**Schema-Meteo**_) creato nel passaggio precedente.
+* Crea un set di dati denominato **_Set di dati-Schema-Meteo_** in base allo schema XDM(_&#x200B;**Schema-Meteo**&#x200B;_) creato nel passaggio precedente.
 
 
 ## Creare uno stream di dati

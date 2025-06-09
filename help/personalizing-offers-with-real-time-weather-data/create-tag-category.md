@@ -23,7 +23,7 @@ Le raccolte consentono di categorizzare e raggruppare gli elementi decisionali i
 Passaggi per creare una raccolta
 
 * Accedi a Journey Optimizer
-* Passa a Tag ->Crea categoria tag(_**Offerte correlate al meteo**_)
+* Passa a Tag ->Crea categoria tag(_&#x200B;**Offerte correlate al meteo**&#x200B;_)
 * Fai clic su Salva
-* Fai clic su Crea tag (caldo, freddo, primavera). Questi tag devono essere inclusi nella categoria di tag _**WeatherRelatedOffers**_
+* Fai clic su Crea tag (caldo, freddo, primavera). Questi tag devono essere inclusi nella categoria di tag _&#x200B;**WeatherRelatedOffers**&#x200B;_
 

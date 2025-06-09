@@ -23,7 +23,7 @@ Durante le decisioni sulle offerte viene utilizzata una formula di classificazio
 
 * Decisioning ->Impostazione strategia ->Formule di classificazione ->Crea formula
 
-Denomina la formula _**Meteo - Correlato - Offerte**_
+Denomina la formula _&#x200B;**Meteo - Correlato - Offerte**&#x200B;_
 
 
 
