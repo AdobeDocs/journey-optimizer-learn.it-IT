@@ -7,11 +7,10 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-30T00:00:00Z
 recommendations: noDisplay, noCatalog
-jira: KT-18188
-exl-id: deb16dd5-23cd-495a-ac91-d22fd77f49bd
+jira: KT-18258
 source-git-commit: 7d812f589172c5052a1e9bfcf6a99d0769a6c2c7
 workflow-type: tm+mt
-source-wordcount: '697'
+source-wordcount: '642'
 ht-degree: 1%
 
 ---
@@ -22,15 +21,12 @@ Per distribuire offerte personalizzate agli utenti sulla pagina web, è stata cr
 
 All’interno di questa campagna, è stato definito un criterio di decisione per controllare la modalità di selezione delle offerte. La politica decisionale comprende una strategia di selezione che consiste in:
 
-Una raccolta di articoli dell’offerta (ad esempio, basata sul codice postale o sul reddito),
+Una raccolta di elementi dell’offerta (ad esempio, in base a tag relativi al meteo),
 
 Regole di idoneità che determinano le offerte valide per un utente e
 
 Formula di classificazione che assegna punteggi alle offerte idonee per assegnare la priorità a quelle più rilevanti.
-
-Quando un utente connesso visita il sito, viene inviata una richiesta di personalizzazione ad AJO. In base all’identità e agli attributi di profilo uniti dell’utente (come codice postale e reddito annuale), il criterio decisionale valuta tutte le offerte disponibili. Per determinare la corrispondenza migliore, applica la strategia di selezione e la logica di classificazione.
-
-Il risultato è un set personalizzato di offerte, restituito come contenuto HTML e visualizzato all’utente in un carosello sul sito web, che crea un’esperienza personalizzata senza soluzione di continuità e in tempo reale.
+Quando un utente visita il sito web, il sistema ne rileva la posizione e recupera la temperatura corrente utilizzando un’API meteo. Questi dati sulla temperatura vengono quindi inviati a Adobe Experience Platform tramite Web SDK (Alloy). In base a questi dati contestuali in tempo reale, Adobe Journey Optimizer valuta le offerte predefinite taggate per condizioni meteo specifiche, ad esempio caldo, leggero o freddo. L’offerta più rilevante utilizzando la strategia di selezione e la formula di classificazione viene renderizzata automaticamente sulla pagina web utilizzando il motore decisionale di Adobe, garantendo che l’utente riceva contenuti personalizzati in linea con il meteo corrente nella sua area.
 
 
 ## Passaggi di alto livello per creare una campagna in AJO
@@ -38,9 +34,10 @@ Il risultato è un set personalizzato di offerte, restituito come contenuto HTML
 1. **Crea una configurazione canale**\
    Definisci dove e come vengono visualizzate le offerte (ad esempio, una pagina web con un’esperienza basata su codice).
    - Accedi a Percorsi Optimizer
-Passa a Amministrazione ->Canali->Crea configurazione canale
-   - **Nome**: `finwise-web-personalization`\
-     Identifica questa configurazione per la consegna personalizzata delle offerte web di FinWise.
+
+     Passa a Amministrazione ->Canali->Crea configurazione canale
+   - **Nome**: `offers-by-weather`\
+     Identifica questa configurazione per la consegna personalizzata delle offerte web.
 
    - **Piattaforma**: `Web`\
      Destinato specificamente ai browser web. Nessun canale mobile abilitato.
@@ -48,10 +45,10 @@ Passa a Amministrazione ->Canali->Crea configurazione canale
    - **Tipo di esperienza**: `Code-based experience`\
      Le offerte non vengono iniettate direttamente nel DOM. Al contrario, AJO restituisce HTML non elaborato che viene analizzato utilizzando JavaScript personalizzato.
 
-   - **URL pagina**: `http://localhost:3000/formula.html`\
+   - **URL pagina**: `https://gbedekar489.github.io/weather/weather-offers.html`\
      Il canale è configurato per una pagina di test specifica utilizzata durante lo sviluppo.
 
-   - **Posizione a pagina**: `offers-div`\
+   - **Posizione a pagina**: `offerContainer`\
      Le offerte restituite vengono analizzate dinamicamente e sottoposte a rendering in questo contenitore utilizzando la logica front-end.
 
    - **Formato contenuto**: `HTML`\
@@ -60,7 +57,6 @@ Passa a Amministrazione ->Canali->Crea configurazione canale
 
 2. **Avvia una nuova campagna**\
    Passa alla sezione Campagne e crea una nuova campagna di marketing pianificata. Assegna un nome appropriato alla campagna.
-
 
 3. **Aggiungi azione**\
    Aggiungi un’azione basata su codice e collega l’azione a una configurazione di canale creata in precedenza.
@@ -71,17 +67,19 @@ Passa a Amministrazione ->Canali->Crea configurazione canale
    Tutti i visitatori (impostazione predefinita).
 
    Tipo di identità: ECID (Experience Cloud ID)
-Questa impostazione utilizza l’ECID come identità principale per il riconoscimento degli utenti. Quando è attivo l’unione di identità, ECID viene collegato all’ID del sistema di gestione delle relazioni con i clienti per selezionare Personalized Targeting o creare un criterio di decisione che definisce la logica dell’offerta.
+Questa impostazione utilizza l’ECID come identità principale per il riconoscimento degli utenti.
 
-5. **Criteri di decisione**
 
+5. **Crea criterio di decisione**
 
    L&#39;azione è collegata a un **criterio di decisione** che definisce la modalità di selezione delle offerte e il numero di offerte restituite per la visualizzazione. Questo criterio utilizza una **strategia di selezione** creata in precedenza nell&#39;esercitazione.
 
    Per inserire il criterio di decisione, fai clic su **_Modifica contenuto_** nelle sezioni Azioni, quindi su **_Modifica codice_** per aprire l&#39;editor di personalizzazione.
 
    Seleziona l&#39;icona _**Criterio decisione**_ a sinistra e fai clic sul pulsante **Aggiungi criterio decisione** per aprire la schermata **Crea criterio decisione**. Specifica un nome significativo per il criterio di decisione e seleziona il numero di elementi che il criterio di decisione deve restituire. Il valore predefinito è 1.
-Fai clic su **_avanti_** e aggiungi la strategia di selezione creata nel passaggio precedente al criterio di decisione, quindi fai clic su **avanti** per completare il processo di creazione del criterio di decisione. Assicurati di selezionare l’offerta di fallback appropriata.
+Fai clic su **_avanti_** e aggiungi la strategia di selezione creata nel passaggio precedente al criterio di decisione, quindi fai clic su **avanti** per completare il processo di creazione del criterio di decisione. Non sono state associate offerte di fallback ai criteri di decisione.
+
+
 
 6. **Inserisci criterio di decisione**
 
@@ -90,11 +88,10 @@ Fai clic su **_avanti_** e aggiungi la strategia di selezione creata nel passagg
    Inserire il criterio di decisione appena creato facendo clic sul pulsante _**Inserisci criterio**_. Inserisce un ciclo for nell’editor di personalizzazione sul lato destro.
 Posizionare il cursore tra ogni ciclo sulla riga due e inserire offerText spostandosi sull&#39;offerta espandendo `tenant name`
 
-
-   Il codice Handlebars esegue un ciclo tra le offerte restituite da un criterio di decisione specifico in Adobe Journey Optimizer e crea un `<div>` per ogni offerta. Ogni `<div>` utilizza un attributo di tag dati con il nome interno dell&#39;offerta per facilitare il gruppo carosello e organizzare le offerte per categoria per una navigazione fluida. Il contenuto all&#39;interno di ogni `<div>` visualizza il testo dell&#39;offerta personalizzata, consentendo una presentazione dinamica e visivamente segmentata di più offerte.
-
+   Il codice Handlebars esegue un ciclo tra le offerte restituite da un criterio di decisione specifico in Adobe Journey Optimizer.
+   ![handle-bar](assets/handlebar-code.png)
 
 7. **Pubblica la campagna**\
    Attiva la campagna per iniziare a consegnare offerte personalizzate in tempo reale.
 
-![img](assets/personalization-editor.png)
+
