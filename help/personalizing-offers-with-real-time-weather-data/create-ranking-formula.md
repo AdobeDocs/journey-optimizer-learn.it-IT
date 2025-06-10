@@ -8,9 +8,9 @@ doc-type: Tutorial
 last-substantial-update: 2025-06-10T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
-source-git-commit: d46c5a922b8448f57b8a730188284294c3caba96
+source-git-commit: c04a15418e31dc82597b7759386907013728bb0d
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ Durante le decisioni sulle offerte viene utilizzata una formula di classificazio
 
 * Accedi a Journey Optimizer
 
-* Decisioning ->Impostazione strategia ->Formule di classificazione ->Crea formula
+* Passa a _**Decisioning ->Impostazione strategia ->Formule di classificazione ->Crea formula**_
 
-Denomina la formula _&#x200B;**Meteo - Correlato - Offerte**&#x200B;_
+Denomina la formula _**Meteo - Correlato - Offerte**_
 
 
 
