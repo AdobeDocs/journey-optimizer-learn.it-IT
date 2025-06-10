@@ -21,9 +21,9 @@ Durante le decisioni sulle offerte viene utilizzata una formula di classificazio
 
 * Accedi a Journey Optimizer
 
-* Passa a _**Decisioning ->Impostazione strategia ->Formule di classificazione ->Crea formula**_
+* Passa a _&#x200B;**Decisioning ->Impostazione strategia ->Formule di classificazione ->Crea formula**&#x200B;_
 
-Denomina la formula _**Meteo - Correlato - Offerte**_
+Denomina la formula _&#x200B;**Meteo - Correlato - Offerte**&#x200B;_
 
 
 
