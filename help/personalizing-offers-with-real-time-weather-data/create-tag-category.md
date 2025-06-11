@@ -8,7 +8,7 @@ doc-type: Tutorial
 last-substantial-update: 2025-06-10T00:00:00Z
 jira: KT-18258
 recommendations: noDisplay, noCatalog
-source-git-commit: d46c5a922b8448f57b8a730188284294c3caba96
+source-git-commit: 13c891c02a9a2da3ff742afaab7ceb449a417b5e
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 64%
@@ -23,7 +23,7 @@ Le raccolte consentono di categorizzare e raggruppare gli elementi decisionali i
 Passaggi per creare una raccolta
 
 * Accedi a Journey Optimizer
-* Passa a Tag ->Crea categoria tag(_&#x200B;**Offerte correlate al meteo**&#x200B;_)
+* Passa a _**Tag ->Crea categoria tag**_(_**Offerte correlate al meteo**_)
 * Fai clic su Salva
-* Fai clic su Crea tag (caldo, freddo, primavera). Questi tag devono essere inclusi nella categoria di tag _&#x200B;**WeatherRelatedOffers**&#x200B;_
+* Fai clic su Crea tag (caldo, freddo, primavera). Questi tag devono essere inclusi nella categoria di tag _**WeatherRelatedOffers**_
 

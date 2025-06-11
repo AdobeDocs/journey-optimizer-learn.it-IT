@@ -8,9 +8,9 @@ doc-type: Tutorial
 last-substantial-update: 2025-06-10T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
-source-git-commit: dac6b373226bd0be2533cf859e4f250018cf568b
+source-git-commit: 13c891c02a9a2da3ff742afaab7ceb449a417b5e
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
@@ -24,9 +24,9 @@ Per utilizzare Adobe Experience Platform Web SDK (Alloy.js) in una pagina web, i
 Per creare uno schema XDM
 
 * Accedi a Adobe Experience Platform
-* Gestione dati -> Schemi -> Crea schema
+* Passa a _**Gestione dati -> Schemi -> Crea schema**_
 
-* Crea uno schema basato su evento XDM denominato **_Schema meteo_**. Se non sai creare uno schema, segui questa [documentazione](https://experienceleague.adobe.com/it/docs/experience-platform/xdm/tutorials/create-schema-ui)
+* Crea uno schema basato su evento XDM denominato **_Schema meteo_**. Se non sai creare uno schema, segui questa [documentazione](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)
 
 
 * Assicurati che lo schema presenti i seguenti campi con il tipo di dati appropriato.
@@ -37,16 +37,15 @@ Per creare uno schema XDM
 
 Un **set di dati in Adobe Experience Platform (AEP)** è un contenitore di archiviazione strutturato utilizzato per acquisire, archiviare e attivare dati in base a uno schema XDM definito.
 
-
-* Gestione dati -> Set di dati -> Crea set di dati
-* Crea un set di dati denominato **_Set di dati-Schema-Meteo_** in base allo schema XDM(_&#x200B;**Schema-Meteo**&#x200B;_) creato nel passaggio precedente.
+* Passa a _**Gestione dati -> Set di dati -> Crea set di dati**_
+* Crea un set di dati denominato **_Set di dati-Schema-Meteo_** in base allo schema XDM(_**Schema-Meteo**_) creato nel passaggio precedente.
 
 
 ## Creare uno stream di dati
 
 Un flusso di dati in Adobe Experience Platform è simile a una pipeline (o autostrada) sicura che connette il sito web o l’app ai servizi Adobe, consentendo il flusso dei dati e la reintroduzione di contenuti personalizzati.
 
-* Passa a Raccolta dati > Flussi dati, quindi fai clic su Nuovo flusso dati. Denomina lo stream di dati **relativo al meteo-stream**
+* Passa a _**Raccolta dati > Flussi dati**_, quindi fai clic su Nuovo flusso dati. Denomina lo stream di dati **relativo al meteo-stream**
 
 
 * Fornisci i seguenti dettagli come mostrato nella schermata seguente
