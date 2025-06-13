@@ -3,7 +3,7 @@ user-guide-title: Tutorial su Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial di Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 96d9d525a3d9be399f7fa229b67166acf8130721
+source-git-commit: b29ec5eb30db089d8b7dd2d8133640ac84874e7d
 workflow-type: tm+mt
 source-wordcount: '815'
 ht-degree: 89%
@@ -17,14 +17,14 @@ ht-degree: 89%
 + Casi d’uso {#use-cases}
    + [Onboarding dei clienti](/help/use-cases/customer-onboarding.md)
    + [Carrello abbandonato](/help/use-cases/abandoned-cart.md)
-   + [Personalizzazione di offerte con dati meteo in tempo reale in Adobe Journey Optimizer tramite Web SDK](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
-   + [Utilizza la formula di classificazione per distribuire offerte personalizzate in Journey Optimizer](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
+   + [Personalizzazione di offerte con dati meteo in tempo reale in Adobe Journey Optimizer tramite Web SDK](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
+   + [Utilizza la formula di classificazione per distribuire offerte personalizzate in Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [Migliorare il coinvolgimento della clientela](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [Ridimensionamento dell’orchestrazione a un coinvolgimento omnicanale](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + Playbook di casi d’uso {#use-case-playbooks}
-   + [Panoramica](https://experienceleague.adobe.com/it/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
-   + [Configurare una sandbox del playbook](https://experienceleague.adobe.com/it/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
-   + [Crea e pubblica istanze playbook](http://experienceleague.adobe.com/it/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
+   + [Panoramica](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
+   + [Configurare una sandbox del playbook](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
+   + [Crea e pubblica istanze playbook](http://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Introduzione a Journey Optimizer {#introduction-to-journey-optimizer}
    + [Journey Optimizer - Panoramica](/help/introduction/journey-optimizer-overview.md)
    + [Introduzione a Journey Optimizer](/help/introduction/introduction.md)
@@ -54,7 +54,7 @@ ht-degree: 89%
    + [Aggiornare il contenuto in un percorso live](/help/create-journeys/update-content-in-live-journey.md)
    + [Copiare un percorso in un’altra sandbox](/help/create-journeys/copy-a-journey.md)
    + [Attivare il percorso giornaliero eseguito dopo la segmentazione in batch](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
-   + [Risoluzione dei problemi relativi alle azioni in entrata nei percorsi](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/troubleshooting-inbound){target="_blank"}
+   + [Risoluzione dei problemi relativi alle azioni in entrata nei percorsi](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/troubleshooting-inbound){target="_blank"}
 + Gestione dei conflitti {#conflict-management}
    + [Identificare conflitti potenziali](/help/conflict-management/identify-potential-conflicts.md)
    + [Assegnare punteggi di priorità](/help/conflict-management/assign-priority-score.md)
@@ -138,8 +138,8 @@ ht-degree: 89%
       + [Introduzione alla funzione Decisioni](/help/decisioning/introduction-to-decisioning.md)
       + [Procedura dettagliata sul decisioning end-to-end](/help/decisioning/decisioning-end-to-end.md)
       + [Navigazione nell&#39;interfaccia del Generatore di formule](/help/decisioning/formula-builder-ui.md)
-      + [Personalizzazione di offerte con dati meteo in tempo reale](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
-      + [Usa la formula di classificazione per distribuire le offerte personalizzate](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
+      + [Personalizzazione di offerte con dati meteo in tempo reale](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
+      + [Usa la formula di classificazione per distribuire le offerte personalizzate](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
 
 
    + Gestione delle decisioni {#decision-management}
