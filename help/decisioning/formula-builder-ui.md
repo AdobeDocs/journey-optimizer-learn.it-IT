@@ -24,4 +24,4 @@ Il Generatore di formule di Adobe Journey Optimizer è un’interfaccia visiva u
 
 Questo video offre una breve panoramica dell’interfaccia utente di Formula Builder.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463738?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3463747?quality=12&learn=on&captions=ita){transcript=true}
