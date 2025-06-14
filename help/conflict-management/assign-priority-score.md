@@ -22,4 +22,4 @@ Scopri come assegnare la priorità alle azioni in entrata, garantendo che i cont
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435529/?learn=on&enablevpops)
 
-Consulta la documentazione del prodotto per ulteriori informazioni su come [assegnare punteggi di priorità a percorsi e campagne](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/priority-scores).
+Consulta la documentazione del prodotto per ulteriori informazioni su come [assegnare punteggi di priorità a percorsi e campagne](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/conflict-prioritization/priority-scores).
