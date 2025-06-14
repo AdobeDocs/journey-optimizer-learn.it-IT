@@ -22,4 +22,4 @@ Scopri come assegnare la priorità alle azioni in entrata, garantendo che i cont
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435530/?learn=on&enablevpops)
 
-Consulta la documentazione del prodotto per ulteriori informazioni su [limite Percorso e arbitrato](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/capping-rules/journey-capping).
+Consulta la documentazione del prodotto per ulteriori informazioni su [limite Percorso e arbitrato](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/conflict-prioritization/capping-rules/journey-capping).
