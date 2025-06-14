@@ -8,18 +8,18 @@ doc-type: Tutorial
 last-substantial-update: 2025-05-19T00:00:00Z
 jira: KT-18089
 exl-id: d6a1201a-3779-4718-8ea8-b88f925f53b6
-source-git-commit: 96d9d525a3d9be399f7fa229b67166acf8130721
+source-git-commit: f3aeb66ca67448e7751ab2cd6d0bb6ce38f73530
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
 
-# Descrizione del caso d’uso
+# Unione delle identità in AEP
 
 Nelle moderne esperienze cliente, è fondamentale unificare le identità degli utenti tra dispositivi e canali. Questo caso d’uso illustra come implementare l’unione di identità in Adobe Experience Platform (AEP) collegando un ID CRM noto, acquisito durante l’accesso dell’utente, all’ID Experience Cloud anonimo (ECID) generato da Adobe Web SDK. Unendo queste identità in tempo reale, AEP può creare un profilo cliente più completo che si estende sia su comportamenti anonimi che su dati autenticati. Questo consente di segmentare il pubblico, personalizzarlo e prendere decisioni più precise in strumenti come Adobe Journey Optimizer (AJO).
 
-## 🧠 abilità necessarie per l&#39;esercitazione sull&#39;unione delle identità
+## Abilità richieste per l’esercitazione sull’unione delle identità
 
 Per trarre il massimo da questa esercitazione, si consiglia di acquisire familiarità con quanto segue:
 
