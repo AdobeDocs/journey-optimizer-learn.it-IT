@@ -34,7 +34,7 @@ Quando un utente visita il sito web, il sistema ne rileva la posizione e recuper
 - Creare una configurazione di canale
    - Definisci dove e come vengono visualizzate le offerte (ad esempio, una pagina web con un’esperienza basata su codice).
    - Accedi a Percorsi Optimizer
-   - Passa a _**Amministrazione ->Canali->Crea configurazione canale**_
+   - Passa a _&#x200B;**Amministrazione ->Canali->Crea configurazione canale**&#x200B;_
    - **Nome**: `offers-by-weather`\
      Identifica questa configurazione per la consegna personalizzata delle offerte web.
 - **Canale**:
@@ -68,7 +68,7 @@ Questa impostazione utilizza l’ECID come identità principale per il riconosci
 - **Crea criterio di decisione**
    - L&#39;azione è collegata a un **criterio di decisione** che definisce la modalità di selezione delle offerte e il numero di offerte restituite per la visualizzazione. Questo criterio utilizza una **strategia di selezione** creata in precedenza nell&#39;esercitazione.
    - Per inserire il criterio di decisione, fai clic su **_Modifica contenuto_** nelle sezioni Azioni, quindi su **_Modifica codice_** per aprire l&#39;editor di personalizzazione.
-   - Seleziona l&#39;icona _**Criterio decisione**_ a sinistra e fai clic sul pulsante **Aggiungi criterio decisione** per aprire la schermata **Crea criterio decisione**. Specifica un nome significativo per il criterio di decisione e seleziona il numero di elementi che il criterio di decisione deve restituire. Il valore predefinito è 1.
+   - Seleziona l&#39;icona _&#x200B;**Criterio decisione**&#x200B;_ a sinistra e fai clic sul pulsante **Aggiungi criterio decisione** per aprire la schermata **Crea criterio decisione**. Specifica un nome significativo per il criterio di decisione e seleziona il numero di elementi che il criterio di decisione deve restituire. Il valore predefinito è 1.
    - Fai clic su **_avanti_** e aggiungi la strategia di selezione creata nel passaggio precedente al criterio di decisione, quindi fai clic su **avanti** per completare il processo di creazione del criterio di decisione. Non sono state associate offerte di fallback ai criteri di decisione.
 
 
@@ -76,7 +76,7 @@ Questa impostazione utilizza l’ECID come identità principale per il riconosci
 - **Inserisci criterio di decisione**
   ![editor di personalizzazione](assets/personalization-editor.png)
 
-  Inserire il criterio di decisione appena creato facendo clic sul pulsante _**Inserisci criterio**_. Inserisce un ciclo for nell’editor di personalizzazione sul lato destro.
+  Inserire il criterio di decisione appena creato facendo clic sul pulsante _&#x200B;**Inserisci criterio**&#x200B;_. Inserisce un ciclo for nell’editor di personalizzazione sul lato destro.
 Posizionare il cursore tra ogni ciclo sulla riga due e inserire offerText spostandosi sull&#39;offerta espandendo `tenant name`
 
   Il codice Handlebars esegue un ciclo tra le offerte restituite da un criterio di decisione specifico in Adobe Journey Optimizer.
