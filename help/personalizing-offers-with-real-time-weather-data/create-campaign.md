@@ -8,7 +8,8 @@ doc-type: Tutorial
 last-substantial-update: 2025-05-30T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
-source-git-commit: b0b0eba099324d64940a87ecdad872db51dceb55
+exl-id: c3e4f760-9b10-4a99-bc53-9245e76c1bab
+source-git-commit: 51707a64a5d05227b663fed5e0413b4d2ffee0a9
 workflow-type: tm+mt
 source-wordcount: '642'
 ht-degree: 1%
@@ -17,7 +18,7 @@ ht-degree: 1%
 
 # Creare una campagna
 
-Per distribuire offerte personalizzate agli utenti sulla pagina web, è stata creata una campagna in Adobe Journey Optimizer e configurata con il canale web corretto. Questa configurazione assicura che le offerte vengano consegnate tramite decisioni in tempo reale agli utenti che interagiscono con il sito web.
+Per fornire offerte personalizzate agli utenti sulla pagina web, è stata creata una campagna in Adobe Journey Optimizer e configurata con il canale corretto, il canale di esperienza basato su codice. Questa configurazione assicura che le offerte vengano consegnate tramite decisioni in tempo reale agli utenti che interagiscono con il sito web.
 
 All’interno di questa campagna, è stato definito un criterio di decisione per controllare la modalità di selezione delle offerte. La politica decisionale comprende una strategia di selezione che consiste in:
 
@@ -33,22 +34,22 @@ Quando un utente visita il sito web, il sistema ne rileva la posizione e recuper
 - Creare una configurazione di canale
    - Definisci dove e come vengono visualizzate le offerte (ad esempio, una pagina web con un’esperienza basata su codice).
    - Accedi a Percorsi Optimizer
-   - Passa a _&#x200B;**Amministrazione ->Canali->Crea configurazione canale**&#x200B;_
+   - Passa a _**Amministrazione ->Canali->Crea configurazione canale**_
    - **Nome**: `offers-by-weather`\
      Identifica questa configurazione per la consegna personalizzata delle offerte web.
-   - **Piattaforma**: `Web`\
-     Destinato specificamente ai browser web. Nessun canale mobile abilitato.
-   - **Tipo di esperienza**:
+- **Canale**:
+  `Code-based experience`\
+  Le offerte non vengono iniettate direttamente nel DOM. Al contrario, AJO restituisce HTML non elaborato che viene analizzato utilizzando JavaScript personalizzato.
+- **Piattaforma**: `Web`\
+  Destinato specificamente ai browser web. Nessun canale mobile abilitato.
 
-     `Code-based experience`\
-     Le offerte non vengono iniettate direttamente nel DOM. Al contrario, AJO restituisce HTML non elaborato che viene analizzato utilizzando JavaScript personalizzato.
-   - **URL pagina**: `https://gbedekar489.github.io/weather/weather-offers.html`\
-     Il canale è configurato per una pagina di test specifica utilizzata durante lo sviluppo.
-   - **Posizione a pagina**: `offerContainer`\
-     Le offerte restituite vengono analizzate dinamicamente e sottoposte a rendering in questo contenitore utilizzando la logica front-end.
+- **URL pagina**: `https://gbedekar489.github.io/weather/weather-offers.html`\
+  Il canale è configurato per una pagina di test specifica utilizzata durante lo sviluppo.
+- **Posizione a pagina**: `offerContainer`\
+  Le offerte restituite vengono analizzate dinamicamente e sottoposte a rendering in questo contenitore utilizzando la logica front-end.
 
-   - **Formato contenuto**: `HTML`\
-     Le offerte vengono distribuite come frammenti HTML non elaborati, che consentono il pieno controllo su come vengono formattate, filtrate e visualizzate.
+- **Formato contenuto**: `HTML`\
+  Le offerte vengono distribuite come frammenti HTML non elaborati, che consentono il pieno controllo su come vengono formattate, filtrate e visualizzate.
 
 
 - **Avvia una nuova campagna**
@@ -67,7 +68,7 @@ Questa impostazione utilizza l’ECID come identità principale per il riconosci
 - **Crea criterio di decisione**
    - L&#39;azione è collegata a un **criterio di decisione** che definisce la modalità di selezione delle offerte e il numero di offerte restituite per la visualizzazione. Questo criterio utilizza una **strategia di selezione** creata in precedenza nell&#39;esercitazione.
    - Per inserire il criterio di decisione, fai clic su **_Modifica contenuto_** nelle sezioni Azioni, quindi su **_Modifica codice_** per aprire l&#39;editor di personalizzazione.
-   - Seleziona l&#39;icona _&#x200B;**Criterio decisione**&#x200B;_ a sinistra e fai clic sul pulsante **Aggiungi criterio decisione** per aprire la schermata **Crea criterio decisione**. Specifica un nome significativo per il criterio di decisione e seleziona il numero di elementi che il criterio di decisione deve restituire. Il valore predefinito è 1.
+   - Seleziona l&#39;icona _**Criterio decisione**_ a sinistra e fai clic sul pulsante **Aggiungi criterio decisione** per aprire la schermata **Crea criterio decisione**. Specifica un nome significativo per il criterio di decisione e seleziona il numero di elementi che il criterio di decisione deve restituire. Il valore predefinito è 1.
    - Fai clic su **_avanti_** e aggiungi la strategia di selezione creata nel passaggio precedente al criterio di decisione, quindi fai clic su **avanti** per completare il processo di creazione del criterio di decisione. Non sono state associate offerte di fallback ai criteri di decisione.
 
 
@@ -75,7 +76,7 @@ Questa impostazione utilizza l’ECID come identità principale per il riconosci
 - **Inserisci criterio di decisione**
   ![editor di personalizzazione](assets/personalization-editor.png)
 
-  Inserire il criterio di decisione appena creato facendo clic sul pulsante _&#x200B;**Inserisci criterio**&#x200B;_. Inserisce un ciclo for nell’editor di personalizzazione sul lato destro.
+  Inserire il criterio di decisione appena creato facendo clic sul pulsante _**Inserisci criterio**_. Inserisce un ciclo for nell’editor di personalizzazione sul lato destro.
 Posizionare il cursore tra ogni ciclo sulla riga due e inserire offerText spostandosi sull&#39;offerta espandendo `tenant name`
 
   Il codice Handlebars esegue un ciclo tra le offerte restituite da un criterio di decisione specifico in Adobe Journey Optimizer.
@@ -83,5 +84,3 @@ Posizionare il cursore tra ogni ciclo sulla riga due e inserire offerText sposta
 
 - **Pubblica la campagna**\
   Attiva la campagna per iniziare a consegnare offerte personalizzate in tempo reale.
-
-

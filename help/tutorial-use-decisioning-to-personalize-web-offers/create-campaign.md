@@ -9,9 +9,9 @@ last-substantial-update: 2025-05-05T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-17728
 exl-id: a48a3702-4d66-467b-a7ec-9d91b81b771d
-source-git-commit: 82d82b3aac2bf91e259b01fd8c6b4d6065f9640a
+source-git-commit: 09c69d341e71af641febd74d319c28af1932ecec
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '138'
 ht-degree: 4%
 
 ---
@@ -22,6 +22,8 @@ In Adobe Journey Optimizer (AJO), una campagna funge da contenitore che riunisce
 
 1. Accedi a Journey Optimizer.
 1. Fai clic su **[!UICONTROL Gestione Percorsi]** > **[!UICONTROL Campagne]** > **[!UICONTROL Crea campagna]** > **[!UICONTROL Pianifica marketing]**.
+1. Fornisci un nome significativo alla campagna
+1. Passa alla scheda _**Azione**_
 1. Seleziona l&#39;azione **[!UICONTROL Esperienza basata su codice]**, quindi seleziona la configurazione creata nel passaggio precedente.
 1. Fare clic su **[!UICONTROL Modifica contenuto]**.
 
