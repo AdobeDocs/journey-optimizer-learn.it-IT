@@ -24,4 +24,4 @@ Scopri come gli sviluppatori possono semplificare la collaborazione con i team d
 
 >[!VIDEO](https://video.tv.adobe.com/v/3463999/?learn=on&enablevpops&captions=ita)
 
-Per ulteriori informazioni, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/code-based-form-fields) dettagliata.
+Per ulteriori informazioni, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/code-based-form-fields) dettagliata.
