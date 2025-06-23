@@ -6,10 +6,10 @@ level: Beginner
 breadcrumb-title: personalizzazione-offerte-con-classificazione-formule-basate-su-utente-codice-postale-e-reddito
 breadcrumb-url: /docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction
 auto-video-transcripts: true
-source-git-commit: d46c5a922b8448f57b8a730188284294c3caba96
+source-git-commit: b9feb65fb7af8fb495f81841ab9235e4ae80ecd7
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 14%
+source-wordcount: '72'
+ht-degree: 13%
 
 ---
 
@@ -21,4 +21,5 @@ ht-degree: 14%
 + [Creare una formula di classificazione](./create-ranking-formula.md)
 + [Creare una strategia di selezione](./selection-strategy.md)
 + [Creare una campagna](./create-campaign.md)
++ [Crea campo modificabile](./editable-fields.md)
 + [Creare una pagina web](./display-offers.md)
