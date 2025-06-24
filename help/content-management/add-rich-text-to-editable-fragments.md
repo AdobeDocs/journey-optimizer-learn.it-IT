@@ -1,0 +1,26 @@
+---
+title: Aggiungere testo RTF a un frammento modificabile
+description: Scopri come rendere modificabili i componenti HTML all’interno di un frammento, consentendo aggiornamenti dinamici sia al contenuto che allo stile. Scoprirai come strutturare il HTML, configurare campi modificabili in linea e collegarli al contenuto e agli stili CSS predefiniti, quindi testare e convalidare le modifiche in un ambiente live campaign.
+feature: Fragments
+topic: Content Management
+role: User, Developer
+level: Intermediate, Experienced
+doc-type: Feature Video
+duration: 333
+last-substantial-update: 2025-06-24T00:00:00Z
+jira: KT-18432
+source-git-commit: 3028f97274815d21de68793ed3ae42053ea393b1
+workflow-type: tm+mt
+source-wordcount: '121'
+ht-degree: 0%
+
+---
+
+
+# Aggiungere testo RTF a un frammento modificabile
+
+Scopri come rendere modificabili i componenti HTML all’interno di un frammento, consentendo aggiornamenti dinamici sia al contenuto che allo stile. Scoprirai come strutturare il HTML, configurare campi modificabili in linea e collegarli al contenuto e agli stili CSS predefiniti, quindi testare e convalidare le modifiche in un ambiente live campaign.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3464363/?learn=on&enablevpops)
+
+Per ulteriori informazioni su questa funzione, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/fragments/customizable-fragments).
