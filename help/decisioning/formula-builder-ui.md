@@ -1,27 +1,27 @@
 ---
 title: Guida all'interfaccia di Generatore di formule in Adobe Journey Optimizer
-description: Procedura dettagliata dell'interfaccia utente di Formula Builder
+description: Scopri come utilizzare il Generatore di formule AI in Adobe Journey Optimizer per creare strategie di classificazione delle offerte personalizzate.
 feature: Decisioning
 topic: Integrations
 role: User
 level: Beginner
 doc-type: Feature Video
-duration: 186
-last-substantial-update: 2025-06-06T00:00:00Z
+duration: 282
+last-substantial-update: 2025-06-25T00:00:00Z
 jira: KT-17614
 thumbnail: KT-17614.jpeg
-source-git-commit: 7d812f589172c5052a1e9bfcf6a99d0769a6c2c7
+exl-id: 0926ec17-7b6a-49be-95c1-059366cdaa81
+source-git-commit: 5139c3f3de9943eac4f63cba386c551aac4a804a
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
 # Guida all&#39;interfaccia di Generatore di formule in Adobe Journey Optimizer
 
-Il Generatore di formule di Adobe Journey Optimizer è un’interfaccia visiva utilizzata per creare formule di classificazione che determinano il modo in cui le offerte vengono prioritizzate durante il processo decisionale. Consente agli addetti al marketing e agli sviluppatori di definire una logica personalizzata utilizzando gli attributi del profilo, i dati contestuali (come posizione o meteo) e i metadati dell’offerta (come tag o etichette). Le formule vengono utilizzate nelle strategie di classificazione per assegnare un punteggio numerico a ogni offerta, garantendo che il contenuto più pertinente venga distribuito a ogni utente in base ai dati in tempo reale.
+Scopri come utilizzare il Generatore di formule AI in Adobe Journey Optimizer per creare strategie di classificazione delle offerte personalizzate.
 
+Questa procedura dettagliata spiega come utilizzare il Generatore di formule di intelligenza artificiale per combinare punteggi di modello, dati di profilo e di offerta, segnali contestuali e regole di business per personalizzare le decisioni e assegnare priorità alle offerte in base agli obiettivi di marketing.
 
-Questo video offre una breve panoramica dell’interfaccia utente di Formula Builder.
-
->[!VIDEO](https://video.tv.adobe.com/v/3463747?quality=12&learn=on&captions=ita){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3464446/?learn=on&enablevpops){transcript=true}
