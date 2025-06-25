@@ -25,11 +25,11 @@ Questo consente aggiornamenti rapidi e garantisce la conformità in tutte le cam
 ## Inserire un campo modificabile nell’editor di personalizzazione
 
 - Apri la campagna creata nel passaggio precedente.
-- Fai clic su _**Modifica campagna**_
-- Passa alla scheda _**Contenuto**_
-- Fai clic su _**Modifica codice**_ e inserisci un campo modificabile denominato legalDisclaimer con un valore predefinito utilizzando la seguente sintassi nell&#39;editor di personalizzazione
+- Fai clic su _&#x200B;**Modifica campagna**&#x200B;_
+- Passa alla scheda _&#x200B;**Contenuto**&#x200B;_
+- Fai clic su _&#x200B;**Modifica codice**&#x200B;_ e inserisci un campo modificabile denominato legalDisclaimer con un valore predefinito utilizzando la seguente sintassi nell&#39;editor di personalizzazione
 
-- 
+- &#x200B;
   <pre><code>&#123;&#123;#inline &quot;legalDisclaimer&quot; name=&quot;Legal Disclaimer&quot;&#125;&#125; Legal Disclaimer will go here &#123;&#123;/inline&#125;&#125;</code></pre>
 
 - Utilizza <code>{{{legalDisclaimer}}}</code> nel modello, come illustrato di seguito
