@@ -23,4 +23,4 @@ La funzione di messaggistica multilingue di Adobe Journey Optimizer consente di 
 
 Scopri come impostare i progetti di traduzione per la traduzione automatica e l’impostazione della lingua richiesta per la traduzione manuale e i progetti di traduzione automatica per i messaggi multilingue.
  
->[!VIDEO](https://video.tv.adobe.com/v/3430661/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453551/?learn=on&captions=ita)
