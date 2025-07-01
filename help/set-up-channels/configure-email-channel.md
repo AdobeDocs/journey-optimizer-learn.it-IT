@@ -1,6 +1,6 @@
 ---
-title: Configurare un canale e-mail in Percorsi Optimizer
-description: Scopri come configurare il canale e-mail in Adobe Journey Optimizer. Il video illustra come configurare le configurazioni delle e-mail, inclusi i sottodomini, i pool IP, la gestione degli annullamenti dell’abbonamento, la personalizzazione del mittente, gli elenchi CCN e seed, la logica dei nuovi tentativi e i parametri di tracciamento. Evidenzia conformità, recapito messaggi e personalizzazione per ottimizzare le prestazioni delle e-mail di marketing.
+title: Configurare un canale e-mail in Journey Optimizer
+description: Scopri come configurare il canale e-mail in di Adobe Journey Optimizer. Il video illustra come impostare le configurazioni delle e-mail, inclusi i sottodomini, i pool IP, la gestione degli annullamenti dell’abbonamento, la personalizzazione del mittente, gli elenchi CCN e seed, la logica dei nuovi tentativi e i parametri di tracciamento. Mette in risalto la conformità, la recapitabilità e la personalizzazione per ottimizzare le prestazioni delle e-mail di marketing.
 jira: KT-17710
 thumbnail: 334343.jpg
 feature: Channel Configuration, Email
@@ -12,14 +12,14 @@ exl-id: 8b96e3b0-84f4-4aa8-b2f5-1bf30e3e4106
 hide: false
 hidefromtoc: false
 source-git-commit: 97c1c72a7bc0b0cc87ab7bf66ea6849e2427d2ee
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '105'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Configurare un canale e-mail
 
-Scopri come configurare il canale e-mail in Adobe Journey Optimizer. Il video illustra come configurare le configurazioni delle e-mail, inclusi i sottodomini, i pool IP, la gestione degli annullamenti dell’abbonamento, la personalizzazione del mittente, gli elenchi CCN e seed, la logica dei nuovi tentativi e i parametri di tracciamento. Evidenzia conformità, recapito messaggi e personalizzazione per ottimizzare le prestazioni delle e-mail di marketing.
+Scopri come configurare il canale e-mail in di Adobe Journey Optimizer. Il video illustra come impostare le configurazioni delle e-mail, inclusi i sottodomini, i pool IP, la gestione degli annullamenti dell’abbonamento, la personalizzazione del mittente, gli elenchi CCN e seed, la logica dei nuovi tentativi e i parametri di tracciamento. Mette in risalto la conformità, la recapitabilità e la personalizzazione per ottimizzare le prestazioni delle e-mail di marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416660?quality=12&learn=on&captions=ita){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/334343?quality=12&learn=on){transcript=true}
