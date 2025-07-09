@@ -26,7 +26,7 @@ Prima di iniziare, assicurati che siano presenti i seguenti elementi:
 
 - Una proprietà funzionante di Adobe Launch con l’estensione Adobe Experience Platform Web SDK installata.
 
-- [datastream](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/collect-event-data/create-dataset) configurato e mappato alla sandbox AEP.
+- [datastream](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/decisioning/experience-decisioning/collect-event-data/create-dataset) configurato e mappato alla sandbox AEP.
 
 - Un sito web in cui viene distribuito Launch.
 
@@ -35,7 +35,7 @@ Prima di iniziare, assicurati che siano presenti i seguenti elementi:
 
 Per raccogliere eventi di esperienza, devi innanzitutto creare un set di dati in cui verranno inviati questi eventi.
 
-Segui i passaggi indicati in questo [articolo per creare lo schema e il set di dati richiesti](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/collect-event-data/create-dataset)
+Segui i passaggi indicati in questo [articolo per creare lo schema e il set di dati richiesti](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/decisioning/experience-decisioning/collect-event-data/create-dataset)
 
 ## Creare uno stream di dati in AEP
 
