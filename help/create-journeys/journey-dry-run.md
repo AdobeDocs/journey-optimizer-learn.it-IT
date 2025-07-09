@@ -25,6 +25,6 @@ ht-degree: 0%
 
 Questa esercitazione introduce la funzione di esecuzione di prova del Percorso in Adobe Journey Optimizer, che consente agli addetti al marketing di testare la logica del percorso senza inviare comunicazioni reali. Scoprirai come attivare un percorso in modalità di esecuzione a secco, configurare opzioni quali la disattivazione dei tempi di attesa e delle origini dati esterne e interpretare le metriche del flusso del profilo per convalidare la segmentazione del pubblico e la logica condizionale. Scopri come identificare e risolvere i problemi, ad esempio gli errori di battitura nei nodi delle condizioni, e come accedere ed esportare i rapporti di prova per ulteriori analisi prima di avviare il percorso live.
 
->[!VIDEO](https://video.tv.adobe.com/v/3464681/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464690/?learn=on&enablevpops&captions=ita)
 
 Per ulteriori informazioni su questa funzione, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/orchestrate-journeys/create-journey/journey-dry-run).
