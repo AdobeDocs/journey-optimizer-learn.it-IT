@@ -23,4 +23,4 @@ Scopri come configurare e inviare messaggi RCS interattivi e con marchio in Adob
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464755/?learn=on&enablevpops)
 
-Per ulteriori informazioni su come configurare RCS, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/configure-sms/sms-configuration).
+Per ulteriori informazioni su come configurare RCS, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/channels/sms/configure-sms/sms-configuration).
