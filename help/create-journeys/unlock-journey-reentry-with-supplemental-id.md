@@ -22,6 +22,6 @@ ht-degree: 0%
 
 Questa esercitazione spiega come abilitare e applicare un identificatore supplementare in Adobe Journey Optimizer. Scoprirai come l’utilizzo di identificatori supplementari consente ai profili di immettere nuovamente percorsi, eseguire iterazioni su array di oggetti e personalizzare messaggi utilizzando dati contestuali come ID prodotto, informazioni di spedizione e altro ancora.
 
->[!VIDEO](https://video.tv.adobe.com/v/3464792/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464800/?learn=on&enablevpops&captions=ita)
 
 Per ulteriori informazioni sugli ID supplementari, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier).
