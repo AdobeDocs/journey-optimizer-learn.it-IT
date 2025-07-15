@@ -24,4 +24,4 @@ Questa esercitazione spiega come abilitare e applicare un identificatore supplem
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464792/?learn=on&enablevpops)
 
-Per ulteriori informazioni sugli ID supplementari, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier).
+Per ulteriori informazioni sugli ID supplementari, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier).
