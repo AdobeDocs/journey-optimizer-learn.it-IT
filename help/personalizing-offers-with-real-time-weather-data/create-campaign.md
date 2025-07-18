@@ -9,9 +9,9 @@ last-substantial-update: 2025-05-30T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
 exl-id: c3e4f760-9b10-4a99-bc53-9245e76c1bab
-source-git-commit: 51707a64a5d05227b663fed5e0413b4d2ffee0a9
+source-git-commit: 95a8abd08fbf57900870826112b01a8cd375fe96
 workflow-type: tm+mt
-source-wordcount: '642'
+source-wordcount: '639'
 ht-degree: 1%
 
 ---
@@ -34,7 +34,7 @@ Quando un utente visita il sito web, il sistema ne rileva la posizione e recuper
 - Creare una configurazione di canale
    - Definisci dove e come vengono visualizzate le offerte (ad esempio, una pagina web con un’esperienza basata su codice).
    - Accedi a Percorsi Optimizer
-   - Passa a _&#x200B;**Amministrazione ->Canali->Crea configurazione canale**&#x200B;_
+   - Passa a _**Amministrazione ->Canali->Crea configurazione canale**_
    - **Nome**: `offers-by-weather`\
      Identifica questa configurazione per la consegna personalizzata delle offerte web.
 - **Canale**:
@@ -68,7 +68,7 @@ Questa impostazione utilizza l’ECID come identità principale per il riconosci
 - **Crea criterio di decisione**
    - L&#39;azione è collegata a un **criterio di decisione** che definisce la modalità di selezione delle offerte e il numero di offerte restituite per la visualizzazione. Questo criterio utilizza una **strategia di selezione** creata in precedenza nell&#39;esercitazione.
    - Per inserire il criterio di decisione, fai clic su **_Modifica contenuto_** nelle sezioni Azioni, quindi su **_Modifica codice_** per aprire l&#39;editor di personalizzazione.
-   - Seleziona l&#39;icona _&#x200B;**Criterio decisione**&#x200B;_ a sinistra e fai clic sul pulsante **Aggiungi criterio decisione** per aprire la schermata **Crea criterio decisione**. Specifica un nome significativo per il criterio di decisione e seleziona il numero di elementi che il criterio di decisione deve restituire. Il valore predefinito è 1.
+   - Seleziona l&#39;icona _**Criterio decisione**_ a sinistra e fai clic sul pulsante **Aggiungi criterio decisione** per aprire la schermata **Crea criterio decisione**. Specifica un nome significativo per il criterio di decisione e seleziona il numero di elementi che il criterio di decisione deve restituire. Il valore predefinito è 1.
    - Fai clic su **_avanti_** e aggiungi la strategia di selezione creata nel passaggio precedente al criterio di decisione, quindi fai clic su **avanti** per completare il processo di creazione del criterio di decisione. Non sono state associate offerte di fallback ai criteri di decisione.
 
 
@@ -76,11 +76,10 @@ Questa impostazione utilizza l’ECID come identità principale per il riconosci
 - **Inserisci criterio di decisione**
   ![editor di personalizzazione](assets/personalization-editor.png)
 
-  Inserire il criterio di decisione appena creato facendo clic sul pulsante _&#x200B;**Inserisci criterio**&#x200B;_. Inserisce un ciclo for nell’editor di personalizzazione sul lato destro.
-Posizionare il cursore tra ogni ciclo sulla riga due e inserire offerText spostandosi sull&#39;offerta espandendo `tenant name`
+  Inserire il criterio di decisione appena creato facendo clic sul pulsante _**Inserisci criterio**_. Inserisce un ciclo for nell’editor di personalizzazione sul lato destro.
+Posizionare il cursore tra ogni ciclo sulla riga due e inserire offerText spostandosi sull&#39;offerta eseguendo il drilling verso il basso su `tenant name`. Racchiudi l’offerta in un Div con la classe offer-item come mostrato nella schermata.
 
-  Il codice Handlebars esegue un ciclo tra le offerte restituite da un criterio di decisione specifico in Adobe Journey Optimizer.
-  ![handle-bar](assets/handlebar-code.png)
+
 
 - **Pubblica la campagna**\
   Attiva la campagna per iniziare a consegnare offerte personalizzate in tempo reale.
