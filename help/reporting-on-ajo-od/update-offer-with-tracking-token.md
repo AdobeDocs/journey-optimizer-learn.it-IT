@@ -18,13 +18,13 @@ ht-degree: 0%
 
 Per modificare il codice nell’editor di personalizzazione, segui i passaggi seguenti:
 
-Passa a _**Gestione Percorsi ->Campagne**_
+Passa a _&#x200B;**Gestione Percorsi ->Campagne**&#x200B;_
 
-Apri la campagna appropriata e fai clic sul pulsante _**Interrompi campagna**_ per interromperla.
+Apri la campagna appropriata e fai clic sul pulsante _&#x200B;**Interrompi campagna**&#x200B;_ per interromperla.
 
-Apri la campagna interrotta e fai clic sul pulsante _**Modifica campagna**_.
+Apri la campagna interrotta e fai clic sul pulsante _&#x200B;**Modifica campagna**&#x200B;_.
 
-Fai clic sulla scheda _**Contenuto**_ e quindi sul pulsante _**Modifica codice**_ per aprire l&#39;editor di personalizzazione.
+Fai clic sulla scheda _&#x200B;**Contenuto**&#x200B;_ e quindi sul pulsante _&#x200B;**Modifica codice**&#x200B;_ per aprire l&#39;editor di personalizzazione.
 
 Aggiungi due nuovi attributi di dati al div, come mostrato nella schermata
 ![token di tracciamento](assets/offer-item-with-tracking-code.png)

@@ -42,7 +42,7 @@ Apri il file weather-offers.html nell’editor di testo e sostituisci il tag scr
 
 - Aprire la pagina Web nel browser preferito.
 
-- Consenti _**tracciamento località**_. Questo è necessario per ottenere i dettagli meteo in base alla tua posizione.
+- Consenti _&#x200B;**tracciamento località**&#x200B;_. Questo è necessario per ottenere i dettagli meteo in base alla tua posizione.
 
 - Fai clic sul pulsante nelle offerte per attivare l’evento di interazione.
 

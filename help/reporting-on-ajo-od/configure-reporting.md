@@ -21,6 +21,6 @@ Per iniziare la configurazione del reporting per Adobe Journey Optimizer Offer D
 
 - Accedi a Journey Optimizer
 
-- Passa a _**Amministrazione ->Configurazioni ->Reporting ->Gestisci ->Aggiungi set di dati**_
-- Seleziona il _**set di dati-schema-meteo**_, in cui sono memorizzati gli eventi di impression e clic dell&#39;offerta generati nell&#39;esercitazione precedente.
+- Passa a _&#x200B;**Amministrazione ->Configurazioni ->Reporting ->Gestisci ->Aggiungi set di dati**&#x200B;_
+- Seleziona il _&#x200B;**set di dati-schema-meteo**&#x200B;_, in cui sono memorizzati gli eventi di impression e clic dell&#39;offerta generati nell&#39;esercitazione precedente.
 
