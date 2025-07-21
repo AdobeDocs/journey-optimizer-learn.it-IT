@@ -21,7 +21,7 @@ ht-degree: 0%
 Per abilitare il reporting sulle impression e sui clic delle offerte da AJO Decisioning, è necessario configurare i seguenti componenti:
 >[!NOTE]
 >
-> Questi prerequisiti sono già stati completati nella sezione Crea schema e set di dati dell&#39;[esercitazione precedente](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset)
+> Questi prerequisiti sono già stati completati nella sezione Crea schema e set di dati dell&#39;[esercitazione precedente](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset)
 
 ## &#x200B;1. Set di dati in Adobe Experience Platform (AEP)
 
