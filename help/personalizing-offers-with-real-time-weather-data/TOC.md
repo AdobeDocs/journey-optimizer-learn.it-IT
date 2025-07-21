@@ -2,16 +2,16 @@
 title: Personalizzare le offerte con i dati meteo in tempo reale utilizzando Web SDK
 description: Scopri come personalizzare il contenuto web in base alle condizioni meteo in tempo reale utilizzando Web SDK.
 user-guide-title: Personalizzare le offerte con i dati meteo in tempo reale utilizzando Web SDK
-user-guide-description: Questo tutorial illustra come personalizzare il contenuto web in base alle condizioni meteo in tempo reale. Quando un utente visita il sito web, la sua posizione corrente viene utilizzata per recuperare dati meteo in tempo reale come temperatura e condizioni (ad esempio, pioggia, cieli liberi). Queste informazioni contestuali vengono inviate a Adobe Experience Platform utilizzando la SDK Web (lega), consentendo a Adobe Journey Optimizer di valutare e restituire offerte mirate, come promozioni stagionali o suggerimenti di prodotti appropriati per il meteo, che vengono visualizzate automaticamente sulla pagina.
+user-guide-description: Questo tutorial illustra come personalizzare il contenuto web in base alle condizioni meteo in tempo reale. Quando un utente visita il sito web, la sua posizione corrente viene utilizzata per recuperare dati meteo in tempo reale come temperatura e condizioni (ad esempio, pioggia, cieli liberi). Queste informazioni contestuali vengono inviate a Adobe Experience Platform utilizzando Web SDK (alloy), consentendo a Adobe Journey Optimizer Decisioning di valutare e restituire offerte mirate, come promozioni stagionali o suggerimenti di prodotti appropriati per il meteo, che vengono visualizzate automaticamente sulla pagina.
 solution: Journey Optimizer
 role: Developer
 level: Beginner
 breadcrumb-url: /docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction
 auto-video-transcripts: true
-source-git-commit: 23832f2e59ca7558fd403f0a9753db3923023e6d
+source-git-commit: 9c11ebd2e52de18792e9fa135db955eeeb243673
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 7%
+source-wordcount: '151'
+ht-degree: 5%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 7%
 + [Introduzione](./introduction.md)
 + [Creare schemi e set di dati](./create-schema-and-dataset.md)
 + [Crea tag AEP](./create-aep-tags.md)
-+ [Creare la categoria di tag](./create-tag-category.md)
++ [Crea raccolta di offerte](./create-tag-category.md)
 + [Crea offerte](./create-offers.md)
 + [Crea formula di classificazione](./create-ranking-formula.md)
 + [Crea strategia di selezione](./selection-strategy.md)

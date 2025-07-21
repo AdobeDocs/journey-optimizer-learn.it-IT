@@ -8,19 +8,20 @@ doc-type: Tutorial
 recommendations: noDisplay, noCatalog
 last-substantial-update: 2025-07-18T00:00:00Z
 jira: KT-18526
-source-git-commit: 69bc8aace3cc502a18e691584824176833413c7e
+exl-id: 7e6014b5-c5a6-467b-8e31-58c5d966464c
+source-git-commit: ab60877bd5cb9eeeea45b1e1f08293d31929fc81
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '451'
 ht-degree: 0%
 
 ---
 
 # Acquisire impression ed eventi di interazione
 
-Per abilitare il reporting sulle impression e sui clic delle offerte di AJO, è necessario configurare i seguenti componenti:
+Per abilitare il reporting sulle impression e sui clic delle offerte da AJO Decisioning, è necessario configurare i seguenti componenti:
 >[!NOTE]
 >
-> Questi prerequisiti sono già stati completati nella sezione Crea schema e set di dati dell&#39;[esercitazione precedente](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset)
+> Questi prerequisiti sono già stati completati nella sezione Crea schema e set di dati dell&#39;[esercitazione precedente](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset)
 
 ## &#x200B;1. Set di dati in Adobe Experience Platform (AEP)
 
