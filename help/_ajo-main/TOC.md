@@ -3,10 +3,10 @@ user-guide-title: Tutorial su Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial di Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 4a228623154a5422ba45ff1c0cc8be986787c0cb
+source-git-commit: 06c340b9fb0186821e2b56053ba6c9d7dcf56175
 workflow-type: tm+mt
-source-wordcount: '857'
-ht-degree: 99%
+source-wordcount: '860'
+ht-degree: 98%
 
 ---
 
@@ -46,13 +46,14 @@ ht-degree: 99%
    + [Designer del percorso: panoramica](/help/create-journeys/journey-designer-overview.md)
    + [Scopri il nuovo Designer del percorso](/help/create-journeys/new-journey-designer.md)
    + [Introduzione alla creazione di un percorso](/help/create-journeys/introduction-to-building-a-journey.md)
+   + [Creare un profilo di test](/help/create-journeys/test-a-journey.md)
+   + [Pubblicare un percorso](/help/create-journeys/publish-a-journey.md)
    + [Caso d’uso: percorso transazionale](/help/create-journeys/use-case-transactional-journey.md)
    + [Caso d’uso: evento di business](/help/create-journeys/use-case-business-event.md)
    + [Caso d’uso: attività “Leggi pubblico”](/help/create-journeys/use-case-read-audience.md)
    + [Caso d’uso: qualificazione di un pubblico](/help/create-journeys/use-case-audience-qualification.md)
-   + [Creare un profilo di test](/help/create-journeys/test-a-journey.md)
+   + [Padroneggiare il filtro con più attributi](/help/create-journeys/mastering-multi-attribute-filtering.md)
    + [Convalidare la logica di percorso con l’esecuzione di prova del percorso](/help/create-journeys/journey-dry-run.md)
-   + [Pubblicare un percorso](/help/create-journeys/publish-a-journey.md)
    + [Sbloccare il reingresso nel percorso con ID supplementari](/help/create-journeys/unlock-journey-reentry-with-supplemental-id.md)
    + [Aggiornare il contenuto in un percorso live](/help/create-journeys/update-content-in-live-journey.md)
    + [Copiare un percorso in un’altra sandbox](/help/create-journeys/copy-a-journey.md)
