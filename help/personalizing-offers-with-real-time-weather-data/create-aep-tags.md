@@ -20,7 +20,7 @@ ht-degree: 0%
 
 I tag Adobe Experience Platform (precedentemente Adobe Launch) consentono di gestire e distribuire* tecnologie di marketing e analisi sul sito web senza dover modificare il codice del sito.
 
-Questo [video descrive il processo di creazione dei tag esperienza Adobe](https://experienceleague.adobe.com/en/playlists/experience-platform-get-started-with-tags)
+Questo [video descrive il processo di creazione dei tag esperienza Adobe](https://experienceleague.adobe.com/it/playlists/experience-platform-get-started-with-tags)
 
 - Accedi a Raccolta dati
 - Fai clic su _&#x200B;**Tag -> Nuova proprietà**&#x200B;_
