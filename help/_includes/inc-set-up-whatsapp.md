@@ -17,4 +17,4 @@ Informazioni:
 
 Perfetto per gli esperti di marketing e gli sviluppatori che desiderano attivare la messaggistica WhatsApp nei loro percorsi di clienti.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470268/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470276/?learn=on&enablevpops&captions=ita)
