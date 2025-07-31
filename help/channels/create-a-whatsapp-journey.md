@@ -28,4 +28,4 @@ Informazioni:
 
 Ideale per gli esperti di marketing che desiderano automatizzare il coinvolgimento personalizzato dei clienti tramite WhatsApp.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470282/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470290/?learn=on&enablevpops&captions=ita)
