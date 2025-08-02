@@ -30,4 +30,4 @@ In questo tutorial scoprirai come:
 
 Ideale per gli esperti di marketing che desiderano espandere la propria portata e il proprio coinvolgimento attraverso una delle piattaforme di messaggistica più diffuse al mondo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470244/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470252/?learn=on&enablevpops&captions=ita)
