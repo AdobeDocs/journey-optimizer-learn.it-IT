@@ -24,4 +24,4 @@ Scopri come creare e personalizzare i tuoi brand per definire chiaramente la tua
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470544/?learn=on&enablevpops)
 
-Per ulteriori informazioni su questa funzione, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/ai-assistant/brands/brands).
+Per ulteriori informazioni su questa funzione, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/content-management/ai-assistant/brands/brands).
