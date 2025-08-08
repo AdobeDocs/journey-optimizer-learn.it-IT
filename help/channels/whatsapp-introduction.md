@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Il video offre una panoramica di alto livello del valore dell’integrazione di WhatsApp con Adobe Journey Optimizer. Evidenzia i vantaggi di portata e coinvolgimento globali di WhatsApp e delinea prerequisiti chiave come la configurazione di un account aziendale WhatsApp, la generazione di token di accesso e la creazione di modelli di messaggi.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470296/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470304/?learn=on&enablevpops&captions=ita)
