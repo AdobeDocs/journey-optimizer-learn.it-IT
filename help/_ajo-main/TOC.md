@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 313784a49c81d0aef3e256f5a02c233fd47d9ab6
 workflow-type: tm+mt
 source-wordcount: '910'
-ht-degree: 94%
+ht-degree: 99%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 94%
 + Casi d’uso {#use-cases}
    + [Onboarding dei clienti](/help/use-cases/customer-onboarding.md)
    + [Carrello abbandonato](/help/use-cases/abandoned-cart.md)
-   + [Nuovo coinvolgimento intelligente - Sfoglia abbandonata](https://experienceleague.adobe.com/it/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
+   + [Nuovo coinvolgimento intelligente - Navigazione abbandonata](https://experienceleague.adobe.com/it/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
    + [Personalizzazione di offerte con dati meteo in tempo reale in Adobe Journey Optimizer tramite Web SDK](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
    + [Creazione di rapporti su impression e sui clic sull’offerta](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [Utilizzare la formula di classificazione per fornire offerte personalizzate in Journey Optimizer](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
@@ -36,7 +36,7 @@ ht-degree: 94%
    + [Funzionalità mobili per sviluppatori](/help/channels/mobile-capabilities-for-developers.md)
    + [Ottenere aiuto con Assistente IA](/help/ai-assistant.md)
 + Campagne {#create-campaigns}
-   + Campagne azione {#action-campaigns}
+   + Campagne di azione {#action-campaigns}
       + [Creare una campagna](/help/create-campaigns/create-a-campaign.md)
       + [Creare una campagna in-app](/help/create-campaigns/in-app.md)
       + [Configurare e inviare una campagna push](/help/create-campaigns/push-campaign.md)
@@ -113,10 +113,10 @@ ht-degree: 94%
       + [Authoring di una campagna web](/help/channels/author-a-web-campaign.md)
       + [Supporto di applicazioni a pagina singola (SPA) nell’editor web](/help/channels/singel-page-application-support.md)
    + WhatsApp {#whatsapp}
-      + [Introduzione a WhatsApp (end-to-end)](/help/channels/get-started-with-whatsapp-in-ajo.md)
+      + [Introduzione alla configurazione di WhatsApp (end-to-end)](/help/channels/get-started-with-whatsapp-in-ajo.md)
       + [Introduzione al canale WhatsApp](/help/channels/whatsapp-introduction.md)
       + [Configurare il canale WhatsApp](/help/channels/set-up-whatsapp.md)
-      + [Creazione di un percorso WhatsApp](/help/channels/create-a-whatsapp-journey.md)
+      + [Creare un percorso WhatsApp](/help/channels/create-a-whatsapp-journey.md)
 + Gestione dei contenuti{#content-management}
    + [Creazione dei messaggi - Panoramica](/help/content-management/message-authoring-overview.md)
    + Gestire le risorse {#assets}
