@@ -22,6 +22,6 @@ ht-degree: 0%
 
 Scopri come creare e personalizzare i tuoi brand per definire chiaramente la tua identità visiva e verbale nelle comunicazioni. Con il punteggio di allineamento del brand, scopri come ricevere feedback in tempo reale sul modo in cui i contenuti riflettono il tono, lo stile e le linee guida del tuo marchio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470544/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470554/?learn=on&enablevpops&captions=ita)
 
 Per ulteriori informazioni su questa funzione, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/content-management/ai-assistant/brands/brands).
