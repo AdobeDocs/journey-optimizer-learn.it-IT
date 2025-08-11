@@ -24,4 +24,4 @@ Scopri come sfruttare l’ottimizzazione dei messaggi nelle campagne attivate da
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470368/?learn=on&enablevpops)
 
-Per ulteriori informazioni su questa funzione, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/action-campaigns/campaigns-message-optimization).
+Per ulteriori informazioni su questa funzione, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/campaigns/action-campaigns/campaigns-message-optimization).
