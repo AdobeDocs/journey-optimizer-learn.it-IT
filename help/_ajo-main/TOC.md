@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial di Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: 313784a49c81d0aef3e256f5a02c233fd47d9ab6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '910'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -138,7 +138,7 @@ ht-degree: 99%
    + Assistente IA per la generazione di contenuti {#ai-assistant}
       + [Assistente IA per la generazione di contenuti - Panoramica](/help/content-management/ai-assistant-for-content-generation-overview.md)
       + [Creare contenuti utilizzando l’Assistente IA per la generazione di contenuti](/help/content-management/create-content-using-ai-assistant-for-content-generation.md)
-      + [Creazione e gestione delle linee guida per i marchi](/help/content-management/brand-guideline-creation-and-management.md)
+      + [Creazione e gestione delle linee guida per i brand](/help/content-management/brand-guideline-creation-and-management.md)
    + [Sperimentazione - Panoramica](/help/content-management/experimentation-overview.md)
    + [Creare un’e-mail tramite GenStudio](/help/content-management/create-an-email-using-genstudio.md)
 + Personalizzazione dei contenuti {#personalize-content}
