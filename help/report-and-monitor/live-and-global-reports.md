@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Scopri la differenza tra rapporti live e globali, come accedere e analizzare i rapporti specifici per percorsi e messaggi, e come modificare le dashboard dei rapporti.  
 
->[!VIDEO](https://video.tv.adobe.com/v/334108?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416276?quality=12&learn=on&captions=ita){transcript=true}
