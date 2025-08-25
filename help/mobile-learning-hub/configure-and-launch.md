@@ -215,6 +215,7 @@ Scopri come configurare **canali SMS/MMS/RCS** con i provider standard (Twilio, 
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
 ## post di blog
 
 * [Utilizzo di ODD (Client Side Personalization) basato su CDN su dispositivi mobili per personalizzazioni più veloci.](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626)
