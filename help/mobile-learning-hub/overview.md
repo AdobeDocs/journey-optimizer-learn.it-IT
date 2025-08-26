@@ -6,13 +6,13 @@ role: User, Admin, Developer
 hide: true
 index: false
 last-substantial-update: 2025-08-22T00:00:00Z
-source-git-commit: e3bc8e24f6a8a59a84341f9d31d0e372fa6e99ab
+exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
+source-git-commit: b70b2cca5d95d931c8bbd52a69e96ccc31faa92c
 workflow-type: tm+mt
 source-wordcount: '901'
 ht-degree: 0%
 
 ---
-
 
 # Journey Optimizer - Centro per l’apprendimento mobile
 
@@ -35,7 +35,7 @@ I canali in uscita vengono utilizzati per **inviare in modo proattivo messaggi**
 
 > I canali in uscita impongono **criteri di consenso personalizzati** al momento dell&#39;invio dei messaggi. Se non viene concesso il consenso per una specifica azione di marketing, la consegna del messaggio viene bloccata.
 
-## Canali in entrata
+### Canali in entrata
 
 I canali in entrata sono progettati per **interazioni avviate dal cliente**, consentendo esperienze personalizzate quando gli utenti interagiscono con il tuo marchio.
 
@@ -45,7 +45,7 @@ I canali in entrata sono progettati per **interazioni avviate dal cliente**, con
 
 > I canali in entrata supportano la **personalizzazione in tempo reale** e l&#39;**acquisizione dati**, ad esempio i moduli delle pagine di destinazione che confluiscono in Adobe Experience Platform (AEP) per la segmentazione e il targeting.
 
-## Come possono funzionare insieme i canali mobili
+### Come possono funzionare insieme i canali mobili
 
 Combinando questi canali, puoi creare un’esperienza del cliente fluida ed efficace:
 
@@ -99,5 +99,3 @@ Scopri i concetti e come
 | **Campagne di upselling e cross-selling** | Promuove prodotti o aggiornamenti aggiuntivi ai clienti esistenti in base al loro comportamento, alle loro preferenze o alla cronologia degli acquisti. | - Le notifiche push evidenziano le opportunità di upselling rilevanti.<br>- I messaggi in-app e le schede di contenuto presentano elementi complementari.<br>- Le campagne SMS sono indirizzate a tipi di pubblico segmentati con offerte esclusive. |
 | **Prevenzione abbandono** | Identifica gli utenti a rischio di abbandono e li coinvolge con strategie di conservazione personalizzate per mantenere la fedeltà al progetto. | - Le analisi predittive attivano l’estensione dei dispositivi mobili agli utenti a rischio.<br>- Notifiche push e SMS offrono premi fedeltà o contenuti personalizzati.<br>- I sondaggi in-app raccolgono feedback per migliorare le strategie di conservazione. |
 | **Messaggistica multicanale** | Orchestrazione di messaggi coerenti su più canali mobili per garantire che gli utenti ricevano comunicazioni tempestive e pertinenti. | : le funzioni push, in-app, SMS ed e-mail sono coordinate per la messaggistica unificata.<br>- Gli SDK abilitano la personalizzazione in tempo reale tra i canali.<br>- Le schede di contenuto persistono in tutte le sessioni per rafforzare i messaggi chiave. |
-
-
