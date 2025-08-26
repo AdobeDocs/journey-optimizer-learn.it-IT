@@ -1,5 +1,5 @@
 ---
-source-git-commit: b4262722d7ebffb936a95425baab219bb40775fa
+source-git-commit: 6aa7b4c72ce5bd72002ad88ba88a20f32d54c360
 workflow-type: tm+mt
 source-wordcount: '425'
 ht-degree: 2%
@@ -33,7 +33,7 @@ Scegli le notifiche push come canale di messaggistica preferito quando devi:
 | 5 | Sfruttare le funzionalità native per i dispositivi | Le notifiche push si integrano con le funzioni del sistema operativo iOS/Android, come vibrazioni, suoni, badge e trigger di geofencing. | <ul><li> Offerte basate sulla posizione quando ci si trova vicino a un negozio</li><li> Promemoria attivati in momenti specifici.</li></ul> |
 | 6 | Quando è probabile il consenso | Il push funziona solo per gli utenti che hanno esplicitamente acconsentito. Se l’app offre un valore elevato o il marchio ha già fiducia, i tassi di consenso possono essere elevati. | <ul><li> App con basi utente fedeli</li><li> Flussi di onboarding che spiegano il valore delle notifiche.</li></ul> |
 
-## Quando NON utilizzare il push come canale principale
+## Quando *non* utilizzare il push come canale primario
 
 * Bassi tassi di consenso o resistenza dell’utente alle notifiche.
 * Necessità di contenuti in formato lungo (l’e-mail potrebbe essere migliore).
