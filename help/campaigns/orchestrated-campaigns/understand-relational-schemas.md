@@ -23,4 +23,4 @@ ht-degree: 0%
 
 In questa esercitazione, acquisisci una solida conoscenza del funzionamento degli schemi relazionali specifici delle campagne orchestrate in Journey Optimizer insieme ai profili cliente in tempo reale. Scopri i concetti fondamentali di acquisizione dei dati, modellazione di schemi, segmentazione ed esecuzione di campagne, fornendo le basi per progettare percorsi di clienti strutturati, scalabili e personalizzati.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470214/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470222/?learn=on&enablevpops&captions=ita)
