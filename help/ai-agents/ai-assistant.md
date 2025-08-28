@@ -22,4 +22,4 @@ Scopri cosa puoi fare con Assistente IA nelle applicazioni basate su Adobe Exper
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429845/?learn=on)
 
-Per ulteriori informazioni sui casi d&#39;uso supportati in Journey Optimizer, consulta [Utilizzare l&#39;Assistente AI](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-assistant). Per la documentazione dettagliata, visita l&#39;Assistente di [IA nella documentazione di Adobe Experience Platform](https://experienceleague.adobe.com/it/docs/experience-platform/ai-assistant/home).
+Per ulteriori informazioni sui casi d&#39;uso supportati in Journey Optimizer, consulta [Utilizzare l&#39;Assistente AI](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/get-started/ai-assistant). Per la documentazione dettagliata, visita l&#39;Assistente di [IA nella documentazione di Adobe Experience Platform](https://experienceleague.adobe.com/it/docs/experience-platform/ai-assistant/home).
