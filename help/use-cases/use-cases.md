@@ -19,14 +19,14 @@ ht-degree: 4%
 Esplora gli scenari di marketing reali basati su Adobe Journey Optimizer. Questi casi d’uso mostrano come i brand possono creare percorsi di clienti più intelligenti, dall’onboarding e ricoinvolgimento alle offerte personalizzate e all’orchestrazione cross-channel. Ogni esempio collega la strategia con l’esecuzione pratica, aiutandoti ad applicare le funzioni del prodotto a veri e propri obiettivi aziendali.
 
 <!-- CARDS
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/customer-onboarding
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart
-* https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/enhance-customer-engagement
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction
+* https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/use-cases/customer-onboarding
+* https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart
+* https://experienceleague.adobe.com/it/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma
+* https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction
+* https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction
+* https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction
+* https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/use-cases/enhance-customer-engagement
+* https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -34,7 +34,7 @@ Esplora gli scenari di marketing reali basati su Adobe Journey Optimizer. Questi
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/customer-onboarding" title="Caso d’uso: onboarding dei clienti (tutorial)" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/use-cases/customer-onboarding" title="Caso d’uso: onboarding dei clienti (tutorial)" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440650/?format=jpeg&nocache=1756417587791" alt="Caso d’uso: onboarding dei clienti (tutorial)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -43,11 +43,11 @@ Esplora gli scenari di marketing reali basati su Adobe Journey Optimizer. Questi
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/customer-onboarding" target="_blank" rel="referrer" title="Caso d’uso: onboarding dei clienti (tutorial)">Caso d'uso: onboarding del cliente (tutorial)</a>
+                        <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/use-cases/customer-onboarding" target="_blank" rel="referrer" title="Caso d’uso: onboarding dei clienti (tutorial)">Caso d'uso: onboarding del cliente (tutorial)</a>
                     </p>
                     <p class="is-size-6">Scopri come implementare un percorso di onboarding dei clienti in Adobe Journey Optimizer (AJO). ​Il processo è destinato a nuovi membri fidelizzati, che distribuiscono e-mail e SMS personalizzati per incoraggiare i download dell’app. ​Include l’invio di un’e-mail di benvenuto, la verifica dell’installazione dell’app e il follow-up con i promemoria. ​Questo tutorial mostra anche come utilizzare l’assistente ai contenuti per creare e personalizzare i contenuti.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/customer-onboarding" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/use-cases/customer-onboarding" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ulteriori informazioni</span>
                 </a>
             </div>
@@ -104,7 +104,7 @@ Esplora gli scenari di marketing reali basati su Adobe Journey Optimizer. Questi
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction" title="Personalizzazione delle offerte con i dati meteo in tempo reale in Adobe Journey Optimizer tramite Web SDK" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction./media_11e634b7fcda118d76753129e5511697a1e5145de.png?width=400&format=png&optimize=medium" alt="Personalizzazione delle offerte con i dati meteo in tempo reale in Adobe Journey Optimizer tramite Web SDK"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction./media_11e634b7fcda118d76753129e5511697a1e5145de.png?width=400&format=png&optimize=medium" alt="Personalizzazione delle offerte con i dati meteo in tempo reale in Adobe Journey Optimizer tramite Web SDK"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -127,7 +127,7 @@ Esplora gli scenari di marketing reali basati su Adobe Journey Optimizer. Questi
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction" title="Tracciamento e reporting delle offerte di Adobe Journey Optimizer (AJO) distribuite tramite AJO Decisioning" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction./media_1fb3a58c60be3873b773f9ba694350319c4b8dc4f.png?width=400&format=png&optimize=medium" alt="Tracciamento e reporting delle offerte di Adobe Journey Optimizer (AJO) distribuite tramite AJO Decisioning"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction./media_1fb3a58c60be3873b773f9ba694350319c4b8dc4f.png?width=400&format=png&optimize=medium" alt="Tracciamento e reporting delle offerte di Adobe Journey Optimizer (AJO) distribuite tramite AJO Decisioning"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -172,7 +172,7 @@ Esplora gli scenari di marketing reali basati su Adobe Journey Optimizer. Questi
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/enhance-customer-engagement" title="Caso d’uso: migliorare il coinvolgimento dei clienti" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/use-cases/enhance-customer-engagement" title="Caso d’uso: migliorare il coinvolgimento dei clienti" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-cards/tutorial.png" alt="Caso d’uso: migliorare il coinvolgimento dei clienti"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -181,11 +181,11 @@ Esplora gli scenari di marketing reali basati su Adobe Journey Optimizer. Questi
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/enhance-customer-engagement" target="_blank" rel="referrer" title="Caso d’uso: migliorare il coinvolgimento dei clienti">Caso d'uso: migliorare il coinvolgimento dei clienti</a>
+                        <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/use-cases/enhance-customer-engagement" target="_blank" rel="referrer" title="Caso d’uso: migliorare il coinvolgimento dei clienti">Caso d'uso: migliorare il coinvolgimento dei clienti</a>
                     </p>
                     <p class="is-size-6">Queste esercitazioni si concentrano sul miglioramento del coinvolgimento e della personalizzazione dei clienti utilizzando la creazione di tipi di pubblico in tempo reale e il processo decisionale personalizzato tramite moduli web e pagine web.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/enhance-customer-engagement" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/use-cases/enhance-customer-engagement" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ulteriori informazioni</span>
                 </a>
             </div>
