@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Scopri come tenere traccia delle prestazioni di un singolo percorso in che modo gli utenti interagiscono con i diversi passaggi di un percorso, incluse le statistiche di entrata e di uscita, gli errori e le azioni eseguite.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470710/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471471/?learn=on&enablevpops&captions=ita)
