@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 64b0ee761c45d5db11941ac7d994a7f2c798f250
 workflow-type: tm+mt
 source-wordcount: '938'
-ht-degree: 95%
+ht-degree: 96%
 
 ---
 
@@ -53,7 +53,7 @@ ht-degree: 95%
    + [Attivare il percorso giornaliero eseguito dopo la segmentazione in batch](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
    + [Risoluzione dei problemi relativi alle azioni in entrata nei percorsi](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/orchestrate-journeys/troubleshoot-journey/troubleshooting-inbound){target="_blank"}
 + Gestione dei conflitti e assegnazione delle priorità {#conflict-management}
-   + [Identificare conflitti potenziali](/help/conflict-management/identify-potential-conflicts.md)
+   + [Identificare potenziali conflitti](/help/conflict-management/identify-potential-conflicts.md)
    + [Assegnare punteggi di priorità](/help/conflict-management/assign-priority-score.md)
    + [Quota limite del percorso e definizione delle priorità](/help/conflict-management/journey-frequency-capping-and-prioritization.md)
 + Profili, tipi di pubblico e iscrizioni {#profiles-audiences-subscriptions}
@@ -172,7 +172,7 @@ ht-degree: 95%
 + Reporting e monitoraggio {#report-and-monitor}
    + [Reporting e monitoraggio](/help/report-and-monitor/report-and-monitor.md)
    + [Introduzione alla generazione di rapporti con Journey Optimizer](/help/report-and-monitor/introduction-to-reporting.md)
-   + [Monitora e analizza il percorso con rapporti live](/help/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports.md)
+   + [Monitorare e analizzare il percorso con rapporti live](/help/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports.md)
    + [Monitora e analizza il percorso con i report di Percorso](/help/report-and-monitor/journey-reports.md)
    + [Rapporti a livello di canale](/help/report-and-monitor/channel-level-reports.md)
    + [Esportare i rapporti in formato CSV](/help/report-and-monitor/export-reports-in-csv-format.md)
@@ -203,7 +203,7 @@ ht-degree: 95%
    + Regole di business {#business-rules}
       + [Configurare le regole di quota limite](/help/business-rules/configure-frequency-capping-rules.md)
       + [Utilizzare i set di regole](/help/business-rules/work-with-rule-sets.md)
-      + [Test e reporting per regole di frequenza](/help/business-rules/test-and-report-on-frequency-rules.md)
+      + [Eseguire test e creare rapporti sulle regole di frequenza](/help/business-rules/test-and-report-on-frequency-rules.md)
 + Controllo degli accessi {#access-control}
    + [Gestione degli accessi](/help/set-up-access/access-management.md)
    + [Configurare il controllo degli accessi basato su attributi](/help/administration/attribute-based-access-control.md)
