@@ -3,9 +3,9 @@ user-guide-title: Tutorial su Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial di Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 7749164744a667433d93ea8f33d2278863ab275e
+source-git-commit: 64b0ee761c45d5db11941ac7d994a7f2c798f250
 workflow-type: tm+mt
-source-wordcount: '951'
+source-wordcount: '938'
 ht-degree: 95%
 
 ---
@@ -14,9 +14,6 @@ ht-degree: 95%
 # Tutorial su Journey Optimizer {#tutorials}
 
 + [Tutorial su Journey Optimizer](/help/_ajo-main/overview.md)
-   + [Panoramica](https://experienceleague.adobe.com/it/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
-   + [Configurare una sandbox del playbook](https://experienceleague.adobe.com/it/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
-   + [Creare e pubblicare istanze playbook](https://experienceleague.adobe.com/it/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Introduzione a Journey Optimizer {#introduction-to-journey-optimizer}
    + [Journey Optimizer - Panoramica](/help/introduction/journey-optimizer-overview.md)
    + [Introduzione a Journey Optimizer](/help/introduction/introduction.md)
@@ -34,7 +31,7 @@ ht-degree: 95%
       + [Creare un’esperienza basata su codice campagna](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
       + [Sfruttare l’ottimizzazione dei messaggi in una campagna](/help/create-campaigns/leverage-message-optimization-in-a-campaign.md)
    + Campagne attivate da API {#api-triggered-campaigns}
-      + [Attivare campagne tramite API](/help/create-campaigns/api-triggered-campaigns.md)
+      + [Attivare campagne tramite API](/help/campaigns/api-triggered-campaigns/api-triggered-campaigns.md)
    + Campagne orchestrate {#orchestrated-campaigns}
       + [Introduzione alle campagne orchestrate](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
       + [Comprendere gli schemi relazionali](/help/orchestrated-campaigns/understand-relational-schemas.md)
