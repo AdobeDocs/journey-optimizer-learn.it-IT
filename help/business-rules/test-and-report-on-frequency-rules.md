@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Scopri come eseguire test e creare rapporti sulle regole di frequenza. Informazioni su come determinare quali regole di frequenza verranno ereditate per un messaggio.
 
->[!VIDEO](https://video.tv.adobe.com/v/344451?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411123?quality=12&learn=on&captions=ita){transcript=true}
