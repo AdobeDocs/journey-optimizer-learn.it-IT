@@ -11,16 +11,16 @@ hide: true
 hidefromtoc: true
 index: false
 jira: KT-18519
-source-git-commit: 7749164744a667433d93ea8f33d2278863ab275e
+exl-id: a58a964b-0414-4061-ab5d-170f8a0a1f46
+source-git-commit: 5e3cbc5d8294c02356ea135b9b3dfeac077874e5
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
 
 ---
 
-
 # Comprendere gli schemi relazionali in Experience Platform
 
 In questa esercitazione, acquisisci una solida conoscenza del funzionamento degli schemi relazionali specifici delle campagne orchestrate in Journey Optimizer insieme ai profili cliente in tempo reale. Scopri i concetti fondamentali di acquisizione dei dati, modellazione di schemi, segmentazione ed esecuzione di campagne, fornendo le basi per progettare percorsi di clienti strutturati, scalabili e personalizzati.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470222/?learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3470214/?learn=on&enablevpops)
