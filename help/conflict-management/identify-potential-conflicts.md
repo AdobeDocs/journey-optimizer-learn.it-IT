@@ -1,6 +1,6 @@
 ---
-title: Identificare conflitti potenziali
-description: Scopri come identificare e gestire i potenziali conflitti, ad esempio la sovrapposizione di tipi di pubblico, timeline simultanee, canali di comunicazione condivisi e vincoli di frequenza tra percorsi e campagne per garantire un’esperienza di comunicazione fluida e semplice per il cliente.
+title: Identificare potenziali conflitti
+description: Scopri come identificare e gestire i potenziali conflitti, ad esempio la sovrapposizione di tipi di pubblico, timeline simultanee, canali di comunicazione condivisi e vincoli di frequenza tra percorsi e campagne per garantire un’esperienza di comunicazione fluida e semplice per la clientela.
 feature: Journeys
 role: User
 level: Intermediate
@@ -10,15 +10,15 @@ last-substantial-update: 2025-05-29T00:00:00Z
 jira: KT-17854
 exl-id: 2911535d-dcf2-4b24-a55f-28d750928b7c
 source-git-commit: cd99fb618d94e507b7d6dfd8810a275287eb96df
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
-# Identificare conflitti potenziali
+# Identificare potenziali conflitti
 
-Scopri come identificare e gestire i potenziali conflitti, ad esempio la sovrapposizione di tipi di pubblico, timeline simultanee, canali di comunicazione condivisi e vincoli di frequenza tra percorsi e campagne per garantire un’esperienza di comunicazione fluida e semplice per il cliente.
+Scopri come identificare e gestire i potenziali conflitti, ad esempio la sovrapposizione di tipi di pubblico, timeline simultanee, canali di comunicazione condivisi e vincoli di frequenza tra percorsi e campagne per garantire un’esperienza di comunicazione fluida e semplice per la clientela.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435528/?learn=on&enablevpops)
 

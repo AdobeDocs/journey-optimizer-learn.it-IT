@@ -1,6 +1,6 @@
 ---
-title: 'Regole aziendali: utilizzare i set di regole'
-description: Scopri come creare un set di regole per il limite delle frequenze cliente per limitare il numero di comunicazioni inviate ai clienti in base al tipo di comunicazione in Adobe Journey Optimizer (AJO).
+title: Regole di business - Utilizzare i set di regole
+description: Scopri come creare un set di regole di quota limite per la clientela così da limitare il numero di comunicazioni inviate in base al tipo di comunicazione in Adobe Journey Optimizer (AJO).
 feature: Frequency Rules
 role: Admin
 level: Intermediate
@@ -8,18 +8,18 @@ doc-type: Feature Video
 duration: 170
 last-substantial-update: 2025-02-18T00:00:00Z
 jira: KT-17341
-source-git-commit: ea751f2a1cb81cf0febd0f757e524ae3077d6a87
-workflow-type: tm+mt
+exl-id: 524f7f2a-8292-408e-a3b9-356c62473d95
+source-git-commit: 46dfea5af0e3e3cc4c7697bca9786f79c5fbcd28
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 15%
+ht-degree: 100%
 
 ---
 
-
 # Utilizzare i set di regole
 
-Scopri come creare un set di regole per il limite delle frequenze cliente per limitare il numero di comunicazioni inviate ai clienti in base al tipo di comunicazione.
+Scopri come creare un set di regole di quota limite per la clientela così da limitare il numero di comunicazioni inviate in base al tipo di comunicazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3444734/?learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3435531/?learn=on&enablevpops)
 
 Per ulteriori informazioni, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/configuration/rule-sets).
