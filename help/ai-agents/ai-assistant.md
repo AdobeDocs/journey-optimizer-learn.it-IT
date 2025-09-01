@@ -10,9 +10,9 @@ last-substantial-update: 2024-06-27T00:00:00Z
 jira: KT-15789
 exl-id: 6c2134ec-7d0c-4fe2-9281-22a10ace1890
 source-git-commit: b46e2f77012fd1032f4d434132ee3263489b39a8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 64%
+ht-degree: 100%
 
 ---
 
@@ -22,4 +22,4 @@ Scopri cosa puoi fare con Assistente IA nelle applicazioni basate su Adobe Exper
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429845/?learn=on)
 
-Per ulteriori informazioni sui casi d&#39;uso supportati in Journey Optimizer, consulta [Utilizzare l&#39;Assistente AI](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/get-started/ai-assistant). Per la documentazione dettagliata, visita l&#39;Assistente di [IA nella documentazione di Adobe Experience Platform](https://experienceleague.adobe.com/it/docs/experience-platform/ai-assistant/home).
+Per ulteriori informazioni sui casi d’uso supportati in Journey Optimizer, consulta [Utilizzare l’Assistente AI](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/get-started/ai-assistant). Per la documentazione dettagliata, consuta l’[Assistente IA nella documentazione di Adobe Experience Platform](https://experienceleague.adobe.com/it/docs/experience-platform/ai-assistant/home).

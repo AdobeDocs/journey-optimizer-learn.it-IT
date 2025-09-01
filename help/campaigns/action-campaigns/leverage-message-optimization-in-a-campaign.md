@@ -12,7 +12,7 @@ hidefromtoc: false
 hide: false
 exl-id: 12a80ca8-2517-4bbc-950f-18e1dfb8dc72
 source-git-commit: 62c4ee2d5a3e6c71646ae4f92eeee0491846832b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '118'
 ht-degree: 100%
 
@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Scopri come sfruttare l’ottimizzazione dei messaggi nelle campagne attivate da azioni o da API. Scoprirai come eseguire il targeting dei tipi di pubblico secondari, creare varianti di messaggio per posizione, abilitare il contenuto di fallback ed eseguire più esperimenti all’interno di una singola campagna. Questo tutorial illustra anche come gestire le campagne multicanale mantenendo al contempo la coerenza dei messaggi.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470376/?learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3470368/?learn=on&enablevpops)
 
 Per ulteriori informazioni su questa funzione, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/campaigns/action-campaigns/campaigns-message-optimization).
