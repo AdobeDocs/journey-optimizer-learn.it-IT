@@ -10,7 +10,7 @@ role: User
 level: Beginner
 exl-id: 543678e6-5803-4997-a6ea-a45ed571d7d4
 source-git-commit: 62c4ee2d5a3e6c71646ae4f92eeee0491846832b
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 100%
 
@@ -24,6 +24,6 @@ ht-degree: 100%
 
 Scopri come distribuire contenuti una tantum a un pubblico specifico eseguendo azioni immediatamente o secondo una pianificazione specifica.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412404?quality=12&learn=on&captions=ita){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/346680?quality=12&learn=on){transcript=true}
 
 Per ulteriori informazioni su questa funzionalità, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/docs/journey-optimizer/using/campaigns/get-started-with-campaigns.html?lang=it).
