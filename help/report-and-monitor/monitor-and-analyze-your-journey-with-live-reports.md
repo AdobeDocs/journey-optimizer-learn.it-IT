@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Scopri come utilizzare in modo efficace la funzione di Rapporto live di Adobe Journey Optimizer per monitorare e analizzare le prestazioni di percorsi e messaggi in tempo reale. Scopri come personalizzare dashboard, esportare rapporti e interpretare metriche specifiche per il percorso in modo da ottimizzare le strategie di marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470709/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470843/?learn=on&enablevpops&captions=ita)

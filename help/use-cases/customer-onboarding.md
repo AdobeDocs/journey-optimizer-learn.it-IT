@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Scopri come implementare un percorso di onboarding cliente in Journey Optimizer. Il processo esegue il targeting dei nuovi membri fidelizzati consegnando e-mail e SMS personalizzati per incoraggiare i download dell’app. Include l’invio di un’e-mail di benvenuto, la verifica dell’installazione dell’app e il follow-up con i promemoria.Questo tutorial mostra anche come utilizzare l’assistente IA per creare e personalizzare i contenuti.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440650/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440658/?learn=on&enablevpops&captions=ita)

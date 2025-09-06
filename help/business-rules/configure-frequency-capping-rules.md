@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Scopri come utilizzare le regole di business di Adobe Journey Optimizer per impostare la quota limite e impedire un’eccessiva sollecitazione della clientela. Questo video illustra come creare set di regole globali e personalizzati, ad esempio per limitare tutte le e-mail a una al giorno o per limitare quelle promozionali separatamente. Inoltre, mostra come applicare queste regole alle campagne per gestire in modo efficace l’affaticamento della clientela.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433395/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433403/?learn=on&captions=ita)
 
 Per ulteriori informazioni, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/configuration/frequency-rules).
