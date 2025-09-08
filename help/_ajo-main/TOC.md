@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: f53bda362d6507a72845f4822d2a34fe122050a5
 workflow-type: tm+mt
 source-wordcount: '933'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -168,11 +168,11 @@ ht-degree: 96%
    + [Configurare i connettori di origini](/help/data-management/configure-source-connectors.md)
    + [Configurare la destinazione di esportazione per un set di dati](/help/data-management/configure-dataset-export-destination.md)
    + [Esportare i set di dati in posizioni di archiviazione cloud](/help/data-management/export-datasets.md)
-+ Reporting e monitoraggio {#report-and-monitor}
-   + [Reporting e monitoraggio](/help/report-and-monitor/report-and-monitor.md)
-   + [Introduzione alla generazione di rapporti con Journey Optimizer](/help/report-and-monitor/introduction-to-reporting.md)
++ Generazione di rapporti e monitoraggio {#report-and-monitor}
+   + [Generazione di rapporti e monitoraggio](/help/report-and-monitor/report-and-monitor.md)
+   + [Introduzione al reporting con Journey Optimizer](/help/report-and-monitor/introduction-to-reporting.md)
    + [Monitorare e analizzare il percorso con rapporti live](/help/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports.md)
-   + [Monitora e analizza il percorso con i report di Percorso](/help/report-and-monitor/journey-reports.md)
+   + [Monitorare e analizzare il percorso con i rapporti](/help/report-and-monitor/journey-reports.md)
    + [Rapporti a livello di canale](/help/report-and-monitor/channel-level-reports.md)
    + [Esportare i rapporti in formato CSV](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [Utilizzare gli avvisi](/help/administration/alerts.md)
@@ -232,5 +232,5 @@ ht-degree: 96%
    + Summit Labs {#summit-labs}
       + [Creare esperienze personalizzate per dispositivi mobili con Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
       + [Ridimensionamento dell’orchestrazione a un coinvolgimento omnicanale in Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
-+ Sessioni live e unità approfondite {#live-sessions-and-deep-dives}
-   + [Registrazioni di eventi Experience League live](/help/_ajo-main/experience-league-live-show-recordings.md)
++ Sessioni live e approfondimenti {#live-sessions-and-deep-dives}
+   + [Registrazioni di eventi Experience League Live](/help/_ajo-main/experience-league-live-show-recordings.md)
