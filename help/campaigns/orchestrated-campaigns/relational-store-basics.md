@@ -23,4 +23,4 @@ ht-degree: 0%
 
 Scopri i concetti fondamentali dell’archivio relazionale utilizzato nell’orchestrazione delle campagne di Journey Optimizer: progettazione dello schema, acquisizione dei dati, origini supportate e differenze chiave rispetto all’archivio dei profili in tempo reale.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470214/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470222/?learn=on&enablevpops&captions=ita)
