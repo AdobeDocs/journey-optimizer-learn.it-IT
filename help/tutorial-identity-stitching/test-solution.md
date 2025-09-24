@@ -8,9 +8,10 @@ doc-type: Tutorial
 last-substantial-update: 2025-05-19T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18089
-source-git-commit: 68bd0a65e7d7f2d57f9620e76555485a1a79b4ae
+exl-id: b7bad65d-c978-4981-a914-6cb039433c8b
+source-git-commit: 71b42350370d12ce677bf075d8b48edcbe541ab4
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '348'
 ht-degree: 0%
 
 ---
@@ -88,6 +89,7 @@ La schermata seguente mostra che l’ID &quot;FIN001&quot; viene passato corrett
 * Passa a Cliente -> Profili ->Sfoglia
 * Cerca ID CRM FinWise = FIN001
 * Apri il profilo e controlla la sezione Identità. Dovresti vedere sia il CRMID che l’ECID elencati.   Ciò conferma che le due identità sono state unite in un unico profilo.
-
+* Anche il percorso dovrebbe essere attivato. Per verificarlo, visualizza il rapporto sul percorso
+* ![Rapporto percorsi](assets/journey-triggered-report.png)
 
 
