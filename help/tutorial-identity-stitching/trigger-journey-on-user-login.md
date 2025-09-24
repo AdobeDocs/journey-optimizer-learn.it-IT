@@ -21,8 +21,8 @@ In questa estensione del tutorial Unione identità, viene attivato il percorso A
 
 ## Crea configurazione canale di posta elettronica
 
-* Accedi a _**Journey Optimizer**_
-* Passa a _**Amministrazione -> Canali -> Crea configurazione canale**_
+* Accedi a _&#x200B;**Journey Optimizer**&#x200B;_
+* Passa a _&#x200B;**Amministrazione -> Canali -> Crea configurazione canale**&#x200B;_
 * Seleziona **E-mail** dall&#39;elenco dei canali. Fornisci un nome e una descrizione significativi.
 * Inserisci le impostazioni e-mail.
 * Fornisci i dettagli di esecuzione come mostrato di seguito. L’e-mail viene inviata all’indirizzo e-mail del profilo memorizzato nel campo
@@ -31,8 +31,8 @@ In questa estensione del tutorial Unione identità, viene attivato il percorso A
 
 ## Crea evento
 
-* Accedi a _**Journey Optimizer**_
-* Passa a _**Amministrazione -> Configurazioni**_
+* Accedi a _&#x200B;**Journey Optimizer**&#x200B;_
+* Passa a _&#x200B;**Amministrazione -> Configurazioni**&#x200B;_
 * Fai clic sul pulsante Gestisci nella scheda Eventi e fai clic su Crea evento. Specificate i valori come mostrato di seguito
 * ![evento-percorso](assets/journey-event.png)
 
@@ -41,9 +41,9 @@ In questa estensione del tutorial Unione identità, viene attivato il percorso A
 
 ## Crea percorso
 
-* Accedi a _**Journey Optimizer**_
-* Passa a _**Gestione Percorsi -> Percorsi -> Crea Percorso**_
-* Trascina e rilascia l&#39;evento _**UserLoggedIn**_ nell&#39;area di lavoro
+* Accedi a _&#x200B;**Journey Optimizer**&#x200B;_
+* Passa a _&#x200B;**Gestione Percorsi -> Percorsi -> Crea Percorso**&#x200B;_
+* Trascina e rilascia l&#39;evento _&#x200B;**UserLoggedIn**&#x200B;_ nell&#39;area di lavoro
 * Trascina e rilascia E-mail dal menu Azioni. Configura l’azione e-mail per utilizzare la configurazione del canale e-mail creata in precedenza
 * Pubblica il percorso
 
