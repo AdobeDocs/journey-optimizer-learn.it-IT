@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial di Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: f53bda362d6507a72845f4822d2a34fe122050a5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '933'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 99%
       + [Attivare campagne tramite API](/help/campaigns/api-triggered-campaigns/api-triggered-campaigns.md)
    + Campagne orchestrate {#orchestrated-campaigns}
       + [Introduzione alle campagne orchestrate](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
-      + [Nozioni di base sull’archivio relazionale](/help/campaigns/orchestrated-campaigns/relational-store-basics.md)
+      + [Nozioni di base dell’archivio relazionale](/help/campaigns/orchestrated-campaigns/relational-store-basics.md)
 + Percorsi {#create-journeys}
    + [Designer del percorso: panoramica](/help/create-journeys/journey-designer-overview.md)
    + [Scopri il nuovo Designer del percorso](/help/create-journeys/new-journey-designer.md)
