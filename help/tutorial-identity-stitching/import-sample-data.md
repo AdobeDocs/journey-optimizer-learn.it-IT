@@ -30,7 +30,7 @@ Per iniziare l’unione delle identità, importa dati di profilo CRM di esempio 
 
 Crea un singolo schema di profilo denominato **_FinWiseProfileSchema_**. Includi campi quali annualIncome, email, firstName, lastName e loyaltyStatus.
 Aggiungi un campo di identità **_crmid_** come mostrato. Contrassegna il campo crmid come identità e primario.
-Aggiungi il gruppo di campi _**Dettagli consensi e preferenze**_ allo schema. [Consensi e preferenze](https://experienceleague.adobe.com/it/docs/experience-platform/xdm/field-groups/profile/consents) è un gruppo di campi standard per la classe Profilo individuale XDM che acquisisce informazioni sul consenso e sulle preferenze per un singolo cliente. Le preferenze memorizzate qui determinano le preferenze di comunicazione a livello di canale.
+Aggiungi il gruppo di campi _&#x200B;**Dettagli consensi e preferenze**&#x200B;_ allo schema. [Consensi e preferenze](https://experienceleague.adobe.com/it/docs/experience-platform/xdm/field-groups/profile/consents) è un gruppo di campi standard per la classe Profilo individuale XDM che acquisisce informazioni sul consenso e sulle preferenze per un singolo cliente. Le preferenze memorizzate qui determinano le preferenze di comunicazione a livello di canale.
 
 
 ![schema-profilo](assets/finwise-profile-schema.png)
@@ -52,7 +52,7 @@ Aggiorna gli indirizzi e-mail fittizi a quelli reali. Questi verranno utilizzati
 * Crea un set di dati denominato **_FinWiseCustomerDataSetWithAnnualIncome_** in base allo **_FinWiseProfileSchema_** creato nel passaggio precedente
 
 * Passa a Connessioni -> Origini -> Sistema locale
-* Selezionare **_Aggiungi dati_** nel caricamento del file locale. Seleziona _**FinWiseCustomerDataSetWithAnnualIncome**_ come set di dati di destinazione.
+* Selezionare **_Aggiungi dati_** nel caricamento del file locale. Seleziona _&#x200B;**FinWiseCustomerDataSetWithAnnualIncome**&#x200B;_ come set di dati di destinazione.
   ![ingest-csv](assets/ingest-csv-into-dataset.png)
 * Passa alla schermata successiva. Carica il [file csv](assets/finwise_profiles.csv) e verifica i mapping
   ![mappature](assets/mappings.png)
