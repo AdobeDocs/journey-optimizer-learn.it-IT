@@ -1,7 +1,7 @@
 ---
-source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
+source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
 workflow-type: tm+mt
-source-wordcount: '26'
+source-wordcount: '24'
 ht-degree: 100%
 
 ---
@@ -9,4 +9,4 @@ ht-degree: 100%
 
 Scopri come configurare gli esperimenti sui contenuti per test A/B ed esplora al meglio i contenuti e-mail per raggiungere gli obiettivi aziendali.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447339/?learn=on&captions=ita){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3419893/?learn=on){transcript=true}
