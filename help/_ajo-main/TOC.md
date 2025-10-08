@@ -3,9 +3,9 @@ user-guide-title: Tutorial su Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial di Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 3558a9530827303a6597966e16ead1cfdee7576b
+source-git-commit: f89cba65a472ea389ef0c8e974ddead6e4b2d24b
 workflow-type: tm+mt
-source-wordcount: '949'
+source-wordcount: '958'
 ht-degree: 98%
 
 ---
@@ -68,7 +68,7 @@ ht-degree: 98%
 + Canali {#channels}
    + [Ottimizzazione delle app mobili: panoramica](/help/channels/mobile-app-optimization-overview.md)
    + Canale di esperienza basata su codice{#code-based-experience-channel}
-      + [Creare una campagna con esperienza basata su codice &#x200B;](/help/channels/create-a-code-based-experience-campaign.md)
+      + [Creare una campagna con esperienza basata su codice ](/help/channels/create-a-code-based-experience-campaign.md)
       + [Aggiungere campi modulo a modelli di canale di esperienza basata su codice](/help/channels/form-fields-in-code-based-experiences.md)
       + [Utilizzare la funzione Decisioni in un canale basato su codice](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + Canale direct mail{#direct-mail-channel}
@@ -140,7 +140,7 @@ ht-degree: 98%
 + Sperimentazione {#experimentation}
    + [Introduzione alla sperimentazione](/help/experimentation/introduction-to-experimentation.md)
    + [Creare esperimenti sui contenuti per le campagne e-mail](/help/experimentation/content-experiments-for-emails.md)
-   + [Agente di sperimentazione](/help/ai-agents/experimentation-agent-overview.md)
+   + [Agente di sperimentazione - Panoramica](/help/ai-agents/experimentation-agent-overview.md)
 + Funzionalità per decisioni{#decision-capabilities}
    + Funzione Decisioni {#decisioning}
       + [Introduzione alla funzione Decisioni](/help/decisioning/introduction-to-decisioning.md)
@@ -216,8 +216,10 @@ ht-degree: 98%
    + [Applicazione dei criteri di utilizzo dei dati nei canali Journey Optimizer](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [Mascherare i dati nei messaggi](/help/privacy/mask-data-in-messages.md)
 + Assistente IA {#ai-assistant}
-   + [Assistente IA](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
-   + [Assistente IA per la generazione di contenuti](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
+   + [Assistente IA](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
+   + [Assistente IA per la generazione di contenuti](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
+   + [Journey Agent - Panoramica](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
+   + [Agente di sperimentazione - Panoramica](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
 + Casi d’uso e best practice{#use-cases}
    + [Onboarding dei clienti](/help/use-cases/customer-onboarding.md)
    + [Carrello abbandonato](/help/use-cases/abandoned-cart.md)
