@@ -1,22 +1,20 @@
 ---
-title: Assistente IA
-description: Scopri cosa puoi fare con Assistente IA nelle applicazioni basate su Adobe Experience Platform come Real-time Customer Data Platform, Journey Optimizer e Customer Journey Analytics.
-feature: Overview
-role: Admin, Developer, User
+title: Panoramica di Journey Agent
+description: Journey Agent utilizza l’intelligenza artificiale per creare, analizzare e ottimizzare i percorsi B2B/B2C tramite un’interfaccia di conversazione.
+feature: AI Assistant, Journeys
+feature-set: Journey Optimizer, Experience Platform
+role: User, Developer, Leader, Admin
 level: Beginner
-doc-type: Feature Video
-duration: 143
-last-substantial-update: 2024-06-27T00:00:00Z
-jira: KT-15789
-exl-id: 6c2134ec-7d0c-4fe2-9281-22a10ace1890
+last-substantial-update: 2025-10-08T00:00:00Z
+jira: KT-19109
 source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 100%
+source-wordcount: '76'
+ht-degree: 71%
 
 ---
 
-# Assistente IA
+# Panoramica di Journey Agent
 
 Scopri cosa puoi fare con Assistente IA nelle applicazioni basate su Adobe Experience Platform come Real-time Customer Data Platform, Journey Optimizer e Customer Journey Analytics.
 

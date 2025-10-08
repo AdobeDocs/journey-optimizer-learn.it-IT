@@ -6,10 +6,10 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: 1542a429d393d9d803976d1490a3bc09654b706b
+source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
 workflow-type: tm+mt
 source-wordcount: '411'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -27,7 +27,7 @@ Verifica che siano soddisfatti i seguenti prerequisiti.
 
 * Accesso a una sandbox di Journey Optimizer: consigliamo di completare la sfida in una sandbox di formazione dedicata.
 * È necessario eseguire il provisioning di AEM Assets Essentials per la tua istanza.
-* I [canali e-mail devono essere configurati](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/channel-surfaces.html?lang=it) per messaggi transazionali e di marketing.
+* Il [canale e-mail deve essere configurato](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/channel-surfaces.html?lang=it) per messaggi transazionali e di marketing.
 
 ### Diritti di accesso
 
@@ -68,7 +68,7 @@ Luma sta cercando di promuovere la sua ultima collezione di abbigliamento e di a
       <p>
       <b>Competenze richieste:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=it"> Creare segmenti</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=it">Leggi segmento</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html">Leggi segmento</li>
        <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=it">Importare il contenuto delle e-mail in HTML</li>
   </td>
   </tr>
@@ -90,7 +90,7 @@ Luma sta cercando di promuovere la sua ultima collezione di abbigliamento e di a
     <p>
     <b>Competenze richieste:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=it"> Creare segmenti</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html?lang=it">Qualificazione del segmento</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment-qualification.html">Qualificazione segmento</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=it">Importare e creare contenuti e-mail HTML</li>
   </td>
   </tr>
@@ -107,7 +107,7 @@ Luma sta cercando di promuovere la sua ultima collezione di abbigliamento e di a
     </a>
     <div>
     <p>
-    <em>Verificare le tue conoscenze su come creare e personalizzare messaggi transazionali
+    <em>Verifica le tue conoscenze su come creare e personalizzare messaggi transazionali
     </em>
     <p>
     <b>Competenze richieste:</b>

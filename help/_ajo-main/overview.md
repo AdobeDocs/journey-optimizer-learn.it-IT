@@ -7,10 +7,10 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: af94f3401aa31b2adc6dfb88f6763a472b1c3e3b
+source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
 workflow-type: tm+mt
 source-wordcount: '628'
-ht-degree: 84%
+ht-degree: 83%
 
 ---
 
@@ -33,13 +33,13 @@ La presente guida utente contiene video e tutorial sulle funzioni e caratteristi
 ## Gli eventi più recenti di Experience League Live
 
 <!-- CARDS
-* https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-30-25
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-30-25
     {title = Expand your mobile reach with RCS and WhatsApp in Journey Optimizer (September 30th 2025)}
     {description = IN this show Travis Jordan and Nikhil Sharma demonstrate how Adobe Journey Optimizer has recently expanded mobile engagement with powerful new channel additions and functionality, including WhatsApp, RCS, and Custom SMS Provider.}
-* https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25
     {title = Fueling Personalized Content in Journey Optimizer with AEM Content Fragments and Dynamic Media (July 31 2025)}
     {description = In this session, Jyothitha Chandran, Chris Ivory, and Kaitlin White showcased how Adobe Journey Optimizer (AJO) integrates seamlessly with Adobe Experience Manager (AEM) Sites Content Fragments and AEM Assets Dynamic Media to deliver scalable, real-time personalization across every channel.}
-* https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25
   {title = Master Frequency Capping & Conflict Prioritization (June 18, 2025)}
   {description = In this session, Adobe experts Ariel Sultan and Aaron Forrest dove into new features in Adobe Journey Optimizer to help you govern and prioritize customer messages with precision. They showed how to reduce messaging fatigue, resolve conflicts, and deliver impactful experiences that resonate. }
 -->
@@ -49,7 +49,7 @@ La presente guida utente contiene video e tutorial sulle funzioni e caratteristi
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-30-25" title="Espandi la portata dei dispositivi mobili con RCS e WhatsApp in Journey Optimizer (30 settembre 2025)" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-30-25" title="Espandi la portata dei dispositivi mobili con RCS e WhatsApp in Journey Optimizer (30 settembre 2025)" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475370/?format=jpeg&nocache=1759529951745" alt="Espandi la portata dei dispositivi mobili con RCS e WhatsApp in Journey Optimizer (30 settembre 2025)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -58,11 +58,11 @@ La presente guida utente contiene video e tutorial sulle funzioni e caratteristi
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-30-25" target="_blank" rel="referrer" title="Espandi la portata dei dispositivi mobili con RCS e WhatsApp in Journey Optimizer (30 settembre 2025)">Espandi la tua portata mobile con RCS e WhatsApp in Journey Optimizer (30 settembre 2025)</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-30-25" target="_blank" rel="referrer" title="Espandi la portata dei dispositivi mobili con RCS e WhatsApp in Journey Optimizer (30 settembre 2025)">Espandi la tua portata mobile con RCS e WhatsApp in Journey Optimizer (30 settembre 2025)</a>
                     </p>
                     <p class="is-size-6">In questo spettacolo Travis Jordan e Nikhil Sharma mostrano come Adobe Journey Optimizer ha recentemente ampliato il coinvolgimento mobile con nuove potenti aggiunte e funzionalità per il canale, tra cui WhatsApp, RCS e provider di SMS personalizzati.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-30-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-30-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
@@ -122,9 +122,9 @@ La presente guida utente contiene video e tutorial sulle funzioni e caratteristi
 ## Proposte del nostro staff
 
 <!-- CARDS
-* https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface
-* https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey
-* https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/introduction-to-building-a-journey
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -133,7 +133,7 @@ La presente guida utente contiene video e tutorial sulle funzioni e caratteristi
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface" title="Funzionalità chiave e interfaccia utente" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430321?format=jpeg&nocache=1759529952337&captions=ita" alt="Funzionalità chiave e interfaccia utente"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424995?format=jpeg&nocache=1759529952337" alt="Funzionalità chiave e interfaccia utente"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -155,8 +155,8 @@ La presente guida utente contiene video e tutorial sulle funzioni e caratteristi
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey" title="Introduzione alla creazione di un percorso" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430348?format=jpeg&nocache=1759529952348&captions=ita" alt="Introduzione alla creazione di un percorso"
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/introduction-to-building-a-journey" title="Introduzione alla creazione di un percorso" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424996?format=jpeg&nocache=1759529952348" alt="Introduzione alla creazione di un percorso"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -164,11 +164,11 @@ La presente guida utente contiene video e tutorial sulle funzioni e caratteristi
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey" target="_blank" rel="referrer" title="Introduzione alla creazione di un percorso">Introduzione alla creazione di un percorso</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/introduction-to-building-a-journey" target="_blank" rel="referrer" title="Introduzione alla creazione di un percorso">Introduzione alla creazione di un percorso</a>
                     </p>
                     <p class="is-size-6">Scopri le basi della creazione di un percorso nell’area di lavoro del percorso.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/introduction-to-building-a-journey" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
@@ -179,7 +179,7 @@ La presente guida utente contiene video e tutorial sulle funzioni e caratteristi
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder" title="Creare un pubblico tramite il generatore di regole" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430331?format=jpeg&nocache=1759529952343&captions=ita" alt="Creare un pubblico tramite il generatore di regole"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425020?format=jpeg&nocache=1759529952343" alt="Creare un pubblico tramite il generatore di regole"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -201,9 +201,9 @@ La presente guida utente contiene video e tutorial sulle funzioni e caratteristi
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
 <!-- CARDS
-* https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation
-* https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end
-* https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -212,7 +212,7 @@ La presente guida utente contiene video e tutorial sulle funzioni e caratteristi
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation" title="Creare contenuti utilizzando l’Assistente IA per la generazione di contenuti" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434643/?format=jpeg&nocache=1759529953102&captions=ita" alt="Creare contenuti utilizzando l’Assistente IA per la generazione di contenuti"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434635/?format=jpeg&nocache=1759529953102" alt="Creare contenuti utilizzando l’Assistente IA per la generazione di contenuti"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -258,7 +258,7 @@ La presente guida utente contiene video e tutorial sulle funzioni e caratteristi
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages" title="Configurare esperimenti sui contenuti per i messaggi in-app" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3445296/?format=jpeg&nocache=1759529953110&captions=ita" alt="Configurare esperimenti sui contenuti per i messaggi in-app"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3419898/?format=jpeg&nocache=1759529953110" alt="Configurare esperimenti sui contenuti per i messaggi in-app"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

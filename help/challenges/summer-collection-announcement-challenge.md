@@ -1,5 +1,5 @@
 ---
-title: Crea un annuncio sulla Collezione estiva - sfida
+title: Creare un annuncio sulla Collezione estiva - sfida
 description: Invia un annuncio sulla Collezione estiva a un pubblico di clienti esistenti per promuovere la nuova Collezione estiva Luma.
 jira: KT-8109
 feature: Segments, Journeys, Email
@@ -7,10 +7,10 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
+source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
 workflow-type: tm+mt
 source-wordcount: '1108'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -19,14 +19,14 @@ ht-degree: 100%
 | Sfida | Crea un annuncio sulla Collezione estiva |
 |---|---|
 | Persona | Gestione del percorso |
-| Competenze richieste | <ul><li>[Creare segmenti](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=it)</li><li> [Importare e creare contenuti e-mail HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=it)</li><li>[Caso d’uso: attività “Leggi segmento”](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=it)</li> |
+| Competenze richieste | <ul><li>[Creare segmenti](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=it)</li><li> [Importare e creare contenuti e-mail HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=it)</li><li>[Caso d’uso: attività “Leggi segmento”](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html?lang=en)</li> |
 | Risorse da scaricare | [File e-mail sulla Collezione stagionale](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip) |
 
 {style="table-layout:auto"}
 
 ## Il contesto
 
-Luma, un’azienda fittizia di abbigliamento sportivo, sta promuovendo la sua ultima collezione di abbigliamento e attrezzatura per stimolare le vendite per i clienti esistenti. Luma sta lanciando la nuova collezione estiva e desidera mirare in modo specifico a diversi tipi di pubblico.
+Luma, un’azienda fittizia di abbigliamento sportivo, sta promuovendo la sua ultima collezione di abbigliamento e attrezzatura per stimolare le vendite per i clienti esistenti. Luma sta lanciando la nuova collezione estiva e desidera rivolgersi in modo specifico a diversi tipi di pubblico.
 
 ## La tua sfida
 
@@ -63,7 +63,7 @@ Nella pagina del profilo, seleziona la scheda [!UICONTROL Attributi] per conferm
 
 ![Attributi del profilo](assets/C1-S1-profile-attributes.png)
 
-Puoi anche controllare la scheda [!UICONTROL Appartenenza a un segmento] in cui è elencato il tuo segmento.
+Puoi anche controllare la scheda [!UICONTROL Appartenenza a segmento] in cui è elencato il tuo segmento.
 
 ![Appartenenza a un segmento](assets/C1-S1-profile-segment-membership.png)
 
@@ -201,7 +201,7 @@ Testa il percorso e invia le e-mail al tuo account:
 1. Apri la seconda e-mail e il percorso dovrebbe terminare.
 1. È possibile ripetere il passaggio 4. - 7. per tutti e tre i profili per verificare se i rami funzionano correttamente.
 1. Per verificare i timeout, imposta il tempo di attesa su 30 secondi e attiva nuovamente la voce.
-1. Non aprire le e-mail che ricevi (non visualizzare l’anteprima del messaggio e-mail (!)) e lascia che il tempo di attesa scada.
+1. Non aprire le e-mail ricevute (non visualizzare l’anteprima del messaggio e-mail (!)) e lascia trascorrere il tempo di attesa.
 
 Dovresti ricevere le e-mail seguenti:
 

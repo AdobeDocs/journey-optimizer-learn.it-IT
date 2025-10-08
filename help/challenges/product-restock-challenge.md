@@ -8,10 +8,10 @@ level: Beginner
 hide: true
 hidefromtoc: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
-source-git-commit: 5c763ec877c75c07132f4cc714d63695e12638dc
+source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
 workflow-type: tm+mt
 source-wordcount: '547'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 100%
 | Sfida | Riassortimento del prodotto |
 |---|---|
 | Persona | Gestione del percorso |
-| Competenze richieste | <ul><li>[Creare segmenti](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=it)</li><li> [Importare e creare contenuti e-mail HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=it)</li><li>[Caso d’uso: attività “Leggi segmento”](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=it)</li> |
+| Competenze richieste | <ul><li>[Creare segmenti](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=it)</li><li> [Importare e creare contenuti e-mail HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=it)</li><li>[Caso d’uso: attività “Leggi segmento”](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html?lang=en)</li> |
 | Risorse da scaricare | [File e-mail di rifornimento del prodotto](/help/challenges/assets/email-assets/ProductRestockEmail.html.zip) |
 
 ## Il contesto
@@ -35,7 +35,7 @@ Luma chiede di implementare un percorso in Journey Optimizer che avvisa i client
 
 >[!TAB Attività]
 
-## 1. Definisci il segmento - Articoli esauriti nella lista dei desideri
+## &#x200B;1. Definisci il segmento - Articoli esauriti nella lista dei desideri
 
 Quando i prodotti vengono riassortiti, per eseguire il targeting della clientela potenziale interessata, crea un pubblico costituito da clienti:
 
@@ -49,7 +49,7 @@ Quando i prodotti vengono riassortiti, per eseguire il targeting della clientela
 Assegna un nome al segmento: `Out-of-stock-Wishlist`
 
 
-### 2. Crea il percorso - Notifica di rifornimento prodotto
+### &#x200B;2. Crea il percorso - Notifica di rifornimento prodotto
 
 Quando un articolo precedentemente esaurito è di nuovo disponibile, avvisa i clienti che hanno aggiunto un articolo esaurito con una chiamata per iniziare lo shopping ora che l’articolo è di nuovo disponibile.
 
@@ -67,7 +67,7 @@ Test del percorso:
 1. Imposta il percorso in modalità di test
 1. Attiva un evento - immetti i dati seguenti:
 
-   * Descrizione: dimenticate i macchinari sofisticati e gli abbonamenti costosi - Harmony Lumaflex Strength Band Kit è tutto ciò che serve per un allenamento incredibile. Il kit presenta tutto il necessario per una serie di esercizi rinforzanti e tonificanti.
+   * Descrizione: niente più sofisticati macchinari e iscrizioni costose - Con Harmony Lumaflex Strength Band Kit hai tutto ciò che ti serve per allenarti al top. Il kit presenta tutto il necessario per una serie di esercizi rinforzanti e tonificanti.
    * Nome: Harmony Lumaflex Strength Band Kit
    * Prezzo: 22
    * ID prodotto: 24/UG03
