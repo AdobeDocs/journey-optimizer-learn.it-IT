@@ -50,7 +50,7 @@ In questo esercizio creerai la campagna push, progetterai e personalizzerai la n
 >[!SUCCESS]
 >
 >Ora dovresti trovarti nella pagina delle proprietà di Campaign:
->> ![Proprietà campagna](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-1-2-campaign-properties.png)
+>&#x200B;> ![Proprietà campagna](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-1-2-campaign-properties.png)
 
 ## Esercizio 4.2 - Configurare la campagna
 
@@ -199,7 +199,7 @@ Se sei soddisfatto del contenuto del messaggio, puoi attivarlo:
 > ![stato campagna](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-push-completed.png)
 > 
 > Lo stato cambia da elaborazione a live e diventa completato (l&#39;operazione potrebbe richiedere alcuni minuti).
-> > Una volta che lo stato è cambiato in completato:
+> &#x200B;> Una volta che lo stato è cambiato in completato:
 >
 > ![risultati push](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-push-notification-result.png)
 

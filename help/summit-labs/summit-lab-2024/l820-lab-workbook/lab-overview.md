@@ -29,14 +29,14 @@ In questo laboratorio pratico puoi esplorare vari scenari mobili e imparare a im
 >[!IMPORTANT]
 >
 >Evita di pubblicare sui social media foto o screenshot della sessione.
->><br>
->>**Riservatezza Adobe**
->>Le informazioni e le informazioni sui prodotti condivise oggi in questo laboratorio sono informazioni riservate di Adobe.
->>I partecipanti non possono riprodurre, utilizzare, diffondere o divulgare informazioni riservate a nessuna persona o entità.
->>Le informazioni sul prodotto sono fornite a solo scopo informativo, non garantiscono alcuna funzionalità o caratteristica futura e sono soggette a modifiche in qualsiasi momento. Di conseguenza, tali funzionalità o caratteristiche del prodotto non fanno in alcun modo parte del tuo contratto con Adobe né sono in alcun modo vincolate a te.
->><br>
->>**Esclusione di responsabilità**
->>Adobe offre un accesso anticipato alle funzioni, che sfruttano la tecnologia di intelligenza artificiale generativa. Queste funzioni sono ancora in fase di sviluppo e possono produrre risposte impreviste o imprecise. Apprezziamo il tuo feedback nell&#39;introduzione di questa funzione sul mercato.
+>&#x200B;><br>
+>&#x200B;>**Riservatezza Adobe**
+>&#x200B;>Le informazioni e le informazioni sui prodotti condivise oggi in questo laboratorio sono informazioni riservate di Adobe.
+>&#x200B;>I partecipanti non possono riprodurre, utilizzare, diffondere o divulgare informazioni riservate a nessuna persona o entità.
+>&#x200B;>Le informazioni sul prodotto sono fornite a solo scopo informativo, non garantiscono alcuna funzionalità o caratteristica futura e sono soggette a modifiche in qualsiasi momento. Di conseguenza, tali funzionalità o caratteristiche del prodotto non fanno in alcun modo parte del tuo contratto con Adobe né sono in alcun modo vincolate a te.
+>&#x200B;><br>
+>&#x200B;>**Esclusione di responsabilità**
+>&#x200B;>Adobe offre un accesso anticipato alle funzioni, che sfruttano la tecnologia di intelligenza artificiale generativa. Queste funzioni sono ancora in fase di sviluppo e possono produrre risposte impreviste o imprecise. Apprezziamo il tuo feedback nell&#39;introduzione di questa funzione sul mercato.
 
 
 ### Punti chiave da eliminare
