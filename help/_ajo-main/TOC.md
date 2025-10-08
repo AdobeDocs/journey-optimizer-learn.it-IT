@@ -3,10 +3,10 @@ user-guide-title: Tutorial su Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial di Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: f53bda362d6507a72845f4822d2a34fe122050a5
-workflow-type: ht
-source-wordcount: '933'
-ht-degree: 100%
+source-git-commit: 3558a9530827303a6597966e16ead1cfdee7576b
+workflow-type: tm+mt
+source-wordcount: '949'
+ht-degree: 98%
 
 ---
 
@@ -35,22 +35,23 @@ ht-degree: 100%
    + Campagne orchestrate {#orchestrated-campaigns}
       + [Introduzione alle campagne orchestrate](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
       + [Nozioni di base dell’archivio relazionale](/help/campaigns/orchestrated-campaigns/relational-store-basics.md)
-+ Percorsi {#create-journeys}
-   + [Designer del percorso: panoramica](/help/create-journeys/journey-designer-overview.md)
-   + [Scopri il nuovo Designer del percorso](/help/create-journeys/new-journey-designer.md)
-   + [Introduzione alla creazione di un percorso](/help/create-journeys/introduction-to-building-a-journey.md)
-   + [Creare un profilo di test](/help/create-journeys/test-a-journey.md)
-   + [Pubblicare un percorso](/help/create-journeys/publish-a-journey.md)
-   + [Caso d’uso: percorso transazionale](/help/create-journeys/use-case-transactional-journey.md)
-   + [Caso d’uso: evento di business](/help/create-journeys/use-case-business-event.md)
-   + [Caso d’uso: attività “Leggi pubblico”](/help/create-journeys/use-case-read-audience.md)
-   + [Caso d’uso: qualificazione di un pubblico](/help/create-journeys/use-case-audience-qualification.md)
-   + [Filtrare con più attributi](/help/create-journeys/mastering-multi-attribute-filtering.md)
-   + [Convalidare la logica del percorso con un’esecuzione di prova](/help/create-journeys/journey-dry-run.md)
-   + [Sbloccare il reingresso nel percorso con ID supplementari](/help/create-journeys/unlock-journey-reentry-with-supplemental-id.md)
-   + [Aggiornare il contenuto in un percorso live](/help/create-journeys/update-content-in-live-journey.md)
-   + [Copiare un percorso in un’altra sandbox](/help/create-journeys/copy-a-journey.md)
-   + [Attivare il percorso giornaliero eseguito dopo la segmentazione in batch](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
++ Percorsi {#journeys}
+   + [Designer del percorso: panoramica](/help/journeys/journey-designer-overview.md)
+   + [Journey Agent - Panoramica](/help/ai-agents/journey-agent-overview.md)
+   + [Scopri il nuovo Designer del percorso](/help/journeys/new-journey-designer.md)
+   + [Introduzione alla creazione di un percorso](/help/journeys/introduction-to-building-a-journey.md)
+   + [Creare un profilo di test](/help/journeys/test-a-journey.md)
+   + [Pubblicare un percorso](/help/journeys/publish-a-journey.md)
+   + [Caso d’uso: percorso transazionale](/help/journeys/use-case-transactional-journey.md)
+   + [Caso d’uso: evento di business](/help/journeys/use-case-business-event.md)
+   + [Caso d’uso: attività “Leggi pubblico”](/help/journeys/use-case-read-audience.md)
+   + [Caso d’uso: qualificazione di un pubblico](/help/journeys/use-case-audience-qualification.md)
+   + [Filtrare con più attributi](/help/journeys/mastering-multi-attribute-filtering.md)
+   + [Convalidare la logica del percorso con un’esecuzione di prova](/help/journeys/journey-dry-run.md)
+   + [Sbloccare il reingresso nel percorso con ID supplementari](/help/journeys/unlock-journey-reentry-with-supplemental-id.md)
+   + [Aggiornare il contenuto in un percorso live](/help/journeys/update-content-in-live-journey.md)
+   + [Copiare un percorso in un’altra sandbox](/help/journeys/copy-a-journey.md)
+   + [Attivare il percorso giornaliero eseguito dopo la segmentazione in batch](/help/journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
    + [Risoluzione dei problemi relativi alle azioni in entrata nei percorsi](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/orchestrate-journeys/troubleshoot-journey/troubleshooting-inbound){target="_blank"}
 + Gestione dei conflitti e assegnazione delle priorità {#conflict-management}
    + [Identificare potenziali conflitti](/help/conflict-management/identify-potential-conflicts.md)
@@ -139,6 +140,7 @@ ht-degree: 100%
 + Sperimentazione {#experimentation}
    + [Introduzione alla sperimentazione](/help/experimentation/introduction-to-experimentation.md)
    + [Creare esperimenti sui contenuti per le campagne e-mail](/help/experimentation/content-experiments-for-emails.md)
+   + [Agente di sperimentazione](/help/ai-agents/experimentation-agent-overview.md)
 + Funzionalità per decisioni{#decision-capabilities}
    + Funzione Decisioni {#decisioning}
       + [Introduzione alla funzione Decisioni](/help/decisioning/introduction-to-decisioning.md)
@@ -213,6 +215,9 @@ ht-degree: 100%
    + [Creare criteri di utilizzo dei dati](/help/privacy/create-data-usage-policies.md)
    + [Applicazione dei criteri di utilizzo dei dati nei canali Journey Optimizer](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [Mascherare i dati nei messaggi](/help/privacy/mask-data-in-messages.md)
++ Assistente IA {#ai-assistant}
+   + [Assistente IA](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
+   + [Assistente IA per la generazione di contenuti](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
 + Casi d’uso e best practice{#use-cases}
    + [Onboarding dei clienti](/help/use-cases/customer-onboarding.md)
    + [Carrello abbandonato](/help/use-cases/abandoned-cart.md)
