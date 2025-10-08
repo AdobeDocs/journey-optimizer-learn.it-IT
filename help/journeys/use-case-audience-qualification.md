@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Comprendi i casi d’uso applicabili ai percorsi di qualificazione di un pubblico. Scopri come creare un percorso con qualificazione di un pubblico e quali best practice applicare.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425028?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446212?quality=12&learn=on&captions=ita){transcript=true}
