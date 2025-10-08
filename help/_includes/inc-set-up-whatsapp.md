@@ -17,4 +17,4 @@ Cosa imparerai:
 
 Ideale per i marketer e gli sviluppatori che desiderano attivare la messaggistica WhatsApp nei percorsi cliente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470268/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470276/?learn=on&enablevpops&captions=ita)
