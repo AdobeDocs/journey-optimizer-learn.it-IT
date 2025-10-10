@@ -1,6 +1,6 @@
 ---
 source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '23'
 ht-degree: 100%
 
@@ -9,7 +9,7 @@ ht-degree: 100%
 
 Scopri cos’è un messaggio in-app. Scopri come creare, configurare e pubblicare i messaggi in-app nelle campagne.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451890?quality=12&learn=on&captions=ita){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3410430?quality=12&learn=on){transcript=true}
 
 ## Risorse aggiuntive
 
