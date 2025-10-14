@@ -20,7 +20,7 @@ ht-degree: 9%
 
 I tag Adobe Experience Platform vengono utilizzati per inviare il CRMID a Adobe Experience Platform (AEP) perché fornisce un meccanismo flessibile e basato su eventi per la trasmissione dei dati di identità direttamente dal browser. L’invio di CRMID dopo l’accesso dell’utente consente ad AEP di collegare l’ECID anonimo al profilo di gestione delle relazioni con i clienti noto, consentendo un’unione precisa delle identità. Questo collegamento costituisce la base per la creazione di profili cliente unificati, la qualificazione dei tipi di pubblico e la distribuzione di esperienze personalizzate in tempo reale in Adobe Journey Optimizer (AJO).
 
-È stata creata una proprietà Experience Platform Tags denominata _**FinWise**_. Le seguenti estensioni sono state aggiunte alla proprietà Tags
+È stata creata una proprietà Experience Platform Tags denominata _&#x200B;**FinWise**&#x200B;_. Le seguenti estensioni sono state aggiunte alla proprietà Tags
 
 ![tag-estensioni](assets/tags-extensions.png)
 
