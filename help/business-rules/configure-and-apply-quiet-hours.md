@@ -23,4 +23,4 @@ ht-degree: 0%
 
 Scopri come utilizzare la funzione relativa alle ore non interattive di Adobe Journey Optimizer per impedire l’invio di messaggi ai clienti durante intervalli di tempo specifici, consentendo agli addetti al marketing di evitare l’invio di comunicazioni in momenti non appropriati e migliorando il coinvolgimento dei clienti.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475851/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475860/?captions=ita&learn=on&enablevpops)

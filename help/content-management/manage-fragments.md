@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Scopri come gestire, creare e utilizzare i frammenti in Adobe Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419932/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451190/?captions=ita&learn=on){transcript=true}
