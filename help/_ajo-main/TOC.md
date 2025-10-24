@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 6366425e14dcadfad7ccf3522ac746ba752e432c
 workflow-type: tm+mt
 source-wordcount: '971'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -36,8 +36,8 @@ ht-degree: 97%
       + [Introduzione alle campagne orchestrate](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
       + [Nozioni di base dell’archivio relazionale](/help/campaigns/orchestrated-campaigns/relational-store-basics.md)
 + Percorsi {#journeys}
-   + [Designer del percorso: panoramica](/help/journeys/journey-designer-overview.md)
-   + [Journey Agent - Panoramica](/help/ai-agents/journey-agent-overview.md)
+   + [Designer del percorso - Panoramica](/help/journeys/journey-designer-overview.md)
+   + [Agente Journey - Panoramica](/help/ai-agents/journey-agent-overview.md)
    + [Scopri il nuovo Designer del percorso](/help/journeys/new-journey-designer.md)
    + [Introduzione alla creazione di un percorso](/help/journeys/introduction-to-building-a-journey.md)
    + [Creare un profilo di test](/help/journeys/test-a-journey.md)
@@ -57,7 +57,7 @@ ht-degree: 97%
    + [Identificare potenziali conflitti](/help/conflict-management/identify-potential-conflicts.md)
    + [Assegnare punteggi di priorità](/help/conflict-management/assign-priority-score.md)
    + [Quota limite del percorso e definizione delle priorità](/help/conflict-management/journey-frequency-capping-and-prioritization.md)
-   + [Ore non interattive](/help/business-rules/configure-and-apply-quiet-hours.md)
+   + [Ore di silenzio](/help/business-rules/configure-and-apply-quiet-hours.md)
 + Profili, tipi di pubblico e iscrizioni {#profiles-audiences-subscriptions}
    + [Profili e tipi di pubblico: panoramica](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
    + [Profilo unificato e segmentazione - panoramica](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
@@ -69,7 +69,7 @@ ht-degree: 97%
 + Canali {#channels}
    + [Ottimizzazione delle app mobili: panoramica](/help/channels/mobile-app-optimization-overview.md)
    + Canale di esperienza basata su codice{#code-based-experience-channel}
-      + [Creare una campagna con esperienza basata su codice &#x200B;](/help/channels/create-a-code-based-experience-campaign.md)
+      + [Creare una campagna con esperienza basata su codice ](/help/channels/create-a-code-based-experience-campaign.md)
       + [Aggiungere campi modulo a modelli di canale di esperienza basata su codice](/help/channels/form-fields-in-code-based-experiences.md)
       + [Utilizzare la funzione Decisioni in un canale basato su codice](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + Canale direct mail{#direct-mail-channel}
