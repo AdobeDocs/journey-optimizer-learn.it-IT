@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 8d6fce4d2605d44e9abb1c9003edbf759cf89316
 workflow-type: tm+mt
 source-wordcount: '965'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -68,7 +68,7 @@ ht-degree: 98%
 + Canali {#channels}
    + [Ottimizzazione delle app mobili: panoramica](/help/channels/mobile-app-optimization-overview.md)
    + Canale di esperienza basata su codice{#code-based-experience-channel}
-      + [Creare una campagna con esperienza basata su codice &#x200B;](/help/channels/create-a-code-based-experience-campaign.md)
+      + [Creare una campagna con esperienza basata su codice ](/help/channels/create-a-code-based-experience-campaign.md)
       + [Aggiungere campi modulo a modelli di canale di esperienza basata su codice](/help/channels/form-fields-in-code-based-experiences.md)
       + [Utilizzare la funzione Decisioni in un canale basato su codice](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + Canale direct mail{#direct-mail-channel}
@@ -177,7 +177,7 @@ ht-degree: 98%
    + [Monitorare e analizzare il percorso con rapporti live](/help/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports.md)
    + [Monitorare e analizzare il percorso con i rapporti](/help/report-and-monitor/journey-reports.md)
    + [Rapporti a livello di canale](/help/report-and-monitor/channel-level-reports.md)
-   + [Analizza le prestazioni complessive del tuo percorso con tutti i rapporti temporali](/help/report-and-monitor/all-time-reports.md)
+   + [Analizzare le prestazioni complessive del percorso con tutti i rapporti tutte le ore](/help/report-and-monitor/all-time-reports.md)
    + [Esportare i rapporti in formato CSV](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [Utilizzare gli avvisi](/help/administration/alerts.md)
    + [Reporting migliorato con Customer Journey Analytics](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
