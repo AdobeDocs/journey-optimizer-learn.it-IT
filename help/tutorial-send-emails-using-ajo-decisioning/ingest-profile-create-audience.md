@@ -20,4 +20,4 @@ In questo video, scopri come creare uno schema di profilo, acquisire i dati dei 
 
 Scopri come definire campi chiave come nome, e-mail, stato di fedeltà e reddito annuale, caricare dati reali dei clienti e utilizzarli per creare un pubblico di clienti di alto valore.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476421/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476446/?captions=ita&learn=on)

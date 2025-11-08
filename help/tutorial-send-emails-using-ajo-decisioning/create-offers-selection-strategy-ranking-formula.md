@@ -17,4 +17,4 @@ ht-degree: 0%
 # Creare offerte, strategia di selezione, formula di classificazione
 
 Questo video spiega come creare le offerte, una strategia di selezione per scegliere le offerte e una formula di classificazione per assegnare loro un ordine di priorità
->[!VIDEO](https://video.tv.adobe.com/v/3476427/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476457/?captions=ita&learn=on)
