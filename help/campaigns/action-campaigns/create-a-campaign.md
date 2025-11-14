@@ -1,6 +1,6 @@
 ---
-title: Creare una campagna
-description: Scopri come distribuire contenuti una tantum a un pubblico specifico eseguendo azioni immediatamente o secondo una pianificazione specifica.
+title: Creare una campagna di azioni
+description: Scopri come creare e ottimizzare campagne d’azione in Adobe Journey Optimizer per fornire comunicazioni una tantum o ricorrenti con precisione e impatto.
 jira: KT-10590
 thumbnail: 346680.jpg
 feature: Campaigns
@@ -8,22 +8,19 @@ doc-type: feature video
 team: PM
 role: User
 level: Beginner
+last-substantial-update: 2025-11-14T00:00:00Z
 exl-id: 543678e6-5803-4997-a6ea-a45ed571d7d4
-source-git-commit: 62c4ee2d5a3e6c71646ae4f92eeee0491846832b
+source-git-commit: 5114ac4abcb6519e08b6aa170ed4ed6abf26ce6b
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 100%
+source-wordcount: '65'
+ht-degree: 18%
 
 ---
 
-# Creare una campagna
+# Creare una campagna di azioni
 
->[!IMPORTANT]
->
->Questa funzionalità è disponibile solo per gli utenti con accesso a un profilo di prodotto relativo a Campaign, come amministratore di Campaign, approvatore di Campaign, manager di Campaign e/o visualizzatore di Campaign. Per ulteriori informazioni su come assegnare i profili di prodotto, guarda [questo video](/help/set-up-access/access-management.md).
+Scopri come creare e ottimizzare campagne d’azione in Adobe Journey Optimizer per fornire comunicazioni una tantum o ricorrenti con precisione e impatto.
 
-Scopri come distribuire contenuti una tantum a un pubblico specifico eseguendo azioni immediatamente o secondo una pianificazione specifica.
+>[!VIDEO](https://video.tv.adobe.com/v/346680/?learn=on&enablevpops)
 
->[!VIDEO](https://video.tv.adobe.com/v/3412404?quality=12&learn=on&captions=ita){transcript=true}
-
-Per ulteriori informazioni su questa funzionalità, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/docs/journey-optimizer/using/campaigns/get-started-with-campaigns.html?lang=it).
+Per ulteriori informazioni su questa funzionalità, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/get-started-with-campaigns).
