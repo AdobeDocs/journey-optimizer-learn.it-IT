@@ -23,4 +23,4 @@ Scopri come creare e ottimizzare campagne d’azione in Adobe Journey Optimizer 
 
 >[!VIDEO](https://video.tv.adobe.com/v/346680/?learn=on&enablevpops)
 
-Per ulteriori informazioni su questa funzionalità, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/get-started-with-campaigns).
+Per ulteriori informazioni su questa funzionalità, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/campaigns/get-started-with-campaigns).
