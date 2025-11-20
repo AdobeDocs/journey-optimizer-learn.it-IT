@@ -23,8 +23,8 @@ Scopri come creare e distribuire comunicazioni mobili di impatto utilizzando Ado
 >[!NOTE]
 >
 >Se hai poca esperienza con Journey Optimizer, inizia acquisendo familiarità con Journey Optimizer completando questi corsi:
->1. [Crea e attiva tipi di pubblico in Adobe Journey Optimizer](https://experienceleague.adobe.com/en/courses/ajo-build-and-activate-audiences)
->2. [Organizzazione di percorsi e campagne di azione in Adobe Journey Optimizer](https://experienceleague.adobe.com/en/courses/ajo-design-and-manage-journeys-and-action-campaigns)
+>1. [Crea e attiva tipi di pubblico in Adobe Journey Optimizer](https://experienceleague.adobe.com/it/courses/ajo-build-and-activate-audiences)
+>2. [Organizzazione di percorsi e campagne di azione in Adobe Journey Optimizer](https://experienceleague.adobe.com/it/courses/ajo-design-and-manage-journeys-and-action-campaigns)
 
 
 ## Progettare e inviare messaggi mobili
@@ -48,14 +48,14 @@ Scopri quali canali mobili supporta Journey Optimizer e come configurare e invia
 #### Prerequisiti
 
 1. Verifica che l’app sia integrata con Mobile SDK e configurata per i canali mobili.
-2. Verificare che il [canale push](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup) sia stato configurato.
+2. Verificare che il [canale push](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup) sia stato configurato.
 3. Assicurati che i profili dei clienti e i segmenti di pubblico siano pronti per il targeting.
 
 #### Tutorial
 
 <!-- CARDS
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/push-channel/push-notifications-overview
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/push-channel/create-a-push-campaign
+* https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/channels/push-channel/push-notifications-overview
+* https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/channels/push-channel/create-a-push-campaign
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -86,7 +86,7 @@ Scopri quali canali mobili supporta Journey Optimizer e come configurare e invia
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/push-channel/create-a-push-campaign" title="Configurare e inviare una campagna push" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/channels/push-channel/create-a-push-campaign" title="Configurare e inviare una campagna push" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422017/?format=jpeg&nocache=1755891402391" alt="Configurare e inviare una campagna push"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -95,11 +95,11 @@ Scopri quali canali mobili supporta Journey Optimizer e come configurare e invia
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/push-channel/create-a-push-campaign" target="_blank" rel="referrer" title="Configurare e inviare una campagna push">Configurare e inviare una campagna push</a>
+                        <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/channels/push-channel/create-a-push-campaign" target="_blank" rel="referrer" title="Configurare e inviare una campagna push">Configurare e inviare una campagna push</a>
                     </p>
                     <p class="is-size-6">Scopri come configurare e inviare una notifica push con una campagna. </p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/push-channel/create-a-push-campaign" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/channels/push-channel/create-a-push-campaign" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
@@ -110,7 +110,7 @@ Scopri quali canali mobili supporta Journey Optimizer e come configurare e invia
 
 #### Documentazione del prodotto
 
-| ![Crea push &#x200B;](./assets/configuration.svg) [**Crea una notifica push**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/create-push){target="_blank"} | ![Progettare push &#x200B;](./assets/content-management.png){width="50"}[**Progettare una notifica push**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/design-push){target="_blank"} | ![Invia messaggio push &#x200B;](./assets/communication-channel.svg) [**Invia una notifica push**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/send-push){target="_blank"} |
+| ![Crea push &#x200B;](./assets/configuration.svg) [**Crea una notifica push**](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/channels/push/create-push){target="_blank"} | ![Progettare push &#x200B;](./assets/content-management.png){width="50"}[**Progettare una notifica push**](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/channels/push/design-push){target="_blank"} | ![Invia messaggio push &#x200B;](./assets/communication-channel.svg) [**Invia una notifica push**](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/channels/push/send-push){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB In-app]
@@ -126,9 +126,9 @@ Scopri quali canali mobili supporta Journey Optimizer e come configurare e invia
 #### Tutorial
 
 <!-- CARDS
-*https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/in-app-messages-overview
-* https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/author-in-app-messages.html
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-campaigns/action-campaigns/in-app
+*https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/in-app-messages-overview
+* https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/author-in-app-messages.html?lang=it
+* https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/create-campaigns/action-campaigns/in-app
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -159,7 +159,7 @@ Scopri quali canali mobili supporta Journey Optimizer e come configurare e invia
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-campaigns/action-campaigns/in-app" title="Creare una campagna in-app" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/create-campaigns/action-campaigns/in-app" title="Creare una campagna in-app" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3410430?format=jpeg&nocache=1755891402919" alt="Creare una campagna in-app"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -168,11 +168,11 @@ Scopri quali canali mobili supporta Journey Optimizer e come configurare e invia
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-campaigns/action-campaigns/in-app" target="_blank" rel="referrer" title="Creare una campagna in-app">Creare una campagna in-app</a>
+                        <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/create-campaigns/action-campaigns/in-app" target="_blank" rel="referrer" title="Creare una campagna in-app">Creare una campagna in-app</a>
                     </p>
                     <p class="is-size-6">Scopri cos’è un messaggio in-app. Scopri come creare, configurare e pubblicare i messaggi in-app nelle campagne.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-campaigns/action-campaigns/in-app" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/create-campaigns/action-campaigns/in-app" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ulteriori informazioni</span>
                 </a>
             </div>
@@ -184,13 +184,13 @@ Scopri quali canali mobili supporta Journey Optimizer e come configurare e invia
 #### Creazione di percorsi in-app
 
 <!--CARDS
-* https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/create-an-in-app-message-in-a-journey.html
-* https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/create-experiments-for-in-app-messages.html
+* https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/create-an-in-app-message-in-a-journey.html?lang=it
+* https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/create-experiments-for-in-app-messages.html?lang=it
 -->
 
 #### Documentazione
 
-| ![Crea messaggio &#x200B;](./assets/configuration.svg) [**Crea messaggi in-app mobili**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/create-in-app){target="_blank"} | ![Progetta contenuto &#x200B;](./assets/content-management.png){width="50"}[**Progetta contenuto in-app**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/design-in-app){target="_blank"} | ![Invia notifica &#x200B;](./assets/communication-channel.svg) [**Invia una notifica in-app**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/send-in-app){target="_blank"} |
+| ![Crea messaggio &#x200B;](./assets/configuration.svg) [**Crea messaggi in-app mobili**](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/channels/in-app/create-in-app){target="_blank"} | ![Progetta contenuto &#x200B;](./assets/content-management.png){width="50"}[**Progetta contenuto in-app**](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/channels/in-app/design-in-app){target="_blank"} | ![Invia notifica &#x200B;](./assets/communication-channel.svg) [**Invia una notifica in-app**](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/channels/in-app/send-in-app){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB Schede contenuto]
@@ -200,13 +200,13 @@ Scopri quali canali mobili supporta Journey Optimizer e come configurare e invia
 #### Prerequisiti
 
 1. Verifica che l’app sia integrata con Mobile SDK e configurata per i canali mobili.
-2. Verificare che il [canale in-app](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup) sia stato configurato.
+2. Verificare che il [canale in-app](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup) sia stato configurato.
 3. Assicurati che i profili cliente e pubblico siano pronti per il targeting.
 
 #### Tutorial
 
 <!-- CARDS
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/content-cards/create-content-cards
+* https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/channels/content-cards/create-content-cards
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -238,7 +238,7 @@ Scopri quali canali mobili supporta Journey Optimizer e come configurare e invia
 
 #### Documentazione del prodotto
 
-| ![Crea e configura schede contenuto &#x200B;](./assets/configuration.svg) [**Crea e configura schede contenuto**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/create-content-card){target="_blank"} | ![Schede contenuto progettazione &#x200B;](./assets/content-management.png){width="50"}[**Schede contenuto progettazione**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/design-content-card){target="_blank"} |
+| ![Crea e configura schede contenuto &#x200B;](./assets/configuration.svg) [**Crea e configura schede contenuto**](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/channels/content-card/create-content-card){target="_blank"} | ![Schede contenuto progettazione &#x200B;](./assets/content-management.png){width="50"}[**Schede contenuto progettazione**](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/channels/content-card/design-content-card){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB SMS/MMS/RCS]
@@ -247,15 +247,15 @@ Scopri quali canali mobili supporta Journey Optimizer e come configurare e invia
 
 #### Prerequisiti
 
-1. Assicurati che [credenziali SMS e canale](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel) e/o [credenziali MMS e canale](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces) siano stati configurati. La configurazione RCS è spiegata nell&#39;esercitazione seguente.
+1. Assicurati che [credenziali SMS e canale](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel) e/o [credenziali MMS e canale](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces) siano stati configurati. La configurazione RCS è spiegata nell&#39;esercitazione seguente.
 2. Assicurati che i profili dei clienti e i segmenti di pubblico siano pronti per il targeting.
 
 #### Tutorial su SMS
 
 <!-- CARDS
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-mms-messages-overview
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-sms-messages
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-double-opt-in
+* https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-mms-messages-overview
+* https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-sms-messages
+* https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-double-opt-in
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -286,7 +286,7 @@ Scopri quali canali mobili supporta Journey Optimizer e come configurare e invia
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-sms-messages" title="Configurare, creare e consegnare messaggi SMS" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-sms-messages" title="Configurare, creare e consegnare messaggi SMS" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420509?format=jpeg&nocache=1755891404139" alt="Configurare, creare e consegnare messaggi SMS"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -295,11 +295,11 @@ Scopri quali canali mobili supporta Journey Optimizer e come configurare e invia
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-sms-messages" target="_blank" rel="referrer" title="Configurare, creare e consegnare messaggi SMS">Configurare, creare e inviare messaggi SMS</a>
+                        <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-sms-messages" target="_blank" rel="referrer" title="Configurare, creare e consegnare messaggi SMS">Configurare, creare e inviare messaggi SMS</a>
                     </p>
                     <p class="is-size-6">Scopri come configurare, creare e consegnare messaggi SMS nelle campagne e nei percorsi Journey Optimizer.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-sms-messages" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-sms-messages" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ulteriori informazioni</span>
                 </a>
             </div>
@@ -309,7 +309,7 @@ Scopri quali canali mobili supporta Journey Optimizer e come configurare e invia
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-double-opt-in" title="Doppio consenso per Sinch e Infobip" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-double-opt-in" title="Doppio consenso per Sinch e Infobip" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427129/?format=jpeg&nocache=1755891404148" alt="Doppio consenso per Sinch e Infobip"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -318,11 +318,11 @@ Scopri quali canali mobili supporta Journey Optimizer e come configurare e invia
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-double-opt-in" target="_blank" rel="referrer" title="Doppio consenso per Sinch e Infobip">Doppio consenso per Sinch e Infobip</a>
+                        <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-double-opt-in" target="_blank" rel="referrer" title="Doppio consenso per Sinch e Infobip">Doppio consenso per Sinch e Infobip</a>
                     </p>
                     <p class="is-size-6">Scopri come configurare il doppio consenso per gli SMS.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-double-opt-in" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-double-opt-in" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
@@ -334,8 +334,8 @@ Scopri quali canali mobili supporta Journey Optimizer e come configurare e invia
 #### Tutorial su MMS e RCS
 
 <!-- CARDS
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-mms
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs
+* https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-mms
+* https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -343,7 +343,7 @@ Scopri quali canali mobili supporta Journey Optimizer e come configurare e invia
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-mms" title="Creare un messaggio MMS" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-mms" title="Creare un messaggio MMS" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428816/?format=jpeg&nocache=1755891404669" alt="Creare un messaggio MMS"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -352,11 +352,11 @@ Scopri quali canali mobili supporta Journey Optimizer e come configurare e invia
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-mms" target="_blank" rel="referrer" title="Creare un messaggio MMS">Creazione di un messaggio MMS</a>
+                        <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-mms" target="_blank" rel="referrer" title="Creare un messaggio MMS">Creazione di un messaggio MMS</a>
                     </p>
                     <p class="is-size-6">Scopri come collegare Journey Optimizer a un fornitore di servizi MMS e come creare una superficie di canale MMS.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-mms" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-mms" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
@@ -390,7 +390,7 @@ Scopri quali canali mobili supporta Journey Optimizer e come configurare e invia
 
 #### Documentazione del prodotto
 
-| ![Introduzione ai messaggi di testo &#x200B;](./assets/configuration.svg) [**Introduzione ai messaggi di testo**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/get-started-sms){target="_blank"} | ![Contenuto progettazione &#x200B;](./assets/content-management.png){width="50"}[**Creare messaggi SMS, MMS e RCS**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/create-sms){target="_blank"} | ![Invia notifica &#x200B;](./assets/communication-channel.svg) [**Controlla e invia messaggi di testo**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/send-sms){target="_blank"} |
+| ![Introduzione ai messaggi di testo &#x200B;](./assets/configuration.svg) [**Introduzione ai messaggi di testo**](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/channels/sms/get-started-sms){target="_blank"} | ![Contenuto progettazione &#x200B;](./assets/content-management.png){width="50"}[**Creare messaggi SMS, MMS e RCS**](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/channels/sms/create-sms){target="_blank"} | ![Invia notifica &#x200B;](./assets/communication-channel.svg) [**Controlla e invia messaggi di testo**](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/channels/sms/send-sms){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB Esperienze basate su codice]
@@ -405,8 +405,8 @@ Scopri quali canali mobili supporta Journey Optimizer e come configurare e invia
 #### Tutorial
 
 <!-- CARDS
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/form-fields-in-code-based-experiences
+* https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign
+* https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/form-fields-in-code-based-experiences
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -461,7 +461,7 @@ Scopri quali canali mobili supporta Journey Optimizer e come configurare e invia
 
 #### Documentazione del prodotto
 
-| ![Creare Esperienze Basate Su Codice &#x200B;](./assets/content-management.png){width="50"}[**Creare Esperienze Basate Su Codice**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/create-code-based-experiences-landing-page){target="_blank"} |
+| ![Creare Esperienze Basate Su Codice &#x200B;](./assets/content-management.png){width="50"}[**Creare Esperienze Basate Su Codice**](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/create-code-based-experiences-landing-page){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB WhatsApp]
@@ -476,8 +476,8 @@ Scopri quali canali mobili supporta Journey Optimizer e come configurare e invia
 #### Tutorial
 
 <!-- CARDS
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/whatsapp/whatsapp-introduction
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/whatsapp/create-a-whatsapp-journey
+* https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/channels/whatsapp/whatsapp-introduction
+* https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/channels/whatsapp/create-a-whatsapp-journey
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -532,7 +532,7 @@ Scopri quali canali mobili supporta Journey Optimizer e come configurare e invia
 
 #### Documentazione del prodotto
 
-| ![Crea messaggi WhatsApp &#x200B;](./assets/configuration.svg) [*Crea messaggi WhatsApp*](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/create-whatsapp){target="_blank"} | ![Anteprima, convalida e invio messaggi WhatsApp &#x200B;](./assets/communication-channel.svg){width="50"}[**Anteprima, convalida e invio messaggi WhatsApp**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/send-whatsapp){target="_blank"} |
+| ![Crea messaggi WhatsApp &#x200B;](./assets/configuration.svg) [*Crea messaggi WhatsApp*](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/channels/whatsapp/create-whatsapp){target="_blank"} | ![Anteprima, convalida e invio messaggi WhatsApp &#x200B;](./assets/communication-channel.svg){width="50"}[**Anteprima, convalida e invio messaggi WhatsApp**](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/channels/whatsapp/send-whatsapp){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!ENDTABS]
@@ -542,7 +542,7 @@ Scopri quali canali mobili supporta Journey Optimizer e come configurare e invia
 ### Trasmetti i messaggi ai momenti di valore per l’utente
 
 <!-- CARDS
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/identify-potential-conflicts
+* https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/conflict-management/identify-potential-conflicts
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -575,9 +575,9 @@ Scopri quali canali mobili supporta Journey Optimizer e come configurare e invia
 ### Personalizzazione dei contenuti
 
 <!-- CARDS
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/personalization-editor-overview
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/use-and-manage-saved-expressions-in-personalization-library
+* https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/personalize-content/personalization-editor-overview
+* https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization
+* https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/personalize-content/use-and-manage-saved-expressions-in-personalization-library
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -608,7 +608,7 @@ Scopri quali canali mobili supporta Journey Optimizer e come configurare e invia
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization" title="Utilizzare funzioni di assistenza per la personalizzazione" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization" title="Utilizzare funzioni di assistenza per la personalizzazione" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/334244?format=jpeg&nocache=1755891406861" alt="Utilizzare funzioni di assistenza per la personalizzazione"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -617,11 +617,11 @@ Scopri quali canali mobili supporta Journey Optimizer e come configurare e invia
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization" target="_blank" rel="referrer" title="Utilizzare funzioni di assistenza per la personalizzazione">Utilizzare funzioni di assistenza per la personalizzazione</a>
+                        <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization" target="_blank" rel="referrer" title="Utilizzare funzioni di assistenza per la personalizzazione">Utilizzare funzioni di assistenza per la personalizzazione</a>
                     </p>
                     <p class="is-size-6">Scopri come trasformare i valori di personalizzazione utilizzando le funzioni di assistenza alla personalizzazione e studia diversi casi d’uso per le funzioni di supporto.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
@@ -631,7 +631,7 @@ Scopri quali canali mobili supporta Journey Optimizer e come configurare e invia
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/use-and-manage-saved-expressions-in-personalization-library" title="Utilizzare e gestire le espressioni salvate nella libreria di personalizzazione" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/personalize-content/use-and-manage-saved-expressions-in-personalization-library" title="Utilizzare e gestire le espressioni salvate nella libreria di personalizzazione" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/340941?format=jpeg&nocache=1755891406844" alt="Utilizzare e gestire le espressioni salvate nella libreria di personalizzazione"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -640,11 +640,11 @@ Scopri quali canali mobili supporta Journey Optimizer e come configurare e invia
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/use-and-manage-saved-expressions-in-personalization-library" target="_blank" rel="referrer" title="Utilizzare e gestire le espressioni salvate nella libreria di personalizzazione">Utilizzare e gestire le espressioni salvate nella libreria di personalizzazione</a>
+                        <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/personalize-content/use-and-manage-saved-expressions-in-personalization-library" target="_blank" rel="referrer" title="Utilizzare e gestire le espressioni salvate nella libreria di personalizzazione">Utilizzare e gestire le espressioni salvate nella libreria di personalizzazione</a>
                     </p>
                     <p class="is-size-6">Scopri come utilizzare gli elementi libreria di personalizzazione salvati in un messaggio e come creare e gestire gli elementi libreria di personalizzazione.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/use-and-manage-saved-expressions-in-personalization-library" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/personalize-content/use-and-manage-saved-expressions-in-personalization-library" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ulteriori informazioni</span>
                 </a>
             </div>
@@ -656,8 +656,8 @@ Scopri quali canali mobili supporta Journey Optimizer e come configurare e invia
 ### Controlla la frequenza dei messaggi per evitare l’affaticamento dell’utente:
 
 <!-- CARDS
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/assign-priority-score
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/journey-frequency-capping-and-prioritization
+* https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/conflict-management/assign-priority-score
+* https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/conflict-management/journey-frequency-capping-and-prioritization
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
