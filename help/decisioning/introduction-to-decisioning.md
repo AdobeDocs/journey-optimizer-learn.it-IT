@@ -24,4 +24,4 @@ La funzione Decisioni semplifica la personalizzazione proponendo un catalogo cen
 
 Questo video offre una breve panoramica sulle funzionalità decisionali di Adobe Journey Optimizer
 
->[!VIDEO](https://video.tv.adobe.com/v/3451101?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3475871?captions=ita&quality=12&learn=on){transcript=true}
