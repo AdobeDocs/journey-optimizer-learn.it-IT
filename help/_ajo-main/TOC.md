@@ -4,7 +4,7 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial di Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: 8d6fce4d2605d44e9abb1c9003edbf759cf89316
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '965'
 ht-degree: 100%
 
@@ -79,8 +79,8 @@ ht-degree: 100%
       + [Creare contenuti con E-mail Designer](/help/channels/create-content-with-the-email-designer.md)
       + [Importare e creare contenuti e-mail HTML](/help/channels/import-and-author-html-email-content.md)
       + [Anteprima, bozza e pubblicazione](/help/channels/preview-proof-and-publish.md)
-   + Schede contenuto{#content-cards}
-      + [Creare schede contenuto](/help/channels/create-content-cards.md)
+   + Schede di contenuto{#content-cards}
+      + [Creare schede di contenuto](/help/channels/create-content-cards.md)
    + Canale in-app{#in-app-channel}
       + [Messaggi in-app: panoramica](/help/channels/in-app-messages-overview.md)
       + [Creare una campagna in-app](/help/channels/create-an-in-app-campaign.md)
