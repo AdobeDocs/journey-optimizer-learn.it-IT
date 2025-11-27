@@ -20,4 +20,4 @@ ht-degree: 100%
 
 In questo video scoprirai come utilizzare in modo efficace i rapporti tutte le ore di Adobe Journey Optimizer per ottenere insight sulle prestazioni a lungo termine per percorsi cliente, campagne e canali. Descrive come esplorare le dashboard chiave, interpretare i KPI essenziali, applicare filtri e intervalli di date e sfruttare strumenti come Rapporti sul percorso, Rapporti sulla campagna e il Generatore di insight per analisi più approfondite e rapporti personalizzati, consentendo ai marketer e ai responsabili di trasformare i dati in azioni.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475653/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475795/?captions=ita&learn=on&enablevpops)
