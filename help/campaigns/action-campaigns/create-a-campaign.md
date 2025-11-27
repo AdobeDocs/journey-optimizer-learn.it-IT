@@ -1,6 +1,6 @@
 ---
 title: Creare una campagna di azione
-description: Scopri come creare e ottimizzare campagne d’azione in Adobe Journey Optimizer per fornire comunicazioni una tantum o ricorrenti con precisione e impatto.
+description: Scopri come creare e ottimizzare campagne di azione in Adobe Journey Optimizer per fornire comunicazioni una tantum o ricorrenti con precisione e impatto.
 jira: KT-10590
 thumbnail: 346680.jpg
 feature: Campaigns
@@ -11,15 +11,15 @@ level: Beginner
 last-substantial-update: 2025-11-14T00:00:00Z
 exl-id: 543678e6-5803-4997-a6ea-a45ed571d7d4
 source-git-commit: d5658be3109f688d66fd34a82531afdcbffb05da
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '65'
-ht-degree: 18%
+ht-degree: 100%
 
 ---
 
 # Creare una campagna di azione
 
-Scopri come creare e ottimizzare campagne d’azione in Adobe Journey Optimizer per fornire comunicazioni una tantum o ricorrenti con precisione e impatto.
+Scopri come creare e ottimizzare campagne di azione in Adobe Journey Optimizer per fornire comunicazioni una tantum o ricorrenti con precisione e impatto.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346680/?learn=on&enablevpops)
 

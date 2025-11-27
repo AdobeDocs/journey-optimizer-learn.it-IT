@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Scopri come le funzionalità delle app mobili di Adobe Journey Optimizer trasformano il coinvolgimento cliente utilizzando esperienze personalizzate in tempo reale.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477006/?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476998/?learn=on)
