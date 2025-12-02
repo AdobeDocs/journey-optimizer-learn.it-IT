@@ -13,7 +13,7 @@ last-substantial-update: 2023-06-15T00:00:00Z
 hidefromtoc: false
 hide: false
 source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '38'
 ht-degree: 100%
 
@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Scopri i casi d’uso applicabili ai percorsi transazionali e come creare percorsi transazionali.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415684?quality=12&learn=on&captions=ita){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/334202?quality=12&learn=on){transcript=true}
