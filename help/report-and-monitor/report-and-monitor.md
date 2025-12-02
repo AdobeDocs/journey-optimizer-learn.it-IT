@@ -64,7 +64,7 @@ Questi tutorial offrono agli addetti al marketing gli strumenti per monitorare l
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports" title="Monitorare e analizzare il percorso con rapporti live" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470709/?format=jpeg&nocache=1764706279498" alt="Monitorare e analizzare il percorso con rapporti live"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470843/?captions=ita&format=jpeg&nocache=1764706279498" alt="Monitorare e analizzare il percorso con rapporti live"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -87,7 +87,7 @@ Questi tutorial offrono agli addetti al marketing gli strumenti per monitorare l
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/report-and-monitor/journey-reports" title="Monitorare e analizzare il percorso con i rapporti" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470710/?format=jpeg&nocache=1764706279432" alt="Monitorare e analizzare il percorso con i rapporti"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471471/?captions=ita&format=jpeg&nocache=1764706279432" alt="Monitorare e analizzare il percorso con i rapporti"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -110,7 +110,7 @@ Questi tutorial offrono agli addetti al marketing gli strumenti per monitorare l
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports" title="Rapporti a livello di canale" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424537/?format=jpeg&nocache=1764706279481" alt="Rapporti a livello di canale"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448047/?captions=ita&format=jpeg&nocache=1764706279481" alt="Rapporti a livello di canale"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -133,7 +133,7 @@ Questi tutorial offrono agli addetti al marketing gli strumenti per monitorare l
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/report-and-monitor/all-time-reports" title="Analizzare le prestazioni complessive del percorso con i rapporti tutte le ore" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475653/?format=jpeg&nocache=1764706279437" alt="Analizzare le prestazioni complessive del percorso con i rapporti tutte le ore"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475795/?captions=ita&format=jpeg&nocache=1764706279437" alt="Analizzare le prestazioni complessive del percorso con i rapporti tutte le ore"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -156,7 +156,7 @@ Questi tutorial offrono agli addetti al marketing gli strumenti per monitorare l
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/report-and-monitor/export-reports-in-csv-format" title="Esportare i rapporti in formato CSV" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424603/?format=jpeg&nocache=1764706279503" alt="Esportare i rapporti in formato CSV"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439620/?captions=ita&format=jpeg&nocache=1764706279503" alt="Esportare i rapporti in formato CSV"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -179,7 +179,7 @@ Questi tutorial offrono agli addetti al marketing gli strumenti per monitorare l
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/report-and-monitor/alerts" title="Utilizzare gli avvisi" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/336218?format=jpeg&nocache=1764706279431" alt="Utilizzare gli avvisi"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3423920?captions=ita&format=jpeg&nocache=1764706279431" alt="Utilizzare gli avvisi"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -202,7 +202,7 @@ Questi tutorial offrono agli addetti al marketing gli strumenti per monitorare l
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics" title="Reporting migliorato con Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430413/?format=jpeg&nocache=1764706279442" alt="Reporting migliorato con Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443159/?captions=ita&format=jpeg&nocache=1764706279442" alt="Reporting migliorato con Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
