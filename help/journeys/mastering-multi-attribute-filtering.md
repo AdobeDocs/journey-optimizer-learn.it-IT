@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Quando si utilizzano gli schemi di ricerca, spesso può essere necessario filtrare un elenco di oggetti in base a più attributi. Questo video spiega come eseguire il filtro basato su più attributi sugli schemi di ricerca utilizzando le funzioni filtro() nidificate. Questa funzione è particolarmente utile quando è necessario restringere un elenco di oggetti in base a più condizioni, ad esempio filtrando i prodotti nel carrello in base sia all’ID che al colore.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469312/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469326/?captions=ita&learn=on&enablevpops)

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Comprendere le funzionalità dell’area di lavoro del percorso.
 
->[!VIDEO](https://video.tv.adobe.com/v/342099?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/344633?captions=ita&quality=12&learn=on){transcript=true}
