@@ -7,7 +7,7 @@ ht-degree: 2%
 ---
 # Schede di contenuto - Panoramica
 
->[!VIDEO](https://video.tv.adobe.com/v/3458224/?learn=on&enablevpops){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3460093/?captions=ita&learn=on&enablevpops){transcript=true}
 
 ## Che cos&#39;è?
 
