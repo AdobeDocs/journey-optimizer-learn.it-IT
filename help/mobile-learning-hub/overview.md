@@ -1,15 +1,15 @@
 ---
 title: Hub di apprendimento mobile
-description: Questo è lo spazio di destinazione per sviluppatori, amministratori, addetti al marketing e analisti di dati, per scoprire di più sull’impostazione di canali mobili in entrata e in uscita e sulla loro trama in campagne potenti. Esplora le best practice, scopri come promuovere l’adozione e creare rapporti principali, il tutto in un’unica posizione, in modo che i team possano fornire esperienze mobili significative e basate su dati, in grado di connettersi con gli utenti in qualsiasi momento e ovunque.
+description: Inizia o eleva la tua strategia di coinvolgimento mobile con Adobe Journey Optimizer. Questo hub di apprendimento mobile offre a sviluppatori, amministratori, addetti al marketing e analisti tutto il necessario per configurare i canali mobili in entrata e in uscita e integrarli facilmente in campagne e percorsi cross-channel potenti. Esplora le best practice, scopri come promuovere l’adozione e configurare flussi di lavoro di reporting centralizzati, il tutto in un’unica posizione, per fornire esperienze mobili di impatto e basate sui dati, che raggiungono i clienti ovunque e in qualsiasi momento.
 feature: Overview
 role: User, Admin, Developer
 hide: true
 index: false
-last-substantial-update: 2025-08-22T00:00:00Z
+last-substantial-update: 2025-12-05T00:00:00Z
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
-source-git-commit: ab619c80bcc5df95af8e80c664c42e5c281bc648
+source-git-commit: 6faf1e92516a54afa9c987b693a27d2284726fff
 workflow-type: tm+mt
-source-wordcount: '916'
+source-wordcount: '928'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Inizia o eleva la tua strategia di coinvolgimento mobile con Adobe Journey Optim
 
 Esplora le best practice, scopri come promuovere l’adozione e configurare flussi di lavoro di reporting centralizzati, il tutto in un’unica posizione, per fornire esperienze mobili di impatto e basate sui dati, che raggiungono i clienti ovunque e in qualsiasi momento.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477006?captions=ita&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
 
 
 ## Panoramica del canale mobile
