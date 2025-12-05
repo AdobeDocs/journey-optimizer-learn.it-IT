@@ -7,20 +7,20 @@ hide: true
 index: false
 last-substantial-update: 2025-08-22T00:00:00Z
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
-source-git-commit: 37ef25f7652c59378c2387cdb1763c8e52e4a681
+source-git-commit: ab619c80bcc5df95af8e80c664c42e5c281bc648
 workflow-type: tm+mt
-source-wordcount: '900'
+source-wordcount: '916'
 ht-degree: 0%
 
 ---
 
 # Journey Optimizer - Centro per l’apprendimento mobile
 
-Jumpstart o livellamento con i canali mobili in Adobe Journey Optimizer (AJO). Questo è lo spazio di destinazione per sviluppatori, amministratori, addetti al marketing e analisti di dati, per scoprire di più sulla configurazione di canali mobili in entrata e in uscita o per la creazione di campagne avanzate.
+Inizia o eleva la tua strategia di coinvolgimento mobile con Adobe Journey Optimizer. Questo hub di apprendimento mobile offre a sviluppatori, amministratori, addetti al marketing e analisti tutto il necessario per configurare i canali mobili in entrata e in uscita e integrarli facilmente in campagne e percorsi cross-channel potenti.
 
-Esplora le best practice, scopri come promuovere l’adozione e creare rapporti principali, il tutto in un’unica posizione, in modo che i team possano fornire esperienze mobili significative e basate su dati, in grado di connettersi con gli utenti in qualsiasi momento e ovunque.
+Esplora le best practice, scopri come promuovere l’adozione e configurare flussi di lavoro di reporting centralizzati, il tutto in un’unica posizione, per fornire esperienze mobili di impatto e basate sui dati, che raggiungono i clienti ovunque e in qualsiasi momento.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477006?captions=ita&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
 
 
 ## Panoramica del canale mobile
@@ -29,9 +29,9 @@ Journey Optimizer supporta sia i canali mobili in entrata che in uscita:
 
 ### Canali in uscita
 
-I canali in uscita vengono utilizzati per **inviare in modo proattivo messaggi** ai clienti senza richiedere una precedente interazione. Sono ideali per campagne, promozioni e comunicazioni transazionali.
+I canali in uscita ti consentono di inviare messaggi ai clienti in modo proattivo senza richiedere un’interazione precedente. Queste interazioni sono ideali per campagne, promozioni o eventi transazionali.
 
-Questi canali applicano **Criteri di consenso personalizzati** al momento dell&#39;invio dei messaggi. Se non viene concesso il consenso per una specifica azione di marketing, la consegna del messaggio viene bloccata.
+Tutti i canali in uscita in Adobe Journey Optimizer applicano criteri di consenso personalizzati al momento dell’invio dei messaggi. Se non viene concesso il consenso per una specifica azione di marketing, il messaggio viene eliminato automaticamente per garantire la conformità della consegna.
 
 | ![Notifiche push](/help/mobile-learning-hub/assets/mobile-phone.webp){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[Notifiche push](/help/mobile-learning-hub/channels/push-notifications-overview.md)** | ![SMS/MMS/RCS](/help/mobile-learning-hub/assets/SMS.png){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[SMS/MMS/RCS](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md)** | ![WhatsApp](/help/mobile-learning-hub/assets/whatsapp.webp){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md)** |
 |-------------------------------------|------------------------------------|-------------------------------|
@@ -39,7 +39,7 @@ Questi canali applicano **Criteri di consenso personalizzati** al momento dell&#
 
 ### Canali in entrata
 
-I canali in entrata sono progettati per **interazioni avviate dal cliente**, consentendo esperienze personalizzate quando gli utenti interagiscono con il tuo marchio. Supportano la **personalizzazione in tempo reale** e l&#39;**acquisizione dati**, ad esempio i moduli delle pagine di destinazione che confluiscono in Adobe Experience Platform (AEP) per la segmentazione e il targeting.
+I canali in entrata supportano le interazioni avviate dai clienti, consentendoti di fornire esperienze personalizzate nel momento in cui gli utenti interagiscono con il brand. Consentono la personalizzazione in tempo reale e l’acquisizione dei dati, ad esempio i moduli delle pagine di destinazione o i comportamenti sul sito, che confluiscono direttamente in Adobe Experience Platform (AEP) per la segmentazione, il targeting e l’attivazione tra percorsi.
 
 
 | ![Messaggi In-App](/help/mobile-learning-hub/assets/frescopa-in-app.png){width=&quot;250&quot;,height=&quot;50%&quot;}<br> **[Messaggi In-App](/help/mobile-learning-hub/channels/in-app-messages-overview.md)** | ![Schede contenuto](/help/mobile-learning-hub/assets/content-card.jpeg){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[Schede contenuto](/help/mobile-learning-hub/channels/content-cards-overview.md)** | ![Esperienza basata su codice](/help/mobile-learning-hub/assets/code-based.png){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[Esperienza basata su codice](/help/mobile-learning-hub/channels/code-based-experience-overview.md)** |

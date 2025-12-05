@@ -1,20 +1,19 @@
 ---
-source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
+source-git-commit: ab619c80bcc5df95af8e80c664c42e5c281bc648
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '296'
 ht-degree: 2%
 
 ---
 # Schede di contenuto - Panoramica
 
->[!VIDEO](https://video.tv.adobe.com/v/3460093/?learn=on&enablevpops&captions=ita){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3458224/?learn=on&enablevpops){transcript=true}
 
 ## Che cos&#39;è?
 
-Le **schede di contenuto** sono messaggi in-app persistenti che risiedono in una casella in entrata o un feed dedicato all&#39;interno dell&#39;app. A differenza delle notifiche push, non interrompono l’utente e possono essere visualizzate comodamente.\
-Sono ideali per la distribuzione di **contenuti non urgenti**, **informativi** o **contenuti promozionali** che beneficiano della visibilità nel tempo.
+Le **schede di contenuto** sono messaggi persistenti in-app visualizzati in una casella in entrata dedicata o in un feed all&#39;interno dell&#39;app. A differenza delle notifiche push, non interrompono l’utente e possono essere visualizzate ogni volta che l’utente lo desidera.
 
-Considera le schede dei contenuti come un &quot;centro messaggi&quot; in-app o un newsfeed personalizzato.
+Sono ideali per **contenuti non urgenti**, **informativi** o **contenuti promozionali** che beneficiano di una visibilità e di un&#39;esposizione ripetute più lunghe. Considera le schede di contenuto come un &quot;centro messaggi&quot; in-app o un feed di contenuti personalizzati in cui gli utenti possono sfogliare gli aggiornamenti al proprio ritmo.&quot;
 
 ### Esempi:
 

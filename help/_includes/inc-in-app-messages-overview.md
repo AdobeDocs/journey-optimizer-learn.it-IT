@@ -1,7 +1,7 @@
 ---
-source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
+source-git-commit: ab619c80bcc5df95af8e80c664c42e5c281bc648
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '446'
 ht-degree: 0%
 
 ---
@@ -9,16 +9,16 @@ ht-degree: 0%
 
 ## Cosa sono i messaggi in-app?
 
-I messaggi in-app sono messaggi che vengono visualizzati all’interno di un’app mentre l’utente la utilizza attivamente. Si tratta di messaggi di tipo sovrapposizione che si trovano in cima all’app. Non vengono visualizzati nella schermata di blocco o all’esterno dell’app, ma come banner, pop-up o schede di piccole dimensioni mentre l’utente esplora l’app.
+I messaggi in-app vengono visualizzati all’interno dell’app mobile mentre un utente è attivamente coinvolto. Questi messaggi in stile sovrapposizione vengono visualizzati come banner, pop-up o schede direttamente sull’interfaccia dell’app. Non vengono visualizzati nella schermata di blocco o all’esterno dell’ambiente dell’app.
 
-I messaggi in-app vengono attivati da specifiche azioni o condizioni dell’utente, ad esempio la visualizzazione di una determinata pagina, il completamento di un acquisto o l’appartenenza a un segmento di pubblico mirato.
+I messaggi in-app vengono attivati da specifiche azioni o condizioni dell’utente, ad esempio la visualizzazione di una schermata specifica, il completamento di un acquisto o la qualificazione per un segmento di pubblico mirato.
 
 
-Ad esempio:
+Gli esempi includono:
 
-* Un gioco potrebbe mostrare un pop-up che spiega una nuova funzione nel momento in cui l&#39;utente la sblocca.
-* Un’app per gli acquisti potrebbe mostrare un banner con un codice coupon mentre l’utente esplora gli articoli.
-* Un’app per social media potrebbe mostrare un messaggio che suggerisce all’utente di seguire i nuovi account.
+* Un gioco che mostra un pop-up che introduce una nuova funzione nel momento in cui l&#39;utente lo sblocca.
+* Un’app di acquisto che mostra un banner con un codice coupon mentre l’utente esplora i prodotti.
+* Un’app social che suggerisce nuovi account da seguire in base all’attività corrente
 
 ## Casi d’uso
 
