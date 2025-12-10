@@ -39,7 +39,7 @@ Il quarto punto di errore è **esperienze fedeltà non incorporate in tutti i pu
 
 La combinazione di questi errori porta a quella che può essere definita **dissonanza fedeltà**, il divario psicologico tra ciò che il cliente si aspetta e ciò che il brand offre. La fedeltà omni-channel risolve questo problema allineando identità, dati, decisioni, orchestrazione del percorso e esperienza utente intorno a un’unica narrazione continua.
 
----
+&#x200B;---
 
 ## &#x200B;2. Che cosa significa veramente la fedeltà omni-channel
 
