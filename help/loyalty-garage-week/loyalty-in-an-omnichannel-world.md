@@ -5,7 +5,7 @@ feature: Overview
 role: User, Admin, Developer
 hide: true
 index: false
-source-git-commit: 1cdf8be6fc76e3e67f0180fad6a0979ab2e6b07b
+source-git-commit: 42664e9b81482c2c7e3cbec5e02dcc256b6b5272
 workflow-type: tm+mt
 source-wordcount: '2128'
 ht-degree: 0%
@@ -38,8 +38,6 @@ Il terzo punto di errore è la **sincronizzazione dei dati basata su batch**. Mo
 Il quarto punto di errore è **esperienze fedeltà non incorporate in tutti i punti di contatto cliente**. Molti programmi mostrano fedeltà solo nell’app o nelle comunicazioni e-mail. Ma i clienti si impegnano ovunque. Il valore della fedeltà deve essere visibile nella home page, nelle pagine dei dettagli del prodotto, nel carrello, nelle notifiche push, nei thread SMS, nelle ricevute digitali, nelle interfacce del call center e nella segnaletica del negozio fisico. Quando la fedeltà è invisibile o incoerente, i clienti percepiscono meno valore e si impegnano meno frequentemente.
 
 La combinazione di questi errori porta a quella che può essere definita **dissonanza fedeltà**, il divario psicologico tra ciò che il cliente si aspetta e ciò che il brand offre. La fedeltà omni-channel risolve questo problema allineando identità, dati, decisioni, orchestrazione del percorso e esperienza utente intorno a un’unica narrazione continua.
-
-&#x200B;---
 
 ## &#x200B;2. Che cosa significa veramente la fedeltà omni-channel
 
