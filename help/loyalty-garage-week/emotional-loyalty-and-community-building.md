@@ -5,7 +5,7 @@ feature: Overview
 role: User, Admin, Developer
 hide: true
 index: false
-source-git-commit: 42664e9b81482c2c7e3cbec5e02dcc256b6b5272
+source-git-commit: 5a535afbd93b624bf16b29af1526dc659fb31b1d
 workflow-type: tm+mt
 source-wordcount: '2156'
 ht-degree: 0%
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 # Fedeltà emotiva e community building
 
-In che modo i brand creano identità, appartenenza e sostegno attraverso la fedeltà basata sull’esperienza
+## In che modo i brand creano identità, appartenenza e sostegno attraverso la fedeltà basata sull’esperienza
 
-## Sintesi
+### Sintesi
 
 La fedeltà emotiva, ovvero il livello di connessione dei clienti all&#39;identità, ai valori e alla comunità di un marchio, sta diventando il principale differenziatore competitivo nella moderna strategia di fedeltà. I tradizionali programmi di fidelizzazione sulle transazioni, basati su punti, sconti e semplici meccanismi di guadagno/bruciatura, rimangono importanti ma non creano più una differenziazione significativa nei mercati saturi. Con l&#39;aumento della trasparenza dei prezzi, la riduzione degli attriti dovuti al cambio di fornitore e la maggiore responsabilizzazione dei consumatori, i programmi transazionali da soli non possono sostenere la fedeltà o la difesa a lungo termine. Al contrario, i brand che ottengono prestazioni di fidelizzazione fuori misura sono quelli che creano **community**, non programmi: marchi che aiutano i clienti a esprimere l&#39;identità, perseguire obiettivi aspirazionali, interagire con altri membri e partecipare a rituali condivisi che creano attaccamento emotivo.
 

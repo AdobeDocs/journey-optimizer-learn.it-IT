@@ -5,7 +5,7 @@ feature: Overview
 role: User, Admin, Developer
 hide: true
 index: false
-source-git-commit: 42664e9b81482c2c7e3cbec5e02dcc256b6b5272
+source-git-commit: 5a535afbd93b624bf16b29af1526dc659fb31b1d
 workflow-type: tm+mt
 source-wordcount: '2128'
 ht-degree: 0%
@@ -13,10 +13,11 @@ ht-degree: 0%
 ---
 
 
+# Fedeltà in un mondo omnicanale
 
-# Fedeltà in un mondo omni-channel: creazione di un’esperienza di fedeltà unificata, predittiva e in tempo reale per tutti i punti di contatto dei clienti
+## Creazione di un’esperienza di fidelizzazione unificata, predittiva e in tempo reale su tutti i punti di contatto dei clienti
 
-## Sintesi
+### Sintesi
 
 Il moderno percorso di clienti è frammentato, non lineare e intensamente cross-channel. I consumatori passano fluidamente da un’app mobile a un altro, da un browser desktop a un altro, da esperienze in-store a call center, e-mail, SMS, notifiche push, canali social, dispositivi connessi e retargeting di contenuti multimediali a pagamento. Tuttavia, la maggior parte dei programmi di fidelizzazione continua a funzionare utilizzando sistemi isolati, incentivi incentrati sul canale ed elaborazione basata su batch che non riescono a tenere il passo con le aspettative dei clienti in termini di immediatezza, continuità e personalizzazione. Il risultato è un’esperienza di fidelizzazione slegata: l’e-mail dice che è disponibile una ricompensa, mentre l’app visualizza informazioni obsolete; il personale all’interno del negozio non è in grado di visualizzare il livello o l’idoneità ai benefici; le notifiche push non sono sincronizzate con i percorsi e-mail; i clienti ricevono offerte in conflitto tra loro; le mancate corrispondenze tra identità causano la perdita di avanzamento; e il valore della fedeltà non è visibile in modo coerente tra le superfici del marchio.
 
