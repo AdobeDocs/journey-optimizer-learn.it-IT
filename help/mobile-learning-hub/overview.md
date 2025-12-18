@@ -3,11 +3,11 @@ title: Hub di apprendimento mobile
 description: Inizia o eleva la tua strategia di coinvolgimento mobile con Adobe Journey Optimizer. Questo hub di apprendimento mobile offre a sviluppatori, amministratori, addetti al marketing e analisti tutto il necessario per configurare i canali mobili in entrata e in uscita e integrarli facilmente in campagne e percorsi cross-channel potenti. Esplora le best practice, scopri come promuovere l’adozione e configurare flussi di lavoro di reporting centralizzati, il tutto in un’unica posizione, per fornire esperienze mobili di impatto e basate sui dati, che raggiungono i clienti ovunque e in qualsiasi momento.
 feature: Overview
 role: User, Admin, Developer
-hide: true
-index: false
-last-substantial-update: 2025-12-05T00:00:00Z
+hide: false
+index: true
+last-substantial-update: 2025-12-18T00:00:00Z
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
-source-git-commit: 6faf1e92516a54afa9c987b693a27d2284726fff
+source-git-commit: eab42c39d0e7b105ef36e2e2337539511f91440d
 workflow-type: tm+mt
 source-wordcount: '928'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Inizia o eleva la tua strategia di coinvolgimento mobile con Adobe Journey Optim
 
 Esplora le best practice, scopri come promuovere l’adozione e configurare flussi di lavoro di reporting centralizzati, il tutto in un’unica posizione, per fornire esperienze mobili di impatto e basate sui dati, che raggiungono i clienti ovunque e in qualsiasi momento.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477006?captions=ita&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
 
 
 ## Panoramica del canale mobile
