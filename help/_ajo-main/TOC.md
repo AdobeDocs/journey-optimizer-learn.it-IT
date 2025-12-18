@@ -22,7 +22,7 @@ ht-degree: 99%
    + [Funzionalità mobili per gli addetti al marketing](/help/channels/mobile-capabilities.md)
    + [Funzionalità mobili per sviluppatori](/help/channels/mobile-capabilities-for-developers.md)
    + [Ottenere aiuto con Assistente IA](/help/ai-agents/ai-assistant.md)
-+ [Journey Optimizer - Centro per l&#39;apprendimento mobile](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/overview)
++ [Journey Optimizer - Centro per l&#39;apprendimento mobile](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/mobile-learning-hub/overview)
 + Campagne {#create-campaigns}
    + Campagne di azione {#action-campaigns}
       + [Creare una campagna](/help/campaigns/action-campaigns/create-a-campaign.md)
@@ -64,7 +64,7 @@ ht-degree: 99%
    + [Creare tipi di pubblico tramite il generatore di regole](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [Creare un pubblico caricando un file CSV](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
    + [Creare di tipi di pubblico tramite Web SDK (tutorial)](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
-   + [Valutare i tipi di pubblico su richiesta](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/audience-builder/evaluate-audiences-on-demand)
+   + [Valutare i tipi di pubblico su richiesta](https://experienceleague.adobe.com/it/docs/platform-learn/tutorials/audiences/audience-builder/evaluate-audiences-on-demand)
    + [Iscrizioni e pagine di destinazione](/help/subscriptions-and-landing-pages.md)
 + Canali {#channels}
    + [Ottimizzazione delle app mobili: panoramica](/help/channels/mobile-app-optimization-overview.md)
