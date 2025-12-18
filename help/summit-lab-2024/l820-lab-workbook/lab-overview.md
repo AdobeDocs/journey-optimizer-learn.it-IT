@@ -10,7 +10,7 @@ jira: KT-14977
 thumbnail: KT-14977.jpeg
 last-substantial-update: 2024-03-26T00:00:00Z
 exl-id: e6d029f9-c936-427b-9d6e-4e296fd3c3ce
-source-git-commit: 55ba1a46c1473d94847e7fccc69ed2a33badb54c
+source-git-commit: 1de5297037b9ec707fca7f28e65ae6149f7ad076
 workflow-type: tm+mt
 source-wordcount: '503'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # CARTELLA DI LAVORO LAB
 
-![Adobe Summit - testo alternativo](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/adobe-summit.png "Adobe Summit")
+![Adobe Summit - testo alternativo](/help/summit-lab-2024/l820-lab-workbook/assets/adobe-summit.png "Adobe Summit")
 
 ## L820 - Creare momenti mobili personalizzati con Adobe Journey Optimizer
 
@@ -51,7 +51,7 @@ In questo laboratorio pratico puoi esplorare vari scenari mobili e imparare a im
 
 * Conoscere il proprio numero di posto: è possibile trovare il proprio numero di posto sulla scrivania della macchina da laboratorio:
 
-![Postazione numero](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/locate-seat-number.png)
+![Postazione numero](/help/summit-lab-2024/l820-lab-workbook/assets/locate-seat-number.png)
 È necessario accedere a:
 
 * [Adobe Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-ajo-lab/journey-optimizer/home){target="_blank"} - i dettagli di accesso vengono forniti durante gli esercizi.
@@ -67,3 +67,4 @@ Il cuore dell&#39;attività di Fréscopa risiede nei suoi servizi di abbonamento
 A complemento dei suoi servizi di abbonamento, il sito web e l&#39;app mobile di Fréscopa offrono una gamma completa di prodotti correlati al caffè, consentendo ai clienti di esplorare e migliorare i loro rituali del caffè. Dalle attrezzature per la produzione della birra agli accessori artigianali, Fréscopa offre un unico punto vendita per gli appassionati di caffè che cercano qualità e convenienza.
 
 L&#39;impegno di Fréscopa per l&#39;eccellenza si estende oltre i suoi prodotti, in quanto l&#39;azienda si dedica alla creazione di un percorso di clienti fluido e piacevole. La combinazione di tecnologie innovative e un approccio incentrato sul cliente posiziona Fréscopa in prima linea nell&#39;industria del caffè in evoluzione. In sostanza, Fréscopa incarna la fusione di passione e tecnologia, ridefinendo il modo in cui gli individui sperimentano e godono il loro caffè. Con un focus sulla qualità, la comodità e le offerte personalizzate, Fréscopa invita gli appassionati di caffè a intraprendere un percorso di gusto, consegnato direttamente alla loro porta.
+
