@@ -3,10 +3,10 @@ user-guide-title: Tutorial su Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial di Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 8d6fce4d2605d44e9abb1c9003edbf759cf89316
-workflow-type: ht
-source-wordcount: '965'
-ht-degree: 100%
+source-git-commit: b93a715d5ef1fec814035fa1f86c082d041cf666
+workflow-type: tm+mt
+source-wordcount: '963'
+ht-degree: 99%
 
 ---
 
@@ -63,7 +63,7 @@ ht-degree: 100%
    + [Creare tipi di pubblico tramite il generatore di regole](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [Creare un pubblico caricando un file CSV](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
    + [Creare di tipi di pubblico tramite Web SDK (tutorial)](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
-   + [Valutare i tipi di pubblico su richiesta](https://experienceleague.adobe.com/it/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)
+   + [Valutare i tipi di pubblico su richiesta](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/audience-builder/evaluate-audiences-on-demand)
    + [Iscrizioni e pagine di destinazione](/help/subscriptions-and-landing-pages.md)
 + Canali {#channels}
    + [Ottimizzazione delle app mobili: panoramica](/help/channels/mobile-app-optimization-overview.md)
@@ -220,7 +220,7 @@ ht-degree: 100%
 + Assistente IA {#ai-assistant}
    + [Assistente IA](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [Assistente IA per la generazione di contenuti](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [Journey Agent - Panoramica](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
+   + [Agente Journey - Panoramica](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
    + [Agente di sperimentazione - Panoramica](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
 + Casi d’uso e best practice{#use-cases}
    + [Onboarding dei clienti](/help/use-cases/customer-onboarding.md)
@@ -239,7 +239,7 @@ ht-degree: 100%
    + [Configurare una sandbox di formazione](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
    + [Sfide](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
    + Summit Labs {#summit-labs}
-      + [Creare esperienze personalizzate per dispositivi mobili con Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
-      + [Ridimensionamento dell’orchestrazione a un coinvolgimento omnicanale in Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
+      + [Creare esperienze personalizzate per dispositivi mobili con Adobe Journey Optimizer (2024)](/help/summit-labs/summit-lab-2024/l820-lab-workbook/lab-overview.md){target="_blank"}
+      + [Ridimensionamento dell’orchestrazione a un coinvolgimento omnicanale in Adobe Journey Optimizer (2025)](/help/summit-labs/summit-lab-2025/introduction.md){target="_blank"}
 + Sessioni live e approfondimenti {#live-sessions-and-deep-dives}
    + [Registrazioni di eventi Experience League Live](/help/_ajo-main/experience-league-live-show-recordings.md)
