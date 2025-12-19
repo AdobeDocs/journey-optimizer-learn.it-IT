@@ -9,7 +9,7 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: 4e968512-ebc1-42ee-873c-41d6c1ec3056
-source-git-commit: 55ba1a46c1473d94847e7fccc69ed2a33badb54c
+source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 2%
@@ -22,7 +22,7 @@ Installa l’app mobile su iOS o Android&amp;trade.
 
 **Passaggio 1:** Analizza il codice QR del dispositivo dal seguente:
 
-![Codici QR per app mobile SecureFinancial](/help/summit-labs/summit-lab-2024-lab-assets/assets/dx-demo-app-qr-codes.png)
+![Codici QR per app mobile SecureFinancial](/help/summit-lab-2024-lab-assets/assets/dx-demo-app-qr-codes.png)
 
 Installazione specifica del dispositivo:
 
@@ -34,11 +34,11 @@ Installazione specifica del dispositivo:
 
 1. Fai clic su **Installa** nella finestra modale visualizzata nell&#39;app della fotocamera.
 
-   ![Installazione popup](/help/summit-labs/summit-lab-2024-lab-assets/assets/install_popup.png){width="250" align="center" zoomable="yes"}
+   ![Installazione popup](/help/summit-lab-2024-lab-assets/assets/install_popup.png){width="250" align="center" zoomable="yes"}
 
 2. Chiudi l&#39;app **Fotocamera** e cerca l&#39;app DX Demo sullo schermo
 
-   ![App demo DX](/help/summit-labs/summit-lab-2024-lab-assets/assets/dx_demo_on_ios_screen.png){width="250" align="center" zoomable="yes"}
+   ![App demo DX](/help/summit-lab-2024-lab-assets/assets/dx_demo_on_ios_screen.png){width="250" align="center" zoomable="yes"}
 
 
 ## Passaggio 3: fidarsi di Adobe Enterprise Developer
@@ -47,14 +47,14 @@ Dopo aver installato l’app, devi considerare attendibile lo sviluppatore azien
 
 1. Vai a **Impostazioni** > **Generale** > **Gestione VPN e dispositivi**.
 
-   ![Schermata impostazioni gestione dispositivi](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-2-device-management-screen.PNG "Schermata impostazioni gestione dispositivi"){width="250" align="center" zoomable="yes"}
+   ![Schermata impostazioni gestione dispositivi](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-2-device-management-screen.PNG "Schermata impostazioni gestione dispositivi"){width="250" align="center" zoomable="yes"}
 
 1. Selezionare **Adobe Systems Inc** e **Trust Adobe Systems Inc**.
 
-   ![Schermata di selezione di Adobe Systems](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-3-adobe-systems.PNG "Schermata di selezione di Adobe Systems"){width="250" align="center" zoomable="yes"}
+   ![Schermata di selezione di Adobe Systems](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-3-adobe-systems.PNG "Schermata di selezione di Adobe Systems"){width="250" align="center" zoomable="yes"}
    <br>
 
-   ![Considera attendibile la schermata dei sistemi Adobe](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG){width="250" align="center" zoomable="yes"}
+   ![Considera attendibile la schermata dei sistemi Adobe](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG){width="250" align="center" zoomable="yes"}
 
    Ora dovresti essere in grado di avviare l’app * SecureFinancial** sul tuo iPhone:
 
@@ -65,9 +65,9 @@ Dopo aver installato l’app, devi considerare attendibile lo sviluppatore azien
 
 Su Android, scarica e installa l’APP seguendo le istruzioni di avviso visualizzate qui:
 
-![Schermata di download di Android](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-5-android-download.jpg "Schermata di download di Android"){width="250" align="center" zoomable="yes"}
+![Schermata di download di Android](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-5-android-download.jpg "Schermata di download di Android"){width="250" align="center" zoomable="yes"}
 <br>
-![Schermata di installazione di Android](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-6-android-installation.jpg){width="250" align="center" zoomable="yes"}
+![Schermata di installazione di Android](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-6-android-installation.jpg){width="250" align="center" zoomable="yes"}
 
 Ora dovresti essere in grado di avviare l’app * SecureFinancial** sul tuo dispositivo Android:
 
