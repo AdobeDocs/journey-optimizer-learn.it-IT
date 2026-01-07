@@ -19,7 +19,7 @@ ht-degree: 0%
 Configura il modulo per inviare i dati di invio a Adobe Experience Platform in tempo reale utilizzando un’integrazione basata su HTTP, garantendo l’allineamento del payload dell’evento allo schema.
 
 Definisci endpoint di streaming HTTP
->[!VIDEO](https://video.tv.adobe.com/v/3478496)
+>[!VIDEO](https://video.tv.adobe.com/v/3478504?captions=ita)
 
 
 
