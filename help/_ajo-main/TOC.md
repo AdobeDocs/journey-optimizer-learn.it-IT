@@ -3,7 +3,7 @@ user-guide-title: Tutorial su Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial di Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: f557bb5542f413be99ae0f578a18f4dec60f0e06
+source-git-commit: 4bf52614bd3fff34a3ec09eafc7f65a2bee74387
 workflow-type: tm+mt
 source-wordcount: '971'
 ht-degree: 99%
@@ -22,7 +22,7 @@ ht-degree: 99%
    + [Funzionalità mobili per gli addetti al marketing](/help/channels/mobile-capabilities.md)
    + [Funzionalità mobili per sviluppatori](/help/channels/mobile-capabilities-for-developers.md)
    + [Ottenere aiuto con Assistente IA](/help/ai-agents/ai-assistant.md)
-+ [Journey Optimizer - Centro per l&#39;apprendimento mobile](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/mobile-learning-hub/overview){target="_blank"}
++ [Journey Optimizer - Centro per l&#39;apprendimento mobile](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/overview){target="_blank"}
 + Campagne {#create-campaigns}
    + Campagne di azione {#action-campaigns}
       + [Creare una campagna](/help/campaigns/action-campaigns/create-a-campaign.md)
@@ -54,7 +54,7 @@ ht-degree: 99%
    + [Copiare un percorso in un’altra sandbox](/help/journeys/copy-a-journey.md)
    + [Attivare il percorso giornaliero eseguito dopo la segmentazione in batch](/help/journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
 + Gestione dei conflitti e assegnazione delle priorità {#conflict-management}
-   + [Identificare potenziali conflitti](/help/conflict-management/identify-potential-conflicts.md)
+   + [Identificare conflitti potenziali](/help/conflict-management/identify-potential-conflicts.md)
    + [Assegnare punteggi di priorità](/help/conflict-management/assign-priority-score.md)
    + [Quota limite del percorso e definizione delle priorità](/help/conflict-management/journey-frequency-capping-and-prioritization.md)
    + [Ore di silenzio](/help/business-rules/configure-and-apply-quiet-hours.md)
@@ -64,12 +64,12 @@ ht-degree: 99%
    + [Creare tipi di pubblico tramite il generatore di regole](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [Creare un pubblico caricando un file CSV](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
    + [Creare di tipi di pubblico tramite Web SDK (tutorial)](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
-   + [Valutare i tipi di pubblico su richiesta](https://experienceleague.adobe.com/it/docs/platform-learn/tutorials/audiences/audience-builder/evaluate-audiences-on-demand)
+   + [Valutare i tipi di pubblico su richiesta](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/audience-builder/evaluate-audiences-on-demand)
    + [Iscrizioni e pagine di destinazione](/help/subscriptions-and-landing-pages.md)
 + Canali {#channels}
    + [Ottimizzazione delle app mobili: panoramica](/help/channels/mobile-app-optimization-overview.md)
    + Canale di esperienza basata su codice{#code-based-experience-channel}
-      + [Creare una campagna con esperienza basata su codice &#x200B;](/help/channels/create-a-code-based-experience-campaign.md)
+      + [Creare una campagna con esperienza basata su codice ](/help/channels/create-a-code-based-experience-campaign.md)
       + [Aggiungere campi modulo a modelli di canale di esperienza basata su codice](/help/channels/form-fields-in-code-based-experiences.md)
       + [Utilizzare la funzione Decisioni in un canale basato su codice](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + Canale direct mail{#direct-mail-channel}
@@ -157,7 +157,7 @@ ht-degree: 99%
       + [Creare le regole](/help/decision-management/create-rules.md)
       + [Creare tag](/help/decision-management/create-tags.md)
       + [Creare offerte personalizzate](/help/decision-management/create-personalized-offers.md)
-      + [Creare modelli IA](/help/decision-management/create-ai-models.md)
+      + [Creare modelli AI](/help/decision-management/create-ai-models.md)
       + [Creare offerte di fallback](/help/decision-management/create-fallback-offers.md)
       + [Creare raccolte](/help/decision-management/create-collections.md)
       + [Creare decisioni](/help/decision-management/create-decisions.md)
@@ -231,7 +231,7 @@ ht-degree: 99%
    + [Creazione di rapporti su impression e sui clic sull’offerta](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [Utilizzare la formula di classificazione per fornire offerte personalizzate in Journey Optimizer](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [Migliorare il coinvolgimento della clientela](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
-   + [Ridimensionamento dell’orchestrazione a un coinvolgimento omnicanale](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"}
+   + [Ridimensionamento dell’orchestrazione a un coinvolgimento omnicanale](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"}
    + Playbook di casi d’uso {#use-case-playbooks}
       + [Panoramica](https://experienceleague.adobe.com/it/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
       + [Configurare una sandbox del playbook](https://experienceleague.adobe.com/it/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
@@ -241,6 +241,6 @@ ht-degree: 99%
    + [Sfide](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
    + Summit Labs {#summit-labs}
       + [Creare esperienze personalizzate per dispositivi mobili con Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
-      + [Ridimensionamento dell’orchestrazione a un coinvolgimento omnicanale in Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"}
+      + [Ridimensionamento dell’orchestrazione a un coinvolgimento omnicanale in Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + Sessioni live e approfondimenti {#live-sessions-and-deep-dives}
    + [Registrazioni di eventi Experience League Live](/help/_ajo-main/experience-league-live-show-recordings.md)
