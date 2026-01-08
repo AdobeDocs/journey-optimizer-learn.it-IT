@@ -36,7 +36,7 @@ Questo caso d’uso dimostra come l’invio di un modulo per il cliente attivi u
 * Inviare dati di invio modulo a Adobe Experience Platform
 
 Introduzione al caso d’uso e creazione dello schema di eventi
->[!VIDEO](https://video.tv.adobe.com/v/3478471)
+>[!VIDEO](https://video.tv.adobe.com/v/3478479?captions=ita)
 
 
 

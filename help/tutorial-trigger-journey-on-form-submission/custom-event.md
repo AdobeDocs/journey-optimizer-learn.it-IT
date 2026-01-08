@@ -19,7 +19,7 @@ ht-degree: 0%
 Utilizzando lo schema evento, definisci un evento personalizzato in Adobe Journey Optimizer. Questo evento ascolta i dati di invio del modulo in arrivo in Adobe Experience Platform.
 
 Definisci un evento personalizzato denominato **_InvestmentPreference_**
->[!VIDEO](https://video.tv.adobe.com/v/3478483)
+>[!VIDEO](https://video.tv.adobe.com/v/3478491?captions=ita)
 
 
 
