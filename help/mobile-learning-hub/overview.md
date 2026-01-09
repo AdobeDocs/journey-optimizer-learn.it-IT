@@ -21,7 +21,7 @@ Inizia o eleva la tua strategia di coinvolgimento mobile con Adobe Journey Optim
 
 Esplora le best practice, scopri come promuovere l’adozione e configurare flussi di lavoro di reporting centralizzati, il tutto in un’unica posizione, per fornire esperienze mobili di impatto e basate sui dati, che raggiungono i clienti ovunque e in qualsiasi momento.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3477006?captions=ita&quality=12&learn=on){transcript=true}
 
 
 ## Panoramica del canale mobile
