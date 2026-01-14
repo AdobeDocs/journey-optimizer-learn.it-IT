@@ -18,7 +18,7 @@ ht-degree: 0%
 
 
 Testare la soluzione
->[!VIDEO](https://video.tv.adobe.com/v/3478546)
+>[!VIDEO](https://video.tv.adobe.com/v/3478554?captions=ita)
 
 ## Distribuire le risorse di esempio
 
