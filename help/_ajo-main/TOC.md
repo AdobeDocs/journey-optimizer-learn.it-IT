@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial di Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: 4bf52614bd3fff34a3ec09eafc7f65a2bee74387
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '971'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 99%
    + [Funzionalità mobili per gli addetti al marketing](/help/channels/mobile-capabilities.md)
    + [Funzionalità mobili per sviluppatori](/help/channels/mobile-capabilities-for-developers.md)
    + [Ottenere aiuto con Assistente IA](/help/ai-agents/ai-assistant.md)
-+ [Journey Optimizer - Centro per l&#39;apprendimento mobile](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/mobile-learning-hub/overview){target="_blank"}
++ [Journey Optimizer - Hub per l’apprendimento per dispositivi mobili](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/mobile-learning-hub/overview){target="_blank"}
 + Campagne {#create-campaigns}
    + Campagne di azione {#action-campaigns}
       + [Creare una campagna](/help/campaigns/action-campaigns/create-a-campaign.md)
@@ -69,7 +69,7 @@ ht-degree: 99%
 + Canali {#channels}
    + [Ottimizzazione delle app mobili: panoramica](/help/channels/mobile-app-optimization-overview.md)
    + Canale di esperienza basata su codice{#code-based-experience-channel}
-      + [Creare una campagna con esperienza basata su codice &#x200B;](/help/channels/create-a-code-based-experience-campaign.md)
+      + [Creare una campagna con esperienza basata su codice ](/help/channels/create-a-code-based-experience-campaign.md)
       + [Aggiungere campi modulo a modelli di canale di esperienza basata su codice](/help/channels/form-fields-in-code-based-experiences.md)
       + [Utilizzare la funzione Decisioni in un canale basato su codice](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + Canale direct mail{#direct-mail-channel}
