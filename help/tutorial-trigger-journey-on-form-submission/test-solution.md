@@ -7,9 +7,9 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-12-25T00:00:00Z
 jira: KT-20014
-source-git-commit: 6e773afb6bf1770467f9c02739e6b3ede29c81f4
+source-git-commit: 319b1cd4a037807a944e5fb6438e47b5fcf4c1c4
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 
 Testare la soluzione
->[!VIDEO](https://video.tv.adobe.com/v/3478554?captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3478546)
 
 ## Distribuire le risorse di esempio
 
@@ -51,8 +51,8 @@ Crea una nuova directory per l’app di esempio utilizzando i seguenti comandi:
 * Decomprimere e inserire il contenuto di [project-root.zip](assets/project-root.zip) nella cartella `trigger-journey`.
 
 * Crea una cartella denominata `public` nella cartella `trigger-journey`
-* Decomprimi il contenuto di [index.zip] nella cartella pubblica
-* aggiornare il file `.env` con i valori appropriati. Questi valori sono disponibili dal comando cURL scaricato durante la creazione della connessione HTTP Source
+* aggiornare il file `.env` con i valori appropriati. Questi valori sono disponibili dal comando cURL scaricato durante la creazione della connessione HTTP Source.
+* Decomprimi il contenuto di [index.zip](assets/index.zip) nella cartella `public`
 
 ## Eseguire il server
 
