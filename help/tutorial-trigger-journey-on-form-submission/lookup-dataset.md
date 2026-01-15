@@ -5,9 +5,9 @@ feature: Journeys
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-12-25T00:00:00Z
-jira: KT-20014
-source-git-commit: 319b1cd4a037807a944e5fb6438e47b5fcf4c1c4
+last-substantial-update: 2026-01-15T00:00:00Z
+jira: KT-20124
+source-git-commit: d742353780dbbdbf2dede31b50a779399a7de75d
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Una ricerca del set di dati consente a Adobe Journey Optimizer di recuperare dat
 
 In questo caso d’uso, quando un utente invia un modulo di Preferenze di investimento (Stock, Obbligazioni o CD), il percorso cerca dinamicamente i dettagli di investimento corrispondenti da un set di dati di riferimento e utilizza tali informazioni per personalizzare un’e-mail.
 Creazione set di dati di ricerca
->[!VIDEO](https://video.tv.adobe.com/v/3478768?captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3478760)
 
 Verifica i campi di ricerca del set di dati inviando la configurazione del modulo nel passaggio precedente
 
