@@ -37,7 +37,7 @@ Questo caso d’uso dimostra come l’invio di un modulo per il cliente attivi u
 * Configurare la ricerca del set di dati per includere i dati di riferimento nell’e-mail
 
 Introduzione al caso d’uso e creazione dello schema di eventi
->[!VIDEO](https://video.tv.adobe.com/v/3478471)
+>[!VIDEO](https://video.tv.adobe.com/v/3478479?captions=ita)
 
 
 
