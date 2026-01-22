@@ -3,7 +3,7 @@ user-guide-title: Tutorial su Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial di Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: bd884367bec867c93c04a924c2ac7c3b15b2bfac
+source-git-commit: 970590b0f40adb5d642c2d183d9c387dfe203251
 workflow-type: tm+mt
 source-wordcount: '980'
 ht-degree: 99%
@@ -70,7 +70,7 @@ ht-degree: 99%
 + Canali {#channels}
    + [Ottimizzazione delle app mobili: panoramica](/help/channels/mobile-app-optimization-overview.md)
    + Canale di esperienza basata su codice{#code-based-experience-channel}
-      + [Creare una campagna con esperienza basata su codice &#x200B;](/help/channels/create-a-code-based-experience-campaign.md)
+      + [Creare una campagna con esperienza basata su codice ](/help/channels/create-a-code-based-experience-campaign.md)
       + [Aggiungere campi modulo a modelli di canale di esperienza basata su codice](/help/channels/form-fields-in-code-based-experiences.md)
       + [Utilizzare la funzione Decisioni in un canale basato su codice](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + Canale direct mail{#direct-mail-channel}
@@ -246,3 +246,4 @@ ht-degree: 99%
       + [Ridimensionamento dell’orchestrazione a un coinvolgimento omnicanale in Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + Sessioni live e approfondimenti {#live-sessions-and-deep-dives}
    + [Registrazioni di eventi Experience League Live](/help/_ajo-main/experience-league-live-show-recordings.md)
+
