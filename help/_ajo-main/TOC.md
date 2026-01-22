@@ -151,7 +151,7 @@ ht-degree: 99%
       + [Regole riutilizzabili](/help/decisioning/reusable-targeting-rules.md)
       + [Personalizzazione di offerte con dati meteo in tempo reale](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
       + [Utilizzare la formula di classificazione per fornire offerte personalizzate](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
-      + [Attività di decisione contenuto in percorsi](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/content-decision-activity.html)
+      + [Attività di decisione contenuto in percorsi](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/content-decision-activity.html?lang=it)
    + Gestione delle decisioni {#decision-management}
       + [Introduzione alla gestione delle decisioni](/help/decision-management/introduction-to-decision-management.md)
       + [Dimostrazione delle funzionalità di gestione delle decisioni](/help/decision-management/demo-of-decision-management-capabilities.md)
