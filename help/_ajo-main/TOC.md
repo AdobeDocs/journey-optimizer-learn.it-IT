@@ -3,7 +3,7 @@ user-guide-title: Tutorial su Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial di Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 970590b0f40adb5d642c2d183d9c387dfe203251
+source-git-commit: d5f7fe98ec18b55f82520f461106bb18860d49c1
 workflow-type: tm+mt
 source-wordcount: '980'
 ht-degree: 99%
@@ -70,7 +70,7 @@ ht-degree: 99%
 + Canali {#channels}
    + [Ottimizzazione delle app mobili: panoramica](/help/channels/mobile-app-optimization-overview.md)
    + Canale di esperienza basata su codice{#code-based-experience-channel}
-      + [Creare una campagna con esperienza basata su codice &#x200B;](/help/channels/create-a-code-based-experience-campaign.md)
+      + [Creare una campagna con esperienza basata su codice ](/help/channels/create-a-code-based-experience-campaign.md)
       + [Aggiungere campi modulo a modelli di canale di esperienza basata su codice](/help/channels/form-fields-in-code-based-experiences.md)
       + [Utilizzare la funzione Decisioni in un canale basato su codice](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + Canale direct mail{#direct-mail-channel}
@@ -151,7 +151,7 @@ ht-degree: 99%
       + [Regole riutilizzabili](/help/decisioning/reusable-targeting-rules.md)
       + [Personalizzazione di offerte con dati meteo in tempo reale](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
       + [Utilizzare la formula di classificazione per fornire offerte personalizzate](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
-      + [Attività di decisione contenuto in percorsi](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/content-decision-activity.html?lang=it)
+      + [Attività di decisione contenuto in percorsi](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/content-decision-activity.html)
    + Gestione delle decisioni {#decision-management}
       + [Introduzione alla gestione delle decisioni](/help/decision-management/introduction-to-decision-management.md)
       + [Dimostrazione delle funzionalità di gestione delle decisioni](/help/decision-management/demo-of-decision-management-capabilities.md)
@@ -246,4 +246,3 @@ ht-degree: 99%
       + [Ridimensionamento dell’orchestrazione a un coinvolgimento omnicanale in Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + Sessioni live e approfondimenti {#live-sessions-and-deep-dives}
    + [Registrazioni di eventi Experience League Live](/help/_ajo-main/experience-league-live-show-recordings.md)
-

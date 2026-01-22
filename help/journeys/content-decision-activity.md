@@ -10,7 +10,7 @@ last-substantial-update: 2026-01-22T00:00:00Z
 jira: KT-20141
 hide: true
 hidefromtoc: true
-source-git-commit: 970590b0f40adb5d642c2d183d9c387dfe203251
+source-git-commit: d5f7fe98ec18b55f82520f461106bb18860d49c1
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
@@ -22,5 +22,5 @@ ht-degree: 0%
 
 Scopri in che modo l’attività di decisione dei contenuti nell’area di lavoro di Percorso consente agli utenti di sfruttare AJO Decisioning per le offerte di contenuti personalizzate. Utilizza questa funzione per indirizzare i profili in base alle offerte recuperate o per inviare offerte a sistemi esterni, migliorando l’efficacia e la personalizzazione del percorso.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479115/?captions=ita&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479107/?learn=on&enablevpops)
 
