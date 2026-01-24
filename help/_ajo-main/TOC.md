@@ -3,9 +3,9 @@ user-guide-title: Tutorial su Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial di Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 64b89b0766130778e5cd3e7702ab39f5dfaeda4e
+source-git-commit: dcc1eee548f7e71ee71260ba8a14e04640c3fe2a
 workflow-type: tm+mt
-source-wordcount: '974'
+source-wordcount: '980'
 ht-degree: 99%
 
 ---
@@ -70,11 +70,12 @@ ht-degree: 99%
 + Canali {#channels}
    + [Ottimizzazione delle app mobili: panoramica](/help/channels/mobile-app-optimization-overview.md)
    + Canale di esperienza basata su codice{#code-based-experience-channel}
-      + [Creare una campagna con esperienza basata su codice &#x200B;](/help/channels/create-a-code-based-experience-campaign.md)
+      + [Creare una campagna con esperienza basata su codice ](/help/channels/create-a-code-based-experience-campaign.md)
       + [Aggiungere campi modulo a modelli di canale di esperienza basata su codice](/help/channels/form-fields-in-code-based-experiences.md)
       + [Utilizzare la funzione Decisioni in un canale basato su codice](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + Canale direct mail{#direct-mail-channel}
       + [Creare una direct mail](/help/channels/direct-mail.md)
+      + [Inviare messaggi direct mail con percorsi](/help/channels/direct-mail-in-journeys.md)
    + Canale e-mail{#email-channel}
       + [Canale e-mail: panoramica](/help/channels/email-channel-overview.md)
       + [Progettazione e personalizzazione delle e-mail: panoramica](/help/channels/email-design-and-personalization-overview.md)
