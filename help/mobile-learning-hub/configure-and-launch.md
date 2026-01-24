@@ -707,5 +707,5 @@ Consulta:
 
 ## Risorse aggiuntive
 
-- [Utilizzo di ODD (Client Side Personalization) basato su CDN su dispositivi mobili per personalizzazioni più veloci (Blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626){target="_blank"}
+- [Utilizzo di ODD (Client Side Personalization) basato su CDN su dispositivi mobili per personalizzazioni più veloci (Blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626?profile.language=it){target="_blank"}
 - [Il segreto per il coinvolgimento e la crescita delle app mobili di livello successivo (sessione del summit)](https://business.adobe.com/it/summit/2025/sessions/the-secret-to-nextlevel-mobile-app-engagement-s603.html)
