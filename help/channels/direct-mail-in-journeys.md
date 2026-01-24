@@ -24,4 +24,4 @@ Scopri come sfruttare il canale Direct Mail in Adobe Journey Optimizer per autom
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479162/?learn=on&enablevpops)
 
-Per ulteriori informazioni, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/direct-mail/direct-mail-journeys).
+Per ulteriori informazioni, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/channels/direct-mail/direct-mail-journeys).
