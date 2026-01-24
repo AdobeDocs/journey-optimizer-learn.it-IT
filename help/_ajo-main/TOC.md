@@ -3,9 +3,9 @@ user-guide-title: Tutorial su Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial di Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: dcc1eee548f7e71ee71260ba8a14e04640c3fe2a
+source-git-commit: 05fc150f0e8463def80766bd0c64bad5541d9067
 workflow-type: tm+mt
-source-wordcount: '980'
+source-wordcount: '986'
 ht-degree: 99%
 
 ---
@@ -70,7 +70,7 @@ ht-degree: 99%
 + Canali {#channels}
    + [Ottimizzazione delle app mobili: panoramica](/help/channels/mobile-app-optimization-overview.md)
    + Canale di esperienza basata su codice{#code-based-experience-channel}
-      + [Creare una campagna con esperienza basata su codice &#x200B;](/help/channels/create-a-code-based-experience-campaign.md)
+      + [Creare una campagna con esperienza basata su codice ](/help/channels/create-a-code-based-experience-campaign.md)
       + [Aggiungere campi modulo a modelli di canale di esperienza basata su codice](/help/channels/form-fields-in-code-based-experiences.md)
       + [Utilizzare la funzione Decisioni in un canale basato su codice](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + Canale direct mail{#direct-mail-channel}
@@ -93,6 +93,7 @@ ht-degree: 99%
    + Canale push{#push-channel}
       + [Notifiche push: panoramica](/help/channels/push-notifications-overview.md)
       + [Configurare e inviare una campagna push](/help/channels/create-a-push-campaign.md)
+      + [Ottimizzare le notifiche push con AJO Decisioning](/help/decisioning/decisioning-in-push-notifications.md)
    + Canale SMS/MMS{#sms-channel}
       + [Messaggi SMS/MMS: panoramica](/help/channels/sms-mms-messages-overview.md)
       + [Configurare, creare e consegnare messaggi SMS](/help/channels/author-sms-messages.md)
