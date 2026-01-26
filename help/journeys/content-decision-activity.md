@@ -1,6 +1,6 @@
 ---
-title: Attività Content Decision nell’area di lavoro del Percorso
-description: Sfrutta AJO Decisioning per le offerte di contenuti nell’area di lavoro del Percorso.
+title: Attività Decisione sui contenuti nell’area di lavoro Percorso
+description: Sfrutta Decisioni di AJO per le offerte di contenuti nell’area di lavoro Percorso.
 feature: Decisioning, Journeys
 role: User
 level: Beginner
@@ -13,14 +13,14 @@ hidefromtoc: true
 source-git-commit: d5f7fe98ec18b55f82520f461106bb18860d49c1
 workflow-type: tm+mt
 source-wordcount: '60'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
 # Attività di decisione sui contenuti
 
-Scopri in che modo l’attività di decisione dei contenuti nell’area di lavoro di Percorso consente agli utenti di sfruttare AJO Decisioning per le offerte di contenuti personalizzate. Utilizza questa funzione per indirizzare i profili in base alle offerte recuperate o per inviare offerte a sistemi esterni, migliorando l’efficacia e la personalizzazione del percorso.
+Scopri in che modo l’attività di decisione sui contenuti nell’area di lavoro Percorso consente agli utenti di sfruttare la funzione Decisioni di AJO per offerte di contenuti personalizzate. Utilizza questa funzione per indirizzare i profili in base alle offerte recuperate o per inviare offerte a sistemi esterni, migliorando l’efficacia e la personalizzazione del percorso.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479115/?captions=ita&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479107/?learn=on&enablevpops)
 
