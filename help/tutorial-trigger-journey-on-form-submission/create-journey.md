@@ -22,7 +22,7 @@ La creazione di un percorso comporta la creazione delle seguenti configurazioni
 
 **Creazione della configurazione del canale e-mail**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478510)
+>[!VIDEO](https://video.tv.adobe.com/v/3478518?captions=ita)
 
 
 
