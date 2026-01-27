@@ -22,6 +22,6 @@ ht-degree: 20%
 
 Scopri come sfruttare il canale Direct Mail in Adobe Journey Optimizer per automatizzare e pianificare le consegne di direct mailing all’interno dei tuoi percorsi. Scopri la configurazione dell’indirizzamento dei file, configura la frequenza di creazione e utilizza le azioni di direct mailing nell’area di lavoro del Percorso. Questo video illustra come AJO mette in coda i partecipanti, genera file con marca temporale a intervalli e li invia automaticamente una volta attivati.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479162/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479170/?captions=ita&learn=on&enablevpops)
 
 Per ulteriori informazioni, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/channels/direct-mail/direct-mail-journeys).
