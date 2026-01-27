@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-12-25T00:00:00Z
 jira: KT-20014
-source-git-commit: d742353780dbbdbf2dede31b50a779399a7de75d
+source-git-commit: 040b444f8f3a612081615016def92999bf8fff53
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 3%
@@ -36,8 +36,9 @@ Questo caso d’uso dimostra come l’invio di un modulo per il cliente attivi u
 * Inviare dati di invio modulo a Adobe Experience Platform
 * Configurare la ricerca del set di dati per includere i dati di riferimento nell’e-mail
 
-Introduzione al caso d’uso e creazione dello schema di eventi
->[!VIDEO](https://video.tv.adobe.com/v/3478479?captions=ita)
+**Introduzione al caso d&#39;uso e creazione dello schema eventi**
+
+>[!VIDEO](https://video.tv.adobe.com/v/3478471)
 
 
 
