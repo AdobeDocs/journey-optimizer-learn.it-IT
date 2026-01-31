@@ -151,10 +151,10 @@ ht-degree: 97%
       + [Procedura dettagliata sul decisioning end-to-end](/help/decisioning/decisioning-end-to-end.md)
       + [Navigazione nell’interfaccia del Generatore di formule](/help/decisioning/formula-builder-ui.md)
       + [Regole riutilizzabili](/help/decisioning/reusable-targeting-rules.md)
-      + [Attiva percorso all&#39;invio del modulo](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
+      + [Attiva percorso all&#39;invio del modulo](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
       + [Personalizzazione di offerte con dati meteo in tempo reale](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
       + [Utilizzare la formula di classificazione per fornire offerte personalizzate](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
-      + [Utilizzare il decisioning nel canale e-mail](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
+      + [Utilizzare il decisioning nel canale e-mail](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
       + [Utilizzare il decisioning nelle notifiche push](/help/decisioning/decisioning-in-push-notifications.md)
       + [Utilizzare il decisioning in un messaggio SMS](/help/decisioning/use-decisioning-in-an-sms-message.md)
    + Gestione delle decisioni {#decision-management}
