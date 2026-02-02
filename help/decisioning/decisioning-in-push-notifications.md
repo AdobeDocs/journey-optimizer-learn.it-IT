@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Scopri come utilizzare la funzione Decisioni di AJO per personalizzare le notifiche push in base al tuo pubblico. Crea offerte coinvolgenti basate sui profili dei destinatari per stimolare le vendite. Scopri le strategie decisionali, testa le campagne e analizza le metriche per una comunicazione efficace. Migliora il coinvolgimento e offri ai tuoi clienti le promozioni più adatte.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479199/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479218/?captions=ita&learn=on&enablevpops)
