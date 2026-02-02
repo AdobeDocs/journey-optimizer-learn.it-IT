@@ -137,7 +137,7 @@ Scopri quali canali mobili supporta Journey Optimizer e come configurare e invia
 
 #### Documentazione del prodotto
 
-| ![Crea push ](./assets/configuration.svg)[**Crea una notifica push**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/create-push){target="_blank"} | ![Progettare push ](./assets/content-management.png){width="50"}[**Progettare una notifica push**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/design-push){target="_blank"} | ![Invia messaggio push ](./assets/communication-channel.svg)[**Invia una notifica push**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/send-push){target="_blank"} |
+| ![Crea push &#x200B;](./assets/configuration.svg) [**Crea una notifica push**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/create-push){target="_blank"} | ![Progettare push &#x200B;](./assets/content-management.png){width="50"}[**Progettare una notifica push**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/design-push){target="_blank"} | ![Invia messaggio push &#x200B;](./assets/communication-channel.svg) [**Invia una notifica push**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/send-push){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB In-app]
@@ -217,7 +217,7 @@ Scopri quali canali mobili supporta Journey Optimizer e come configurare e invia
 
 #### Documentazione
 
-| ![Crea messaggio ](./assets/configuration.svg)[**Crea messaggi in-app mobili**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/create-in-app){target="_blank"} | ![Progetta contenuto ](./assets/content-management.png){width="50"}[**Progetta contenuto in-app**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/design-in-app){target="_blank"} | ![Invia notifica ](./assets/communication-channel.svg)[**Invia una notifica in-app**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/send-in-app){target="_blank"} |
+| ![Crea messaggio &#x200B;](./assets/configuration.svg) [**Crea messaggi in-app mobili**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/create-in-app){target="_blank"} | ![Progetta contenuto &#x200B;](./assets/content-management.png){width="50"}[**Progetta contenuto in-app**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/design-in-app){target="_blank"} | ![Invia notifica &#x200B;](./assets/communication-channel.svg) [**Invia una notifica in-app**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/send-in-app){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB Schede contenuto]
@@ -266,7 +266,7 @@ Scopri quali canali mobili supporta Journey Optimizer e come configurare e invia
 
 #### Documentazione del prodotto
 
-| ![Crea e configura schede contenuto ](./assets/configuration.svg)[**Crea e configura schede contenuto**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/create-content-card){target="_blank"} | ![Schede contenuto progettazione ](./assets/content-management.png){width="50"}[**Schede contenuto progettazione**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/design-content-card){target="_blank"} |
+| ![Crea e configura schede contenuto &#x200B;](./assets/configuration.svg) [**Crea e configura schede contenuto**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/create-content-card){target="_blank"} | ![Schede contenuto progettazione &#x200B;](./assets/content-management.png){width="50"}[**Schede contenuto progettazione**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/design-content-card){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB SMS/MMS/RCS]
@@ -418,7 +418,7 @@ Scopri quali canali mobili supporta Journey Optimizer e come configurare e invia
 
 #### Documentazione del prodotto
 
-| ![Introduzione ai messaggi di testo ](./assets/configuration.svg)[**Introduzione ai messaggi di testo**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/get-started-sms){target="_blank"} | ![Contenuto progettazione ](./assets/content-management.png){width="50"}[**Creare messaggi SMS, MMS e RCS**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/create-sms){target="_blank"} | ![Invia notifica ](./assets/communication-channel.svg)[**Controlla e invia messaggi di testo**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/send-sms){target="_blank"} |
+| ![Introduzione ai messaggi di testo &#x200B;](./assets/configuration.svg) [**Introduzione ai messaggi di testo**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/get-started-sms){target="_blank"} | ![Contenuto progettazione &#x200B;](./assets/content-management.png){width="50"}[**Creare messaggi SMS, MMS e RCS**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/create-sms){target="_blank"} | ![Invia notifica &#x200B;](./assets/communication-channel.svg) [**Controlla e invia messaggi di testo**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/send-sms){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB Esperienze basate su codice]
@@ -488,7 +488,7 @@ Scopri quali canali mobili supporta Journey Optimizer e come configurare e invia
 
 #### Documentazione del prodotto
 
-| ![Creare Esperienze Basate Su Codice ](./assets/content-management.png){width="50"}[**Creare Esperienze Basate Su Codice**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/create-code-based-experiences-landing-page){target="_blank"} |
+| ![Creare Esperienze Basate Su Codice &#x200B;](./assets/content-management.png){width="50"}[**Creare Esperienze Basate Su Codice**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/create-code-based-experiences-landing-page){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB WhatsApp]
@@ -560,7 +560,7 @@ Scopri quali canali mobili supporta Journey Optimizer e come configurare e invia
 
 #### Documentazione del prodotto
 
-| ![Crea messaggi WhatsApp ](./assets/configuration.svg)[*Crea messaggi WhatsApp*](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/create-whatsapp){target="_blank"} | ![Anteprima, convalida e invio messaggi WhatsApp ](./assets/communication-channel.svg){width="50"}[**Anteprima, convalida e invio messaggi WhatsApp**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/send-whatsapp){target="_blank"} |
+| ![Crea messaggi WhatsApp &#x200B;](./assets/configuration.svg) [*Crea messaggi WhatsApp*](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/create-whatsapp){target="_blank"} | ![Anteprima, convalida e invio messaggi WhatsApp &#x200B;](./assets/communication-channel.svg){width="50"}[**Anteprima, convalida e invio messaggi WhatsApp**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/send-whatsapp){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!ENDTABS]
