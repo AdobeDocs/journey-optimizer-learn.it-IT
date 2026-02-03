@@ -22,7 +22,7 @@ Scopri come monitorare in modo efficace lo stato operativo e le prestazioni dell
 
 Questo report aiuta a identificare i problemi, migliorare le prestazioni del percorso e garantire un funzionamento senza problemi.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479541/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479549/?captions=ita&learn=on&enablevpops)
 
 Per ulteriori informazioni su questa funzione, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/configure-journeys/action-journeys/reporting).
 
