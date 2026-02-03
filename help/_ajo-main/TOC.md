@@ -3,9 +3,9 @@ user-guide-title: Tutorial su Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial di Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 35b3b53670af62bb4f52c6df06834038ae9f7eba
+source-git-commit: f86113c8c01964d306d24b7cdb8c881432084d66
 workflow-type: tm+mt
-source-wordcount: '1007'
+source-wordcount: '1011'
 ht-degree: 99%
 
 ---
@@ -70,7 +70,7 @@ ht-degree: 99%
 + Canali {#channels}
    + [Ottimizzazione delle app mobili: panoramica](/help/channels/mobile-app-optimization-overview.md)
    + Canale di esperienza basata su codice{#code-based-experience-channel}
-      + [Creare una campagna con esperienza basata su codice &#x200B;](/help/channels/create-a-code-based-experience-campaign.md)
+      + [Creare una campagna con esperienza basata su codice ](/help/channels/create-a-code-based-experience-campaign.md)
       + [Aggiungere campi modulo a modelli di canale di esperienza basata su codice](/help/channels/form-fields-in-code-based-experiences.md)
       + [Utilizzare la funzione Decisioni in un canale basato su codice](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + Canale direct mail{#direct-mail-channel}
@@ -185,6 +185,7 @@ ht-degree: 99%
    + [Monitorare e analizzare il percorso con rapporti live](/help/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports.md)
    + [Monitorare e analizzare il percorso con i rapporti](/help/report-and-monitor/journey-reports.md)
    + [Rapporti a livello di canale](/help/report-and-monitor/channel-level-reports.md)
+   + [Monitorare le azioni personalizzate](/help/report-and-monitor/custom-action-monitoring-report.md)
    + [Analizzare le prestazioni complessive del percorso con tutti i rapporti tutte le ore](/help/report-and-monitor/all-time-reports.md)
    + [Esportare i rapporti in formato CSV](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [Utilizzare gli avvisi](/help/administration/alerts.md)
