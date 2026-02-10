@@ -7,7 +7,8 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-12-25T00:00:00Z
 jira: KT-20014
-source-git-commit: 040b444f8f3a612081615016def92999bf8fff53
+exl-id: 52a506d0-cc1b-4d8d-a634-b66c7c7673ed
+source-git-commit: 3928a113f74d37b5b9cc2014c526326ef47d4919
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 3%
@@ -22,9 +23,7 @@ Questo caso d’uso dimostra come l’invio di un modulo per il cliente attivi u
 ## Prerequisiti per questa esercitazione
 
 * Accesso ad Experience Platform
-
 * Nozioni di base sui concetti di Experience Platform (profili, pubblico, set di dati)
-
 * Familiarità con Journey Optimizer
 
 ## Passaggi di implementazione
@@ -38,7 +37,4 @@ Questo caso d’uso dimostra come l’invio di un modulo per il cliente attivi u
 
 **Introduzione al caso d&#39;uso e creazione dello schema eventi**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478479?captions=ita)
-
-
-
+>[!VIDEO](https://video.tv.adobe.com/v/3478471)
