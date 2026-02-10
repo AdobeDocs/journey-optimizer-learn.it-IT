@@ -104,5 +104,5 @@ JavaScript recupera dinamicamente le informazioni meteo in base alla posizione d
 
 ## Passaggi successivi
 
-[Misura e segnala l&#39;impatto di AJO Decisioning.](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/cja-reporting)
+[Misura e segnala l&#39;impatto di AJO Decisioning.](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/decisioning/experience-decisioning/cja-reporting)
 
