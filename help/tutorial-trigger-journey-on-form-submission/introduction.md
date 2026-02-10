@@ -37,4 +37,4 @@ Questo caso d’uso dimostra come l’invio di un modulo per il cliente attivi u
 
 **Introduzione al caso d&#39;uso e creazione dello schema eventi**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478471)
+>[!VIDEO](https://video.tv.adobe.com/v/3478479?captions=ita)

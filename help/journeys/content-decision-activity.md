@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Scopri in che modo l’attività di decisione sui contenuti nell’area di lavoro Percorso consente agli utenti di sfruttare la funzione Decisioni di AJO per offerte di contenuti personalizzate. Utilizza questa funzione per indirizzare i profili in base alle offerte recuperate o per inviare offerte a sistemi esterni, migliorando l’efficacia e la personalizzazione del percorso.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479107/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479115/?captions=ita&learn=on&enablevpops)
