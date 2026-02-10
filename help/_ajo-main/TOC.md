@@ -3,9 +3,9 @@ user-guide-title: Tutorial su Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Queste sono esercitazioni di Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 6b732078afdde597f35d764d27064640fc05f44e
+source-git-commit: 860a85106f3811cd827f621911e1625b46de2fcd
 workflow-type: tm+mt
-source-wordcount: '1011'
+source-wordcount: '1009'
 ht-degree: 98%
 
 ---
@@ -70,7 +70,7 @@ ht-degree: 98%
 + Canali {#channels}
    + [Ottimizzazione delle app mobili: panoramica](/help/channels/mobile-app-optimization-overview.md)
    + Canale di esperienza basata su codice{#code-based-experience-channel}
-      + [Creare una campagna con esperienza basata su codice &#x200B;](/help/channels/create-a-code-based-experience-campaign.md)
+      + [Creare una campagna con esperienza basata su codice ](/help/channels/create-a-code-based-experience-campaign.md)
       + [Aggiungere campi modulo a modelli di canale di esperienza basata su codice](/help/channels/form-fields-in-code-based-experiences.md)
       + [Utilizzare la funzione Decisioni in un canale basato su codice](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + Canale direct mail{#direct-mail-channel}
@@ -113,7 +113,6 @@ ht-degree: 98%
    + [Creazione dei messaggi - Panoramica](/help/content-management/message-authoring-overview.md)
    + Gestire le risorse {#assets}
       + [Gestione delle risorse digitali: panoramica](/help/content-management/digital-asset-management-overview.md)
-      + [Gestire le risorse](/help/content-management/assets-essentials-overview.md)
       + [Integrazione AEM Dynamic Media](/help/content-management/aem-dynamic-media-integration.md)
       + [Modificare le risorse con Adobe Express](/help/content-management/edit-assets-with-adobe-express.md)
    + Utilizzare i frammenti {#fragments}

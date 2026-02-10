@@ -11,10 +11,10 @@ jira: KT-16267
 hide: false
 hidefromtoc: false
 exl-id: 0aaf116d-e8e9-449d-99b5-800fee8c3c0a
-source-git-commit: 5ed78b3a8effd376662f5218a660ce8627206ced
-workflow-type: ht
+source-git-commit: 860a85106f3811cd827f621911e1625b46de2fcd
+workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -28,6 +28,6 @@ Scopri come creare e gestire i criteri di utilizzo dei dati. I criteri di utiliz
 >
 >Guarda questo [tutorial](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md) per scoprire come vengono applicati i criteri nei canali Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/37131/?learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/32977/?learn=on)
 
-Per ulteriori informazioni su come [utilizzare i criteri di consenso](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/privacy/consent/consent-restricted) in Journey Optimizer, consulta la documentazione sul prodotto.
+Per ulteriori informazioni su come [utilizzare i criteri di consenso](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/consent/consent) in Journey Optimizer, consulta la documentazione sul prodotto.
