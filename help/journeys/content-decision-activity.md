@@ -8,19 +8,18 @@ doc-type: Feature Video
 duration: 123
 last-substantial-update: 2026-01-22T00:00:00Z
 jira: KT-20141
-hide: true
-hidefromtoc: true
-source-git-commit: d5f7fe98ec18b55f82520f461106bb18860d49c1
-workflow-type: ht
+hide: false
+hidefromtoc: false
+exl-id: 4455d0d1-b6d5-4407-8dd7-7b1dc7f336dd
+source-git-commit: 6dde4dcb61bd9e53a6fe7138b00cd53ff24ac72e
+workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 100%
 
 ---
 
-
 # Attività di decisione sui contenuti
 
 Scopri in che modo l’attività di decisione sui contenuti nell’area di lavoro Percorso consente agli utenti di sfruttare la funzione Decisioni di AJO per offerte di contenuti personalizzate. Utilizza questa funzione per indirizzare i profili in base alle offerte recuperate o per inviare offerte a sistemi esterni, migliorando l’efficacia e la personalizzazione del percorso.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479115/?captions=ita&learn=on&enablevpops)
-
+>[!VIDEO](https://video.tv.adobe.com/v/3479107/?learn=on&enablevpops)
