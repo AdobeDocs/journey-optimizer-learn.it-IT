@@ -30,4 +30,4 @@ Scopri come creare e gestire i criteri di utilizzo dei dati. I criteri di utiliz
 
 >[!VIDEO](https://video.tv.adobe.com/v/32977/?learn=on)
 
-Per ulteriori informazioni su come [utilizzare i criteri di consenso](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/consent/consent) in Journey Optimizer, consulta la documentazione sul prodotto.
+Per ulteriori informazioni su come [utilizzare i criteri di consenso](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/privacy/consent/consent) in Journey Optimizer, consulta la documentazione sul prodotto.

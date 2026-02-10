@@ -30,4 +30,4 @@ Scopri come abbonarti ad avvisi predefiniti per comportamenti di percorso imprev
 
 >[!VIDEO](https://video.tv.adobe.com/v/336218?quality=12&learn=on){transcript=true}
 
-Per ulteriori informazioni, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/monitor/monitor-alerts-errors/alerts){target="_blank"}.
+Per ulteriori informazioni, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/monitor/monitor-alerts-errors/alerts){target="_blank"}.

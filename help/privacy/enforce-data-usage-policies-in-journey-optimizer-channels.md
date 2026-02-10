@@ -25,4 +25,4 @@ Scopri come vengono applicati i criteri di utilizzo dei dati nei canali Journey 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434901/?learn=on)
 
-Per ulteriori informazioni sulla [governance dei dati](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/privacy/action-privacy-restricted) e su come [utilizzare i criteri di consenso](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/consent/consent) in Journey Optimizer, consulta la documentazione sul prodotto.
+Per ulteriori informazioni sulla [governance dei dati](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/privacy/action-privacy-restricted) e su come [utilizzare i criteri di consenso](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/privacy/consent/consent) in Journey Optimizer, consulta la documentazione sul prodotto.
