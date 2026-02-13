@@ -11,7 +11,7 @@ hidefromtoc: true
 hide: true
 last-substantial-update: 2026-02-13T00:00:00Z
 jira: KT-20313
-source-git-commit: 4fe31620f48ad8a121256775fdaf5cbc115e2b98
+source-git-commit: d7dedf356471641440d6b0ee24257e20f19c6d3b
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
@@ -23,4 +23,5 @@ ht-degree: 0%
 
 Scopri come analizzare lo stato di apprendimento del modello di intelligenza artificiale, l’allocazione del traffico e le prestazioni per ottimizzare il processo decisionale personalizzato in Journey Optimizer. Scopri come identificare i problemi, risolvere i problemi dei modelli e migliorare i tassi di conversione utilizzando le funzionalità di intelligenza artificiale. Questo video ti guiderà attraverso la gestione efficace dei modelli AI per stimolare l’impatto aziendale.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479857/?captions=ita&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479849/?learn=on&enablevpops)
+
