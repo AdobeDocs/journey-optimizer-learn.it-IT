@@ -3,9 +3,9 @@ user-guide-title: Tutorial su Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Queste sono esercitazioni di Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 43bc064671b80f6d0c6d073c125b17caf609f5c7
+source-git-commit: ff0ab4fb3eea53757109112655f664868148a476
 workflow-type: tm+mt
-source-wordcount: '1007'
+source-wordcount: '1006'
 ht-degree: 98%
 
 ---
@@ -70,7 +70,7 @@ ht-degree: 98%
 + Canali {#channels}
    + [Ottimizzazione delle app mobili: panoramica](/help/channels/mobile-app-optimization-overview.md)
    + Canale di esperienza basata su codice{#code-based-experience-channel}
-      + [Creare una campagna con esperienza basata su codice &#x200B;](/help/channels/create-a-code-based-experience-campaign.md)
+      + [Creare una campagna con esperienza basata su codice ](/help/channels/create-a-code-based-experience-campaign.md)
       + [Aggiungere campi modulo a modelli di canale di esperienza basata su codice](/help/channels/form-fields-in-code-based-experiences.md)
       + [Utilizzare la funzione Decisioni in un canale basato su codice](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + Canale direct mail{#direct-mail-channel}
@@ -90,7 +90,7 @@ ht-degree: 98%
       + [Creare un messaggio in-app in un percorso](/help/channels/create-an-in-app-message-in-a-journey.md)
       + [Creare un messaggio in-app](/help/channels/author-in-app-messages.md)
       + [Configurare esperimenti sui contenuti per i messaggi in-app](/help/experimentation/content-experiments-for-in-app-messages.md)
-   + Attività live (#live-activities)
+   + Attività live {#live-activities}
       + [attività iOS live](/help/channels/ios-live-activities.md)
    + Canale push{#push-channel}
       + [Notifiche push: panoramica](/help/channels/push-notifications-overview.md)
