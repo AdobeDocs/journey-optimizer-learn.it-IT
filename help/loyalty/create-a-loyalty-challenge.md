@@ -1,6 +1,6 @@
 ---
 title: Creare una sfida di fidelizzazione
-description: Scopri come creare rapidamente una sfida di fidelizzazione, dall’impostazione di attività, premi e pianificazioni alla configurazione di contenuti, messaggi e pubblico, generando automaticamente un percorso completo di clienti in background.
+description: Scopri come creare una sfida di fidelizzazione impostando attività, premi e pianificazioni. Scopri come configurare contenuti, messaggi e tipi di pubblico mentre un percorso completo dei clienti viene generato automaticamente in background.
 feature: Setup
 role: Leader, User
 level: Beginner
@@ -12,9 +12,9 @@ hide: true
 hidefromtoc: true
 index: false
 badgeBet: label="Beta" type="Informative"
-source-git-commit: 933c5698604703cfb22cec44719839a3f52dc462
+source-git-commit: 84f0f50b5ba68f3fa53d2ccedf9de3f84ca01e2f
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '75'
 ht-degree: 1%
 
 ---
@@ -22,6 +22,6 @@ ht-degree: 1%
 
 # Creare una sfida di fidelizzazione
 
-Scopri come creare rapidamente una sfida di fidelizzazione, dall’impostazione di attività, premi e pianificazioni alla configurazione di contenuti, messaggi e pubblico, generando automaticamente un percorso completo di clienti in background.
+Scopri come creare una sfida di fidelizzazione impostando attività, premi e pianificazioni. Scopri come configurare contenuti, messaggi e tipi di pubblico mentre un percorso completo dei clienti viene generato automaticamente in background.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3480326/?learn=on&enablevpops)
