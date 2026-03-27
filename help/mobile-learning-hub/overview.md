@@ -1,5 +1,5 @@
 ---
-title: Hub di apprendimento mobile
+title: Hub per l’apprendimento per dispositivi mobili
 description: Il Mobile Learning Hub offre a sviluppatori, amministratori, addetti al marketing e analisti tutto il necessario per configurare i canali mobili in entrata e in uscita e integrarli facilmente in campagne e percorsi cross-channel potenti in Journey Optimizer.
 feature: Overview
 role: User, Admin, Developer
@@ -8,20 +8,20 @@ index: true
 jira: KT-19860
 last-substantial-update: 2025-12-18T00:00:00Z
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
-source-git-commit: 8a6ae2fa80db47751a864cc983446b306b6d8e7a
+source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
 workflow-type: tm+mt
 source-wordcount: '892'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
 # Journey Optimizer - Centro per l’apprendimento mobile
 
-Inizia o eleva la tua strategia di coinvolgimento mobile con Adobe Journey Optimizer. Questo hub di apprendimento mobile offre a sviluppatori, amministratori, addetti al marketing e analisti tutto il necessario per configurare i canali mobili in entrata e in uscita e integrarli facilmente in campagne e percorsi cross-channel potenti.
+Avvia rapidaente o migliora la tua strategia di coinvolgimento su dispositivi mobili con Adobe Journey Optimizer. L’hub per l’apprendimento per dispositivi mobili offre a sviluppatori, amministratori, marketer e analisti tutto il necessario per configurare i canali per dispositivi mobili in entrata e in uscita e integrarli facilmente in potenti campagne e percorsi cross-channel.
 
 Esplora le best practice, scopri come promuovere l’adozione e configurare flussi di lavoro di reporting centralizzati, il tutto in un’unica posizione, per fornire esperienze mobili di impatto e basate sui dati, che raggiungono i clienti ovunque e in qualsiasi momento.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477006?captions=ita&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
 
 
 ## Panoramica del canale mobile
@@ -99,4 +99,4 @@ Scopri i concetti e come
 
 ## Casi d’uso del cliente
 
-* [Volo con personalizzazione: come le compagnie aeree possono elevare le offerte con Adobe Journey Optimizer (blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513?profile.language=it)
+* [Volo con personalizzazione: come le compagnie aeree possono elevare le offerte con Adobe Journey Optimizer (blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)

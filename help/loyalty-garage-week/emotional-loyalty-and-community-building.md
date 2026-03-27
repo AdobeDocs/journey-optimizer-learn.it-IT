@@ -5,13 +5,13 @@ feature: Overview
 role: User
 hide: true
 index: false
-source-git-commit: ea0030d0742adf0058c8bb9ad3950ae9d96f8892
+exl-id: 3706c5ad-9a80-4799-8880-c45eda082f22
+source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
 workflow-type: tm+mt
 source-wordcount: '2156'
 ht-degree: 0%
 
 ---
-
 
 # Fedeltà emotiva e community building
 
@@ -102,7 +102,7 @@ Questi brand illustrano come la fedeltà emotiva trascenda le transazioni, diven
 
 ## &#x200B;6. Consentire la fedeltà emotiva con la tecnologia moderna
 
-I moderni programmi di fidelizzazione emotiva si basano fortemente sulle capacità di orchestrazione di piattaforme come Adobe Journey Optimizer, Salesforce Loyalty Management, Braze e piattaforme della community come Khoros o ecosistemi di app personalizzati. L’infrastruttura dei dati e dell’identità svolge un ruolo essenziale. Un profilo cliente unificato deve tenere traccia non solo del comportamento transazionale, ma anche dei segnali emotivi: partecipazione alla sfida, interazioni con i contenuti, attività della community, sentimento, preferenze, presentazioni creative o durata della sequenza.
+I moderni programmi di fidelizzazione emotiva si basano fortemente sulle capacità di orchestrazione di piattaforme come Adobe Journey Optimizer, Salesforce Loyalty Management, Braze e piattaforme della community come Khoros o ecosistemi di app personalizzati. L’infrastruttura dei dati e dell’identità svolge un ruolo essenziale. Un profilo cliente unificato deve tenere traccia non solo del comportamento transazionale, ma anche dei segnali emotivi: partecipazione di sfida, interazioni di contenuti, attività della community, sentiment, preferenze, presentazioni creative o durata della sequenza.
 
 Le piattaforme di orchestrazione devono offrire un riconoscimento personalizzato al momento giusto. Ciò significa attivare le celebrazioni milestone nel momento in cui un utente completa una sfida, aggiornare istantaneamente i badge dell’app o visualizzare moduli fedeltà personalizzati nell’app e nel web. La visualizzazione del progresso in tempo reale è fondamentale per mantenere il coinvolgimento emotivo. Esponendo indicatori di progresso ovunque interagiscano i clienti, i brand rafforzano la narrazione secondo cui il cliente si trova in un percorso significativo.
 
