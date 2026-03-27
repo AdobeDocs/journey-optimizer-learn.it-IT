@@ -99,4 +99,4 @@ Scopri i concetti e come
 
 ## Casi d’uso del cliente
 
-* [Volo con personalizzazione: come le compagnie aeree possono elevare le offerte con Adobe Journey Optimizer (blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)
+* [Volo con personalizzazione: come le compagnie aeree possono elevare le offerte con Adobe Journey Optimizer (blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513?profile.language=it)
