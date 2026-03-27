@@ -25,4 +25,4 @@ Il [playground dell’editor di personalizzazione](https://experienceleague.adob
 
 Scopri come sfruttare gli esempi di codice predefiniti, modificare i payload di profilo fittizi e visualizzare in anteprima l’output del codice di personalizzazione in tempo reale.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457868/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475960/?captions=ita&learn=on&enablevpops)

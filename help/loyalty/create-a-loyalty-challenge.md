@@ -24,4 +24,4 @@ ht-degree: 1%
 
 Scopri come creare una sfida di fidelizzazione impostando attività, premi e pianificazioni. Scopri come configurare contenuti, messaggi e tipi di pubblico mentre un percorso completo dei clienti viene generato automaticamente in background.
 
->[!VIDEO](https://video.tv.adobe.com/v/3480326/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3480334/?captions=ita&learn=on&enablevpops)
