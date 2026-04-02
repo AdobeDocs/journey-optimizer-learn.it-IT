@@ -3,7 +3,7 @@ user-guide-title: Tutorial su Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial su Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 0b3170fdcc60de2efe10ae542caa8c139f51ac78
+source-git-commit: 104f7ca9f80139719b42d49b96ea5c2ea34570bc
 workflow-type: tm+mt
 source-wordcount: '1020'
 ht-degree: 97%
@@ -41,6 +41,7 @@ ht-degree: 97%
    + [Agente Journey - Panoramica](/help/ai-agents/journey-agent-overview.md)
    + [Scopri il nuovo Designer del percorso](/help/journeys/new-journey-designer.md)
    + [Introduzione alla creazione di un percorso](/help/journeys/introduction-to-building-a-journey.md)
+   + [Utilizzo della ricerca di set di dati in un percorso](/help/journeys/lookup-dataset.md)
    + [Creare un profilo di test](/help/journeys/test-a-journey.md)
    + [Pubblicare un percorso](/help/journeys/publish-a-journey.md)
    + [Attività di decisione sui contenuti](/help/journeys/content-decision-activity.md)
@@ -60,7 +61,7 @@ ht-degree: 97%
    + [Identificare conflitti potenziali](/help/conflict-management/identify-potential-conflicts.md)
    + [Assegnare punteggi di priorità](/help/conflict-management/assign-priority-score.md)
    + [Quota limite del percorso e definizione delle priorità](/help/conflict-management/journey-frequency-capping-and-prioritization.md)
-   + [Utilizzo della ricerca di set di dati in un percorso](/help/journeys/lookup-dataset.md)
+
    + [Ore di silenzio](/help/business-rules/configure-and-apply-quiet-hours.md)
 + Profili, tipi di pubblico e iscrizioni {#profiles-audiences-subscriptions}
    + [Profili e tipi di pubblico: panoramica](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
@@ -73,7 +74,7 @@ ht-degree: 97%
 + Canali {#channels}
    + [Ottimizzazione delle app mobili: panoramica](/help/channels/mobile-app-optimization-overview.md)
    + Canale di esperienza basata su codice{#code-based-experience-channel}
-      + [Creare una campagna con esperienza basata su codice &#x200B;](/help/channels/create-a-code-based-experience-campaign.md)
+      + [Creare una campagna con esperienza basata su codice ](/help/channels/create-a-code-based-experience-campaign.md)
       + [Aggiungere campi modulo a modelli di canale di esperienza basata su codice](/help/channels/form-fields-in-code-based-experiences.md)
       + [Utilizzare la funzione Decisioni in un canale basato su codice](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + Canale direct mail{#direct-mail-channel}
