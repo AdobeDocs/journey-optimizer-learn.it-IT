@@ -54,7 +54,7 @@ Aggiungi una combinazione di contenuti statici e dinamici alla notifica push uti
 Per iniziare a comporre il messaggio, fare clic su `Content` per aprire la scheda contenuto, in cui è possibile definire sia il testo fisso che i campi dinamici derivati dai dati dell&#39;evento.
 ![content-push](assets/compose-message.png)
 
-Specifica il titolo del messaggio push, quindi apri l’editor di personalizzazione per comporre il corpo del messaggio. Il contenuto includerà dinamicamente i nomi dei prodotti i cui prezzi sono scesi. Per ottenere questo risultato, utilizza la funzione [helper](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/helpers#each)
+Specifica il titolo del messaggio push, quindi apri l’editor di personalizzazione per comporre il corpo del messaggio. Il contenuto includerà dinamicamente i nomi dei prodotti i cui prezzi sono scesi. Per ottenere questo risultato, utilizza la funzione [helper](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/content-management/personalization/functions/helpers#each)
 per scorrere l’elenco dei prodotti ed eseguire il rendering dei relativi nomi all’interno del messaggio.
 
 ## Componi il corpo del messaggio
