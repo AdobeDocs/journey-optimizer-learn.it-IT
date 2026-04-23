@@ -7,7 +7,8 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2026-04-21T00:00:00Z
 jira: KT-20879
-source-git-commit: 45f86aeb8fca071436785cc55225d853bb21998f
+exl-id: 94fda23f-e26a-494b-8e5c-6c442bae61c4
+source-git-commit: c339fe796af1e691cd3b1c98cd6ba8a8772551e4
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 1%
@@ -56,8 +57,4 @@ Assicurati infine di attivare la campagna.
 
 ## Testare la campagna
 
-Per testare la campagna, abilita innanzitutto le notifiche nella pagina Web [&#x200B; scegliendo di partecipare](http://localhost:3000) quando richiesto. Dopo aver acconsentito, attendi che la campagna venga eseguita all’orario pianificato. Durante l’esecuzione della campagna, dovresti ricevere la notifica push nel browser.
-
-
-
-
+Per testare la campagna, abilitare innanzitutto le notifiche nella pagina Web [ scegliendo di partecipare](http://localhost:3000) quando richiesto. Dopo aver acconsentito, attendi che la campagna venga eseguita all’orario pianificato. Durante l’esecuzione della campagna, dovresti ricevere la notifica push nel browser.
