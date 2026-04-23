@@ -57,4 +57,4 @@ Assicurati infine di attivare la campagna.
 
 ## Testare la campagna
 
-Per testare la campagna, abilitare innanzitutto le notifiche nella pagina Web [ scegliendo di partecipare](http://localhost:3000) quando richiesto. Dopo aver acconsentito, attendi che la campagna venga eseguita all’orario pianificato. Durante l’esecuzione della campagna, dovresti ricevere la notifica push nel browser.
+Per testare la campagna, abilitare innanzitutto le notifiche nella pagina Web [&#x200B; scegliendo di partecipare](http://localhost:3000) quando richiesto. Dopo aver acconsentito, attendi che la campagna venga eseguita all’orario pianificato. Durante l’esecuzione della campagna, dovresti ricevere la notifica push nel browser.
