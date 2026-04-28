@@ -13,9 +13,9 @@ exl-id: e404a36c-117e-492f-8f15-2a48642c9c91
 hidefromtoc: false
 hide: false
 index: true
-source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '178'
 ht-degree: 100%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 100%
 
 Scopri come Adobe Experience Manager (AEM) si integra perfettamente con Adobe Journey Optimizer per semplificare la gestione dei contenuti e garantire la coerenza del brand sui canali. Scopri come creare, approvare ed eseguire il rendering dei frammenti di contenuto, e come scambiare e simulare facilmente nuovi contenuti. Ideale per chi cerca una gestione efficiente dei contenuti e un branding coerente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463130/?captions=ita&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457691/?learn=on&enablevpops)
 
 Experience League LIVE - [Alimentare contenuti personalizzati in Journey Optimizer con frammenti di contenuto di AEM ed elementi multimediali dinamici](https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25)
 

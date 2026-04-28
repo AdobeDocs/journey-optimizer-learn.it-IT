@@ -8,9 +8,9 @@ index: true
 jira: KT-19860
 last-substantial-update: 2025-12-18T00:00:00Z
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
-source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '892'
+source-wordcount: '944'
 ht-degree: 5%
 
 ---
@@ -21,7 +21,7 @@ Avvia rapidaente o migliora la tua strategia di coinvolgimento su dispositivi mo
 
 Esplora le best practice, scopri come promuovere l’adozione e configurare flussi di lavoro di reporting centralizzati, il tutto in un’unica posizione, per fornire esperienze mobili di impatto e basate sui dati, che raggiungono i clienti ovunque e in qualsiasi momento.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477006?captions=ita&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
 
 
 ## Panoramica del canale mobile
@@ -90,13 +90,13 @@ Scopri i concetti e come
 
 | Caso d&#39;uso | Descrizione | Utilizzo canale mobile |
 |---------|-------------|----------------------|
-| **Onboarding e adozione delle app** | Guida i nuovi utenti attraverso le fasi iniziali del coinvolgimento nell’app: installazione dell’app, completamento della configurazione e individuazione delle funzioni chiave. L&#39;obiettivo è quello di massimizzare la conservazione e l&#39;utilizzo a lungo termine. | : notifiche push e SMS di benvenuto agli utenti e richiesta del completamento del profilo.<br>- I messaggi in-app evidenziano le funzioni e incoraggiano le prime azioni.<br>- I collegamenti profondi nelle e-mail o negli annunci indirizzano gli utenti a schermate di app specifiche per un onboarding fluido. |
-| **Coinvolgimento basato sulla posizione** | Fornisce messaggi personalizzati e tempestivi agli utenti in base alla loro vicinanza fisica a negozi, eventi o altre posizioni rilevanti. | : geofencing e tecnologia beacon attivano le notifiche push quando gli utenti entrano in zone di destinazione.<br>- Gli SMS/MMS distribuiscono offerte e aggiornamenti localizzati.<br>- Banner e schede in-app adattano il contenuto in base alla posizione in tempo reale. |
-| **Coinvolgimento di abbandono** | Consente di eseguire il targeting degli utenti che abbandonano carrelli, moduli o sessioni di navigazione, con l’obiettivo di riportarli indietro e completare l’azione prevista. | - Le notifiche push ricordano agli utenti di carrelli abbandonati o azioni incomplete.<br>- I follow-up degli SMS includono incentivi o collegamenti diretti per la ripresa.<br>- I prompt in-app vengono visualizzati quando gli utenti ritornano, offrendo consigli personalizzati. |
-| **Campagne di upselling e cross-selling** | Promuove prodotti o aggiornamenti aggiuntivi ai clienti esistenti in base al loro comportamento, alle loro preferenze o alla cronologia degli acquisti. | - Le notifiche push evidenziano le opportunità di upselling rilevanti.<br>- I messaggi in-app e le schede di contenuto presentano elementi complementari.<br>- Le campagne SMS sono indirizzate a tipi di pubblico segmentati con offerte esclusive. |
-| **Prevenzione abbandono** | Identifica gli utenti a rischio di abbandono e li coinvolge con strategie di conservazione personalizzate per mantenere la fedeltà al progetto. | - Le analisi predittive attivano l’estensione dei dispositivi mobili agli utenti a rischio.<br>- Notifiche push e SMS offrono premi fedeltà o contenuti personalizzati.<br>- I sondaggi in-app raccolgono feedback per migliorare le strategie di conservazione. |
-| **Messaggistica multicanale** | Orchestrazione di messaggi coerenti su più canali mobili per garantire che gli utenti ricevano comunicazioni tempestive e pertinenti. | : le funzioni push, in-app, SMS ed e-mail sono coordinate per la messaggistica unificata.<br>- Gli SDK abilitano la personalizzazione in tempo reale tra i canali.<br>- Le schede di contenuto persistono in tutte le sessioni per rafforzare i messaggi chiave. |
+| **Onboarding e adozione delle app** | Guida i nuovi utenti attraverso le fasi iniziali del coinvolgimento nell’app: installazione dell’app, completamento della configurazione e individuazione delle funzioni chiave. L&#39;obiettivo è quello di massimizzare la conservazione e l&#39;utilizzo a lungo termine. | - Notifiche push e SMS di benvenuto e richiesta del completamento del profilo.<br>- I messaggi in-app evidenziano le funzioni e incoraggiano le prime azioni.<br>- I collegamenti profondi nelle e-mail o negli annunci indirizzano gli utenti a schermate di app specifiche per un onboarding fluido. |
+| **Coinvolgimento basato sulla posizione** | Fornisce messaggi personalizzati e tempestivi agli utenti in base alla loro vicinanza fisica a negozi, eventi o altre posizioni rilevanti. | - Le notifiche push di geo-fencing e beacon tech vengono attivate quando gli utenti entrano in zone di destinazione.<br>- Gli SMS/MMS distribuiscono offerte e aggiornamenti localizzati.<br>- I banner e le schede in-app adattano il contenuto in base alla posizione in tempo reale. |
+| **Coinvolgimento di abbandono** | Consente di eseguire il targeting degli utenti che abbandonano carrelli, moduli o sessioni di navigazione, con l’obiettivo di riportarli indietro e completare l’azione prevista. | - Le notifiche push ricordano agli utenti di carrelli abbandonati o azioni incomplete.<br>- I follow-up SMS includono incentivi o collegamenti diretti per la ripresa.<br>- I prompt in-app vengono visualizzati al ritorno degli utenti, offrendo consigli personalizzati. |
+| **Campagne di upselling e cross-selling** | Promuove prodotti o aggiornamenti aggiuntivi ai clienti esistenti in base al loro comportamento, alle loro preferenze o alla cronologia degli acquisti. | - Le notifiche push evidenziano opportunità di upselling rilevanti.<br>- I messaggi in-app e le schede di contenuto mostrano elementi complementari.<br>- Le campagne SMS sono indirizzate a tipi di pubblico segmentati con offerte esclusive. |
+| **Prevenzione abbandono** | Identifica gli utenti a rischio di abbandono e li coinvolge con strategie di conservazione personalizzate per mantenere la fedeltà al progetto. | - Le analisi predittive attivano l&#39;outreach mobile per gli utenti a rischio.<br>- Notifiche push e SMS offrono premi di fedeltà o contenuti personalizzati.<br>- I sondaggi in-app raccolgono feedback per migliorare le strategie di conservazione. |
+| **Messaggistica multicanale** | Orchestrazione di messaggi coerenti su più canali mobili per garantire che gli utenti ricevano comunicazioni tempestive e pertinenti. | - Push, in-app, SMS ed e-mail sono coordinati per la messaggistica unificata.<br>- Gli SDK abilitano la personalizzazione in tempo reale tra canali diversi.<br>- Le schede di contenuto persistono tra sessioni diverse per rafforzare i messaggi chiave. |
 
 ## Casi d’uso del cliente
 
-* [Volo con personalizzazione: come le compagnie aeree possono elevare le offerte con Adobe Journey Optimizer (blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513?profile.language=it)
+* [Prendi il volo con la personalizzazione: come le compagnie aeree possono elevare le offerte con Adobe Journey Optimizer (blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)

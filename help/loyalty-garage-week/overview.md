@@ -1,27 +1,27 @@
 ---
-title: Settimana del garage fedeltà - Panoramica
-description: Aggiungi una descrizione
+title: Loyalty Garage Week - Overview
+description: Please add a description
 feature: Overview
 role: User
 hide: true
 index: false
 exl-id: 1c8da00a-45c0-44fb-8e4e-e17a3978b4fe
-source-git-commit: 0b3170fdcc60de2efe10ae542caa8c139f51ac78
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 4%
+source-wordcount: '426'
+ht-degree: 0%
 
 ---
 
-# Settimana del garage fedeltà - Panoramica
+# Loyalty Garage Week - Overview
 
 <!--
 CARDS
-* https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/ai-driven-loyalty-orchestration.html?lang=it
-* https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/challenge-based-loyalty.html?lang=it
-* https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/emotional-loyalty-and-community-building.html?lang=it
-* https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/financial-modeling-for-modern-loyalty-programs.html?lang=it
-* https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/loyalty-in-an-omnichannel-world.html?lang=it
+* https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/ai-driven-loyalty-orchestration.html
+* https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/challenge-based-loyalty.html
+* https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/emotional-loyalty-and-community-building.html
+* https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/financial-modeling-for-modern-loyalty-programs.html
+* https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/loyalty-in-an-omnichannel-world.html
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -29,8 +29,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/ai-driven-loyalty-orchestration.html?lang=it" title="Orchestrazione della fedeltà basata sull’intelligenza artificiale: da RFM a Real-Time Personalization" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-cards/tutorial.png" alt="Orchestrazione della fedeltà basata sull’intelligenza artificiale: da RFM a Real-Time Personalization"
+                    <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/ai-driven-loyalty-orchestration.html" title="AI-Driven Loyalty Orchestration - From RFM to Real-Time Personalization" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-cards/tutorial.png" alt="AI-Driven Loyalty Orchestration - From RFM to Real-Time Personalization"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -38,11 +38,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/ai-driven-loyalty-orchestration.html?lang=it" target="_blank" rel="referrer" title="Orchestrazione della fedeltà basata sull’intelligenza artificiale: da RFM a Real-Time Personalization">Orchestrazione della fedeltà basata sull'intelligenza artificiale - Da RFM a Real-Time Personalization</a>
+                        <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/ai-driven-loyalty-orchestration.html" target="_blank" rel="referrer" title="AI-Driven Loyalty Orchestration - From RFM to Real-Time Personalization">AI-Driven Loyalty Orchestration - From RFM to Real-Time Personalization</a>
                     </p>
-                    <p class="is-size-6">I programmi di fidelizzazione moderni stanno vivendo una rivoluzione basata sull’intelligenza artificiale. I brand si stanno evolvendo da una semplice segmentazione basata su regole (come i modelli RFM) ad analisi predittive e motori decisionali autonomi che orchestrano la migliore azione successiva per ogni cliente in tempo reale.</p>
+                    <p class="is-size-6">Modern loyalty programs are undergoing an AI-powered revolution. Brands are evolving from simple, rule-based segmentation (like RFM models) to predictive analytics and autonomous decision engines that orchestrate the next best action for each customer in real time.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/ai-driven-loyalty-orchestration.html?lang=it" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/ai-driven-loyalty-orchestration.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ulteriori informazioni</span>
                 </a>
             </div>
@@ -52,8 +52,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/challenge-based-loyalty.html?lang=it" title="Fedeltà basata sulla sfida" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-cards/tutorial.png" alt="Fedeltà basata sulla sfida"
+                    <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/challenge-based-loyalty.html" title="Challenge-Based Loyalty" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-cards/tutorial.png" alt="Challenge-Based Loyalty"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -61,11 +61,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/challenge-based-loyalty.html?lang=it" target="_blank" rel="referrer" title="Fedeltà basata sulla sfida">Fedeltà basata sulla sfida</a>
+                        <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/challenge-based-loyalty.html" target="_blank" rel="referrer" title="Challenge-Based Loyalty">Challenge-Based Loyalty</a>
                     </p>
-                    <p class="is-size-6">Progettazione di sistemi Gamification comportamentali che favoriscano il coinvolgimento a lungo termine</p>
+                    <p class="is-size-6">Designing Behavioral Gamification Systems That Drive Long-Term Engagement</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/challenge-based-loyalty.html?lang=it" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/challenge-based-loyalty.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ulteriori informazioni</span>
                 </a>
             </div>
@@ -75,8 +75,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/emotional-loyalty-and-community-building.html?lang=it" title="Fedeltà emotiva e community building" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-cards/tutorial.png" alt="Fedeltà emotiva e community building"
+                    <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/emotional-loyalty-and-community-building.html" title="Emotional Loyalty and Community Building" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-cards/tutorial.png" alt="Emotional Loyalty and Community Building"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -84,11 +84,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/emotional-loyalty-and-community-building.html?lang=it" target="_blank" rel="referrer" title="Fedeltà emotiva e community building">Fedeltà emotiva e creazione di community</a>
+                        <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/emotional-loyalty-and-community-building.html" target="_blank" rel="referrer" title="Emotional Loyalty and Community Building">Emotional Loyalty and Community Building</a>
                     </p>
-                    <p class="is-size-6">In che modo i brand creano identità, appartenenza e sostegno attraverso la fedeltà basata sull’esperienza</p>
+                    <p class="is-size-6">How Brands Create Identity, Belonging, and Advocacy Through Experience-Based Loyalty</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/emotional-loyalty-and-community-building.html?lang=it" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/emotional-loyalty-and-community-building.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ulteriori informazioni</span>
                 </a>
             </div>
@@ -98,8 +98,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/financial-modeling-for-modern-loyalty-programs.html?lang=it" title="Modellazione finanziaria per programmi di fidelizzazione moderni" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-cards/tutorial.png" alt="Modellazione finanziaria per programmi di fidelizzazione moderni"
+                    <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/financial-modeling-for-modern-loyalty-programs.html" title="Financial Modeling for Modern Loyalty Programs" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-cards/tutorial.png" alt="Financial Modeling for Modern Loyalty Programs"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -107,11 +107,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/financial-modeling-for-modern-loyalty-programs.html?lang=it" target="_blank" rel="referrer" title="Modellazione finanziaria per programmi di fidelizzazione moderni">Modellazione finanziaria per programmi di fidelizzazione moderni</a>
+                        <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/financial-modeling-for-modern-loyalty-programs.html" target="_blank" rel="referrer" title="Financial Modeling for Modern Loyalty Programs">Financial Modeling for Modern Loyalty Programs</a>
                     </p>
-                    <p class="is-size-6">Un framework completo e pronto per il CFO per la previsione di passività, economia dei premi e valore incrementale.</p>
+                    <p class="is-size-6">A Comprehensive, CFO-Ready Framework for Forecasting Liability, Reward Economics, and Incremental Value.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/financial-modeling-for-modern-loyalty-programs.html?lang=it" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/financial-modeling-for-modern-loyalty-programs.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ulteriori informazioni</span>
                 </a>
             </div>
@@ -121,7 +121,7 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/loyalty-in-an-omnichannel-world.html?lang=it" title="Fedeltà in un mondo omnicanale" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/loyalty-in-an-omnichannel-world.html" title="Fedeltà in un mondo omnicanale" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-cards/tutorial.png" alt="Fedeltà in un mondo omnicanale"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -130,11 +130,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/loyalty-in-an-omnichannel-world.html?lang=it" target="_blank" rel="referrer" title="Fedeltà in un mondo omnicanale">Fedeltà in un mondo omni-channel</a>
+                        <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/loyalty-in-an-omnichannel-world.html" target="_blank" rel="referrer" title="Fedeltà in un mondo omnicanale">Loyalty in an Omnichannel World</a>
                     </p>
                     <p class="is-size-6">Creazione di un’esperienza di fidelizzazione unificata, predittiva e in tempo reale su tutti i punti di contatto dei clienti.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/loyalty-in-an-omnichannel-world.html?lang=it" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/loyalty-in-an-omnichannel-world.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ulteriori informazioni</span>
                 </a>
             </div>

@@ -13,7 +13,7 @@ hidefromtoc: true
 index: false
 badgeBet: label="Beta" type="Informative"
 exl-id: f6c373be-aeae-4d52-a4b1-84a312399f5e
-source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 1%
@@ -24,4 +24,4 @@ ht-degree: 1%
 
 Scopri come creare una sfida di fidelizzazione impostando attività, premi e pianificazioni. Scopri come configurare contenuti, messaggi e tipi di pubblico mentre un percorso completo dei clienti viene generato automaticamente in background.
 
->[!VIDEO](https://video.tv.adobe.com/v/3480334/?captions=ita&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3480326/?learn=on&enablevpops)

@@ -10,9 +10,9 @@ last-substantial-update: 2024-10-01T00:00:00Z
 hide: false
 hidefromtoc: false
 exl-id: 52930777-3231-4156-b1fe-a2d82003629a
-source-git-commit: 783cf83169c9e12e07bf4ffc162adfe1b0c33d8f
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '150'
 ht-degree: 100%
 
 ---
@@ -25,4 +25,4 @@ Scopri come applicare le etichette agli schemi e ai set di dati. Le etichette di
 >
 >Il video mostra questa funzione nell’interfaccia utente di Adobe Experience Platform. La stessa funzionalità è disponibile nell’interfaccia utente di Journey Optimizer, nella sezione GESTIONE DATI nel menu di navigazione a sinistra.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422790?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/29709?learn=on)

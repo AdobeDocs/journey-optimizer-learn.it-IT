@@ -4,10 +4,10 @@ description: Experience League LIVE è un evento in live streaming prodotto dal 
 feature: Overview
 doc-type: Catalog
 exl-id: 459c062f-b56f-4611-99f5-8bb88ad5d476
-source-git-commit: 80a4a61e993359b52bab14c0d5f7a2e51151207d
+source-git-commit: b43289032bea25bb7c0247cbd77eec35c3f816b3
 workflow-type: tm+mt
-source-wordcount: '1190'
-ht-degree: 80%
+source-wordcount: '1910'
+ht-degree: 81%
 
 ---
 
@@ -17,12 +17,13 @@ Experience League LIVE è un evento in live streaming prodotto dal team Digital 
 
 ## Episodi recenti
 
-<!-- CARDS
+<!--
+CARDS
 
-* https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-08-26
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-08-26
     {title = New Use Cases for Customer Engagement: iOS Live Activities, Web Push, and Persistent Messaging (April 8 12, 2026)}
     {description = In this Experience League Live session, we explore new surfaces and use cases for customer engagement as brands move beyond one-way, single-channel messaging. Discover how marketing and product teams can create more visible, contextual, and persistent experiences-driving continuous engagement and richer, real-time interactions across channels.}
-* https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03-12-26
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03-12-26
     {title = Get to Know Campaign Orchestration in Adobe Journey Optimizer (March 12, 2026)}
     {description = In this Experience League Live session, see how campaign orchestration in Journey Optimizer manages your large, one‑to‑many multi-channel marketing programs—from audience creation to launch.}
 -->
@@ -32,7 +33,7 @@ Experience League LIVE è un evento in live streaming prodotto dal team Digital 
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-08-26" title="Nuovi casi d’uso per il coinvolgimento dei clienti: attività iOS Live, Web Push e messaggistica persistente (8 aprile 12, 2026)" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-08-26" title="Nuovi casi d’uso per il coinvolgimento dei clienti: attività iOS Live, Web Push e messaggistica persistente (8 aprile 12, 2026)" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3483389/?format=jpeg&nocache=1775836544790" alt="Nuovi casi d’uso per il coinvolgimento dei clienti: attività iOS Live, Web Push e messaggistica persistente (8 aprile 12, 2026)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -41,12 +42,12 @@ Experience League LIVE è un evento in live streaming prodotto dal team Digital 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-08-26" target="_blank" rel="referrer" title="Nuovi casi d’uso per il coinvolgimento dei clienti: attività iOS Live, Web Push e messaggistica persistente (8 aprile 12, 2026)">Nuovi casi d'uso per il coinvolgimento dei clienti: attività iOS Live, Web Push e messaggistica persistente (8 aprile 12, 2026)</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-08-26" target="_blank" rel="referrer" title="Nuovi casi d’uso per il coinvolgimento dei clienti: attività iOS Live, Web Push e messaggistica persistente (8 aprile 12, 2026)">Nuovi casi d'uso per il coinvolgimento dei clienti: attività iOS Live, Web Push e messaggistica persistente (8 aprile 12, 2026)</a>
                     </p>
                     <p class="is-size-6">In questa sessione di Experience League Live, esploriamo nuove superfici e casi d’uso per il coinvolgimento dei clienti man mano che i brand si spostano oltre la messaggistica unidirezionale a canale singolo. Scopri come i team di marketing e prodotto possono creare un coinvolgimento continuo e più visibile, contestuale e persistente che stimola esperienze e interazioni più ricche e in tempo reale tra i canali.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-08-26" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
+                <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-08-26" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
                 </a>
             </div>
         </div>
@@ -55,7 +56,7 @@ Experience League LIVE è un evento in live streaming prodotto dal team Digital 
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03-12-26" title="Conoscere l’orchestrazione delle campagne in Adobe Journey Optimizer (12 marzo 2026)" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03-12-26" title="Conoscere l’orchestrazione delle campagne in Adobe Journey Optimizer (12 marzo 2026)" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3481409/?format=jpeg&nocache=1775836544792" alt="Conoscere l’orchestrazione delle campagne in Adobe Journey Optimizer (12 marzo 2026)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -64,12 +65,12 @@ Experience League LIVE è un evento in live streaming prodotto dal team Digital 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03-12-26" target="_blank" rel="referrer" title="Conoscere l’orchestrazione delle campagne in Adobe Journey Optimizer (12 marzo 2026)">Scopri l’orchestrazione delle campagne in Adobe Journey Optimizer (12 marzo 2026)</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03-12-26" target="_blank" rel="referrer" title="Conoscere l’orchestrazione delle campagne in Adobe Journey Optimizer (12 marzo 2026)">Scopri l’orchestrazione delle campagne in Adobe Journey Optimizer (12 marzo 2026)</a>
                     </p>
                     <p class="is-size-6">In questa sessione di Experience League Live, scopri come l’orchestrazione delle campagne in Journey Optimizer gestisce i programmi di marketing multicanale uno-a-molti di grandi dimensioni, dalla creazione di tipi di pubblico al lancio.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03-12-26" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
+                <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03-12-26" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
                 </a>
             </div>
         </div>
@@ -81,37 +82,38 @@ Experience League LIVE è un evento in live streaming prodotto dal team Digital 
 
 ## Episodi passati
 
-<!-- CARDS
-* https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-25
+<!-- 
+CARDS
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-25
     {title = The Next Era of Experimentation: How Agentic AI is Fueling Smarter Testing and Growth (October 30th 2025)}
     {description = In this Experience League Live session, we unveil Adobe Journey Optimizer Experimentation Accelerator, a new AI-first application built to transform how experimentation, product and growth teams test, learn, and optimize campaigns and customer journeys.}
-* https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-30-25
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-30-25
     {title = Expand your mobile reach with RCS and WhatsApp in Journey Optimizer (September 30th 2025)}
     {description = In this show Travis Jordan and Nikhil Sharma demonstrate how Adobe Journey Optimizer has recently expanded mobile engagement with powerful new channel additions and functionality, including WhatsApp, RCS, and Custom SMS Provider.}
-* https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25
     {title = Fueling Personalized Content in Journey Optimizer with AEM Content Fragments and Dynamic Media (July 31 2025)}
     {description = In this session, Jyothitha Chandran, Chris Ivory, and Kaitlin White showcase how Adobe Journey Optimizer (AJO) integrates seamlessly with Adobe Experience Manager (AEM) Sites Content Fragments and AEM Assets Dynamic Media to deliver scalable, real-time personalization across every channel.}
-* https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25
   {title = Master Frequency Capping & Conflict Prioritization (June 18, 2025)}
   {description = In this session, Adobe experts Ariel Sultan and Aaron Forrest dive into new features in Adobe Journey Optimizer to help you govern and prioritize customer messages with precision. They show how to reduce messaging fatigue, resolve conflicts, and deliver impactful experiences that resonate.}
-* https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-47-2025-06-05
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-47-2025-06-05
      {title = Agile Workflows for Personalized Content at Scale (June 05, 2025)}
      {description = In this session, Adobe experts Chris Ivory, Amarnath Vannarath, and Rohan Bhatt showcase how Adobe Journey Optimizer (AJO) seamlessly integrates with Adobe Express and GenStudio for Performance Marketing. Learn how these tools bring unparalleled flexibility, collaboration, and AI-powered creativity to your marketing workflows.}
-* https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25
      {title = Unlocking operational insights with AI Assistant in Adobe Experience Platform (February 27, 2025)}
      {description = ur experts discussed how AI Assistant can unlock valuable operational insights, boosting productivity and redefining work in Adobe Experience Platform and its platform-based applications.}
-* https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-24
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-24
   {title = Unveiling Content Cards for Adobe Journey Optimizer (November 6, 2024)}
   {description = Learn how Content Cards deliver key updates, promotions, and messages seamlessly within your app or website, ensuring a non-intrusive user experience. }
-* https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24
      {title = Harmonize Audiences in Experience Ecosystems - Federated Audience Composition in Experience Platform (October 24, 2024)}
      {description = Learn about Federated Audience Composition provides a comprehensive approach to audience curation and activation with Real-Time CDP and Journey Optimizer.}
-* https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24
     {title = AI Bash - Unlocking the Power of AI Assistant in Adobe Experience Platform Applications and Campaign (September 26, 2024)}
     {description = AI-driven tools are transforming the way we engage customers and streamline workflows. Learn how Adobe's AI capabilities will accelerate your productivity.}
-* https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24 
-* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=it 
-* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=it
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24 
+* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=en 
+* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=en
     {description = Learn about the common use cases for push notification with Adobe Journey Optimizer and dive into the technical details on how to configure an app for Push powered by Adobe Experience Platform.}
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -134,7 +136,7 @@ Experience League LIVE è un evento in live streaming prodotto dal team Digital 
                     <p class="is-size-6">In questa sessione di Experience League Live, viene presentato Adobe Journey Optimizer Experimentation Accelerator, una nuova applicazione basata sull’IA creata per trasformare il modo in cui i team di sperimentazione, prodotto e crescita testano, apprendono e ottimizzano campagne e percorsi cliente.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
                 </a>
             </div>
         </div>
@@ -157,7 +159,7 @@ Experience League LIVE è un evento in live streaming prodotto dal team Digital 
                     <p class="is-size-6">In questo show Travis Jordan e Nikhil Sharma mostrano come Adobe Journey Optimizer ha recentemente ampliato il coinvolgimento mobile con nuove potenti aggiunte e funzionalità per il canale, tra cui WhatsApp, RCS e provider di SMS personalizzati.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-30-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
                 </a>
             </div>
         </div>
@@ -180,7 +182,7 @@ Experience League LIVE è un evento in live streaming prodotto dal team Digital 
                     <p class="is-size-6">In questa sessione, Jyothitha Chandran, Chris Ivory e Kaitlin White dimostrano come Adobe Journey Optimizer (AJO) si integra perfettamente con i frammenti di contenuto di Adobe Experience Manager (AEM) Sites ed AEM Assets Dynamic Media per offrire una personalizzazione scalabile e in tempo reale su tutti i canali.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
                 </a>
             </div>
         </div>
@@ -203,7 +205,7 @@ Experience League LIVE è un evento in live streaming prodotto dal team Digital 
                     <p class="is-size-6">In questa sessione, gli esperti di Adobe Ariel Sultan e Aaron Forrest approfondiscono le nuove funzioni di Adobe Journey Optimizer per aiutarti a gestire e assegnare una priorità precisa ai messaggi della clientela. Illustrano come ridurre l’eccesso di messaggistica, risolvere i conflitti e fornire esperienze di grande impatto che suscitano interesse.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
                 </a>
             </div>
         </div>
@@ -226,7 +228,7 @@ Experience League LIVE è un evento in live streaming prodotto dal team Digital 
                     <p class="is-size-6">In questa sessione, gli esperti di Adobe Chris Ivory, Amarnath Vannarath e Rohan Bhatt mostrano come Adobe Journey Optimizer (AJO) si integra perfettamente con Adobe Express e GenStudio for Performance Marketing. Scopri in che modo questi strumenti introducono flessibilità, collaborazione e creatività senza precedenti e basate sull’intelligenza artificiale nei flussi di lavoro di marketing.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-47-2025-06-05" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
                 </a>
             </div>
         </div>
@@ -249,7 +251,7 @@ Experience League LIVE è un evento in live streaming prodotto dal team Digital 
                     <p class="is-size-6">I nostri esperti hanno illustrato l’uso dell’Assistente IA per sbloccare insight operativi preziose, aumentare la produttività e ridefinire il lavoro in Adobe Experience Platform e nelle applicazioni basate su questa piattaforma.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
                 </a>
             </div>
         </div>
@@ -272,7 +274,7 @@ Experience League LIVE è un evento in live streaming prodotto dal team Digital 
                     <p class="is-size-6">Scopri in che modo le schede di contenuto forniscono aggiornamenti, promozioni e messaggi chiave direttamente nell’app o nel sito web, garantendo un’esperienza utente non invasiva.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-24" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
                 </a>
             </div>
         </div>
@@ -295,7 +297,7 @@ Experience League LIVE è un evento in live streaming prodotto dal team Digital 
                     <p class="is-size-6">Scopri come la composizione di pubblico federato offre un approccio completo alla cura e all’attivazione del pubblico con Real-Time CDP e Journey Optimizer.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
                 </a>
             </div>
         </div>
@@ -318,7 +320,7 @@ Experience League LIVE è un evento in live streaming prodotto dal team Digital 
                     <p class="is-size-6">Gli strumenti basati sull’intelligenza artificiale stanno trasformando il modo in cui coinvolgiamo la clientela e semplifichiamo i flussi di lavoro. Scopri in che modo le funzionalità dell’intelligenza artificiale di Adobe accelerano la produttività.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
                 </a>
             </div>
         </div>
@@ -341,7 +343,7 @@ Experience League LIVE è un evento in live streaming prodotto dal team Digital 
                     <p class="is-size-6">Quest’estate potenzia il coinvolgimento della clientela grazie alle tre funzioni di Adobe Journey Optimizer: sperimentazione di percorso, quota limite e messaggistica multilingue.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
                 </a>
             </div>
         </div>
@@ -364,7 +366,7 @@ Experience League LIVE è un evento in live streaming prodotto dal team Digital 
                     <p class="is-size-6">Scopri come utilizzare le API REST per comunicazioni transazionali e di marketing contestuali, personalizzate e in tempo reale.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=it-IT" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
                 </a>
             </div>
         </div>
@@ -373,8 +375,8 @@ Experience League LIVE è un evento in live streaming prodotto dal team Digital 
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=it-IT" title="Eventi Experience League LIVE" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=it./media_162a4f3c7f00f727975830a7b28481d0c762fa319.jpg?width=400&format=jpg&optimize=medium" alt="Eventi Experience League LIVE"
+                    <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=it-IT" title="Experience League LIVE Events" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=en./media_162a4f3c7f00f727975830a7b28481d0c762fa319.jpg?width=400&format=jpg&optimize=medium" alt="Experience League LIVE Events"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -382,12 +384,12 @@ Experience League LIVE è un evento in live streaming prodotto dal team Digital 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=it-IT" target="_blank" rel="referrer" title="Eventi Experience League LIVE">Eventi Experience League LIVE</a>
+                        <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=it-IT" target="_blank" rel="referrer" title="Experience League LIVE Events">Experience League LIVE Events</a>
                     </p>
                     <p class="is-size-6">Scopri i casi d’uso comuni per le notifiche push con Adobe Journey Optimizer e come configurare un’app per l’invio di notifiche push basata su Adobe Experience Platform.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=it-IT" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
                 </a>
             </div>
         </div>

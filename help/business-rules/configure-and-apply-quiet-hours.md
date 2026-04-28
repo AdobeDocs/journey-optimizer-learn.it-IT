@@ -12,7 +12,7 @@ hide: false
 hidefromtoc: false
 index: true
 exl-id: 2505ef58-0df4-470b-a318-6146e66af32e
-source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 100%
@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Scopri come utilizzare la funzione relativa alle ore di silenzio di Adobe Journey Optimizer per impedire l’invio di messaggi alla clientela durante intervalli di tempo specifici, consentendo ai marketer di evitare l’invio di comunicazioni in momenti non appropriati e migliorando il coinvolgimento cliente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475860/?captions=ita&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475851/?learn=on&enablevpops)

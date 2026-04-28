@@ -11,10 +11,10 @@ jira: KT-16041
 hidefromtoc: false
 hide: false
 exl-id: f1d135e4-208c-45d4-8d7c-5d8496fb79b7
-source-git-commit: ee24c9920e4374631c006f13fdd8d2950d680aec
-workflow-type: ht
-source-wordcount: '0'
-ht-degree: 100%
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+workflow-type: tm+mt
+source-wordcount: '161'
+ht-degree: 93%
 
 ---
 
@@ -24,9 +24,9 @@ La configurazione guidata del canale consente di configurare e convalidare rapid
 
 Scopri come impostare e convalidare una notifica push del canale su un’app di marketing mobile di iOS di esempio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449630/?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433053/?learn=on)
 
 Per ulteriori informazioni, consulta la documentazione del prodotto.
 
 * [Introduzione alla configurazione guidata del canale](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config.html?lang=it){target="_blank"}
-* [Creare una configurazione di canale](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/create-channel-set-up.html?lang=it){target="_blank"}
+* [Creare una configurazione del canale](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/create-channel-set-up.html?lang=it){target="_blank"}
