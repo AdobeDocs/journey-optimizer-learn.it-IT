@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Scopri i casi d’uso applicabili ai percorsi transazionali e come creare percorsi transazionali.
 
->[!VIDEO](https://video.tv.adobe.com/v/334202?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3415684?captions=ita&quality=12&learn=on){transcript=true}

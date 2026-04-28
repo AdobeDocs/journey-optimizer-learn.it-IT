@@ -22,7 +22,7 @@ ht-degree: 100%
 
 Informazioni sul Framework di governance dei dati in Adobe Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/29708/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35476/?captions=ita&learn=on)
 
 Consulta la documentazione sul prodotto per ulteriori informazioni sulla [governance dei dati](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/privacy/action-privacy-restricted) in Journey Optimizer.
 

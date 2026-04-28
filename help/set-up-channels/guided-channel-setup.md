@@ -24,7 +24,7 @@ La configurazione guidata del canale consente di configurare e convalidare rapid
 
 Scopri come impostare e convalidare una notifica push del canale su un’app di marketing mobile di iOS di esempio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433053/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449630/?captions=ita&learn=on)
 
 Per ulteriori informazioni, consulta la documentazione del prodotto.
 

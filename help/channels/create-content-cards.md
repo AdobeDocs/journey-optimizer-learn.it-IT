@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Scopri come creare schede di contenuti per la tua applicazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434783/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434791/?captions=ita&learn=on)
