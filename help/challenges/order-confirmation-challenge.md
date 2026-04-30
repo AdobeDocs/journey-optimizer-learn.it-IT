@@ -8,9 +8,9 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
 source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
-workflow-type: tm+mt
-source-wordcount: '615'
-ht-degree: 98%
+workflow-type: ht
+source-wordcount: '688'
+ht-degree: 100%
 
 ---
 
@@ -71,12 +71,12 @@ L’e-mail deve essere strutturata nel modo seguente:
   <td>
   <div>
     <strong>Sezione Conferma dell’ordine
- </strong>
+    </strong>
   </td>
   <td>
     <p>
     <strong>Testo</strong><p>
-    <em>Ciao {firstName},</em><p>
+    <em>Salve {firstName},</em><p>
    <div>
     <p>
      <em>Il tuo ordine è stato effettuato.
@@ -92,13 +92,13 @@ L’e-mail deve essere strutturata nel modo seguente:
       <li>Il nome e il cognome provengono dal profilo
       <li>Sostituisci l’indirizzo codificato nel modello con <b>l’indirizzo di spedizione</b>
       <li>I dettagli dell’indirizzo sono attributi contestuali dell’evento (via 1, città, codice postale, stato)
-      <li> Rimuovi <i>sconto, totale, arrivo</i></p>
+      <li> Rimuovi <i>sconto, totale, in arrivo</i></p>
   </td>
   <td>
   <p> Spedisci a:</p>
       <em>{firstName} {lastName}<br>
-     {Street 1}<br>
-     {City}, {State} {postalCode}<br></em></p>
+     {Street 1}<br>
+     {City}, {State} {postalCode}<br></em></p>
   </td>
  <tr>
 <td>
@@ -110,7 +110,7 @@ L’e-mail deve essere strutturata nel modo seguente:
       <p><b>Suggerimenti:</b>
       <li>Utilizza il componente della struttura <b>Colonna 1:2 a sinistra</b> per questa sezione
       <li>Si tratta di informazioni contestuali sull’evento.
-      <li>Utilizza la [!UICONTROL helper function]: [!UICONTROL Each]
+      <li>Utilizza la [!UICONTROL funzione helper]: [!UICONTROL Each]
       <li>Passa al formato dell’editor di codice per aggiungere i dati contestuali.
   </td>
   <td>
@@ -118,10 +118,10 @@ L’e-mail deve essere strutturata nel modo seguente:
     <p>
   Ordine: <em>{purchaseOrderNumber}</em>
     </p>
-    <strong>Elenco dei prodotti che sono stati ordinati:
- </strong>
+    <strong>Elenco dei prodotti ordinati:
+  </strong>
   <p>Elenca ogni prodotto nell’ordine con un’immagine, il prezzo e il nome.
-  <p>Il layout di ciascun elemento deve essere simile al seguente:
+  <p>Il layout di ciascun elemento dovrebbe essere simile a questo:
    <img alt="ordine" src="./assets/c2-order.png"> 
 <p><b>Aggiungi il collegamento al carrello</b>
 <p>Sostituisci l’ID ordine nell’URL con il numero dell’ordine di acquisto:

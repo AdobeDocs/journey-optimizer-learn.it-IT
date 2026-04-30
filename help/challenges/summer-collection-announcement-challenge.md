@@ -9,7 +9,7 @@ last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
 source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
 workflow-type: ht
-source-wordcount: '1108'
+source-wordcount: '1154'
 ht-degree: 100%
 
 ---
@@ -151,7 +151,7 @@ Invia una bozza a te stesso:
 3. Invia una bozza a te stesso.
 
 Risultato:\
-Dovresti ricevere un’e-mail. L’oggetto deve contenere il testo *Stanleigh, scopri il nuovo abbigliamento sportivo da uomo!* e il corpo dell’e-mail deve corrispondere a quello visualizzato nell’anteprima.
+Dovresti ricevere un’e-mail. L’oggetto deve contenere il testo *Stanleigh, scopri il nuovo abbigliamento sportivo da uomo.* e il corpo dell’e-mail deve corrispondere a quello visualizzato nell’anteprima.
 
 >[!NOTE]
 >La ricezione della bozza potrebbe richiedere un paio di minuti.
@@ -168,7 +168,7 @@ Visualizza l’anteprima del messaggio e-mail con il profilo di test *Louise Pet
 
 * L’oggetto deve contenere il testo: *Louise, approfitta del 20% di sconto!*
 
-#### Test del percorso
+#### Testare il percorso
 
 >[!IMPORTANT]
 >
@@ -201,7 +201,7 @@ Testa il percorso e invia le e-mail al tuo account:
 1. Apri la seconda e-mail e il percorso dovrebbe terminare.
 1. È possibile ripetere il passaggio 4. - 7. per tutti e tre i profili per verificare se i rami funzionano correttamente.
 1. Per verificare i timeout, imposta il tempo di attesa su 30 secondi e attiva nuovamente la voce.
-1. Non aprire le e-mail ricevute (non visualizzare l’anteprima dell’e-mail!) e lascia scadere il tempo di attesa.
+1. Non aprire le e-mail ricevute (non visualizzare l’anteprima dell’e-mail!)e lascia che il tempo di attesa scada.
 
 Dovresti ricevere le e-mail seguenti:
 

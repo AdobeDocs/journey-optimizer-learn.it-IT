@@ -1,14 +1,14 @@
 ---
 title: 'Sfide di Journey Optimizer: introduzione e prerequisiti'
-description: Le sfide forniscono uno scenario e i requisiti necessari per mettere in pratica ciò che hai imparato. Ogni sfida riguarda un caso d’uso specifico implementato dall’utente.
+description: Le sfide forniscono uno scenario e i requisiti necessari per mettere in pratica ciò che hai imparato. Ogni sfida in questa sezione riguarda un caso d’uso univoco che hai implementato.
 feature: Journeys
 role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
 source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
-workflow-type: tm+mt
-source-wordcount: '411'
+workflow-type: ht
+source-wordcount: '547'
 ht-degree: 100%
 
 ---
@@ -61,7 +61,7 @@ Luma sta cercando di promuovere la sua ultima collezione di abbigliamento e di a
       </div>
   </td>
   <td>
-   <strong><a href="summer-collection-announcement-challenge.md">Crea un annuncio sulla collezione estiva</strong>
+   <strong><a href="summer-collection-announcement-challenge.md">Creare un annuncio sulla collezione estiva </strong>
     </a>
       <p>
       <em>Crea un percorso per inviare un’e-mail di annuncio sulla collezione estiva a un pubblico di clienti esistenti. </em>
@@ -82,11 +82,11 @@ Luma sta cercando di promuovere la sua ultima collezione di abbigliamento e di a
     <td>
     <div >
       <a>
-    <strong><a href="loyalty-status-welcome-email-challenge.md">Creare un messaggio e-mail di benvenuto per lo stato di fedeltà</strong>
+    <strong><a href="loyalty-status-welcome-email-challenge.md">Creare un messaggio e-mail di benvenuto per lo stato di fidelizzazione </strong>
     </a>
     </div>
     <p>
-    <em>Invia un’e-mail di congratulazioni quando un cliente fidelizzato passa a un nuovo livello per informarlo dei suoi nuovi vantaggi.</em>
+    <em>Invia un’e-mail di congratulazioni quando un cliente fidelizzato passa a un nuovo livello per informarlo in merito ai nuovi vantaggi.</em>
     <p>
     <b>Competenze richieste:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=it"> Creare segmenti</li>
