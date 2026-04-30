@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: c6f5a9c78193f6540456ff0e1062970000f832b7
 workflow-type: tm+mt
 source-wordcount: '1380'
-ht-degree: 93%
+ht-degree: 99%
 
 ---
 
@@ -69,14 +69,14 @@ ht-degree: 93%
    + [Creare tipi di pubblico tramite il generatore di regole](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [Creare un pubblico caricando un file CSV](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
    + [Creare di tipi di pubblico tramite Web SDK (tutorial)](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
-   + [Valutare i tipi di pubblico su richiesta](https://experienceleague.adobe.com/it/docs/platform-learn/tutorials/audiences/audience-builder/evaluate-audiences-on-demand)
+   + [Valutare i tipi di pubblico on-demand](https://experienceleague.adobe.com/it/docs/platform-learn/tutorials/audiences/audience-builder/evaluate-audiences-on-demand)
    + [Iscrizioni e pagine di destinazione](/help/subscriptions-and-landing-pages.md)
 + Canali {#channels}
    + [Ottimizzazione delle app mobili: panoramica](/help/channels/mobile-app-optimization-overview.md)
    + Canale di esperienza basata su codice{#code-based-experience-channel}
       + [Creare una campagna con esperienza basata su codice](/help/channels/create-a-code-based-experience-campaign.md)
       + [Aggiungere campi modulo a modelli di canale di esperienza basata su codice](/help/channels/form-fields-in-code-based-experiences.md)
-      + [Utilizzare il decisioning nel canale basato sul codice](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
+      + [Utilizzare la funzione Decisioni in un canale basato su codice](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + Canale direct mail{#direct-mail-channel}
       + [Creare una direct mail](/help/channels/direct-mail.md)
       + [Inviare messaggi direct mail con percorsi](/help/channels/direct-mail-in-journeys.md)
@@ -95,7 +95,7 @@ ht-degree: 93%
       + [Creare un messaggio in-app](/help/channels/author-in-app-messages.md)
       + [Configurare esperimenti sui contenuti per i messaggi in-app](/help/experimentation/content-experiments-for-in-app-messages.md)
    + Attività live {#live-activities}
-      + [attività iOS live](/help/channels/ios-live-activities.md)
+      + [iOS Live Activities](/help/channels/ios-live-activities.md)
    + Canale push{#push-channel}
       + [Notifiche push: panoramica](/help/channels/push-notifications-overview.md)
       + [Configurare e inviare una campagna push](/help/channels/create-a-push-campaign.md)
@@ -157,13 +157,13 @@ ht-degree: 93%
       + [Procedura dettagliata sul decisioning end-to-end](/help/decisioning/decisioning-end-to-end.md)
       + [Navigazione nell’interfaccia del Generatore di formule](/help/decisioning/formula-builder-ui.md)
       + [Regole riutilizzabili](/help/decisioning/reusable-targeting-rules.md)
-      + [Attiva percorso all’invio del modulo](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
-      + [Personalizzazione delle offerte con i dati meteo in tempo reale](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
-      + [Utilizza la formula di classificazione per distribuire offerte personalizzate](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
-      + [Approfondimenti modello IA](/help/decisioning/ai-model-insights.md)
-      + [Utilizzare il decisioning nel canale e-mail](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
+      + [Attivare un percorso all’invio del modulo](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
+      + [Personalizzazione di offerte con dati meteo in tempo reale](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
+      + [Utilizzare la formula di ranking per fornire offerte personalizzate](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
+      + [Approfondimenti sul modello IA](/help/decisioning/ai-model-insights.md)
+      + [Utilizzare la funzione Decisioni nel canale e-mail](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
       + [Utilizzare la funzione Decisioni nelle notifiche push](/help/decisioning/decisioning-in-push-notifications.md)
-      + [Utilizzare il decisioning in un messaggio SMS](/help/decisioning/use-decisioning-in-an-sms-message.md)
+      + [Utilizzare la funzione Decisioni in un messaggio SMS](/help/decisioning/use-decisioning-in-an-sms-message.md)
    + Gestione delle decisioni {#decision-management}
       + [Introduzione alla gestione delle decisioni](/help/decision-management/introduction-to-decision-management.md)
       + [Dimostrazione delle funzionalità di gestione delle decisioni](/help/decision-management/demo-of-decision-management-capabilities.md)
@@ -242,14 +242,14 @@ ht-degree: 93%
    + [Onboarding dei clienti](/help/use-cases/customer-onboarding.md)
    + [Carrello abbandonato](/help/use-cases/abandoned-cart.md)
    + [Nuovo coinvolgimento intelligente - Navigazione abbandonata](https://experienceleague.adobe.com/it/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
-   + [Personalizzazione delle offerte con dati meteo in tempo reale in Adobe Journey Optimizer tramite Web SDK](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
+   + [Personalizzazione di offerte con dati meteo in tempo reale in Adobe Journey Optimizer tramite Web SDK](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
    + [Utilizzare la formula di classificazione per fornire offerte personalizzate in Journey Optimizer](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [Migliorare il coinvolgimento della clientela](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [Ridimensionamento dell’orchestrazione a un coinvolgimento omnicanale](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"}
    + Playbook di casi d’uso {#use-case-playbooks}
       + [Panoramica](https://experienceleague.adobe.com/it/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
       + [Configurare una sandbox del playbook](https://experienceleague.adobe.com/it/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
-      + [Creare e pubblicare istanze del playbook](https://experienceleague.adobe.com/it/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
+      + [Creare e pubblicare istanze playbook](https://experienceleague.adobe.com/it/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Esercizi, laboratori e sfide {#exercises-and-challenges}
    + [Configurare una sandbox di formazione](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
    + [Sfide](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
