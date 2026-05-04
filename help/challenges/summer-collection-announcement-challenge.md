@@ -7,8 +7,8 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
-workflow-type: ht
+source-git-commit: dc5c129309b9f1dfd6e392b8446b68c60111f82e
+workflow-type: tm+mt
 source-wordcount: '1154'
 ht-degree: 100%
 
@@ -117,9 +117,9 @@ Un’agenzia ti ha fornito quattro file HTML con la progettazione per le e-mail:
          * Oggetto: *(nome del destinatario), esplora la Collezione da donna di Luma!*
          * Corpo dell’e-mail: `WomensCollectionEmail.html`
       * Gli altri clienti devono ricevere l’e-mail **Luma - 20% di sconto sulla collezione**.
-      * Titolo del messaggio: *Luma - 20% di sconto sulla collezione*
-      * Oggetto: *(nome del destinatario), approfitta del 20% di sconto!*
-      * Corpo dell’e-mail: `20OOffCollectionEmail.html`
+         * Titolo del messaggio: *Luma - 20% di sconto sulla collezione*
+         * Oggetto: *(nome del destinatario), approfitta del 20% di sconto!*
+         * Corpo dell’e-mail: `20OOffCollectionEmail.html`
    1. Dopo aver inviato le e-mail mirate precedenti, attendi due giorni per l’apertura.
    1. Se l’e-mail mirata non viene aperta entro 2 giorni, invia una **e-mail Luma 20% di sconto sulla collezione** come tentativo finale di retargeting
 
@@ -201,7 +201,7 @@ Testa il percorso e invia le e-mail al tuo account:
 1. Apri la seconda e-mail e il percorso dovrebbe terminare.
 1. È possibile ripetere il passaggio 4. - 7. per tutti e tre i profili per verificare se i rami funzionano correttamente.
 1. Per verificare i timeout, imposta il tempo di attesa su 30 secondi e attiva nuovamente la voce.
-1. Non aprire le e-mail ricevute (non visualizzare l’anteprima dell’e-mail!)e lascia che il tempo di attesa scada.
+1. Non aprire le e-mail ricevute (non visualizzare l’anteprima dell’e-mail!) e lascia che il tempo di attesa scada.
 
 Dovresti ricevere le e-mail seguenti:
 
