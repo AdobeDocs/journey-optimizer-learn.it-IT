@@ -3,10 +3,10 @@ user-guide-title: Tutorial su Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial su Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: dc5c129309b9f1dfd6e392b8446b68c60111f82e
+source-git-commit: 0a4f552baab06a7d8269692269ba23010bb71fda
 workflow-type: tm+mt
-source-wordcount: '1434'
-ht-degree: 96%
+source-wordcount: '1421'
+ht-degree: 95%
 
 ---
 
@@ -244,7 +244,7 @@ ht-degree: 96%
 + Assistente IA {#ai-assistant}
    + [Assistente IA](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [Assistente IA per la generazione di contenuti](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [Agente Journey - Panoramica](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
+   + [Journey Agent](/help/ai-agents/journey-agent-overview.md)
    + [Agente di sperimentazione - Panoramica](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
 + Casi d’uso e best practice{#use-cases}
    + [Onboarding dei clienti](/help/use-cases/customer-onboarding.md)
