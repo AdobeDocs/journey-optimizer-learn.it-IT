@@ -3,10 +3,10 @@ user-guide-title: Tutorial su Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial su Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: c5adf39e71b3f7cfa7d15a8fe2e77aef5d9a4cd1
+source-git-commit: 1ac487c9207703fb89cbc0bd1f1b7113f2ee18e8
 workflow-type: tm+mt
-source-wordcount: '1429'
-ht-degree: 95%
+source-wordcount: '1448'
+ht-degree: 93%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 95%
       + [Creare una campagna orchestrata](/help/campaigns/orchestrated-campaigns/build-an-orchestrated-campaign.md)
 + Percorsi {#journeys}
    + [Designer del percorso - Panoramica](/help/journeys/journey-designer-overview.md)
-   + [Agente Journey - Panoramica](/help/ai-agents/journey-agent-overview.md)
+   + [Analizzare e creare Percorsi con Journey Agent](/help/ai-agents/journey-agent-overview.md)
    + [Scopri il nuovo Designer del percorso](/help/journeys/new-journey-designer.md)
    + [Introduzione alla creazione di un percorso](/help/journeys/introduction-to-building-a-journey.md)
    + [Utilizzo della ricerca di set di dati in un percorso](/help/journeys/lookup-dataset.md)
@@ -244,7 +244,7 @@ ht-degree: 95%
 + Assistenti e agenti di IA {#ai-assistant}
    + [Assistente IA](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [Assistente IA per la generazione di contenuti](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [Analizzare e creare Percorsi con Journey Agent](/help/ai-agents/journey-agent-overview.md)
+   + [Analizzare e creare Percorsi con Journey Agent](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
    + [Agente di sperimentazione - Panoramica](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
 + Casi d’uso e best practice{#use-cases}
    + [Onboarding dei clienti](/help/use-cases/customer-onboarding.md)
