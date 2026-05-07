@@ -1,23 +1,22 @@
 ---
-title: Understanding the Core of Adobe Journey Optimizer
-description: Learn how Adobe Journey Optimizer (AJO) leverages real-time customer data to deliver consistent and relevant experiences across channels.
+title: Nozioni di base su Adobe Journey Optimizer
+description: Scopri in che modo Adobe Journey Optimizer (AJO) sfrutta i dati dei clienti in tempo reale per fornire esperienze coerenti e pertinenti su tutti i canali.
 doc-type: Short Video
 duration: 83
 index: false
 hide: true
-hidefromtoc: true
 recommendations: noCatalog, noDisplay
 exl-id: 1b1b2b1f-c6e7-4afd-bb6f-39de2f93857c
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
-# Understanding the Core of Adobe Journey Optimizer
+# Nozioni di base su Adobe Journey Optimizer
 
-Learn how Adobe Journey Optimizer (AJO) leverages real-time customer data to deliver consistent and relevant experiences across channels.
+Scopri in che modo Adobe Journey Optimizer (AJO) sfrutta i dati dei clienti in tempo reale per fornire esperienze coerenti e pertinenti su tutti i canali.
 
 <!-- 62_S522_3442522_82_understanding-the-core-of-adobe-journey-optimizer -->
 >[!VIDEO](https://video.tv.adobe.com/v/3460494/?captions=ita&learn=on&enablevpops=true)
