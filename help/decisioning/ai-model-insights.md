@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Scopri come analizzare lo stato di addestramento del modello di IA, l’allocazione del traffico e le prestazioni per ottimizzare la funzione Decisioni personalizzata in Journey Optimizer. Scopri come identificare i problemi, risolvere i problemi dei modelli e migliorare i tassi di conversione utilizzando le funzionalità di intelligenza artificiale. Questo video ti guiderà attraverso la gestione efficace dei modelli AI per favorire un impatto aziendale.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479849/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479857/?captions=ita&learn=on&enablevpops)

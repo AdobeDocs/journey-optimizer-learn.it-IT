@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Scopri come scaricare un rapporto CSV per un rapporto e per un singolo widget.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424603/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439620/?captions=ita&learn=on)
