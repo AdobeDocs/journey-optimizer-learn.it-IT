@@ -9,9 +9,8 @@ duration: 123
 last-substantial-update: 2026-02-11T00:00:00Z
 jira: KT-20141
 hide: false
-hidefromtoc: false
 exl-id: 4455d0d1-b6d5-4407-8dd7-7b1dc7f336dd
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 22d85639209aec92b8b0d8aa22494ebe3d7195f9
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 100%
@@ -22,5 +21,5 @@ ht-degree: 100%
 
 Scopri in che modo l’attività di decisione dei contenuti nell’area di lavoro del Percorso consente agli utenti di sfruttare Adobe Journey Optimizer Decisioning per le offerte di contenuti personalizzate. Utilizza questa funzione per indirizzare i profili in base alle offerte recuperate o per inviare offerte a sistemi esterni, migliorando l’efficacia e la personalizzazione del percorso.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479115/?captions=ita&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479107/?learn=on&enablevpops)
 
