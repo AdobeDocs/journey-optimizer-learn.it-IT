@@ -12,15 +12,10 @@ index: false
 recommendations: noCatalog, noDisplay
 autotag-review: '2026-05-14T18:09:58.621Z'
 TQID: 'https://experienceleague.adobe.com/l9tG3MYP6wM0nH7fAPN7f-6317FMx6OnrraoT6KDJkw'
-product_v2:
-  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
-feature_v2:
-  - id: a4cb03e1-327e-499d-9de8-e0c0db8a63a2
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2: id: cb954087-f4fc-4456-afb9-e939cabcdc79
+feature_v2: id: a4cb03e1-327e-499d-9de8-e0c0db8a63a2
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 source-git-commit: a11fdf1d8bbe8ce33cc285950ba1fbdfbeb1466d
 workflow-type: tm+mt
 source-wordcount: 64
@@ -33,4 +28,4 @@ ht-degree: 0%
 
 Scopri in che modo le offerte, le raccolte e le regole di idoneità vengono configurate in Adobe Journey Optimizer Decisioning per controllare quali clienti sono idonei per quale offerta di prodotto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3491098/?captions=ita&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491078/?learn=on&enablevpops)
