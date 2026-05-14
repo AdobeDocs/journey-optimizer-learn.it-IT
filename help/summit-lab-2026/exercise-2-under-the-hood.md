@@ -33,4 +33,4 @@ ht-degree: 0%
 
 Scopri in che modo le offerte, le raccolte e le regole di idoneità vengono configurate in Adobe Journey Optimizer Decisioning per controllare quali clienti sono idonei per quale offerta di prodotto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3491078/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491098/?captions=ita&learn=on&enablevpops)

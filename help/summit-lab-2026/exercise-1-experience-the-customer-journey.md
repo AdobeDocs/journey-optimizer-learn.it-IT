@@ -36,4 +36,4 @@ ht-degree: 0%
 
 Esplora l’esperienza del cliente end-to-end sul sito di dimostrazione SecurFinancial, dal visitatore anonimo all’utente registrato con un’offerta di prodotto personalizzata, attraverso un’applicazione di prestito che attiva un SMS in tempo reale, orchestrato da Adobe Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3489999/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3490194/?captions=ita&learn=on&enablevpops)

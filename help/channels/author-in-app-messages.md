@@ -32,7 +32,7 @@ ht-degree: 100%
 
 Scopri come creare e testare un messaggio in-app.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410471?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422078?captions=ita&quality=12&learn=on){transcript=true}
 
 ## Risorse aggiuntive
 
