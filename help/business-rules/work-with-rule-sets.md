@@ -32,6 +32,6 @@ ht-degree: 100%
 
 Scopri come creare un set di regole di quota limite per la clientela così da limitare il numero di comunicazioni inviate alla clientela in base al tipo di comunicazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435531/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444734/?captions=ita&learn=on&enablevpops)
 
 Per ulteriori informazioni, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/configuration/rule-sets).
