@@ -1,24 +1,30 @@
 ---
-title: Capture user persmission
-description: Create web page to capture the user's consent to receive push notifications.
+title: Acquisire le autorizzazioni utente
+description: Crea una pagina web per acquisire il consenso dell’utente alla ricezione di notifiche push.
 feature: Push
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2026-04-21T00:00:00Z
+last-substantial-update: 2026-04-21T00:00:00.000Z
 jira: KT-20879
-source-git-commit: 45f86aeb8fca071436785cc55225d853bb21998f
+exl-id: 5897420a-7488-4d48-b56c-86a53d1d2395
+TQID: 'https://experienceleague.adobe.com/O5xiLJ7UOQNYSkfpCa2umhCkxt1cKILsO4fOKxtVifM'
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+feature_v2:
+  - id: d556b755-390a-43f0-be32-a08cf6236126
+  - id: d998adac-2f81-400b-a669-d07bb196e4eb
+source-git-commit: 880ae31cbaadba400f072d59c0b114978bb90fb5
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: 219
 ht-degree: 0%
 
 ---
 
-# Capture user persmission
+# Acquisire le autorizzazioni utente
 
-This web page captures the user&#39;s consent to receive push notifications. It prompts the user to enable notifications using the browser&#39;s Notifications API and, upon acceptance, registers the push subscription with Adobe Experience Platform using the Web SDK. This ensures that only opted-in users are eligible to receive push notifications through campaigns and journeys in Adobe Journey Optimizer.
+Questa pagina web acquisisce il consenso dell’utente alla ricezione di notifiche push. Chiede all’utente di abilitare le notifiche utilizzando l’API Notifications del browser e, una volta accettata, registra l’abbonamento push con Adobe Experience Platform utilizzando il Web SDK. In questo modo solo gli utenti che hanno prestato il consenso possono ricevere notifiche push tramite campagne e percorsi in Adobe Journey Optimizer.
 
-To enable web push notifications, the page first loads a configuration file by calling fetch(&quot;/config&quot;) inside an initialization function. This configuration is served by a Node.js application and includes key values such as the datastream ID, organization ID, VAPID public key, app ID, and tracking dataset ID. Once the configuration is loaded, the Adobe Web SDK is initialized and the service worker is registered to support push messaging. When a user clicks Enable notifications, the browser prompts them for permission using the Web Notifications API. If permission is granted, the Web SDK sends the push subscription to Adobe Experience Platform, and the user is marked as opted in for 24 hours to avoid repeated prompts. You can try this flow on the local web page shop-smart.html included in the [sample application](http://localhost:3000/) after starting the server.
+Per abilitare le notifiche web push, la pagina carica innanzitutto un file di configurazione chiamando fetch(&quot;/config&quot;) all’interno di una funzione di inizializzazione. Questa configurazione è gestita da un’applicazione Node.js e include valori chiave quali ID dello stream di dati, ID organizzazione, chiave pubblica VAPID, ID app e ID del set di dati di tracciamento. Una volta caricata la configurazione, Adobe Web SDK viene inizializzato e il service worker viene registrato per supportare i messaggi push. Quando un utente fa clic su Abilita notifiche, il browser richiede l’autorizzazione utilizzando l’API per le notifiche web. Se l’autorizzazione è concessa, il Web SDK invia l’abbonamento push a Adobe Experience Platform e l’utente viene contrassegnato come acconsentito per 24 ore per evitare ripetuti prompt. È possibile provare questo flusso nella pagina Web locale shop-smart.html inclusa nell&#39;[applicazione di esempio](http://localhost:3000/) dopo l&#39;avvio del server.
 
-![request-permissions](assets/request-notifications.png)
-
+![autorizzazioni-richiesta](assets/request-notifications.png)
