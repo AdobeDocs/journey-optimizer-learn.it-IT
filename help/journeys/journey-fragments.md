@@ -1,5 +1,5 @@
 ---
-title: Spiegazione dei frammenti di percorso
+title: Salva nodi di percorso come frammenti
 description: Scopri come salvare i nodi di percorso come frammenti riutilizzabili in Adobe Journey Optimizer. Semplificazione dei flussi di lavoro e garanzia di coerenza tra più percorsi.
 feature: Journeys
 role: User
@@ -18,9 +18,9 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 1c3f167bb1a734802d705ebce7ca3f9833b9ca5a
+source-git-commit: 84eae8147c58bd7ccb4a61cbdfcf7eaf336d114e
 workflow-type: tm+mt
-source-wordcount: 82
+source-wordcount: 84
 ht-degree: 0%
 
 ---
@@ -30,4 +30,4 @@ ht-degree: 0%
 
 Scopri come creare frammenti di percorso riutilizzabili in Adobe Journey Optimizer. Questa funzione consente agli utenti di salvare un set di nodi di percorso come frammenti, consentendo un rapido riutilizzo in altri percorsi. I frammenti consentono di risparmiare tempo, semplificare i flussi di lavoro e garantire la coerenza tra più percorsi. Il video incorporato offre una descrizione dettagliata ed esempi pratici.
 
->[!VIDEO](https://video.tv.adobe.com/v/3491387/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491395/?captions=ita&learn=on&enablevpops)
