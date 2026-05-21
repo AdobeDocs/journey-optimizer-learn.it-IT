@@ -30,4 +30,4 @@ ht-degree: 0%
 
 Scopri come creare frammenti di percorso riutilizzabili in Adobe Journey Optimizer. Questa funzione consente agli utenti di salvare un set di nodi di percorso come frammenti, consentendo un rapido riutilizzo in altri percorsi. I frammenti consentono di risparmiare tempo, semplificare i flussi di lavoro e garantire la coerenza tra più percorsi. Il video incorporato offre una descrizione dettagliata ed esempi pratici.
 
->[!VIDEO](https://video.tv.adobe.com/v/3491387/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491395/?captions=ita&learn=on&enablevpops)
