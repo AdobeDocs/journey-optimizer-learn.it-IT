@@ -23,8 +23,8 @@ I tag Adobe Experience Platform (precedentemente Adobe Launch) consentono di ges
 Questo [video descrive il processo di creazione dei tag esperienza Adobe](https://experienceleague.adobe.com/en/playlists/experience-platform-get-started-with-tags)
 
 * Accedi a Raccolta dati
-* Fai clic su _**Tag -> Nuova proprietà**
-* Crea un tag Adobe Experience Platform denominato _**personalization-on-weather**_.
+* Fai clic su _&#x200B;**Tag -> Nuova proprietà**
+* Crea un tag Adobe Experience Platform denominato _&#x200B;**personalization-on-weather**&#x200B;_.
 * Aggiungi le seguenti estensioni al tag
 
 ![tag-estensioni](assets/tags-extensions1.png)
