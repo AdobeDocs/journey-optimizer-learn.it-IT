@@ -3,9 +3,9 @@ user-guide-title: Tutorial su Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial su Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 1c3f167bb1a734802d705ebce7ca3f9833b9ca5a
+source-git-commit: debae556440c9bd902b0adb7590db960f42b3bf2
 workflow-type: tm+mt
-source-wordcount: '1453'
+source-wordcount: '1459'
 ht-degree: 91%
 
 ---
@@ -247,6 +247,7 @@ ht-degree: 91%
    + [Assistente IA per la generazione di contenuti](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
    + [Analizzare e creare Percorsi con Journey Agent](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
    + [Agente di sperimentazione - Panoramica](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
+   + [Pianificare i tipi di pubblico con Adobe Marketing Agent](/help/ai-agents/plan-audiences-using-adobe-marketing-agent.md)
 + Casi d’uso e best practice{#use-cases}
    + [Onboarding dei clienti](/help/use-cases/customer-onboarding.md)
    + [Carrello abbandonato](/help/use-cases/abandoned-cart.md)
