@@ -9,10 +9,10 @@ last-substantial-update: 2025-04-30T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-17923
 exl-id: 244fcb09-3b16-4e3b-b335-4e84bc93095e
-source-git-commit: 40690024e5348dd3ac05f350e49a67a99d5e455e
+source-git-commit: 9f82d07711a4f29eda7dcf0e887ca31ccbb6099f
 workflow-type: tm+mt
-source-wordcount: '496'
-ht-degree: 3%
+source-wordcount: '514'
+ht-degree: 2%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 3%
 
 I tag Adobe Experience Platform (precedentemente Adobe Launch) consentono di gestire e distribuire* tecnologie di marketing e analisi sul sito web senza dover modificare il codice del sito.
 
-Questo [video descrive il processo di creazione dei tag esperienza Adobe](https://experienceleague.adobe.com/it/playlists/experience-platform-get-started-with-tags)
+Questo [video descrive il processo di creazione dei tag esperienza Adobe](https://experienceleague.adobe.com/en/playlists/experience-platform-get-started-with-tags)
 
 * Accedi a Raccolta dati
 * Fai clic su Tag -> Nuova proprietà
@@ -80,14 +80,17 @@ Il Generatore di regole nei tag di Adobe Experience Platform consente di definir
 
 
 * Crea una configurazione di evento denominata Classe risorsa preferita selezionata, come illustrato di seguito. Questo evento ascolta gli eventi assetClassSelection.
-  ![rule-event](assets/rule-event.png)
+
+![rule-event](assets/rule-event.png)
 
 
 * Creare un’azione per inviare lo schema XDM aggiornato ad AEP
-  ![invia-evento](assets/rule-send-event.png)
+
+![invia-evento](assets/rule-send-event.png)
 
 * La regola finale deve essere simile a quella riportata di seguito
-  ![final-rule](assets/final-rule.png)
+
+![final-rule](assets/final-rule.png)
 
 ## Creare e distribuire i tag di AEP
 
@@ -108,7 +111,7 @@ Quindi fai clic sul pulsante Salva e genera in sviluppo per generare la libreria
 
 ## Includi tag AEP nella pagina HTML
 
-Quando pubblichi una proprietà AEP Tags, Adobe ti fornisce un tag script che devi inserire all&#39;interno del tuo HTML ``` <head>``` o nella parte inferiore dei tag ``` <body>```.
+Quando pubblichi una proprietà AEP Tags, Adobe ti fornisce un tag script che devi inserire all&#39;interno del tuo HTML ` <head>` o nella parte inferiore dei tag `<body>`.
 
 * Vai alla proprietà Tags(Financial Advisors).
 
