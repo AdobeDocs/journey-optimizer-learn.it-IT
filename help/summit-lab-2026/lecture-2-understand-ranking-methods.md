@@ -36,4 +36,4 @@ ht-degree: 0%
 
 Scopri i diversi metodi di classificazione disponibili in Adobe Journey Optimizer Decisioning, tra cui formule di classificazione basate su regole e modelli di ottimizzazione IA.
 
->[!VIDEO](https://video.tv.adobe.com/v/3491465/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491473/?captions=ita&learn=on&enablevpops)
