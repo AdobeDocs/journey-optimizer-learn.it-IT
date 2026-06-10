@@ -7,9 +7,10 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2026-01-21T00:00:00Z
 jira: KT-20879
-source-git-commit: 3d342c5c4de4dda221ce4427b1e4aef7ef8c22cc
+exl-id: 0a8be7eb-9962-466a-9fcc-022cb84c7b0a
+source-git-commit: 108686aa75358f940b5d7d83e7f04bf55f72978f
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -27,11 +28,12 @@ Viene generato utilizzando uno strumento come web-push generate-vapid-keys, che 
 Per questa esercitazione abbiamo utilizzato Node.js per generare le chiavi VAPID.
 
 Verifica che Node.js sia installato. Quindi esegui il seguente comando
-```npm install web-push -g ```
+
+`npm install web-push -g `
 
 ![Web-push](assets/install-web-push.png)
 
-```web-push generate-vapid-keys```
+`web-push generate-vapid-keys`
 
 ![vapid](assets/vapid-keys.png)
 

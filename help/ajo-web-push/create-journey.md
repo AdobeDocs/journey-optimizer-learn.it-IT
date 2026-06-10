@@ -7,9 +7,10 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2026-04-21T00:00:00Z
 jira: KT-20879
-source-git-commit: 3d342c5c4de4dda221ce4427b1e4aef7ef8c22cc
+exl-id: 14342b47-5485-4f7f-9312-cff1ee0f8972
+source-git-commit: fe5ce1bd62e4cf628d0adf67389e4301660a223a
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '461'
 ht-degree: 0%
 
 ---
@@ -21,13 +22,13 @@ In questo passaggio verrà creato un percorso in Adobe Journey Optimizer attivat
 Per creare un percorso che viene attivato all&#39;evento price.drop, attieniti alla seguente procedura
 
 * Accedi a Journey Optimizer
-* Passa a Gestione Percorsi | Percorsi | Crea Percorso
+* Passa a Gestione Percorso | PERCORSI | Crea Percorso
 
 ![create-percorsi](assets/create-journey.png)
 
 ## Aggiungi PriceDropEvent
 
-Trascina `PriceDropEvent` dalla sezione eventi all&#39;area di lavoro
+Trascina `PriceDropEvent` dalla sezione degli eventi all&#39;area di lavoro.
 ![price-drop-event](assets/add-price-drop-event.png)
 
 ## Aggiungi azione push
@@ -54,7 +55,7 @@ Aggiungi una combinazione di contenuti statici e dinamici alla notifica push uti
 Per iniziare a comporre il messaggio, fare clic su `Content` per aprire la scheda contenuto, in cui è possibile definire sia il testo fisso che i campi dinamici derivati dai dati dell&#39;evento.
 ![content-push](assets/compose-message.png)
 
-Specifica il titolo del messaggio push, quindi apri l’editor di personalizzazione per comporre il corpo del messaggio. Il contenuto includerà dinamicamente i nomi dei prodotti i cui prezzi sono scesi. Per ottenere questo risultato, utilizza la funzione [helper](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/content-management/personalization/functions/helpers#each)
+Specifica il titolo del messaggio push, quindi apri l’editor di personalizzazione per comporre il corpo del messaggio. Il contenuto includerà dinamicamente i nomi dei prodotti i cui prezzi sono scesi. Per ottenere questo risultato, utilizza la funzione helper [](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/helpers#each)
 per scorrere l’elenco dei prodotti ed eseguire il rendering dei relativi nomi all’interno del messaggio.
 
 ## Componi il corpo del messaggio
@@ -62,7 +63,7 @@ per scorrere l’elenco dei prodotti ed eseguire il rendering dei relativi nomi 
 Selezionare e inserire la funzione `Each` dal menu delle funzioni helper.
 ![helper-function](assets/journey-content-helper-function.png)
 
-Seleziona gli attributi contestuali | Journey Orchestration | Events | PriceDropEvent | productListItems | Name
+Seleziona gli attributi contestuali | JOURNEY ORCHESTRATION | Eventi | PriceDropEvent | productListItems | Nome
 
 Fai clic sull’icona &quot;+&quot; per inserire l’array in ogni loop all’interno dell’editor di personalizzazione. Quindi, aggiorna il contenuto del messaggio in modo che corrisponda al formato mostrato nella schermata di riferimento. Tieni presente che l’ID evento visualizzato nell’ambiente potrebbe essere diverso da quello mostrato.
 
@@ -73,6 +74,3 @@ Infine, salva tutte le modifiche e pubblica il percorso. Dopo la pubblicazione, 
 ## Testare la soluzione
 
 Per attivare l&#39;evento price.drop, aprire la [pagina del trigger per la riduzione del prezzo,](http://localhost:3000/price-drop-trigger.html) selezionare uno o più prodotti e fare clic su Attiva riduzione prezzo. Questo invia l’evento tramite Adobe Data Layer utilizzando i tag di AEP, che avviano il percorso e distribuiscono la notifica push in tempo reale.
-
-
-
