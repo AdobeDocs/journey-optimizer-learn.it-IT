@@ -3,10 +3,10 @@ user-guide-title: Tutorial su Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial su Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: debae556440c9bd902b0adb7590db960f42b3bf2
+source-git-commit: a69447a58313dc109ea82d6af2746341aff90b8b
 workflow-type: tm+mt
-source-wordcount: '1459'
-ht-degree: 91%
+source-wordcount: '1468'
+ht-degree: 90%
 
 ---
 
@@ -48,6 +48,7 @@ ht-degree: 91%
    + [Pubblicare un percorso](/help/journeys/publish-a-journey.md)
    + [Attività di decisione sui contenuti](/help/journeys/content-decision-activity.md)
    + [Filtrare con più attributi](/help/journeys/mastering-multi-attribute-filtering.md)
+   + [Utilizzare il targeting di più entità con Federated Audiences nei percorsi](/help/journeys/multi-entity-targeting-in-journeys.md)
    + [Convalidare la logica del percorso con un’esecuzione di prova](/help/journeys/journey-dry-run.md)
    + [Sbloccare il reingresso nel percorso con ID supplementari](/help/journeys/unlock-journey-reentry-with-supplemental-id.md)
    + [Aggiornare il contenuto in un percorso live](/help/journeys/update-content-in-live-journey.md)
@@ -75,7 +76,7 @@ ht-degree: 91%
    + [Creare un pubblico caricando un file CSV](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
    + [Creare di tipi di pubblico tramite Web SDK (tutorial)](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
    + [Valutare i tipi di pubblico on-demand](https://experienceleague.adobe.com/it/docs/platform-learn/tutorials/audiences/audience-builder/evaluate-audiences-on-demand)
-   + [Iscrizioni e pagine di destinazione](/help/subscriptions-and-landing-pages.md)
+   + [Iscrizioni e pagine di destinazione](/help/profiles-audiences-subscriptions/subscriptions-and-landing-pages.md)
 + Canali {#channels}
    + [Ottimizzazione delle app mobili: panoramica](/help/channels/mobile-app-optimization-overview.md)
    + Canale di esperienza basata su codice{#code-based-experience-channel}
@@ -268,5 +269,3 @@ ht-degree: 91%
       + [Ridimensionamento dell’orchestrazione a un coinvolgimento omnicanale in Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + Sessioni live e approfondimenti {#live-sessions-and-deep-dives}
    + [Registrazioni di eventi Experience League Live](/help/_ajo-main/experience-league-live-show-recordings.md)
-
-
