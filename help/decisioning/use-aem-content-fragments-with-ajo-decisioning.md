@@ -34,4 +34,4 @@ ht-degree: 0%
 
 Scopri come utilizzare Frammenti di contenuto di Adobe Experience Manager con il Percorso Adobe per personalizzare e ottimizzare i contenuti nelle comunicazioni agili.
 
->[!VIDEO](https://video.tv.adobe.com/v/3492215/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3492221/?captions=ita&learn=on&enablevpops)
