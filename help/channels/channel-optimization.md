@@ -1,6 +1,6 @@
 ---
 title: Ottimizzare i canali in base alle preferenze del profilo o ai punteggi di tendenza
-description: Scopri in che modo la funzione di ottimizzazione del canale di Adobe Journey Optimizer ti aiuta a raggiungere i clienti nel canale più efficace, tramite priorità manuale, attributi di profilo o il modello di intelligenza artificiale di Adobe, garantendo che il messaggio venga recapitato dove è più probabile che ogni cliente coinvolga.
+description: Scopri in che modo la funzione di ottimizzazione del canale di Adobe Journey Optimizer consente di raggiungere i clienti sul canale più efficace utilizzando la priorità manuale, gli attributi di profilo o il modello di intelligenza artificiale di Adobe, in modo che il messaggio arrivi dove è più probabile che ogni cliente interagisca.
 feature: Channels
 role: Developer
 level: Beginner, Intermediate, Experienced
@@ -25,9 +25,9 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-source-git-commit: df7a7efd87137cd9bca0e3efca39f12a18b7990c
+source-git-commit: 19b32f3289b422a3fa778b0af07319be1b032287
 workflow-type: tm+mt
-source-wordcount: 100
+source-wordcount: 96
 ht-degree: 2%
 
 ---
@@ -37,6 +37,6 @@ ht-degree: 2%
 
 {{limited-availability}}
 
-Scopri in che modo la funzione di ottimizzazione del canale di Adobe Journey Optimizer ti aiuta a raggiungere i clienti nel canale più efficace, tramite priorità manuale, attributi di profilo o il modello di intelligenza artificiale di Adobe, garantendo che il messaggio venga recapitato dove è più probabile che ogni cliente coinvolga.
+Scopri in che modo la funzione di ottimizzazione del canale di Adobe Journey Optimizer consente di raggiungere i clienti sul canale più efficace utilizzando la priorità manuale, gli attributi di profilo o il modello di intelligenza artificiale di Adobe, in modo che il messaggio arrivi dove è più probabile che ogni cliente interagisca.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492138/?captions=ita&learn=on&enablevpops)
