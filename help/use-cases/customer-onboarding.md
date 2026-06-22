@@ -10,14 +10,14 @@ last-substantial-update: 2024-11-27T00:00:00Z
 jira: KT-16344
 exl-id: 9237122b-cd98-4ad0-bd64-7a3407116f86
 source-git-commit: 3ed6505fc7ecdb073d8f365d49eeadc0d934e6bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
-# Implementare un percorso di onboarding dei clienti
+# Implementare un percorso per l’onboarding dei clienti
 
 Scopri come implementare un percorso di onboarding cliente in Journey Optimizer. Il processo esegue il targeting dei nuovi membri fidelizzati consegnando e-mail e SMS personalizzati per incoraggiare i download dell’app. Include l’invio di un’e-mail di benvenuto, la verifica dell’installazione dell’app e il follow-up con i promemoria. Questo tutorial mostra anche come utilizzare l’assistente IA per creare e personalizzare i contenuti.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440658/?captions=ita&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440650/?learn=on&enablevpops)
