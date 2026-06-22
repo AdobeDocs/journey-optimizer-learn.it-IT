@@ -1,6 +1,6 @@
 ---
 title: Configurare schemi e set di dati per le campagne
-description: Scopri come definire schemi, acquisire dati e convalidare set di dati per le campagne Adobe Journey Optimizer. Ottieni in pochi minuti informazioni sulla personalizzazione e sull’esecuzione.
+description: Scopri come definire schemi, acquisire dati e convalidare set di dati per le campagne Adobe Journey Optimizer. Ottieni in pochi minuti insight sulla personalizzazione e sull’esecuzione.
 feature: Campaigns
 role: Developer
 level: Beginner
@@ -23,14 +23,14 @@ topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: 880ae31cbaadba400f072d59c0b114978bb90fb5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 105
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Configurare schemi e set di dati per le campagne
 
-Scopri come impostare schemi e set di dati relazionali per campagne orchestrate in Adobe Journey Optimizer. Questa guida descrive come definire chiavi, relazioni e utilizzare file DDL per creare schemi in modo efficiente. Scoprirai anche come acquisire i dati tramite caricamenti CSV e Change Data Capture (CDC), convalidare i set di dati e prepararli per le query, la personalizzazione e l’esecuzione della campagna. Guarda il video incorporato con istruzioni dettagliate su come semplificare i flussi di lavoro delle campagne.
+Scopri come configurare schemi relazionali e set di dati per campagne orchestrate in Adobe Journey Optimizer. Questa guida descrive come definire chiavi e relazioni e come utilizzare file DDL per creare gli schemi in modo efficiente. Scoprirai anche come acquisire i dati tramite il caricamento di file CSV, l’acquisizione delle modifiche ai dati (CDC, Chane Data Capture), come convalidare i set di dati e come prepararli per le query, la personalizzazione e l’esecuzione della campagna. Guarda il video incorporato con istruzioni dettagliate su come semplificare i flussi di lavoro delle campagne.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3484901/?learn=on&enablevpops)

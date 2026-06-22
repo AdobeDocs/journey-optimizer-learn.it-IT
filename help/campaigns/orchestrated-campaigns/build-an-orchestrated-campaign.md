@@ -1,6 +1,6 @@
 ---
 title: Creare una campagna orchestrata
-description: Scopri come progettare ed eseguire campagne utilizzando Adobe Journey Optimizer con flussi di lavoro per la creazione di tipi di pubblico, la manipolazione dei dati e la distribuzione multicanale.
+description: Scopri come progettare ed eseguire campagne con Adobe Journey Optimizer, utilizzando flussi di lavoro per creare il pubblico, manipolare i dati e gestire la consegna multicanale.
 feature: Campaigns
 role: User
 level: Beginner, Intermediate
@@ -8,16 +8,16 @@ doc-type: Feature Video
 duration: 294
 last-substantial-update: 2026-05-02T00:00:00Z
 jira: KT-20991
-source-git-commit: 0105cb737db3f7ca87302a114806fff251c11c49
-workflow-type: tm+mt
+exl-id: e14a4923-fbfd-4fa7-9266-ef20d22d52e2
+source-git-commit: cef9796ba122f2f26ec99a31b09d37c09990ea79
+workflow-type: ht
 source-wordcount: '88'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-
 # Creare una campagna orchestrata
 
-Scopri come progettare ed eseguire campagne orchestrate in Adobe Journey Optimizer creando flussi di lavoro che combinano tipi di pubblico, manipolazione dei dati e distribuzione multicanale. Questo video illustra la pianificazione delle campagne, la creazione di tipi di pubblico da dati relazionali, l’arricchimento e la deduplicazione e l’utilizzo di più flussi per supportare casi d’uso avanzati, come follow-up del carrello abbandonato, prevenzione dell’abbandono e notifiche di back-in-stock.
+Scopri come progettare ed eseguire campagne orchestrate in Adobe Journey Optimizer creando flussi di lavoro per combinare più tipi di pubblico, manipolare i dati e gestire la consegna multicanale. Questo video illustra come pianificare le campagne, creare il pubblico da dati relazionali, gestire l’arricchimento e la deduplica, e utilizzare più flussi per supportare casi d’uso avanzati, come follow-up del carrello abbandonato, prevenzione dell’abbandono e notifiche di riassortimento.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3484965/?learn=on&enablevpops)

@@ -1,6 +1,6 @@
 ---
-title: Come utilizzare Frammenti di contenuto di Experience Manager con Journey Optimizer Decisioning
-description: Scopri come utilizzare Frammenti di contenuto di Adobe Experience Manager con il Percorso Adobe per personalizzare e ottimizzare i contenuti nelle comunicazioni agili.
+title: Come utilizzare frammenti di contenuto di Experience Manager con la funzione Decisioni di Journey Optimizer
+description: Scopri come utilizzare i frammenti di contenuto di Adobe Experience Manager con Adobe Journey per personalizzare e ottimizzare i contenuti nelle comunicazioni agili.
 feature: Decisioning
 role: User
 level: Beginner, Intermediate
@@ -23,15 +23,15 @@ topic_v2:
   - id: f5c2a4bb-71ca-4d7e-8efd-442250e6ba48
   - id: e6ff21d3-dec6-4298-8590-7c749fffaf78
 source-git-commit: 56a1d7868c410dc2f9811194c52cffc5c627b461
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 66
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Come utilizzare Frammenti di contenuto di Experience Manager con Journey Optimizer Decisioning
+# Come utilizzare frammenti di contenuto di Experience Manager con la funzione Decisioni di Journey Optimizer
 
-Scopri come utilizzare Frammenti di contenuto di Adobe Experience Manager con il Percorso Adobe per personalizzare e ottimizzare i contenuti nelle comunicazioni agili.
+Scopri come utilizzare i frammenti di contenuto di Adobe Experience Manager con Adobe Journey per personalizzare e ottimizzare i contenuti nelle comunicazioni agili.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492221/?captions=ita&learn=on&enablevpops)

@@ -1,6 +1,6 @@
 ---
-title: Ottimizzare i canali in base alle preferenze del profilo o ai punteggi di tendenza
-description: Scopri in che modo la funzione di ottimizzazione del canale di Adobe Journey Optimizer consente di raggiungere i clienti sul canale più efficace utilizzando la priorità manuale, gli attributi di profilo o il modello di intelligenza artificiale di Adobe, in modo che il messaggio arrivi dove è più probabile che ogni cliente interagisca.
+title: Ottimizza i canali in base alle preferenze del profilo o ai punteggi di propensione
+description: Scopri come la funzione di ottimizzazione dei canali di Adobe Journey Optimizer consente di raggiungere i clienti sul canale più efficace utilizzando la priorità manuale, gli attributi dei profili o il modello IA di Adobe, in modo da massimizzare la probabilità di interazione di ogni cliente.
 feature: Channels
 role: Developer
 level: Beginner, Intermediate, Experienced
@@ -26,17 +26,17 @@ level_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
 source-git-commit: 19b32f3289b422a3fa778b0af07319be1b032287
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 96
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
 
-# Ottimizzare i canali in base alle preferenze del profilo o ai punteggi di tendenza
+# Ottimizza i canali in base alle preferenze del profilo o ai punteggi di propensione
 
 {{limited-availability}}
 
-Scopri in che modo la funzione di ottimizzazione del canale di Adobe Journey Optimizer consente di raggiungere i clienti sul canale più efficace utilizzando la priorità manuale, gli attributi di profilo o il modello di intelligenza artificiale di Adobe, in modo che il messaggio arrivi dove è più probabile che ogni cliente interagisca.
+Scopri come la funzione di ottimizzazione dei canali di Adobe Journey Optimizer consente di raggiungere i clienti sul canale più efficace utilizzando la priorità manuale, gli attributi dei profili o il modello IA di Adobe, in modo da massimizzare la probabilità di interazione di ogni cliente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492138/?captions=ita&learn=on&enablevpops)
