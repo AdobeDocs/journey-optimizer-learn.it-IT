@@ -31,5 +31,5 @@ Questo video illustra come eseguire il targeting dei percorsi in base a ID iscri
 
 Per ulteriori informazioni su questa funzione, consulta [la documentazione](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3491835/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491841/?captions=ita&learn=on)
 

@@ -23,4 +23,4 @@ Scopri come configurare le iscrizioni e creare pagine di destinazione:
 * Integrare nel messaggio l’opzione di iscrizione/annullamento iscrizione
 * Configurare i percorsi rilevanti
 
->[!VIDEO](https://video.tv.adobe.com/v/341280?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/344399?captions=ita&quality=12&learn=on){transcript=true}

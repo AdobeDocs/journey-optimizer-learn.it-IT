@@ -34,4 +34,4 @@ ht-degree: 100%
 
 Scopri come utilizzare i frammenti di contenuto di Adobe Experience Manager con Adobe Journey per personalizzare e ottimizzare i contenuti nelle comunicazioni agili.
 
->[!VIDEO](https://video.tv.adobe.com/v/3492215/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3492221/?captions=ita&learn=on&enablevpops)

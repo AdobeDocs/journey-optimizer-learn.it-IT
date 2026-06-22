@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Scopri i diversi stati di un percorso e l’impatto della sua pubblicazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424998?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3427935?captions=ita&quality=12&learn=on){transcript=true}
