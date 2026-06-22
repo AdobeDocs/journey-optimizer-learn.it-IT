@@ -1,6 +1,6 @@
 ---
 title: Assistente IA
-description: Scopri cosa puoi fare con Assistente IA nelle applicazioni basate su Adobe Experience Platform come Real-time Customer Data Platform, Journey Optimizer e Customer Journey Analytics.
+description: Scopri l’Assistente IA nelle app Adobe Experience Platform, inclusi Real-Time Customer Data Platform, Journey Optimizer e Customer Journey Analytics.
 feature: Overview
 role: Admin, Developer, User
 level: Beginner
@@ -17,10 +17,10 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-source-git-commit: 880ae31cbaadba400f072d59c0b114978bb90fb5
+source-git-commit: b519aa58085d08dd492c1b59a7267b31d6339f00
 workflow-type: tm+mt
-source-wordcount: 104
-ht-degree: 100%
+source-wordcount: 101
+ht-degree: 66%
 
 ---
 
@@ -30,5 +30,5 @@ Scopri cosa puoi fare con Assistente IA nelle applicazioni basate su Adobe Exper
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429845/?learn=on)
 
-Per ulteriori informazioni sui casi d’uso supportati in Journey Optimizer, consulta [Utilizzare l’Assistente AI](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/get-started/ai-assistant). Per la documentazione dettagliata, consuta l’[Assistente IA nella documentazione di Adobe Experience Platform](https://experienceleague.adobe.com/it/docs/experience-platform/ai-assistant/home).
+Per ulteriori informazioni sui casi d’uso supportati in Journey Optimizer, consulta [Utilizzare l’Assistente AI](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/work-efficiently/ai-features). Per la documentazione dettagliata, consuta l’[Assistente IA nella documentazione di Adobe Experience Platform](https://experienceleague.adobe.com/it/docs/experience-platform/ai-assistant/home).
 
