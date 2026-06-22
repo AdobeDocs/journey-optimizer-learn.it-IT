@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 3bd73234af9246e6ea0b7c3cf3b18aad5389d2ac
 workflow-type: tm+mt
 source-wordcount: '1484'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -40,30 +40,30 @@ ht-degree: 89%
       + [Creare una campagna orchestrata](/help/campaigns/orchestrated-campaigns/build-an-orchestrated-campaign.md)
 + Percorsi {#journeys}
    + [Designer del percorso - Panoramica](/help/journeys/journey-designer-overview.md)
-   + [Analizzare e creare Percorsi con Journey Agent](/help/ai-agents/journey-agent-overview.md)
-   + {hide-from-toc}[Scopri il nuovo Percorsi Designer](/help/journeys/new-journey-designer.md)
+   + [Analizzare e creare percorsi con l’agente Journey](/help/ai-agents/journey-agent-overview.md)
+   + {hide-from-toc}[Scopri il nuovo Designer percorsi](/help/journeys/new-journey-designer.md)
    + [Introduzione alla creazione di un percorso](/help/journeys/introduction-to-building-a-journey.md)
    + [Utilizzo della ricerca di set di dati in un percorso](/help/journeys/lookup-dataset.md)
    + [Creare un profilo di test](/help/journeys/test-a-journey.md)
    + [Pubblicare un percorso](/help/journeys/publish-a-journey.md)
    + [Attività di decisione sui contenuti](/help/journeys/content-decision-activity.md)
    + [Filtrare con più attributi](/help/journeys/mastering-multi-attribute-filtering.md)
-   + [Utilizzare il targeting di più entità con Federated Audiences nei percorsi](/help/journeys/multi-entity-targeting-in-journeys.md)
+   + [Utilizzare il targeting di più entità con pubblico federato nei percorsi](/help/journeys/multi-entity-targeting-in-journeys.md)
    + [Convalidare la logica del percorso con un’esecuzione di prova](/help/journeys/journey-dry-run.md)
    + [Sbloccare il reingresso nel percorso con ID supplementari](/help/journeys/unlock-journey-reentry-with-supplemental-id.md)
    + [Aggiornare il contenuto in un percorso live](/help/journeys/update-content-in-live-journey.md)
    + [Copiare un percorso in un’altra sandbox](/help/journeys/copy-a-journey.md)
    + [Attivare il percorso giornaliero eseguito dopo la segmentazione in batch](/help/journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
-   + [Salva nodi di percorso come frammenti](/help/journeys/journey-fragments.md)
+   + [Salvare i nodi di percorso come frammenti](/help/journeys/journey-fragments.md)
    + Casi d’uso {#use-cases}
       + [Caso d’uso: percorso transazionale](/help/journeys/use-case-transactional-journey.md)
       + [Caso d’uso: evento di business](/help/journeys/use-case-business-event.md)
       + [Caso d’uso: attività “Leggi pubblico”](/help/journeys/use-case-read-audience.md)
       + [Caso d’uso: qualificazione di un pubblico](/help/journeys/use-case-audience-qualification.md)
    + Tutorial{#tutorials}
-      + [Attiva un percorso all’invio del modulo](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
+      + [Attivare un percorso all’invio di un modulo](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
 + Fedeltà {#loyalty}
-   + {hide-from-toc}[Crea una sfida fedeltà](/help/loyalty/create-a-loyalty-challenge.md)
+   + {hide-from-toc}[Creare una sfida di fidelizzazione](/help/loyalty/create-a-loyalty-challenge.md)
 + Gestione dei conflitti e assegnazione delle priorità {#conflict-management}
    + [Identificare conflitti potenziali](/help/conflict-management/identify-potential-conflicts.md)
    + [Assegnare punteggi di priorità](/help/conflict-management/assign-priority-score.md)
@@ -71,7 +71,7 @@ ht-degree: 89%
    + [Ore di silenzio](/help/business-rules/configure-and-apply-quiet-hours.md)
 + Profili, tipi di pubblico e iscrizioni {#profiles-audiences-subscriptions}
    + [Profili e tipi di pubblico: panoramica](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
-   + {hide-from-toc}[Profilo unificato e segmentazione - panoramica](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
+   + {hide-from-toc}[Profilo unificato e segmentazione - Panoramica](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [Creare tipi di pubblico tramite il generatore di regole](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [Creare un pubblico caricando un file CSV](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
    + [Creare di tipi di pubblico tramite Web SDK (tutorial)](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
@@ -117,7 +117,7 @@ ht-degree: 89%
       + [Authoring di una campagna web](/help/channels/author-a-web-campaign.md)
       + [Supporto di applicazioni a pagina singola (SPA) nell’editor web](/help/channels/singel-page-application-support.md)
    + WhatsApp {#whatsapp}
-      + {hide-from-toc}[Introduzione a WhatsApp (end-to-end)](/help/channels/get-started-with-whatsapp-in-ajo.md)
+      + {hide-from-toc}[Introduzione alla configurazione di WhatsApp (end-to-end)](/help/channels/get-started-with-whatsapp-in-ajo.md)
       + [Introduzione al canale WhatsApp](/help/channels/whatsapp-introduction.md)
       + [Configurare il canale WhatsApp](/help/channels/set-up-whatsapp.md)
       + [Creare un percorso WhatsApp](/help/channels/create-a-whatsapp-journey.md)
@@ -142,7 +142,7 @@ ht-degree: 89%
       + [Assistente IA per la generazione di contenuti - Panoramica](/help/content-management/ai-assistant-for-content-generation-overview.md)
       + [Creare contenuti utilizzando l’Assistente IA per la generazione di contenuti](/help/content-management/create-content-using-ai-assistant-for-content-generation.md)
       + [Creazione e gestione delle linee guida per i brand](/help/content-management/brand-guideline-creation-and-management.md)
-   + [Ottimizzare i canali in base alle preferenze del profilo o ai punteggi di tendenza](/help/channels/channel-optimization.md)
+   + [Ottimizza i canali in base alle preferenze del profilo o ai punteggi di propensione](/help/channels/channel-optimization.md)
    + [Creare un’e-mail tramite GenStudio](/help/content-management/create-an-email-using-genstudio.md)
    + [Abilitare le integrazioni di dati esterni nell’authoring dei canali](/help/content-management/external-data-integrations-in-channel-authoring.md)
 + Personalizzazione dei contenuti {#personalize-content}
@@ -160,23 +160,23 @@ ht-degree: 89%
    + [Agente di sperimentazione - Panoramica](/help/ai-agents/experimentation-agent-overview.md)
 + Funzionalità per decisioni{#decision-capabilities}
    + Funzione Decisioni {#decisioning}
-      + Nozioni di base sulle decisioni {#fundamentals}
+      + Concetti di base della funzione Decisioni {#fundamentals}
          + [Introduzione alla funzione Decisioni](/help/decisioning/introduction-to-decisioning.md)
          + [Procedura dettagliata sul decisioning end-to-end](/help/decisioning/decisioning-end-to-end.md)
          + [Navigazione nell’interfaccia del Generatore di formule](/help/decisioning/formula-builder-ui.md)
          + [Regole riutilizzabili](/help/decisioning/reusable-targeting-rules.md)
          + [Utilizzare la formula di ranking per fornire offerte personalizzate](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
          + [Approfondimenti sul modello IA](/help/decisioning/ai-model-insights.md)
-      + Utilizzare il decisioning per personalizzare i messaggi {#use-decisioning}
-         + [Introduzione al decisioning nelle e-mail](/help/decisioning/introduction-to-decisioning-in-emails.md)
-         + [Utilizzare il decisioning per personalizzare le e-mail (tutorial)](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction){target="_blank"}
+      + Utilizzare la funzione Decisioni per personalizzare i messaggi {#use-decisioning}
+         + [Introduzione alla funzione Decisioni nelle e-mail](/help/decisioning/introduction-to-decisioning-in-emails.md)
+         + [Utilizzare la funzione Decisioni per personalizzare le e-mail (tutorial)](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction){target="_blank"}
          + [Utilizzare la funzione Decisioni nelle notifiche push](/help/decisioning/decisioning-in-push-notifications.md)
          + [Utilizzare la funzione Decisioni in un messaggio SMS](/help/decisioning/use-decisioning-in-an-sms-message.md)
          + [Utilizzare le decisioni per personalizzare le offerte web (tutorial)](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
-         + [Utilizzare i frammenti di contenuto di Experience Manager con Decisioning](/help/decisioning/use-aem-content-fragments-with-ajo-decisioning.md)
-      + Attivare decisioni da attivatori e interazioni esterni {#trigger}
+         + [Utilizzare i frammenti di contenuto di Adobe Experience Manager con la funzione Decisioni](/help/decisioning/use-aem-content-fragments-with-ajo-decisioning.md)
+      + Attivare decisioni da trigger esterni e interazioni {#trigger}
          + [Attivare un percorso all’invio del modulo](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction){target="_blank"}
-         + [Personalizzare le offerte con i dati meteo in tempo reale](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
+         + [Personalizzare le offerte con dati meteo in tempo reale](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
    + Gestione delle decisioni {#decision-management}
       + [Introduzione alla gestione delle decisioni](/help/decision-management/introduction-to-decision-management.md)
       + [Dimostrazione delle funzionalità di gestione delle decisioni](/help/decision-management/demo-of-decision-management-capabilities.md)
@@ -234,7 +234,7 @@ ht-degree: 89%
    + Regole di business {#business-rules}
       + [Configurare le regole di quota limite](/help/business-rules/configure-frequency-capping-rules.md)
       + [Utilizzare i set di regole](/help/business-rules/work-with-rule-sets.md)
-      + {hide-from-toc}[Verifica e report sulle regole di frequenza](/help/business-rules/test-and-report-on-frequency-rules.md)
+      + {hide-from-toc}[Eseguire test e creare rapporti sulle regole di frequenza](/help/business-rules/test-and-report-on-frequency-rules.md)
 + Controllo degli accessi {#access-control}
    + {hide-from-toc}[Gestione degli accessi](/help/set-up-access/access-management.md)
    + [Configurare il controllo degli accessi basato su attributi](/help/administration/attribute-based-access-control.md)
@@ -245,12 +245,12 @@ ht-degree: 89%
    + [Creare criteri di utilizzo dei dati](/help/privacy/create-data-usage-policies.md)
    + [Applicazione dei criteri di utilizzo dei dati nei canali Journey Optimizer](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [Mascherare i dati nei messaggi](/help/privacy/mask-data-in-messages.md)
-+ Assistenti e agenti di IA {#ai-assistant}
++ Assistenti e agenti IA {#ai-assistant}
    + [Assistente IA](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [Assistente IA per la generazione di contenuti](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [Analizzare e creare Percorsi con Journey Agent](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
+   + [Analizzare e creare percorsi con l’agente Journey](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
    + [Agente di sperimentazione - Panoramica](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
-   + [Pianificare i tipi di pubblico con Adobe Marketing Agent](/help/ai-agents/plan-audiences-using-adobe-marketing-agent.md)
+   + [Pianificare il pubblico con Adobe Marketing Agent](/help/ai-agents/plan-audiences-using-adobe-marketing-agent.md)
 + Casi d’uso e best practice{#use-cases}
    + [Onboarding dei clienti](/help/use-cases/customer-onboarding.md)
    + [Carrello abbandonato](/help/use-cases/abandoned-cart.md)
