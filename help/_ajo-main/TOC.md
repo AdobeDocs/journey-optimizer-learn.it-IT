@@ -3,10 +3,10 @@ user-guide-title: Tutorial su Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial su Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 3bd73234af9246e6ea0b7c3cf3b18aad5389d2ac
+source-git-commit: a734b1fca9bae1ed8252e5493ca410ef6665a827
 workflow-type: tm+mt
-source-wordcount: '1484'
-ht-degree: 100%
+source-wordcount: '1490'
+ht-degree: 99%
 
 ---
 
@@ -132,6 +132,7 @@ ht-degree: 100%
       + [Creare frammenti di espressione](/help/content-management/expression-fragments.md)
       + [Aggiungere testo formattato a un frammento modificabile](/help/content-management/add-rich-text-to-editable-fragments.md)
       + [Utilizzare i frammenti di contenuto di AEM](/help/content-management/aem-content-fragments.md)
+      + [Utilizzare i frammenti di contenuto di AEM (Managed Services)](/help/content-management/aem-content-fragments-managed-services.md)
    + Modelli di contenuto{#content-templates}
       + [Creare modelli di contenuto](/help/content-management/templates/create-content-templates.md)
       + [Bloccare il contenuto dei modelli](/help/content-management/templates/content-locking.md)
