@@ -7,9 +7,10 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2026-04-21T00:00:00Z
 jira: KT-20879
-source-git-commit: 45f86aeb8fca071436785cc55225d853bb21998f
+exl-id: 5cda28e4-ea2f-4277-8951-a23525ca655a
+source-git-commit: 676c21ca09e0df8d404b05081d71b147755d65d5
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '375'
 ht-degree: 0%
 
 ---
@@ -69,4 +70,3 @@ Per aiutarti a seguire il percorso, è disponibile un’applicazione di esempio 
 - [Codice Source:](https://github.com/gbedekar489/ajo-web-push)
 
 Puoi esplorare la demo live per vedere il flusso in azione o clonare l’archivio per eseguire il progetto localmente.
-
