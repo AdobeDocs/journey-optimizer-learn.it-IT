@@ -7,10 +7,10 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: bb81006b806c034f89a4f104551729615aa78eaa
+source-git-commit: 6d5c21692c9761d3259bb106063239a310f4de6f
 workflow-type: tm+mt
-source-wordcount: '1044'
-ht-degree: 100%
+source-wordcount: '1552'
+ht-degree: 92%
 
 ---
 
@@ -58,7 +58,7 @@ CARDS
                 </div>
                 <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/mobile-learning-hub/overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ulteriori informazioni</span>
-                </a>
+                
             </div>
         </div>
     </div>
@@ -69,6 +69,9 @@ CARDS
 
 <!-- 
 CARDS
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-17-26
+    {title = How to efficiently test, simulate and validate journeys before going live}
+    {description = In this Experience League Live session, we dive into journey testing and validation tools in Adobe Journey Optimizer, so you can go live with confidence.}
 * https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-08-26
     {title = New Use Cases for Customer Engagement: iOS Live Activities, Web Push, and Persistent Messaging (April 8 12, 2026)}
     {description = In this Experience League Live session, we explore new surfaces and use cases for customer engagement as brands move beyond one-way, single-channel messaging. Discover how marketing and product teams can create more visible, contextual, and persistent experiences-driving continuous engagement and richer, real-time interactions across channels.}
@@ -78,12 +81,35 @@ CARDS
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="How to efficiently test, simulate and validate journeys before going live">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-17-26" title="Come testare, simulare e convalidare in modo efficiente i percorsi prima della pubblicazione" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3492438/?format=jpeg&nocache=1782495512850" alt="Come testare, simulare e convalidare in modo efficiente i percorsi prima della pubblicazione"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-17-26" target="_blank" rel="referrer" title="Come testare, simulare e convalidare in modo efficiente i percorsi prima della pubblicazione">Come testare, simulare e convalidare in modo efficiente i percorsi prima della pubblicazione</a>
+                    </p>
+                    <p class="is-size-6">In questa sessione di Experience League Live, approfondiamo gli strumenti di test e convalida del percorso in Adobe Journey Optimizer, in modo da consentirti di andare in diretta con sicurezza.</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-17-26" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
+                
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="New Use Cases for Customer Engagement: iOS Live Activities, Web Push, and Persistent Messaging (April 8 12, 2026)">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-08-26" title="Nuovi casi d’uso per il coinvolgimento della clientela: iOS Live Activities, push web e messaggistica persistente (8-12 aprile, 2026)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3483389/?format=jpeg&nocache=1775837203653" alt="Nuovi casi d’uso per il coinvolgimento della clientela: iOS Live Activities, push web e messaggistica persistente (8-12 aprile, 2026)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3483389/?format=jpeg&nocache=1782495513058" alt="Nuovi casi d’uso per il coinvolgimento della clientela: iOS Live Activities, push web e messaggistica persistente (8-12 aprile, 2026)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -97,7 +123,7 @@ CARDS
                 </div>
                 <a href="https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-08-26" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
-                </a>
+                
             </div>
         </div>
     </div>
@@ -106,7 +132,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03-12-26" title="Scopri l’orchestrazione delle campagne in Adobe Journey Optimizer (12 marzo 2026)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3481409/?format=jpeg&nocache=1775837203658" alt="Scopri l’orchestrazione delle campagne in Adobe Journey Optimizer (12 marzo 2026)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3481409/?format=jpeg&nocache=1782495513080" alt="Scopri l’orchestrazione delle campagne in Adobe Journey Optimizer (12 marzo 2026)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -120,7 +146,7 @@ CARDS
                 </div>
                 <a href="https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03-12-26" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
-                </a>
+                
             </div>
         </div>
     </div>
@@ -144,7 +170,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface" title="Funzionalità chiave e interfaccia utente" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430321?captions=ita&format=jpeg&nocache=1775837204145" alt="Funzionalità chiave e interfaccia utente"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430321?captions=ita&format=jpeg&nocache=1782495515016" alt="Funzionalità chiave e interfaccia utente"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -158,7 +184,7 @@ CARDS
                 </div>
                 <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
-                </a>
+                
             </div>
         </div>
     </div>
@@ -167,7 +193,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/journeys/introduction-to-building-a-journey" title="Introduzione alla creazione di un percorso" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430348?captions=ita&format=jpeg&nocache=1775837204133" alt="Introduzione alla creazione di un percorso"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430348?captions=ita&format=jpeg&nocache=1782495515010" alt="Introduzione alla creazione di un percorso"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -181,7 +207,7 @@ CARDS
                 </div>
                 <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/journeys/introduction-to-building-a-journey" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
-                </a>
+                
             </div>
         </div>
     </div>
@@ -190,7 +216,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder" title="Creare un pubblico tramite il generatore di regole" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430331?captions=ita&format=jpeg&nocache=1775837204142" alt="Creare un pubblico tramite il generatore di regole"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430331?captions=ita&format=jpeg&nocache=1782495514945" alt="Creare un pubblico tramite il generatore di regole"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -204,7 +230,7 @@ CARDS
                 </div>
                 <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
-                </a>
+                
             </div>
         </div>
     </div>
@@ -224,7 +250,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation" title="Creare contenuti utilizzando l’Assistente IA per la generazione di contenuti" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434643/?captions=ita&format=jpeg&nocache=1775837204583" alt="Creare contenuti utilizzando l’Assistente IA per la generazione di contenuti"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434643/?captions=ita&format=jpeg&nocache=1782495516144" alt="Creare contenuti utilizzando l’Assistente IA per la generazione di contenuti"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -238,7 +264,7 @@ CARDS
                 </div>
                 <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
-                </a>
+                
             </div>
         </div>
     </div>
@@ -247,7 +273,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end" title="Procedura dettagliata end-to-end per la funzione Decisioni" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3451100/?format=jpeg&nocache=1775837204587" alt="Procedura dettagliata end-to-end per la funzione Decisioni"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3451100/?format=jpeg&nocache=1782495516587" alt="Procedura dettagliata end-to-end per la funzione Decisioni"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -261,7 +287,7 @@ CARDS
                 </div>
                 <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
-                </a>
+                
             </div>
         </div>
     </div>
@@ -270,7 +296,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages" title="Configurare esperimenti sui contenuti per i messaggi in-app" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3445296/?captions=ita&format=jpeg&nocache=1775837204584" alt="Configurare esperimenti sui contenuti per i messaggi in-app"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3445296/?captions=ita&format=jpeg&nocache=1782495516148" alt="Configurare esperimenti sui contenuti per i messaggi in-app"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -284,7 +310,7 @@ CARDS
                 </div>
                 <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
-                </a>
+                
             </div>
         </div>
     </div>
