@@ -1,8 +1,8 @@
 ---
 source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
 workflow-type: tm+mt
-source-wordcount: '425'
-ht-degree: 2%
+source-wordcount: '437'
+ht-degree: 3%
 
 ---
 
@@ -24,7 +24,7 @@ Ad esempio:
 
 Scegli le notifiche push come canale di messaggistica preferito quando devi:
 
-| # | Beneficio | Perché | Casi d’uso di esempio |
+| # | Beneficio | Perché | Esempi di casi d&#39;uso |
 |---|---------|-----|-------------------|
 | 1 | Aggiornamenti sensibili al tempo | I messaggi push possono essere visualizzati nella schermata di blocco o come banner senza richiedere all’utente di aprire l’app. | <ul><li> Avvisi urgenti (interruzioni del servizio, avvisi di sicurezza)</li><li>Offerte sensibili al tempo (vendite flash)</li><li> Aggiornamenti in tempo reale (punteggi sportivi, consegna ordini)</ul> |
 | 2 | Nuovo coinvolgimento | Il push può reinserire nell’app gli utenti inattivi inviando prompt personalizzati e pertinenti. | <ul><li> Promemoria per carrello abbandonato o sfogliare, ad esempio &quot;Hai lasciato degli articoli nel carrello. Paga ora con uno sconto del 10%&quot;.</li></ul> |
