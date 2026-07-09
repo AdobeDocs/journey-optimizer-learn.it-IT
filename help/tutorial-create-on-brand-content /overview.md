@@ -7,9 +7,9 @@ role: User
 level: Intermediate
 doc-type: overview-page
 last-substantial-update: 2026-07-08T00:00:00Z
-source-git-commit: f9fe2ea192af9c163f032f9161002a6577b06d2d
+source-git-commit: 9181c5a4999ee49eb86b33eebf8083a460e527c1
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ ht-degree: 0%
 
 Scopri come utilizzare l’intelligenza artificiale in Adobe Journey Optimizer per creare, perfezionare e scalare i contenuti all’interno dell’intero percorso di clienti.
 
-Questo corso illustra tutte le fasi, dalla creazione e configurazione delle linee guida del brand alla generazione di campagne complete, alla modifica di singoli componenti di contenuto, al miglioramento degli elementi visivi e all’abilitazione di esperienze multilingue.
-
-Scoprirai anche come applicare controlli di qualità automatizzati, garantire l’allineamento del brand e mantenere la governance in tutte le comunicazioni. Entro la fine, avrai a disposizione strumenti per semplificare la creazione di contenuti, migliorare la coerenza e fornire esperienze personalizzate di alta qualità su tutti i canali.
+Questo corso illustra tutte le fasi, dalla creazione e configurazione delle linee guida del brand alla generazione di campagne complete, alla modifica di singoli componenti di contenuto, al miglioramento degli elementi visivi e all’abilitazione di esperienze multilingue.Scoprirai anche come applicare controlli di qualità automatizzati, garantire l’allineamento del brand e mantenere la governance in tutte le comunicazioni. Entro la fine, avrai a disposizione strumenti per semplificare la creazione di contenuti, migliorare la coerenza e fornire esperienze personalizzate di alta qualità su tutti i canali.
 
 ## Cosa imparerai
 
