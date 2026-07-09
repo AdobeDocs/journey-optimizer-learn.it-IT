@@ -4,11 +4,11 @@ user-guide-description: Questa esercitazione ti guida attraverso tutte le operaz
 role: User
 level: Internediate
 breadcrumb-title: creare contenuti sul marchio
-breadcrumb-url: /docs/journey-optimizer-learn/reate-on-brand-content/introduction
+breadcrumb-url: /docs/journey-optimizer-learn/create-on-brand-content/overview
 auto-video-transcripts: true
-source-git-commit: 8a5f2a79a6f7ad8e0d42d5d148ea5a2434e67b26
+source-git-commit: f9fe2ea192af9c163f032f9161002a6577b06d2d
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 
 # Creare contenuti on-brand in Journey Optimizer {#create-on-brand-content}
 
++ [Creare contenuti on-brand in Journey Optimizer](./overview.md)
 + Introduzione e configurazione del marchio {#introduction-and-brand-setup}
    + [Introduzione](./introduction.md)
    + [Configurare i brand](./configure-brands.md)
@@ -26,6 +27,4 @@ ht-degree: 0%
    + [Migliora il contenuto visivo](./enhance-your-visual-content.md)
    + [Creare e perfezionare versioni multilingue dei contenuti](./create-and-refine-multilingual-content.md)
 + [Garanzia di qualità, allineamento del brand e governance](./quality-brand-alignment-and-governance.md)
-
-
 
