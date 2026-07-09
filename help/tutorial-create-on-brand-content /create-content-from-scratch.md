@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Questo video illustra come iniziare da un modello, applicare le linee guida del brand e utilizzare semplici prompt per creare e-mail, notifiche push e messaggi in-app da zero. Vedrai anche come perfezionare tono, immagini e messaggistica utilizzando varianti e punteggi basati sull’intelligenza artificiale. Questo consente di produrre rapidamente contenuti coerenti e di alta qualità in tutte le esperienze omnicanale.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434635/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3434643/?captions=ita&learn=on&enablevpops)

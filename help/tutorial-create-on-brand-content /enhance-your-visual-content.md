@@ -23,4 +23,4 @@ Scopri come migliorare e personalizzare i contenuti visivi utilizzando strumenti
 
 Questo video mostra come generare infografiche, aggiungere sovrapposizioni e perfezionare le immagini direttamente all’interno del flusso di lavoro. Scoprirai anche come sfruttare le integrazioni per estendere le funzionalità di modifica. Poi, scopri come applicare elementi del brand come loghi, colori e font e spostarti facilmente tra gli strumenti per mantenere coerenza e controllo. In questo modo ogni risorsa visiva è allineata alla tua identità del brand, dalla creazione al design finale.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494537/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3494642/?captions=ita&learn=on&enablevpops)

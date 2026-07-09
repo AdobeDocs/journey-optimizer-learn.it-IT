@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Scopri come configurare le linee guida per i marchi in Adobe Journey Optimizer per garantire una comunicazione coerente e on-brand su tutti i canali. Questa guida descrive come caricare documenti e strutturare elementi chiave del brand, inclusi stili di scrittura, elementi visivi e dettagli di identità. Scoprirai anche come perfezionare queste linee guida per migliorare la generazione di contenuti e automatizzare i controlli di qualità, mantenendo una brand identity forte ed efficace. Per una descrizione dettagliata, guarda il video seguente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494292/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3494373/?captions=ita&learn=on&enablevpops)

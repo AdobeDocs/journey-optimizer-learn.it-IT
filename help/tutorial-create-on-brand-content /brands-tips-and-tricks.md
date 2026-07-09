@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Scopri suggerimenti pratici per estendere le linee guida del brand oltre Adobe Journey Optimizer in strumenti come GenStudio e Adobe Express. Scopri come perfezionare gli stili di scrittura, gli elementi visivi e gli output basati sull’intelligenza artificiale per mantenere la coerenza del brand. In questa pagina viene anche descritta la creazione di specifiche di marchio dettagliate e l’utilizzo di esempi per la generazione di contenuti. Scoprirai anche come gestire più marchi per supportare diversi team e strategie di comunicazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494272/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3494288/?captions=ita&learn=on&enablevpops)

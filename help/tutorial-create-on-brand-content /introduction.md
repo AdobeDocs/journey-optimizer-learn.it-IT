@@ -20,5 +20,5 @@ ht-degree: 2%
 
 Questa introduzione illustra come gli strumenti basati sull’intelligenza artificiale consentono di generare contenuti e-mail e di applicare le linee guida del brand. Scopri come ridimensionare la personalizzazione utilizzando modelli, prompt e contenuti di riferimento. Scoprirai anche come l’Assistente AI supporta sia la generazione dei contenuti che il controllo della qualità, garantendo che i messaggi rimangano coerenti, conformi e allineati al tuo marchio fin dall’inizio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494282/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3494364/?captions=ita&learn=on&enablevpops)
 

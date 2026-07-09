@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Scopri come valutare e migliorare la qualità dei contenuti mantenendo al contempo un forte allineamento del brand utilizzando strumenti basati sull’intelligenza artificiale.Questa panoramica mostra come applicare le linee guida del brand sia ai contenuti generati che a quelli creati manualmente. Viene inoltre illustrato come automatizzare i controlli di qualità e identificare le opportunità di miglioramento in base allo stile di scrittura e agli elementi visivi. Infine, scopri come utilizzare il punteggio in tempo reale e i consigli actionable per mantenere ogni risorsa conforme, coerente e pronta per la distribuzione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494636/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3494651/?captions=ita&learn=on&enablevpops)
