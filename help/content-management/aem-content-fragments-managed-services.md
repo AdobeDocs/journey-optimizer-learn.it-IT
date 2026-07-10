@@ -34,4 +34,4 @@ Scopri come configurare e utilizzare le integrazioni di Adobe Experience Manager
 
 Questo tutorial illustra come impostare connessioni all’archivio, convalidare le configurazioni con advisor contenuti verificato e selezionare frammenti di contenuto direttamente nell’editor di personalizzazione, consentendo ai marketer di riutilizzare e visualizzare in anteprima i contenuti di AEM in modo efficiente all’interno delle campagne.
 
->[!VIDEO](https://video.tv.adobe.com/v/3492529/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3492535/?captions=ita&learn=on&enablevpops)
