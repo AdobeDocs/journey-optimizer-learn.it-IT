@@ -1,6 +1,6 @@
 ---
-title: Utilizzare Frammenti di contenuto di AEM (Managed Services) in Journey Optimizer
-description: Scopri come configurare e utilizzare le integrazioni Adobe Experience Manager (AEM) Managed Services in Journey Optimizer per integrare frammenti di contenuto nei flussi di lavoro di authoring. Questo tutorial illustra come impostare connessioni all’archivio, convalidare le configurazioni con Contenuto verificato e selezionare frammenti di contenuto direttamente nell’editor di personalizzazione, consentendo agli addetti al marketing di riutilizzare e visualizzare in anteprima i contenuti di AEM in modo efficiente all’interno delle campagne.
+title: Utilizzare frammenti di contenuto di AEM (Managed Services) in Journey Optimizer
+description: Scopri come configurare e utilizzare le integrazioni di Adobe Experience Manager (AEM) Managed Services in Journey Optimizer per integrare frammenti di contenuto nei flussi di lavoro di authoring. Questo tutorial illustra come impostare connessioni all’archivio, convalidare le configurazioni con advisor contenuti verificato e selezionare frammenti di contenuto direttamente nell’editor di personalizzazione, consentendo ai marketer di riutilizzare e visualizzare in anteprima i contenuti di AEM in modo efficiente all’interno delle campagne.
 feature: Integrations, Fragments
 topic: Content Management, Integrations
 role: User
@@ -22,16 +22,16 @@ subfeature_v2:
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: a734b1fca9bae1ed8252e5493ca410ef6665a827
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 136
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Utilizzare Frammenti di contenuto di AEM (Managed Services) in Journey Optimizer
+# Utilizzare frammenti di contenuto di AEM (Managed Services) in Journey Optimizer
 
-Scopri come configurare e utilizzare le integrazioni Adobe Experience Manager (AEM) Managed Services in Journey Optimizer per integrare frammenti di contenuto nei flussi di lavoro di authoring.
+Scopri come configurare e utilizzare le integrazioni di Adobe Experience Manager (AEM) Managed Services in Journey Optimizer per integrare frammenti di contenuto nei flussi di lavoro di authoring.
 
-Questo tutorial illustra come impostare connessioni all’archivio, convalidare le configurazioni con Contenuto verificato e selezionare frammenti di contenuto direttamente nell’editor di personalizzazione, consentendo agli addetti al marketing di riutilizzare e visualizzare in anteprima i contenuti di AEM in modo efficiente all’interno delle campagne.
+Questo tutorial illustra come impostare connessioni all’archivio, convalidare le configurazioni con advisor contenuti verificato e selezionare frammenti di contenuto direttamente nell’editor di personalizzazione, consentendo ai marketer di riutilizzare e visualizzare in anteprima i contenuti di AEM in modo efficiente all’interno delle campagne.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492535/?captions=ita&learn=on&enablevpops)

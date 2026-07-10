@@ -8,9 +8,9 @@ level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 6d5c21692c9761d3259bb106063239a310f4de6f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1552'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -85,7 +85,7 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-17-26" title="Come testare, simulare e convalidare in modo efficiente i percorsi prima della pubblicazione" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-17-26" title="Come testare, simulare e convalidare in modo efficiente i percorsi prima della pubblicazione" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3492438/?format=jpeg&nocache=1782495512850" alt="Come testare, simulare e convalidare in modo efficiente i percorsi prima della pubblicazione"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -94,11 +94,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-17-26" target="_blank" rel="referrer" title="Come testare, simulare e convalidare in modo efficiente i percorsi prima della pubblicazione">Come testare, simulare e convalidare in modo efficiente i percorsi prima della pubblicazione</a>
+                        <a href="https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-17-26" target="_blank" rel="referrer" title="Come testare, simulare e convalidare in modo efficiente i percorsi prima della pubblicazione">Come testare, simulare e convalidare in modo efficiente i percorsi prima della pubblicazione</a>
                     </p>
-                    <p class="is-size-6">In questa sessione di Experience League Live, approfondiamo gli strumenti di test e convalida del percorso in Adobe Journey Optimizer, in modo da consentirti di andare in diretta con sicurezza.</p>
+                    <p class="is-size-6">In questa sessione di Experience League Live, approfondiamo gli strumenti di test e convalida del percorso in Adobe Journey Optimizer, in modo da consentirti di pubblicare con sicurezza.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-17-26" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-17-26" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 
             </div>
