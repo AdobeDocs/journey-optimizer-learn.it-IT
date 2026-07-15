@@ -1,6 +1,6 @@
 ---
-title: Personalizzare le offerte con formule di classificazione basate su CAP e reddito
-description: Utilizza le formule di classificazione di Adobe Journey Optimizer per distribuire in modo dinamico le offerte finanziarie più rilevanti, personalizzate in base al codice postale e al livello di reddito di ciascun utente, per un coinvolgimento più elevato e una personalizzazione più intelligente.
+title: Personalizzare le offerte con formule di classificazione basate sul reddito e sul codice di avviamento postale
+description: Utilizza le formule di classificazione di Adobe Journey Optimizer per distribuire in modo dinamico le offerte finanziarie più rilevanti, personalizzate in base al codice di avviamento postale e al livello di reddito di ciascun utente, per un coinvolgimento più elevato e una personalizzazione più intelligente.
 feature: Decisioning
 role: User
 level: Beginner
@@ -10,8 +10,8 @@ jira: KT-18188
 exl-id: 11685f7c-8048-4318-9c28-71bd7da8f7ff
 source-git-commit: 85d3def3afb1d073b133df40e4cbf32d00a3a5c9
 workflow-type: tm+mt
-source-wordcount: '318'
-ht-degree: 0%
+source-wordcount: '338'
+ht-degree: 16%
 
 ---
 
