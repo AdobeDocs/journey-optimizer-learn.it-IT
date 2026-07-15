@@ -1,24 +1,24 @@
 ---
-title: Configurare i brand in Journey Optimizer
-description: Scopri come caricare le linee guida per il brand, definire gli stili e garantire una comunicazione coerente all’interno del brand tra i canali in Adobe Journey Optimizer.
+title: Configurare i brand in Adobe Journey Optimizer
+description: Questo video illustra come caricare documenti sulle linee guida del brand, strutturare gli elementi principali del brand e definire lo stile di scrittura e i contenuti visivi.
 feature: Content Assistant
 topic: Content Management
 role: User
 level: Intermediate
 doc-type: Feature Video
 duration: 227
-last-substantial-update: 2026-07-09T00:00:00Z
+last-substantial-update: 2026-07-14T00:00:00Z
 jira: KT-21952
-source-git-commit: 935e14c72ee3c912fb0071c9eaee03f3cfb2e597
+source-git-commit: 02e7231661fcd254f89ffcbbfd6ee6039ededffa
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
 
 
-# Configurazione dei brand in Adobe Journey Optimizer
+# Configurare i brand in Adobe Journey Optimizer
 
-Scopri come configurare le linee guida per i marchi in Adobe Journey Optimizer per garantire una comunicazione coerente e on-brand su tutti i canali. Questa guida descrive come caricare documenti e strutturare elementi chiave del brand, inclusi stili di scrittura, elementi visivi e dettagli di identità. Scoprirai anche come perfezionare queste linee guida per migliorare la generazione di contenuti e automatizzare i controlli di qualità, mantenendo una brand identity forte ed efficace. Per una descrizione dettagliata, guarda il video seguente.
+Questo video illustra come caricare documenti sulle linee guida del brand, strutturare gli elementi principali del brand e definire lo stile di scrittura, i contenuti visivi e i dettagli di identità. Scopri anche come perfezionare e personalizzare queste linee guida per potenziare i contenuti generati dall’intelligenza artificiale e i controlli di qualità automatizzati, garantendo una comunicazione coerente sul brand in ogni canale.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494373/?captions=ita&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3494292/?learn=on)
