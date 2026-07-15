@@ -41,7 +41,7 @@ Invece di creare un nuovo schema, lo schema Experience Event esistente utilizzat
 
 In Adobe Experience Platform:
 
-- Apri lo schema di _**evento meteo**_ esistente utilizzato per le offerte basate sul meteo.
+- Apri lo schema di _&#x200B;**evento meteo**&#x200B;_ esistente utilizzato per le offerte basate sul meteo.
 
 - Aggiungi il gruppo di campi:
 Evento esperienza - Interazioni proposte
