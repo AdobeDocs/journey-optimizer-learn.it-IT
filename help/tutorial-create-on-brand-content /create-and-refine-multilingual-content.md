@@ -21,4 +21,4 @@ ht-degree: 0%
 
 In questo passaggio è possibile tradurre e adattare i messaggi in altre lingue utilizzando Adobe Journey Optimizer, utilizzando lo spagnolo e il francese come lingue di esempio. Copia un punto di contatto esistente in modelli locali e utilizza le funzionalità di intelligenza artificiale per generare traduzioni sul marchio, insieme agli altri flussi di lavoro di traduzione manuale o automatizzata. Rivedi i punteggi, perfeziona il tono e i messaggi e mantieni i contenuti tradotti allineati con le linee guida del tuo marchio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494538/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494632/?captions=ita&learn=on)
