@@ -6,9 +6,9 @@ level: Intermediate
 breadcrumb-title: creare contenuti sul marchio
 breadcrumb-url: /docs/journey-optimizer-learn/create-on-brand-content/overview
 auto-video-transcripts: true
-source-git-commit: 8b1bcb574398f3d904ab0aefd26e6267d247b15d
+source-git-commit: 2f53d4498236daab8f982aff4aa5211d70c6f4aa
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 + Introduzione e configurazione del brand {#introduction-and-brand-setup}
    + [Creare contenuti e-mail sul brand con AI](./introduction.md)
    + [Configurare un brand per contenuti basati sull’intelligenza artificiale](./configure-brands.md)
-   + [Suggerimenti sulle linee guida per i marchi](./brands-tips-and-tricks.md)
+   + [Estendere le linee guida del brand agli strumenti creativi](./brands-tips-and-tricks.md)
 + Utilizzare l’intelligenza artificiale per generare contenuti {#generate-content}
    + [Creare contenuti da zero](./create-content-from-scratch.md)
    + [Modificare e personalizzare il contenuto della sezione](./edit-and-personalize-section-content.md)
