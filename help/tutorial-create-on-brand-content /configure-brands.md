@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Scopri come creare e configurare un brand utilizzato dalle funzionalità di intelligenza artificiale per generare e convalidare contenuti in Adobe Journey Optimizer. Caricate documenti sulle linee guida del brand e mappate elementi chiave come il tono della voce, gli slogan, i vincoli legali, le regole delle immagini e la formattazione CTA. È possibile modificare le indicazioni a livello di canale e di elemento per migliorare la precisione della generazione e i controlli di qualità automatizzati.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494292/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494373/?captions=ita&learn=on)
