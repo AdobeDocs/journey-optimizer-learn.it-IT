@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Scopri come migliorare e personalizzare i contenuti visivi utilizzando strumenti basati sull’intelligenza artificiale per creare design più coinvolgenti e all’interno del brand. Questo video mostra come generare infografiche, aggiungere sovrapposizioni e perfezionare le immagini direttamente all’interno del flusso di lavoro, sfruttando al contempo le integrazioni per estendere le funzionalità di modifica. Scopri come applicare gli elementi del brand come loghi, colori e font e come passare facilmente da uno strumento all’altro per mantenere coerenza e controllo, assicurando che ogni risorsa visiva sia allineata alla tua identità del brand, dalla creazione al design finale.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494537/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494642/?captions=ita&learn=on)

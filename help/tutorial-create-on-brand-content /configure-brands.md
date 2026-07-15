@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Questo video illustra come caricare documenti sulle linee guida del brand, strutturare gli elementi principali del brand e definire lo stile di scrittura, i contenuti visivi e i dettagli di identità. Scopri anche come perfezionare e personalizzare queste linee guida per potenziare i contenuti generati dall’intelligenza artificiale e i controlli di qualità automatizzati, garantendo una comunicazione coerente sul brand in ogni canale.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494292/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494373/?captions=ita&learn=on)

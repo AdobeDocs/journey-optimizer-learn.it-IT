@@ -20,4 +20,4 @@ ht-degree: 2%
 
 Questa introduzione illustra come gli strumenti basati sull’intelligenza artificiale consentono di generare contenuti e-mail, applicare le linee guida del brand e scalare la personalizzazione utilizzando modelli, prompt e contenuti di riferimento. Scopri anche come le funzionalità di intelligenza artificiale supportano sia la generazione dei contenuti che la garanzia di qualità, garantendo che i messaggi rimangano coerenti, conformi e allineati al tuo marchio fin dall’inizio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494282/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494364/?captions=ita&learn=on)

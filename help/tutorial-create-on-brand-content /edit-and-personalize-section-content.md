@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Scopri come perfezionare e personalizzare singole sezioni del contenuto utilizzando le competenze di intelligenza artificiale. Questo video mostra come modificare le righe dell’oggetto, le intestazioni preliminari, i blocchi di testo e le immagini all’interno di un modello esistente mantenendo al contempo la coerenza del brand. Scopri come applicare i prompt, sfruttare i contenuti di riferimento, regolare il tono e la messaggistica e generare nuovi elementi visivi, utilizzando al contempo le linee guida del brand per garantire risultati di alta qualità e conformi a ogni componente della comunicazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3495868/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3495884/?captions=ita&learn=on)

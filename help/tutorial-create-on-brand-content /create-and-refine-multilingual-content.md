@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Scopri come tradurre e adattare i contenuti in più lingue mantenendo al contempo la coerenza del brand. Questa panoramica mostra come creare versioni multilingue delle campagne, utilizzare la traduzione assistita da intelligenza artificiale per generare rapidamente contenuti localizzati e perfezionare il tono e la messaggistica per soddisfare le linee guida del brand. Scopri anche come combinare flussi di lavoro automatizzati e traduzioni rapide per scalare in modo efficiente le comunicazioni globali tra i canali.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494538/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494632/?captions=ita&learn=on)
