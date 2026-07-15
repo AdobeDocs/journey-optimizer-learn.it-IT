@@ -21,4 +21,4 @@ ht-degree: 0%
 
 In questo passaggio inizi da un modello di contenuto esistente e generi una risorsa completa, ad esempio un’e-mail, una notifica push o un messaggio in-app, utilizzando le funzionalità di intelligenza artificiale. Puoi applicare le linee guida del brand e configurare impostazioni di lingua, tono e immagine per mantenere i contenuti nel brand. Puoi generare più varianti basate sull’intelligenza artificiale, rivedere il punteggio del brand e modificare i contenuti manualmente o con un secondo passaggio di intelligenza artificiale per perfezionare la messaggistica e gli elementi visivi.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434635/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434643/?captions=ita&learn=on)
