@@ -1,24 +1,24 @@
 ---
-title: Configurare i brand in Adobe Journey Optimizer
-description: Questo video illustra come caricare documenti sulle linee guida del brand, strutturare gli elementi principali del brand e definire lo stile di scrittura e i contenuti visivi.
+title: Configurare un brand per contenuti basati sull’intelligenza artificiale in Adobe Journey Optimizer
+description: Scopri come creare e configurare un brand utilizzato dalle funzionalità di intelligenza artificiale per generare e convalidare contenuti in Adobe Journey Optimizer.
 feature: Content Assistant
 topic: Content Management
 role: User
 level: Intermediate
 doc-type: Feature Video
 duration: 227
-last-substantial-update: 2026-07-14T00:00:00Z
+last-substantial-update: 2026-07-15T00:00:00Z
 jira: KT-21952
-source-git-commit: 02e7231661fcd254f89ffcbbfd6ee6039ededffa
+source-git-commit: 7c1f5db3b2e5c628dcf233cb112bfca49bc28aad
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
 
 
-# Configurare i brand in Adobe Journey Optimizer
+# Configurare un brand per contenuti basati sull’intelligenza artificiale in Adobe Journey Optimizer
 
-Questo video illustra come caricare documenti sulle linee guida del brand, strutturare gli elementi principali del brand e definire lo stile di scrittura, i contenuti visivi e i dettagli di identità. Scopri anche come perfezionare e personalizzare queste linee guida per potenziare i contenuti generati dall’intelligenza artificiale e i controlli di qualità automatizzati, garantendo una comunicazione coerente sul brand in ogni canale.
+Scopri come creare e configurare un brand utilizzato dalle funzionalità di intelligenza artificiale per generare e convalidare contenuti in Adobe Journey Optimizer. Caricate documenti sulle linee guida del brand e mappate elementi chiave come il tono della voce, gli slogan, i vincoli legali, le regole delle immagini e la formattazione CTA. È possibile modificare le indicazioni a livello di canale e di elemento per migliorare la precisione della generazione e i controlli di qualità automatizzati.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494373/?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494292/?learn=on)
