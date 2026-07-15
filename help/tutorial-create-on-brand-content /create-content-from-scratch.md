@@ -1,24 +1,24 @@
 ---
-title: Creare contenuti da zero
-description: Scopri come creare e-mail, notifiche push e messaggi in-app da zero utilizzando modelli, linee guida del brand e varianti basate sull’intelligenza artificiale.
+title: Creare contenuti omni-channel da zero
+description: In questo passaggio inizi da un modello di contenuto esistente e generi una risorsa completa utilizzando le funzionalità di intelligenza artificiale.
 feature: Content Assistant
 topic: Content Management
 role: User
 level: Intermediate
 doc-type: Feature Video
 duration: 182
-last-substantial-update: 2026-07-14T00:00:00Z
+last-substantial-update: 2026-07-15T00:00:00Z
 jira: KT-16226
-source-git-commit: d80b00583c47ed90a73d0058aad46472b04df681
+source-git-commit: ab64a156f9bbd1496ebfa4d06dbfea37a8bc1e71
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
 
 
-# Creare contenuti da zero
+# Creare contenuti omni-channel da zero
 
-Questo video illustra come iniziare da un modello, applicare le linee guida del brand e utilizzare semplici prompt per creare e-mail, notifiche push e messaggi in-app da zero. Scopri anche come perfezionare tono, immagini e messaggi sfruttando al contempo varianti e punteggi basati sull’intelligenza artificiale per produrre rapidamente contenuti di alta qualità e coerenti nelle esperienze omnicanale.
+In questo passaggio inizi da un modello di contenuto esistente e generi una risorsa completa, ad esempio un’e-mail, una notifica push o un messaggio in-app, utilizzando le funzionalità di intelligenza artificiale. Puoi applicare le linee guida del brand e configurare impostazioni di lingua, tono e immagine per mantenere i contenuti nel brand. Puoi generare più varianti basate sull’intelligenza artificiale, rivedere il punteggio del brand e modificare i contenuti manualmente o con un secondo passaggio di intelligenza artificiale per perfezionare la messaggistica e gli elementi visivi.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434643/?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434635/?learn=on)
