@@ -11,7 +11,7 @@ jira: KT-18451
 exl-id: 3cb280b3-71e5-4e91-9252-5679d794d4c4
 source-git-commit: 6c4f33d1f55be298781cfb0958862f9710e3647a
 workflow-type: tm+mt
-source-wordcount: '698'
+source-wordcount: '708'
 ht-degree: 3%
 
 ---
@@ -41,7 +41,7 @@ Invece di creare un nuovo schema, lo schema Experience Event esistente utilizzat
 
 In Adobe Experience Platform:
 
-- Apri lo schema di _&#x200B;**evento meteo**&#x200B;_ esistente utilizzato per le offerte basate sul meteo.
+- Apri lo schema di _**evento meteo**_ esistente utilizzato per le offerte basate sul meteo.
 
 - Aggiungi il gruppo di campi:
 Evento esperienza - Interazioni proposte
