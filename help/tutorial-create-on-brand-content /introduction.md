@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Scopri in che modo le funzionalità di intelligenza artificiale in Adobe Journey Optimizer ti aiutano a creare contenuti e-mail sul brand su larga scala. Questa procedura dettagliata mostra un’e-mail completa generata da un singolo prompt, utilizzando le linee guida del brand e contenuti di riferimento per guidare la generazione, selezionando un modello di generazione e inserendo testo e immagini generati dall’intelligenza artificiale direttamente nel modello. Le stesse risorse dei marchi sono inoltre in grado di eseguire controlli di qualità automatizzati, valutando ogni variante per la conformità, il tono e l’allineamento del marchio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494282/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494364/?captions=ita&learn=on)
