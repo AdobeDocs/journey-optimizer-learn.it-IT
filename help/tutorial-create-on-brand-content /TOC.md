@@ -1,30 +1,29 @@
 ---
-user-guide-title: Creare contenuti on-brand in Journey Optimizer
-user-guide-description: Questa esercitazione ti guida attraverso tutte le operazioni, dalla creazione e configurazione delle linee guida del brand alla generazione di campagne complete, la modifica di singoli componenti di contenuto, l’ottimizzazione degli elementi visivi e l’abilitazione di esperienze multilingue. Scoprirai anche come applicare controlli di qualità automatizzati, garantire l’allineamento del brand e mantenere la governance in tutte le comunicazioni. Entro la fine, avrai a disposizione strumenti per semplificare la creazione di contenuti, migliorare la coerenza e fornire esperienze personalizzate di alta qualità su tutti i canali.
+user-guide-title: Creazione di contenuti on-brand basati sull’intelligenza artificiale in Adobe Journey Optimizer, per gli esperti di marketing
+user-guide-description: Scopri come utilizzare le funzionalità di intelligenza artificiale di Adobe Journey Optimizer per creare, perfezionare e gestire i contenuti on-brand in ogni canale.
 role: User
-level: Internediate
+level: Intermediate
 breadcrumb-title: creare contenuti sul marchio
 breadcrumb-url: /docs/journey-optimizer-learn/create-on-brand-content/overview
 auto-video-transcripts: true
-source-git-commit: f9fe2ea192af9c163f032f9161002a6577b06d2d
+source-git-commit: 5c1f080220f2571ec8cfb5330dc761a065c7d843
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---
 
 
-# Creare contenuti on-brand in Journey Optimizer {#create-on-brand-content}
+# Creazione di contenuti on-brand basati sull’intelligenza artificiale in Adobe Journey Optimizer, per gli esperti di marketing {#create-on-brand-content}
 
-+ [Creare contenuti on-brand in Journey Optimizer](./overview.md)
-+ Introduzione e configurazione del marchio {#introduction-and-brand-setup}
++ [Creazione di contenuti on-brand basati sull’intelligenza artificiale in Adobe Journey Optimizer, per gli esperti di marketing](./overview.md)
++ Introduzione e configurazione del brand {#introduction-and-brand-setup}
    + [Introduzione](./introduction.md)
    + [Configurare i brand](./configure-brands.md)
    + [Suggerimenti sulle linee guida per i marchi](./brands-tips-and-tricks.md)
-+ Generare e perfezionare i contenuti {#generate-content}
++ Utilizzare l’intelligenza artificiale per generare contenuti {#generate-content}
    + [Creare contenuti da zero](./create-content-from-scratch.md)
    + [Modificare e personalizzare il contenuto della sezione](./edit-and-personalize-section-content.md)
    + [Migliora il contenuto visivo](./enhance-your-visual-content.md)
    + [Creare e perfezionare versioni multilingue dei contenuti](./create-and-refine-multilingual-content.md)
-+ [Garanzia di qualità, allineamento del brand e governance](./quality-brand-alignment-and-governance.md)
-
++ [Qualità, allineamento del brand e governance](./quality-brand-alignment-and-governance.md)
