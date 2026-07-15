@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Scopri come valutare e migliorare la qualità dei contenuti verificandoli rispetto alle linee guida del brand, sia per le risorse scritte che visive. Puoi valutare l’allineamento del brand sia per i contenuti generati dall’intelligenza artificiale che per quelli creati manualmente, utilizzando controlli di qualità automatizzati insieme a punteggi in tempo reale e consigli fruibili. Puoi identificare e risolvere i problemi relativi a copia, immagini, iconografia e conformità, utilizzando il controllo qualità automatizzato come supporto nel processo di governance e revisione del team prima che il contenuto venga reso disponibile.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494636/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494651/?captions=ita&learn=on)
