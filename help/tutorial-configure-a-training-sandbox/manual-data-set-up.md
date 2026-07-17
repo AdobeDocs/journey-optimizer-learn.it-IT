@@ -10,7 +10,7 @@ recommendations: noDisplay, noCatalog
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
 source-git-commit: d848272dba814c300aa21110316b5b37ccb719ce
 workflow-type: tm+mt
-source-wordcount: '1011'
+source-wordcount: '1033'
 ht-degree: 100%
 
 ---
@@ -24,7 +24,7 @@ In questa sezione puoi creare gli spazi dei nomi delle identità richiesti e def
 
 ## Passaggio 1: creare gli spazi dei nomi delle identità
 
-In questo passaggio verranno creati gli spazi dei nomi delle identità per i campi di identità personalizzati [!DNL Luma] denominati `lumaLoyaltyId`, `lumaCrmId` e `lumaProductSKU`. Gli spazi dei nomi delle identità svolgono un ruolo fondamentale nella creazione di profili cliente in tempo reale, in quanto due valori corrispondenti nello stesso spazio dei nomi consentono a due origini di dati di formare un grafo identità.
+In questo passaggio verranno creati gli spazi dei nomi delle identità per i campi di identità personalizzati [!DNL Luma] denominati `lumaLoyaltyId`, `lumaCrmId` e `lumaProductSKU`. Gli spazi dei nomi delle identità svolgono un ruolo fondamentale nella creazione di profili cliente in tempo reale, in quanto due valori corrispondenti nello stesso spazio dei nomi consentono a due origini di dati di formare un grafo di identità.
 
 Per iniziare, crea uno [!UICONTROL spazio dei nomi] per lo schema [!DNL Luma Loyalty ID]:
 
@@ -172,7 +172,7 @@ Ora hai configurato lo [!UICONTROL spazio dei nomi] e il [!DNL Luma Loyalty sche
 
    4. Abilita la casella **[!UICONTROL Identità primaria]**.
 
-   5. Seleziona lo spazio dei nomi `Luma Loyalty Id` dal menu a discesa **[!UICONTROL Spazi dei nomi delle identità]**.
+   5. Seleziona lo spazio dei nomi `Luma Loyalty Id` dal menu a discesa **[!UICONTROL Spazi dei nomi identità]**.
 
    6. Seleziona **[!UICONTROL Applica]**.
 
@@ -188,7 +188,7 @@ Ora hai configurato lo [!UICONTROL spazio dei nomi] e il [!DNL Luma Loyalty sche
 
    3. In **[!UICONTROL Proprietà campo]**, abilita la casella **[!UICONTROL Identità]**.
 
-   4. Seleziona lo spazio dei nomi `Luma CRM Id` dal menu a discesa **[!UICONTROL Spazi dei nomi delle identità]**.
+   4. Seleziona lo spazio dei nomi `Luma CRM Id` dal menu a discesa **[!UICONTROL Spazi dei nomi identità]**.
 
    5. Seleziona **[!UICONTROL Applica]**.
 
