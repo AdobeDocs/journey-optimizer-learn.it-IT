@@ -3,10 +3,10 @@ user-guide-title: Tutorial su Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial su Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: c2595614a6d78b3877b12f3d2d0b5040364bd1ee
+source-git-commit: 40ceb7f4414af6b2d311491f03be4daff1c72c19
 workflow-type: tm+mt
-source-wordcount: '1552'
-ht-degree: 97%
+source-wordcount: '1550'
+ht-degree: 95%
 
 ---
 
@@ -41,14 +41,14 @@ ht-degree: 97%
 + Percorsi {#journeys}
   + [Designer del percorso - Panoramica](/help/journeys/journey-designer-overview.md)
   + [Introduzione alla nuova area di lavoro del percorso](/help/journeys/introduction-to-the-new-journey-canvas.md)
-  + [Analizzare e creare percorsi con l’agente Journey](/help/ai-agents/journey-agent-overview.md)
-  + {hide-from-toc}[Scopri il nuovo Designer percorsi](/help/journeys/new-journey-designer.md)
   + [Introduzione alla creazione di un percorso](/help/journeys/introduction-to-building-a-journey.md)
-  + [Utilizzo della ricerca di set di dati in un percorso](/help/journeys/lookup-dataset.md)
+  + [Analizzare e creare percorsi utilizzando l’intelligenza artificiale](/help/ai-agents/journey-agent-overview.md)
   + [Creare un profilo di test](/help/journeys/test-a-journey.md)
+  + [Simulare percorsi con pubblico esterno](/help/journeys/simulate-journeys-with-external-audiences.md)
   + [Pubblicare un percorso](/help/journeys/publish-a-journey.md)
   + [Attività di decisione sui contenuti](/help/journeys/content-decision-activity.md)
-  + [Filtrare con più attributi](/help/journeys/mastering-multi-attribute-filtering.md)
+  + [Utilizzare la ricerca di set di dati in un percorso](/help/journeys/lookup-dataset.md)
+  + [Filtraggio multi-attributo principale](/help/journeys/mastering-multi-attribute-filtering.md)
   + [Utilizzare il targeting di più entità con pubblico federato nei percorsi](/help/journeys/multi-entity-targeting-in-journeys.md)
   + [Convalidare la logica del percorso con un’esecuzione di prova](/help/journeys/journey-dry-run.md)
   + [Sbloccare il reingresso nel percorso con ID supplementari](/help/journeys/unlock-journey-reentry-with-supplemental-id.md)
@@ -93,7 +93,7 @@ ht-degree: 97%
     + [Creare contenuti con E-mail Designer](/help/channels/create-content-with-the-email-designer.md)
     + [Importare e creare contenuti e-mail HTML](/help/channels/import-and-author-html-email-content.md)
     + [Anteprima, bozza e pubblicazione](/help/channels/preview-proof-and-publish.md)
-    + [Creazione di contenuti on-brand basati sull’intelligenza artificiale - Tutorial](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/create-on-brand-content/overview)
+    + [Creazione di contenuti on-brand basati sull’intelligenza artificiale - Tutorial](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
   + Schede di contenuto{#content-cards}
     + [Creare schede di contenuto](/help/channels/create-content-cards.md)
   + Canale in-app{#in-app-channel}
@@ -149,7 +149,7 @@ ht-degree: 97%
   + [Ottimizzare i canali in base alle preferenze del profilo o ai punteggi di propensione](/help/channels/channel-optimization.md)
   + [Creare un’e-mail tramite GenStudio](/help/content-management/create-an-email-using-genstudio.md)
   + [Abilitare le integrazioni di dati esterni nell’authoring dei canali](/help/content-management/external-data-integrations-in-channel-authoring.md)
-  + [Creare contenuti on-brand in Journey Optimizer - Tutorial](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/create-on-brand-content/overview)
+  + [Creare contenuti on-brand in Journey Optimizer - Tutorial](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
 + Personalizzazione dei contenuti {#personalize-content}
   + [Editor di personalizzazione: panoramica](/help/personalize-content/personalization-editor-overview.md)
   + [Personalizzazione basata su profilo e appartenenza a un pubblico](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
