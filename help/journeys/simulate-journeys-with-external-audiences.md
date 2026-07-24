@@ -8,15 +8,18 @@ doc-type: Feature Video
 duration: 121
 last-substantial-update: 2026-07-24T00:00:00Z
 jira: KT-22142
-source-git-commit: 40ceb7f4414af6b2d311491f03be4daff1c72c19
+badgeLA: label="Disponibilità limitata" type="Informative"
+source-git-commit: bd6dab91e0bbc696fd9e9273413601cf98603486
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 0%
+source-wordcount: '98'
+ht-degree: 2%
 
 ---
 
 
 # Simulare percorsi con pubblico esterno
+
+{{limited-availability}}
 
 Scopri come simulare percorsi che utilizzano profili di pubblico esterni da un file CSV o da una composizione di pubblico federato, inclusi attributi non memorizzati nel profilo, come l’ID ticket o la data di viaggio. Questo video illustra come filtrare un pubblico, personalizzare i messaggi con attributi esterni, creare un utente simulato e prendere in giro i dati del pubblico per convalidare il percorso giusto prima che il percorso venga attivato.
 
