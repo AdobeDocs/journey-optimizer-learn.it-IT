@@ -31,4 +31,4 @@ Scopri come collegare i canali di messaggistica non supportati in modalità nati
 
 Questo video illustra come creare un canale in uscita personalizzato, end-to-end, e utilizzarlo in un percorso.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496286/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496292/?captions=ita&learn=on&enablevpops)
