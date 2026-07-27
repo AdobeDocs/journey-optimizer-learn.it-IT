@@ -1,6 +1,6 @@
 ---
 title: Configurare il supporto per la scheda di contenuto utilizzando Web SDK (tutorial)
-description: Scopri in che modo le schede di contenuto di Adobe Journey Optimizer migliorano il coinvolgimento con contenuti personalizzati, includendo vantaggi, implementazione, casi d’uso e suggerimenti.
+description: Scopri in che modo le schede di contenuto di Adobe Journey Optimizer migliorano il coinvolgimento con contenuti personalizzati, con vantaggi, implementazione, casi d’uso e suggerimenti.
 feature: Content Cards, Use Cases, Web SDK
 role: User
 level: Intermediate

@@ -1,6 +1,6 @@
 ---
 title: Attivare il Percorso Adobe Journey Optimizer tramite Adobe Web SDK
-description: Scopri come avviare un percorso Adobe Journey Optimizer da eventi del sito come gli accessi degli utenti sfruttando AEP Web SDK configurato tramite i tag Adobe Experience Platform
+description: Scopri come avviare un percorso Adobe Journey Optimizer da eventi del sito come gli accessi degli utenti tramite AEP Web SDK configurato tramite i tag di Adobe Experience Platform
 feature: Profiles
 role: User
 level: Beginner
@@ -8,10 +8,11 @@ doc-type: Tutorial
 last-substantial-update: 2025-09-24T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-19287
-source-git-commit: 6927cade07790603e711f4e6e4c3f6982a56e6f5
+exl-id: c6d4f720-3780-4012-a2bd-8eae23599144
+source-git-commit: d4cc60f4448caec92f704026783e2bbe029427f5
 workflow-type: tm+mt
-source-wordcount: '283'
-ht-degree: 0%
+source-wordcount: '290'
+ht-degree: 10%
 
 ---
 
@@ -39,7 +40,7 @@ In questa estensione del tutorial Unione identità, viene attivato il percorso A
 * Verifica se il tipo di evento dell’evento è uguale a LoginEvent. Il tipo `LoginEvent` è impostato nel tag Adobe Experience Platform.
 * Salvare l’evento
 
-## Crea percorso
+## Crea Percorso
 
 * Accedi a _&#x200B;**Journey Optimizer**&#x200B;_
 * Passa a _&#x200B;**Gestione Percorsi -> Percorsi -> Crea Percorso**&#x200B;_
@@ -53,7 +54,3 @@ Il percorso viene attivato quando il payload dell’evento inviato tramite Web S
 
 * Verifica visualizzando il rapporto sul percorso
 * ![Rapporto percorsi](assets/journey-triggered-report.png)
-
-
-
-
