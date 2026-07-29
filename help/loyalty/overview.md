@@ -7,9 +7,9 @@ level: Beginner
 doc-type: Tutorial
 jira: KT-21773
 last-substantial-update: 2026-07-28T00:00:00Z
-source-git-commit: 35dcb7e021fa57e88131d1ea1fd47112a22674f5
+source-git-commit: b173f9353a11fa2b5b3b5316a2601ac2be695891
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '384'
 ht-degree: 0%
 
 ---
@@ -37,8 +37,8 @@ Scopri cos’è la fidelizzazione di Journey Optimizer, dove si trova sotto AJO,
 
 Questo modulo illustra come creare e configurare una sfida fedeltà end-to-end: tipo, struttura e pianificazione, attività e premi.
 
-* [Crea e pubblica la tua prima sfida fedeltà](./configure-your-challenge/create-and-publish-your-first-loyalty-challenge.md)
-Scopri come creare una sfida: tipi (Standard / Streak / Sequenziale), struttura e pianificazione, salvare e pubblicare una sfida (senza percorsi).
+* [Imposta una sfida fedeltà](./configure-your-challenge/set-up-a-loyalty-challenge.md)
+Scopri come impostare una sfida di fidelizzazione selezionando il tipo di sfida corretto, configurando tipi di pubblico e pianificazioni, definendo regole di partecipazione e controllando come l’avanzamento viene tracciato e premiato.
 * [Imposta le attività per la tua sfida fedeltà](./configure-your-challenge/create-tasks.md)
 Scopri come impostare le attività: acquisto e spesa, quantità, elementi ed esclusioni idonei e riutilizzo.
 * [Configura i premi per la tua sfida fedeltà](./configure-your-challenge/configure-rewards-for-your-loyalty-challenge.md)
