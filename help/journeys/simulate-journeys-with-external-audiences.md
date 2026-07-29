@@ -26,4 +26,4 @@ ht-degree: 0%
 
 Scopri come simulare percorsi che utilizzano profili di pubblico esterni da un file CSV o da una composizione di pubblico federato, inclusi attributi non memorizzati nel profilo, come l’ID ticket o la data di viaggio. Questo video illustra come filtrare un pubblico, personalizzare i messaggi con attributi esterni, creare un utente simulato e prendere in giro i dati del pubblico per convalidare il percorso giusto prima che il percorso venga attivato.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496269/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496275/?captions=ita&learn=on&enablevpops)
