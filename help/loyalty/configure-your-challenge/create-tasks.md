@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Scopri come creare e configurare le attività di sfida della fedeltà utilizzando attività di acquisto, spesa ed evento personalizzato, incluse regole di idoneità, esclusioni e modelli di attività riutilizzabili.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496442/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496448/?captions=ita&learn=on&enablevpops)
