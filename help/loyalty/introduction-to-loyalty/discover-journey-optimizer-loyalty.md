@@ -1,0 +1,22 @@
+---
+title: Scopri cos’è la fidelizzazione di Journey Optimizer
+description: Scopri come utilizzare la fidelizzazione di Adobe Journey Optimizer per trasformare i dati sulla fedeltà in esperienze personalizzate con informazioni basate sull’intelligenza artificiale, gamification adattivo e profili cliente unificati che guidano i risultati di coinvolgimento e fedeltà.
+role: User
+level: Beginner
+doc-type: Feature Video
+duration: 173
+last-substantial-update: 2026-07-28T00:00:00Z
+jira: KT-21761
+source-git-commit: b8b058d92e642d5a7787115b3ee7218d5d12c46f
+workflow-type: tm+mt
+source-wordcount: '74'
+ht-degree: 0%
+
+---
+
+
+# Scopri cos’è la fidelizzazione di Journey Optimizer
+
+Scopri come utilizzare la fidelizzazione di Adobe Journey Optimizer per trasformare i dati sulla fedeltà in esperienze personalizzate con informazioni basate sull’intelligenza artificiale, gamification adattivo e profili cliente unificati che guidano i risultati di coinvolgimento e fedeltà.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3496441/?learn=on&enablevpops)
