@@ -63,7 +63,7 @@ ht-degree: 94%
     + [Caso d’uso: qualificazione di un pubblico](/help/journeys/use-case-audience-qualification.md)
   + Tutorial{#tutorials}
     + [Attivare un percorso all’invio di un modulo](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
-+ [Fedeltà](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/introduction-to-loyalty/discover-journey-optimizer-loyalty)
++ [Fedeltà](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/loyalty/introduction-to-loyalty/discover-journey-optimizer-loyalty)
 + Gestione dei conflitti e assegnazione delle priorità {#conflict-management}
   + [Identificare conflitti potenziali](/help/conflict-management/identify-potential-conflicts.md)
   + [Assegnare punteggi di priorità](/help/conflict-management/assign-priority-score.md)
@@ -92,7 +92,7 @@ ht-degree: 94%
     + [Creare contenuti con E-mail Designer](/help/channels/create-content-with-the-email-designer.md)
     + [Importare e creare contenuti e-mail HTML](/help/channels/import-and-author-html-email-content.md)
     + [Anteprima, bozza e pubblicazione](/help/channels/preview-proof-and-publish.md)
-    + [Creazione di contenuti on-brand basati sull’intelligenza artificiale - Tutorial](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
+    + [Creazione di contenuti on-brand basati sull’intelligenza artificiale - Tutorial](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/create-on-brand-content/overview)
   + Schede di contenuto{#content-cards}
     + [Creare schede di contenuto](/help/channels/create-content-cards.md)
   + Canale in-app{#in-app-channel}
@@ -149,7 +149,7 @@ ht-degree: 94%
   + [Ottimizzare i canali in base alle preferenze del profilo o ai punteggi di propensione](/help/channels/channel-optimization.md)
   + [Creare un’e-mail tramite GenStudio](/help/content-management/create-an-email-using-genstudio.md)
   + [Abilitare le integrazioni di dati esterni nell’authoring dei canali](/help/content-management/external-data-integrations-in-channel-authoring.md)
-  + [Creare contenuti on-brand in Journey Optimizer - Tutorial](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
+  + [Creare contenuti on-brand in Journey Optimizer - Tutorial](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/create-on-brand-content/overview)
 + Personalizzazione dei contenuti {#personalize-content}
   + [Editor di personalizzazione: panoramica](/help/personalize-content/personalization-editor-overview.md)
   + [Personalizzazione basata su profilo e appartenenza a un pubblico](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
