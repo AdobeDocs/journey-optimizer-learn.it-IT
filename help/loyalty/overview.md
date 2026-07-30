@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Tutorial
 jira: KT-21773
 last-substantial-update: 2026-07-28T00:00:00Z
-source-git-commit: 283c626c96cd675549425af430b7db463b2fa0ad
+source-git-commit: 22b92b46ddf2d970ddb37bccd4de9ec289cd5ed8
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 11%
@@ -36,7 +36,7 @@ Scopri come impostare una sfida di fidelizzazione selezionando il tipo di sfida 
 Scopri come impostare le attività: acquisto e spesa, quantità, elementi ed esclusioni idonei e riutilizzo.
 * [Configura i premi per la tua sfida fedeltà](./configure-your-challenge/configure-rewards.md)
 Scopri come configurare i premi: provider, milestone vs. completamento consegna, tipi di premio e coupon.
-* [Crea sfide e ottieni informazioni approfondite con l&#39;agente di IA per la fedeltà](./configure-your-challenge/create-challenges-and-get-insights-with-the-loyalty-ai-agent.md)
+* [Crea sfide e ottieni informazioni approfondite con l&#39;agente di IA per la fedeltà](./configure-your-challenge/create-a-challenge-and-get-insights-with-with-cx-enterprise-coworker.md)
 Scopri come utilizzare l’agente di IA per l’analisi della fedeltà per creare problemi e ottenere informazioni.
 
 ## Applicare e visualizzare la sfida
