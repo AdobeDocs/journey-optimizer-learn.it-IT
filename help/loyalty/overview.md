@@ -1,5 +1,5 @@
 ---
-title: Guida introduttiva alla fidelizzazione Journey Optimizer per gli esperti di marketing
+title: Introduzione alla fidelizzazione Journey Optimizer
 description: Scopri come integrare la fidelizzazione Adobe Journey Optimizer, configurare una sfida, applicarla, visualizzarla e analizzarne le prestazioni.
 topic: Get Started
 role: User
@@ -7,33 +7,26 @@ level: Beginner
 doc-type: Tutorial
 jira: KT-21773
 last-substantial-update: 2026-07-28T00:00:00Z
-source-git-commit: 7523b27390c4d3a5447a0ee340eee07086d22be8
+source-git-commit: 283c626c96cd675549425af430b7db463b2fa0ad
 workflow-type: tm+mt
-source-wordcount: '384'
-ht-degree: 0%
+source-wordcount: '337'
+ht-degree: 11%
 
 ---
 
 
-# Guida introduttiva alla fidelizzazione Journey Optimizer per gli esperti di marketing
+# Introduzione alla fidelizzazione Journey Optimizer
 
-Corso fondamentale per gli esperti di marketing per integrare la fidelizzazione Adobe Journey Optimizer: configura una sfida di fidelizzazione, applicala, visualizzala e analizzane le prestazioni.
+Le sfide relative alla fedeltà ti consentono di creare programmi di fidelizzazione coinvolgenti e basati sulla gamification che influenzano il comportamento dei clienti e consolidano le relazioni con il brand. Crea sfide che premiano i clienti per azioni specifiche: dagli acquisti effettuati e la scrittura di recensioni, fino all’interazione sui social media ai consigli agli amici.
 
-## Cosa impara
-
-* Scopri cos’è la fidelizzazione di Journey Optimizer, come si colloca sotto AJO e la sfida end-to-end del ciclo di vita.
-* Crea e configura una sfida di fidelizzazione nell’interfaccia utente, tra cui attività, premi e l’agente di IA per la fidelizzazione.
-* Visualizza e applica una sfida tramite una scheda di contenuti o un’esperienza basata su codice.
-* Leggi il rapporto sulle sfide integrato per monitorare le prestazioni.
-
-### Introduzione alla fedeltà
+## Introduzione alla fedeltà
 
 Questo modulo introduce la fedeltà di Journey Optimizer: cos’è, dove si trova sotto Adobe Journey Optimizer e il ciclo di vita della sfida, dalla configurazione all’analisi.
 
 * [Scopri la fedeltà di Journey Optimizer](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
 Scopri cos’è la fidelizzazione di Journey Optimizer, dove si trova sotto AJO, e la sfida del ciclo di vita.
 
-### Configurare la sfida
+## Configurare la sfida
 
 Questo modulo illustra come creare e configurare una sfida fedeltà end-to-end: tipo, struttura e pianificazione, attività e premi.
 
@@ -46,14 +39,14 @@ Scopri come configurare i premi: provider, milestone vs. completamento consegna,
 * [Crea sfide e ottieni informazioni approfondite con l&#39;agente di IA per la fedeltà](./configure-your-challenge/create-challenges-and-get-insights-with-the-loyalty-ai-agent.md)
 Scopri come utilizzare l’agente di IA per l’analisi della fedeltà per creare problemi e ottenere informazioni.
 
-### Applicare e visualizzare la sfida
+## Applicare e visualizzare la sfida
 
 Questo modulo mostra come presentare ai clienti una sfida tramite schede di contenuti ed esperienze basate su codice.
 
 * [Crea una scheda di contenuti di sfida con un&#39;esperienza basata su codice](./apply-and-display-your-challenge/build-a-challenge-content-card-with-a-code-based-experience.md)
 Scopri come creare un’esperienza basata su codice o su una scheda di contenuti problematici, che includa il consenso e l’avanzamento dinamico nelle fasi di consenso, avanzamento e completamento, oltre a premi e configurazione del canale.
 
-### Analizzare e creare rapporti
+## Analizzare e creare rapporti
 
 Questo modulo illustra come tenere traccia delle prestazioni della sfida.
 
