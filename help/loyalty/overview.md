@@ -1,5 +1,5 @@
 ---
-title: Guida introduttiva alla fidelizzazione Journey Optimizer per gli esperti di marketing
+title: Introduzione alla fidelizzazione Journey Optimizer
 description: Scopri come integrare la fidelizzazione Adobe Journey Optimizer, configurare una sfida, applicarla, visualizzarla e analizzarne le prestazioni.
 topic: Get Started
 role: User
@@ -7,35 +7,28 @@ level: Beginner
 doc-type: Tutorial
 jira: KT-21773
 last-substantial-update: 2026-07-28T00:00:00Z
-source-git-commit: 7523b27390c4d3a5447a0ee340eee07086d22be8
+source-git-commit: ac2e0d7217b3e0099b711c34e5793086835a3c15
 workflow-type: tm+mt
-source-wordcount: '384'
-ht-degree: 0%
+source-wordcount: '312'
+ht-degree: 12%
 
 ---
 
 
-# Guida introduttiva alla fidelizzazione Journey Optimizer per gli esperti di marketing
+# Introduzione alla fidelizzazione Journey Optimizer
 
-Corso fondamentale per gli esperti di marketing per integrare la fidelizzazione Adobe Journey Optimizer: configura una sfida di fidelizzazione, applicala, visualizzala e analizzane le prestazioni.
+Le sfide relative alla fedeltà ti consentono di creare programmi di fidelizzazione coinvolgenti e basati sulla gamification che influenzano il comportamento dei clienti e consolidano le relazioni con il brand. Crea sfide che premiano i clienti per azioni specifiche: dagli acquisti effettuati e la scrittura di recensioni, fino all’interazione sui social media ai consigli agli amici.
 
-## Cosa impara
+## Introduzione alla fedeltà
 
-* Scopri cos’è la fidelizzazione di Journey Optimizer, come si colloca sotto AJO e la sfida end-to-end del ciclo di vita.
-* Crea e configura una sfida di fidelizzazione nell’interfaccia utente, tra cui attività, premi e l’agente di IA per la fidelizzazione.
-* Visualizza e applica una sfida tramite una scheda di contenuti o un’esperienza basata su codice.
-* Leggi il rapporto sulle sfide integrato per monitorare le prestazioni.
-
-### Introduzione alla fedeltà
-
-Questo modulo introduce la fedeltà di Journey Optimizer: cos’è, dove si trova sotto Adobe Journey Optimizer e il ciclo di vita della sfida, dalla configurazione all’analisi.
+In questa sezione viene illustrata la fedeltà di Journey Optimizer, la sua posizione all&#39;interno di Adobe Journey Optimizer e la sfida del ciclo di vita, dalla configurazione all&#39;analisi.
 
 * [Scopri la fedeltà di Journey Optimizer](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
 Scopri cos’è la fidelizzazione di Journey Optimizer, dove si trova sotto AJO, e la sfida del ciclo di vita.
 
-### Configurare la sfida
+## Configurare la sfida
 
-Questo modulo illustra come creare e configurare una sfida fedeltà end-to-end: tipo, struttura e pianificazione, attività e premi.
+Questa sezione illustra come creare e configurare una sfida fedeltà end-to-end: tipo, struttura e pianificazione, attività e premi.
 
 * [Imposta una sfida fedeltà](./configure-your-challenge/set-up-a-loyalty-challenge.md)
 Scopri come impostare una sfida di fidelizzazione selezionando il tipo di sfida corretto, configurando tipi di pubblico e pianificazioni, definendo regole di partecipazione e controllando come l’avanzamento viene tracciato e premiato.
@@ -43,19 +36,12 @@ Scopri come impostare una sfida di fidelizzazione selezionando il tipo di sfida 
 Scopri come impostare le attività: acquisto e spesa, quantità, elementi ed esclusioni idonei e riutilizzo.
 * [Configura i premi per la tua sfida fedeltà](./configure-your-challenge/configure-rewards.md)
 Scopri come configurare i premi: provider, milestone vs. completamento consegna, tipi di premio e coupon.
-* [Crea sfide e ottieni informazioni approfondite con l&#39;agente di IA per la fedeltà](./configure-your-challenge/create-challenges-and-get-insights-with-the-loyalty-ai-agent.md)
-Scopri come utilizzare l’agente di IA per l’analisi della fedeltà per creare problemi e ottenere informazioni.
+* [Crea una sfida di fidelizzazione e approfondimenti con CX Enterprise Collaborator](./configure-your-challenge/create-a-challenge-and-get-insights-with-cx-enterprise-coworker.md)
+Scopri come utilizzare CX Enterprise Collaborator per creare, configurare e avviare le sfide di fidelizzazione utilizzando il linguaggio naturale, inclusi audience, premi, pianificazioni e configurazione automatica del percorso.
 
-### Applicare e visualizzare la sfida
+## Applicare e visualizzare la sfida
 
-Questo modulo mostra come presentare ai clienti una sfida tramite schede di contenuti ed esperienze basate su codice.
+Questa sezione mostra come presentare ai clienti una sfida tramite schede di contenuti ed esperienze basate su codice.
 
-* [Crea una scheda di contenuti di sfida con un&#39;esperienza basata su codice](./apply-and-display-your-challenge/build-a-challenge-content-card-with-a-code-based-experience.md)
+* [Crea una scheda di contenuti della sfida](./apply-and-display-your-challenge/build-a-challenge-content-card.md)
 Scopri come creare un’esperienza basata su codice o su una scheda di contenuti problematici, che includa il consenso e l’avanzamento dinamico nelle fasi di consenso, avanzamento e completamento, oltre a premi e configurazione del canale.
-
-### Analizzare e creare rapporti
-
-Questo modulo illustra come tenere traccia delle prestazioni della sfida.
-
-* [Monitora le prestazioni con il report di verifica](./analyze-and-report/track-performance-with-the-challenge-report.md)
-Scopri come tenere traccia delle prestazioni della sfida con il rapporto sulle prestazioni della sfida.
