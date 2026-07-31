@@ -11,8 +11,8 @@ jira: KT-18188
 exl-id: deb16dd5-23cd-495a-ac91-d22fd77f49bd
 source-git-commit: 640faaf9a316b2ab3e2e7774b2c30612cf1b1dbe
 workflow-type: tm+mt
-source-wordcount: '710'
-ht-degree: 0%
+source-wordcount: '624'
+ht-degree: 1%
 
 ---
 
@@ -38,7 +38,7 @@ Il risultato è un set personalizzato di offerte, restituito come contenuto HTML
 1. **Crea una configurazione canale**\
    Definisci dove e come vengono visualizzate le offerte (ad esempio, una pagina web con un’esperienza basata su codice).
    - Accedi a Percorsi Optimizer
-Passa a _&#x200B;**Amministrazione ->Canali->Crea configurazione canale**&#x200B;_
+     Passa a _&#x200B;**Amministrazione ->Canali->Crea configurazione canale**&#x200B;_
    - **Nome**: `finwise-web-personalization`\
      Identifica questa configurazione per la consegna personalizzata delle offerte web di FinWise.
 
@@ -65,16 +65,16 @@ Passa a _&#x200B;**Amministrazione ->Canali->Crea configurazione canale**&#x200B
 
 3. **Aggiungi azione**\
    Passa alla scheda _&#x200B;**Azioni**&#x200B;_
-Aggiungi un’azione basata su codice e collega l’azione a una configurazione di canale creata in precedenza.
+   Aggiungi un’azione basata su codice e collega l’azione a una configurazione di canale creata in precedenza.
 
 
 
 4. **Pubblico**\
    Passa alla scheda _&#x200B;**Pubblico**&#x200B;_
-Tutti i visitatori (impostazione predefinita).
+   Tutti i visitatori (impostazione predefinita).
 
    Tipo di identità: ECID (Experience Cloud ID)
-Questa impostazione utilizza l’ECID come identità principale per il riconoscimento degli utenti. Quando è attivo l’unione di identità, ECID viene collegato all’ID del sistema di gestione delle relazioni con i clienti per selezionare Personalized Targeting o creare un criterio di decisione che definisce la logica dell’offerta.
+   Questa impostazione utilizza l’ECID come identità principale per il riconoscimento degli utenti. Quando è attivo l’unione di identità, ECID viene collegato all’ID del sistema di gestione delle relazioni con i clienti per selezionare Personalized Targeting o creare un criterio di decisione che definisce la logica dell’offerta.
 
 5. **Criteri di decisione**
 
@@ -84,12 +84,12 @@ Questa impostazione utilizza l’ECID come identità principale per il riconosci
    Per inserire il criterio di decisione, fai clic su **_Modifica contenuto_** nella scheda _&#x200B;**Azioni**&#x200B;_, quindi su **_Modifica codice_** per aprire l&#39;editor di personalizzazione.
 
    Seleziona l&#39;icona _&#x200B;**Criterio decisione**&#x200B;_ a sinistra e fai clic sul pulsante **Aggiungi criterio decisione** per aprire la schermata **Crea criterio decisione**. Specifica un nome significativo per il criterio di decisione e seleziona il numero di elementi che il criterio di decisione deve restituire. Il valore predefinito è 1.
-Fai clic su **_avanti_** e aggiungi la strategia di selezione creata nel passaggio precedente al criterio di decisione, quindi fai clic su **avanti** per completare il processo di creazione del criterio di decisione. Assicurati di selezionare l’offerta di fallback appropriata.
+   Fai clic su **_avanti_** e aggiungi la strategia di selezione creata nel passaggio precedente al criterio di decisione, quindi fai clic su **avanti** per completare il processo di creazione del criterio di decisione. Assicurati di selezionare l’offerta di fallback appropriata.
 
 6. **Inserisci criterio di decisione**
 
    Inserire il criterio di decisione appena creato facendo clic sul pulsante _&#x200B;**Inserisci criterio**&#x200B;_. Inserisce un ciclo for nell’editor di personalizzazione sul lato destro.
-Posizionare il cursore tra ogni ciclo sulla riga due e inserire offerText spostandosi sull&#39;offerta espandendo `tenant name`
+   Posizionare il cursore tra ogni loop sulla riga due e inserire offerText spostandosi sull&#39;offerta espandendo `tenant name`
 
    Criterio di decisione inserito nell’editor di personalizzazione
 
