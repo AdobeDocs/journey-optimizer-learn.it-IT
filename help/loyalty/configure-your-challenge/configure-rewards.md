@@ -19,4 +19,4 @@ ht-degree: 8%
 
 Scopri come configurare i premi per le sfide selezionando i tipi di premio, definendo i metodi di consegna e premiando i partecipanti in base alle tappe principali o al completamento della sfida.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496481/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496487/?captions=ita&learn=on&enablevpops)

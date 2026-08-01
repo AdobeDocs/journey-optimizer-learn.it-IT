@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Scopri come impostare una sfida di fidelizzazione selezionando il tipo di sfida corretto, configurando tipi di pubblico e pianificazioni, definendo regole di partecipazione e controllando come l’avanzamento viene tracciato e premiato.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496471/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496477/?captions=ita&learn=on&enablevpops)
