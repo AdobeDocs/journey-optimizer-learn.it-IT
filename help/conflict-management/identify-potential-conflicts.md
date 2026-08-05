@@ -30,6 +30,6 @@ ht-degree: 100%
 
 Scopri come identificare e gestire i potenziali conflitti, ad esempio la sovrapposizione di tipi di pubblico, timeline simultanee, canali di comunicazione condivisi e vincoli di frequenza tra percorsi e campagne per garantire un’esperienza di comunicazione fluida e semplice per la clientela.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435528/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445652/?captions=ita&learn=on&enablevpops)
 
 Per ulteriori informazioni su come [rilevare potenziali conflitti in percorsi e campagne](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/conflict-prioritization/conflicts), consulta la documentazione del prodotto.
