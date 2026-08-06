@@ -26,4 +26,4 @@ ht-degree: 100%
 
 Scopri la nuova esperienza nell’area di lavoro del percorso in Adobe Journey Optimizer. Questo aggiornamento introduce un motore di rendering moderno che ottimizza l’area di lavoro del percorso, allineandola con l’esperienza già utilizzata nelle campagne orchestrate e nella composizione del pubblico.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496193/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496199/?captions=ita&learn=on&enablevpops)
