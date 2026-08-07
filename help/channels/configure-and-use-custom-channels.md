@@ -1,6 +1,6 @@
 ---
 title: Configurare e utilizzare canali personalizzati
-description: Scopri come collegare i canali di messaggistica non supportati in modalità nativa in Adobe Journey Optimizer, come Slack, WeChat, Telegram o la tua piattaforma proprietaria, utilizzando canali personalizzati.
+description: Scopri come collegare i canali di messaggistica non supportati nativamente in Adobe Journey Optimizer, come Slack, WeChat, Telegram o la tua piattaforma proprietaria, utilizzando i canali personalizzati.
 feature: Channels
 role: Admin, User
 level: Beginner, Intermediate
@@ -16,9 +16,9 @@ product_v2:
 feature_v2:
   - id: d0a62d3c-b79e-47e4-929e-40ef3cffa037
 source-git-commit: 507316431c32151c0b07499c60a261fed57f391e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 80
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
@@ -27,8 +27,8 @@ ht-degree: 2%
 
 {{limited-availability}}
 
-Scopri come collegare i canali di messaggistica non supportati in modalità nativa in Adobe Journey Optimizer, come Slack, WeChat, Telegram o la tua piattaforma proprietaria, utilizzando canali personalizzati.
+Scopri come collegare i canali di messaggistica non supportati nativamente in Adobe Journey Optimizer, come Slack, WeChat, Telegram o la tua piattaforma proprietaria, utilizzando i canali personalizzati.
 
-Questo video illustra come creare un canale in uscita personalizzato, end-to-end, e utilizzarlo in un percorso.
+Questo video spiega come creare un canale in uscita personalizzato, end-to-end, e utilizzarlo in un percorso.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3496292/?captions=ita&learn=on&enablevpops)

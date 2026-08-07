@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial su Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: f48d568f64c413c5fc1ae9b4de48735d207af7e3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1567'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -42,13 +42,13 @@ ht-degree: 94%
   + [Designer del percorso - Panoramica](/help/journeys/journey-designer-overview.md)
   + [Introduzione alla nuova area di lavoro del percorso](/help/journeys/introduction-to-the-new-journey-canvas.md)
   + [Introduzione alla creazione di un percorso](/help/journeys/introduction-to-building-a-journey.md)
-  + [Analizzare e creare percorsi utilizzando l’intelligenza artificiale](/help/ai-agents/journey-agent-overview.md)
+  + [Analizzare e creare percorsi utilizzando l’IA](/help/ai-agents/journey-agent-overview.md)
   + [Creare un profilo di test](/help/journeys/test-a-journey.md)
-  + [Simulare percorsi con pubblico esterno](/help/journeys/simulate-journeys-with-external-audiences.md)
+  + [Simulare percorsi con tipi di pubblico esterni](/help/journeys/simulate-journeys-with-external-audiences.md)
   + [Pubblicare un percorso](/help/journeys/publish-a-journey.md)
   + [Attività di decisione sui contenuti](/help/journeys/content-decision-activity.md)
-  + [Utilizzare la ricerca di set di dati in un percorso](/help/journeys/lookup-dataset.md)
-  + [Filtraggio multi-attributo principale](/help/journeys/mastering-multi-attribute-filtering.md)
+  + [Utilizzare la ricerca in set di dati in un percorso](/help/journeys/lookup-dataset.md)
+  + [Filtrare con più attributi](/help/journeys/mastering-multi-attribute-filtering.md)
   + [Utilizzare il targeting di più entità con pubblico federato nei percorsi](/help/journeys/multi-entity-targeting-in-journeys.md)
   + [Convalidare la logica del percorso con un’esecuzione di prova](/help/journeys/journey-dry-run.md)
   + [Sbloccare il reingresso nel percorso con ID supplementari](/help/journeys/unlock-journey-reentry-with-supplemental-id.md)
@@ -92,7 +92,7 @@ ht-degree: 94%
     + [Creare contenuti con E-mail Designer](/help/channels/create-content-with-the-email-designer.md)
     + [Importare e creare contenuti e-mail HTML](/help/channels/import-and-author-html-email-content.md)
     + [Anteprima, bozza e pubblicazione](/help/channels/preview-proof-and-publish.md)
-    + [Creazione di contenuti on-brand basati sull’intelligenza artificiale - Tutorial](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/create-on-brand-content/overview)
+    + [Creazione di contenuti in linea con il brand basati sull’IA - Tutorial](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/create-on-brand-content/overview)
   + Schede di contenuto{#content-cards}
     + [Creare schede di contenuto](/help/channels/create-content-cards.md)
   + Canale in-app{#in-app-channel}
@@ -149,7 +149,7 @@ ht-degree: 94%
   + [Ottimizzare i canali in base alle preferenze del profilo o ai punteggi di propensione](/help/channels/channel-optimization.md)
   + [Creare un’e-mail tramite GenStudio](/help/content-management/create-an-email-using-genstudio.md)
   + [Abilitare le integrazioni di dati esterni nell’authoring dei canali](/help/content-management/external-data-integrations-in-channel-authoring.md)
-  + [Creare contenuti on-brand in Journey Optimizer - Tutorial](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/create-on-brand-content/overview)
+  + [Creare contenuti in linea con il brand in Journey Optimizer - Tutorial](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/create-on-brand-content/overview)
 + Personalizzazione dei contenuti {#personalize-content}
   + [Editor di personalizzazione: panoramica](/help/personalize-content/personalization-editor-overview.md)
   + [Personalizzazione basata su profilo e appartenenza a un pubblico](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
@@ -177,7 +177,7 @@ ht-degree: 94%
       + [Utilizzare la funzione Decisioni per personalizzare le e-mail (tutorial)](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction){target="_blank"}
       + [Utilizzare la funzione Decisioni nelle notifiche push](/help/decisioning/decisioning-in-push-notifications.md)
       + [Utilizzare la funzione Decisioni in un messaggio SMS](/help/decisioning/use-decisioning-in-an-sms-message.md)
-      + {hide-from-toc}[Utilizzare il decisioning nell&#39;editor visivo Web](/help/decisioning/use-decisioning-within-the-web-visual-editor.md)
+      + {hide-from-toc}[Utilizzare la funzione Decisioni nell’editor visivo per il web](/help/decisioning/use-decisioning-within-the-web-visual-editor.md)
       + [Utilizzare le decisioni per personalizzare le offerte web (tutorial)](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
       + [Utilizzare i frammenti di contenuto di Adobe Experience Manager con la funzione Decisioni](/help/decisioning/use-aem-content-fragments-with-ajo-decisioning.md)
     + Attivare decisioni da trigger esterni e interazioni {#trigger}

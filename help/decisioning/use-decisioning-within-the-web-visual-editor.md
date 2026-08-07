@@ -1,6 +1,6 @@
 ---
-title: Utilizzare il decisioning per personalizzare la pagina web nell’editor visivo web
-description: Scopri come utilizzare il decisioning per personalizzare la pagina web nell’editor visivo web.
+title: Utilizzare la funzione Decisioni per personalizzare la pagina web nell’editor visivo per il web
+description: Scopri come utilizzare la funzione Decisioni per personalizzare la pagina web nell’editor visivo per il web.
 feature: Decisioning, Web Channel
 role: User
 level: Beginner
@@ -19,15 +19,15 @@ feature_v2:
 subfeature_v2:
   - id: c618a0dc-1818-4c6d-9916-0d92e6796f24
 source-git-commit: 0e0dc8b1e62c73e3597c8f62cffc71e3be35aa14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 54
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Utilizzare il decisioning per personalizzare la pagina web nell’editor visivo web
+# Utilizzare la funzione Decisioni per personalizzare la pagina web nell’editor visivo per il web
 
-Scopri come utilizzare il decisioning per personalizzare la pagina web nell’editor visivo web.
+Scopri come utilizzare la funzione Decisioni per personalizzare la pagina web nell’editor visivo per il web.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3496309/?captions=ita&learn=on&enablevpops)

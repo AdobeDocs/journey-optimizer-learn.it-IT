@@ -1,6 +1,6 @@
 ---
 title: Introduzione alla nuova area di lavoro del percorso
-description: Scopri la nuova esperienza nell’area di lavoro di percorso in Adobe Journey Optimizer. Questo aggiornamento introduce un motore di rendering moderno che alimenta l’area di lavoro del Percorso, allineandola con l’esperienza già utilizzata nelle campagne orchestrate e nella composizione del pubblico.
+description: Scopri la nuova esperienza nell’area di lavoro del percorso in Adobe Journey Optimizer. Questo aggiornamento introduce un motore di rendering moderno che ottimizza l’area di lavoro del percorso, allineandola con l’esperienza già utilizzata nelle campagne orchestrate e nella composizione del pubblico.
 feature: Journeys
 role: User
 level: Beginner, Intermediate, Experienced
@@ -15,15 +15,15 @@ product_v2:
 feature_v2:
   - id: d998adac-2f81-400b-a669-d07bb196e4eb
 source-git-commit: aada6451a411d6e29f34399dc1cb8f397f71029b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 82
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
 # Introduzione alla nuova area di lavoro del percorso
 
-Scopri la nuova esperienza nell’area di lavoro di percorso in Adobe Journey Optimizer. Questo aggiornamento introduce un motore di rendering moderno che alimenta l’area di lavoro del Percorso, allineandola con l’esperienza già utilizzata nelle campagne orchestrate e nella composizione del pubblico.
+Scopri la nuova esperienza nell’area di lavoro del percorso in Adobe Journey Optimizer. Questo aggiornamento introduce un motore di rendering moderno che ottimizza l’area di lavoro del percorso, allineandola con l’esperienza già utilizzata nelle campagne orchestrate e nella composizione del pubblico.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3496199/?captions=ita&learn=on&enablevpops)
