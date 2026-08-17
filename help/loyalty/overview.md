@@ -7,10 +7,10 @@ level: Beginner
 doc-type: Tutorial
 jira: KT-21773
 last-substantial-update: 2026-07-28T00:00:00Z
-source-git-commit: ac2e0d7217b3e0099b711c34e5793086835a3c15
+source-git-commit: 267ca3f93581e5198a3d147ec8c261882dc6b540
 workflow-type: tm+mt
-source-wordcount: '312'
-ht-degree: 12%
+source-wordcount: '365'
+ht-degree: 10%
 
 ---
 
@@ -25,6 +25,13 @@ In questa sezione viene illustrata la fedeltà di Journey Optimizer, la sua posi
 
 * [Scopri la fedeltà di Journey Optimizer](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
 Scopri cos’è la fidelizzazione di Journey Optimizer, dove si trova sotto AJO, e la sfida del ciclo di vita.
+
+## Imposta fedeltà
+
+Questa sezione descrive la configurazione una tantum iniziale necessaria per iniziare a creare una sfida.
+
+* [Imposta un provider di premi fedeltà](./set-up-loyalty/set-up-a-loyalty-reward-provider.md)
+Scopri come impostare un provider di premi, creare definizioni di premi e configurare payload di premi in modo che Adobe Journey Optimizer possa emettere premi fedeltà attraverso il sistema di premi esterno.
 
 ## Configurare la sfida
 
