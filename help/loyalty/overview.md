@@ -7,9 +7,9 @@ level: Beginner
 doc-type: Tutorial
 jira: KT-21773
 last-substantial-update: 2026-07-28T00:00:00Z
-source-git-commit: 267ca3f93581e5198a3d147ec8c261882dc6b540
+source-git-commit: 6313b2380e7b9a1cdd7b3ad1ba4b877fcc304000
 workflow-type: tm+mt
-source-wordcount: '365'
+source-wordcount: '396'
 ht-degree: 10%
 
 ---
@@ -52,3 +52,5 @@ Questa sezione mostra come presentare ai clienti una sfida tramite schede di con
 
 * [Crea una scheda di contenuti della sfida](./apply-and-display-your-challenge/build-a-challenge-content-card.md)
 Scopri come creare un’esperienza basata su codice o su una scheda di contenuti problematici, che includa il consenso e l’avanzamento dinamico nelle fasi di consenso, avanzamento e completamento, oltre a premi e configurazione del canale.
+* [Imposta i messaggi del ciclo di vita per la tua sfida](./apply-and-display-your-challenge/set-up-lifecycle-messaging-for-your-challenge.md)
+Scopri come configurare la messaggistica multicanale per ogni fase di una sfida di fidelizzazione, dagli inviti e i messaggi di coinvolgimento alle notifiche di completamento e ricompensa.
