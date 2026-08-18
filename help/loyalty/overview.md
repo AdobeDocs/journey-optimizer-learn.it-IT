@@ -7,10 +7,10 @@ level: Beginner
 doc-type: Tutorial
 jira: KT-21773
 last-substantial-update: 2026-07-28T00:00:00Z
-source-git-commit: ac2e0d7217b3e0099b711c34e5793086835a3c15
+source-git-commit: 3612bdc9c50be6999eba47f3c6e68c82c2120d20
 workflow-type: tm+mt
-source-wordcount: '312'
-ht-degree: 12%
+source-wordcount: '393'
+ht-degree: 10%
 
 ---
 
@@ -25,6 +25,13 @@ In questa sezione viene illustrata la fedeltà di Journey Optimizer, la sua posi
 
 * [Scopri la fedeltà di Journey Optimizer](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
 Scopri cos’è la fidelizzazione di Journey Optimizer, dove si trova sotto AJO, e la sfida del ciclo di vita.
+
+## Imposta fedeltà
+
+Questa sezione descrive la configurazione una tantum iniziale necessaria per iniziare a creare una sfida.
+
+* [Imposta un provider di premi fedeltà](./set-up-loyalty/set-up-a-loyalty-reward-provider.md)
+Scopri come impostare un provider di premi, creare definizioni di premi e configurare payload di premi in modo che Adobe Journey Optimizer possa emettere premi fedeltà attraverso il sistema di premi esterno.
 
 ## Configurare la sfida
 
@@ -44,4 +51,6 @@ Scopri come utilizzare CX Enterprise Collaborator per creare, configurare e avvi
 Questa sezione mostra come presentare ai clienti una sfida tramite schede di contenuti ed esperienze basate su codice.
 
 * [Crea una scheda di contenuti della sfida](./apply-and-display-your-challenge/build-a-challenge-content-card.md)
-Scopri come creare un’esperienza basata su codice o su una scheda di contenuti problematici, che includa il consenso e l’avanzamento dinamico nelle fasi di consenso, avanzamento e completamento, oltre a premi e configurazione del canale.
+Scopri come creare una scheda di contenuti di sfida che includa il consenso e l’avanzamento dinamico nelle fasi di consenso, avanzamento e completamento, oltre a premi e configurazione del canale.
+* [Imposta i messaggi del ciclo di vita per la tua sfida](./apply-and-display-your-challenge/set-up-lifecycle-messaging-for-your-challenge.md)
+Scopri come configurare la messaggistica multicanale per ogni fase di una sfida di fidelizzazione, dagli inviti e i messaggi di coinvolgimento alle notifiche di completamento e ricompensa.

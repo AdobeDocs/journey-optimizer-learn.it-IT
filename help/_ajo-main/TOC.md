@@ -3,10 +3,10 @@ user-guide-title: Tutorial su Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial su Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: f48d568f64c413c5fc1ae9b4de48735d207af7e3
-workflow-type: ht
-source-wordcount: '1567'
-ht-degree: 100%
+source-git-commit: 9a3164399d0a0e0f1434650e1f7a7bca55eb9793
+workflow-type: tm+mt
+source-wordcount: '1573'
+ht-degree: 99%
 
 ---
 
@@ -45,6 +45,7 @@ ht-degree: 100%
   + [Analizzare e creare percorsi utilizzando l’IA](/help/ai-agents/journey-agent-overview.md)
   + [Creare un profilo di test](/help/journeys/test-a-journey.md)
   + [Simulare percorsi con tipi di pubblico esterni](/help/journeys/simulate-journeys-with-external-audiences.md)
+  + [Accelerare i test di percorso con la simulazione rapida](/help/journeys/accelerate-journey-testing-with-quick-simulation.md)
   + [Pubblicare un percorso](/help/journeys/publish-a-journey.md)
   + [Attività di decisione sui contenuti](/help/journeys/content-decision-activity.md)
   + [Utilizzare la ricerca in set di dati in un percorso](/help/journeys/lookup-dataset.md)
