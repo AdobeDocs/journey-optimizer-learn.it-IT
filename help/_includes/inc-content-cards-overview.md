@@ -1,8 +1,8 @@
 ---
 source-git-commit: ab619c80bcc5df95af8e80c664c42e5c281bc648
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 2%
+source-wordcount: '307'
+ht-degree: 3%
 
 ---
 # Schede di contenuto - Panoramica
@@ -27,7 +27,7 @@ Sono ideali per **contenuti non urgenti**, **informativi** o **contenuti promozi
 
 Scegli **Schede di contenuto** come canale di messaggistica preferito quando devi:
 
-| # | Beneficio | Perché | Casi d’uso di esempio |
+| # | Beneficio | Perché | Esempi di casi d&#39;uso |
 |---|---------|-----|-------------------|
 | 1 | Visibilità persistente | Le schede rimangono visibili fino a quando non vengono ignorate, ideale per gli aggiornamenti non urgenti | <ul><li>Annunci sulle nuove funzioni</li><li>Promozioni in corso</li><li>Suggerimenti formativi</li></ul> |
 | 2 | Consegna non intrusiva | Non interrompe il flusso dell’utente; si impegna quando è pronto | <ul><li>Spigoli del prodotto</li><li>Messaggi sullo stato dell’account</li><li>Promemoria non critici</li></ul> |
