@@ -6,7 +6,7 @@ level: Beginner
 breadcrumb-title: fedeltà
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty/overview
 auto-video-transcripts: true
-source-git-commit: 3612bdc9c50be6999eba47f3c6e68c82c2120d20
+source-git-commit: 96600e2e66fc410a7f265824f3e05c7511b94d25
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
@@ -30,4 +30,4 @@ ht-degree: 0%
   + [Visualizzare il contenuto della sfida utilizzando il canale di esperienza basato su codice](./apply-and-display-your-challenge/display-challenge-content-using-code-based-experience-channel.md)
   + [Configurare i messaggi del ciclo di vita in base alle esigenze](./apply-and-display-your-challenge/set-up-lifecycle-messaging-for-your-challenge.md)
 + Analizzare e creare rapporti {#analyze-and-report}
-  + {hide-from-toc}[Monitora le prestazioni con il report di verifica](./analyze-and-report/track-performance-with-the-challenge-report.md)
+  + [Misurare le prestazioni di verifica con i rapporti sulle verifiche](./analyze-and-report/measure-performance-with-challenge-reports.md)
