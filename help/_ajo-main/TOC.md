@@ -3,7 +3,7 @@ user-guide-title: Tutorial su Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial su Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 9a3164399d0a0e0f1434650e1f7a7bca55eb9793
+source-git-commit: e168e56efe575659b5f48e97af77b899f8b6c962
 workflow-type: tm+mt
 source-wordcount: '1573'
 ht-degree: 99%
@@ -64,7 +64,7 @@ ht-degree: 99%
     + [Caso d’uso: qualificazione di un pubblico](/help/journeys/use-case-audience-qualification.md)
   + Tutorial{#tutorials}
     + [Attivare un percorso all’invio di un modulo](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
-+ [Fedeltà](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/loyalty/overview)
++ [Fedeltà](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/loyalty/overview){target="_blank"}
 + Gestione dei conflitti e assegnazione delle priorità {#conflict-management}
   + [Identificare conflitti potenziali](/help/conflict-management/identify-potential-conflicts.md)
   + [Assegnare punteggi di priorità](/help/conflict-management/assign-priority-score.md)
@@ -178,7 +178,7 @@ ht-degree: 99%
       + [Utilizzare la funzione Decisioni per personalizzare le e-mail (tutorial)](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction){target="_blank"}
       + [Utilizzare la funzione Decisioni nelle notifiche push](/help/decisioning/decisioning-in-push-notifications.md)
       + [Utilizzare la funzione Decisioni in un messaggio SMS](/help/decisioning/use-decisioning-in-an-sms-message.md)
-      + {hide-from-toc}[Utilizzare la funzione Decisioni nell’editor visivo per il web](/help/decisioning/use-decisioning-within-the-web-visual-editor.md)
+      + [Utilizzare il decisioning nell’editor visivo web](/help/decisioning/use-decisioning-within-the-web-visual-editor.md)
       + [Utilizzare le decisioni per personalizzare le offerte web (tutorial)](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
       + [Utilizzare i frammenti di contenuto di Adobe Experience Manager con la funzione Decisioni](/help/decisioning/use-aem-content-fragments-with-ajo-decisioning.md)
     + Attivare decisioni da trigger esterni e interazioni {#trigger}
@@ -263,7 +263,7 @@ ht-degree: 99%
   + [Carrello abbandonato](/help/use-cases/abandoned-cart.md)
   + [Nuovo coinvolgimento intelligente - Navigazione abbandonata](https://experienceleague.adobe.com/it/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
   + [Personalizzazione di offerte con dati meteo in tempo reale in Adobe Journey Optimizer tramite Web SDK](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
-  + [Utilizzare la formula di classificazione per fornire offerte personalizzate in Journey Optimizer](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
+  + [Utilizzare la formula di ranking per fornire offerte personalizzate in Journey Optimizer](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
   + [Migliorare il coinvolgimento della clientela](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
   + [Ridimensionamento dell’orchestrazione a un coinvolgimento omnicanale](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"}
   + Playbook di casi d’uso {#use-case-playbooks}
