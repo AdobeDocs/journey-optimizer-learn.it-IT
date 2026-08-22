@@ -28,4 +28,4 @@ ht-degree: 0%
 
 Scopri come utilizzare le esperienze basate su codice per promuovere le sfide di fedeltà, visualizzare l’avanzamento delle sfide e distribuire contenuti personalizzati all’interno dell’app utilizzando HTML o JSON.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497465/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497471/?captions=ita&learn=on&enablevpops)
