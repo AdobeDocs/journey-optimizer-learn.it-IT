@@ -28,4 +28,4 @@ ht-degree: 0%
 
 Scopri come utilizzare i rapporti sulle sfide e le dashboard delle prestazioni per misurare la partecipazione, i tassi di completamento, l’attribuzione dei ricavi e le prestazioni complessive del programma fedeltà.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497534/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497565/?captions=ita&learn=on&enablevpops)

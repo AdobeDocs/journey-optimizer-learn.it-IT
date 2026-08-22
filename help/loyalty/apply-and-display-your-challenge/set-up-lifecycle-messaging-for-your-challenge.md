@@ -25,4 +25,4 @@ ht-degree: 0%
 
 Scopri come configurare la messaggistica multicanale per ogni fase di una sfida di fidelizzazione, dagli inviti e i messaggi di coinvolgimento alle notifiche di completamento e ricompensa.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497455/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497461/?captions=ita&learn=on&enablevpops)
