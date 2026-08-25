@@ -32,4 +32,4 @@ ht-degree: 0%
 
 Scopri come creare una scheda di contenuti di sfida utilizzando modelli, immagini, pulsanti e configurazioni di app preconfigurati per promuovere le sfide di fedeltà e visualizzare l’avanzamento dei partecipanti nell’app.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496529/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496535/?captions=ita&learn=on&enablevpops)

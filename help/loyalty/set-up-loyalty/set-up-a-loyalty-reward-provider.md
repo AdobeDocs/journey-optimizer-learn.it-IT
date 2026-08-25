@@ -31,4 +31,4 @@ ht-degree: 0%
 
 Scopri come impostare un provider di premi, creare definizioni di premi e configurare payload di premi in modo che Adobe Journey Optimizer possa emettere premi fedeltà attraverso il sistema di premi esterno.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497346/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497415/?captions=ita&learn=on&enablevpops)

@@ -33,4 +33,4 @@ ht-degree: 0%
 
 Scopri come pubblicare una sfida e generare automaticamente un percorso. Scopri come le comunicazioni di sfida si traducono in orchestrazione del percorso, rivedi la struttura del percorso generata e personalizzala con condizioni aggiuntive, decisioni o logica di ottimizzazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3498577/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3498583/?captions=ita&learn=on&enablevpops)
