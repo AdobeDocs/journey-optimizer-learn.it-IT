@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Esplora la dashboard Approfondimenti fedeltà e scopri come gli approfondimenti generati dall’intelligenza artificiale consentono di identificare cambiamenti significativi nelle prestazioni del programma fedeltà, assegnare priorità ai risultati in base ai KPI aziendali e intervenire sulle metriche più importanti.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497534/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497565/?captions=ita&learn=on&enablevpops)
