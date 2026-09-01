@@ -31,4 +31,4 @@ ht-degree: 0%
 
 Utilizza i rapporti sulle sfide e le dashboard per misurare la partecipazione, i tassi di completamento e i ricavi per il tuo programma fedeltà.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497534/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497565/?captions=ita&learn=on&enablevpops)
