@@ -1,6 +1,6 @@
 ---
-title: Introduzione alla fidelizzazione Journey Optimizer
-description: Scopri come integrare la fidelizzazione Adobe Journey Optimizer, configurare una sfida, applicarla, visualizzarla e analizzarne le prestazioni.
+title: Introduzione a Journey Optimizer Loyalty
+description: Scopri come effettuare l’onboarding in Adobe Journey Optimizer Loyalty, configurare una sfida, applicarla, visualizzarla e analizzarne le prestazioni.
 topic: Get Started
 role: User
 level: Beginner
@@ -24,7 +24,7 @@ topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 356f2f8512bc4be640f00d5e9cbdd45d2ddb007c
+source-git-commit: fe7c7987788fc67bb5c7a58f61fa829f9e6146c1
 workflow-type: tm+mt
 source-wordcount: 1405
 ht-degree: 43%
@@ -32,7 +32,7 @@ ht-degree: 43%
 ---
 
 
-# Introduzione alla fidelizzazione Journey Optimizer
+# Introduzione a Journey Optimizer Loyalty
 
 Le sfide relative alla fedeltà ti consentono di creare programmi di fidelizzazione coinvolgenti e basati sulla gamification che influenzano il comportamento dei clienti e consolidano le relazioni con il brand. Crea sfide che premiano i clienti per azioni specifiche, da acquisti e recensioni di scrittura a coinvolgimento sui social media e amici di riferimento.
 
@@ -43,7 +43,7 @@ Questa sezione presenta Journey Optimizer Loyalty, descrive cosa è, dove si ins
 <!--
 CARDS
 
-* https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/loyalty/discover-journey-optimizer-loyalty
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty
   {description = Understand what Journey Optimizer Loyalty is, where it sits under AJO, and the challenge lifecycle.}
 
 -->
@@ -53,8 +53,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/loyalty/discover-journey-optimizer-loyalty" title="Scopri la fedeltà di Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496457/?captions=ita&format=jpeg&nocache=1787869052840" alt="Scopri la fedeltà di Journey Optimizer"
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/discover-journey-optimizer-loyalty" title="Scopri Journey Optimizer Loyalty" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496457/?captions=ita&format=jpeg&nocache=1787869052840" alt="Scopri Journey Optimizer Loyalty"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -62,11 +62,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/loyalty/discover-journey-optimizer-loyalty" target="_blank" rel="referrer" title="Scopri la fedeltà di Journey Optimizer">Scopri la fedeltà di Journey Optimizer</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/discover-journey-optimizer-loyalty" target="_blank" rel="referrer" title="Scopri Journey Optimizer Loyalty">Individua Journey Optimizer Loyalty</a>
                     </p>
-                    <p class="is-size-6">Scopri cos’è la fidelizzazione di Journey Optimizer, dove si trova sotto AJO, e la sfida del ciclo di vita.</p>
+                    <p class="is-size-6">Scopri Journey Optimizer Loyalty, dove si trova sotto AJO, e la sfida del ciclo di vita.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/loyalty/discover-journey-optimizer-loyalty" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/discover-journey-optimizer-loyalty" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>

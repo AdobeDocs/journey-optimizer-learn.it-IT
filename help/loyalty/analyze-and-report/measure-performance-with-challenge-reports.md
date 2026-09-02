@@ -1,6 +1,6 @@
 ---
 title: Misurare le prestazioni di verifica con i rapporti sulle verifiche
-description: Scopri come utilizzare i rapporti sulle sfide e le dashboard delle prestazioni per misurare la partecipazione, i tassi di completamento, l’attribuzione dei ricavi e le prestazioni complessive del programma fedeltà.
+description: Utilizza i rapporti sulle sfide e le dashboard per misurare la partecipazione, i tassi di completamento e i ricavi per il tuo programma fedeltà.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -19,9 +19,9 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b37854eacf05b80bcb24c94fe9248cfe18c7ac02
+source-git-commit: 6494b51da77e23e184d33e235fd612700b2a801d
 workflow-type: tm+mt
-source-wordcount: 54
+source-wordcount: 44
 ht-degree: 0%
 
 ---
@@ -29,6 +29,6 @@ ht-degree: 0%
 
 # Misurare le prestazioni di verifica con i rapporti sulle verifiche
 
-Scopri come utilizzare i rapporti sulle sfide e le dashboard delle prestazioni per misurare la partecipazione, i tassi di completamento, l’attribuzione dei ricavi e le prestazioni complessive del programma fedeltà.
+Utilizza i rapporti sulle sfide e le dashboard per misurare la partecipazione, i tassi di completamento e i ricavi per il tuo programma fedeltà.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3497565/?captions=ita&learn=on&enablevpops)
