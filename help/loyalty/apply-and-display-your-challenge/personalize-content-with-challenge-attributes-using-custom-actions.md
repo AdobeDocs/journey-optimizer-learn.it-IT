@@ -35,4 +35,4 @@ ht-degree: 0%
 
 Scopri come recuperare i dati della sfida con un’azione personalizzata e utilizzarla per personalizzare dinamicamente le schede di contenuto e le esperienze basate su codice in base all’avanzamento della sfida e ai premi di ogni membro.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503375/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503390/?captions=ita&learn=on&enablevpops)
