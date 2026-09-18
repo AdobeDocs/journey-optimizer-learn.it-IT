@@ -5,20 +5,19 @@ feature: Journeys
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-12-25T00:00:00Z
+last-substantial-update: 2025-12-25
 jira: KT-20014
-source-git-commit: 319b1cd4a037807a944e5fb6438e47b5fcf4c1c4
+exl-id: 9b4a3e0c-d153-4a6b-a7de-b926bd669f6a
+source-git-commit: d4cc60f4448caec92f704026783e2bbe029427f5
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '144'
 ht-degree: 0%
-
 ---
-
 # Testare la soluzione
 
 
 Testare la soluzione
->[!VIDEO](https://video.tv.adobe.com/v/3478554?captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3478546)
 
 ## Distribuire le risorse di esempio
 
@@ -58,7 +57,5 @@ Crea una nuova directory per l’app di esempio utilizzando i seguenti comandi:
 
 Assicurarsi di essere nella directory `trigger-journey`.
 Esegui il comando `node server.js`
-Puntare il browser alla [pagina Web](http://localhost:3000/)
+Puntare il browser alla [ pagina Web](http://localhost:3000/)
 Compila e invia il modulo. Il percorso viene attivato e viene inviata un’e-mail all’ID e-mail inserito nel modulo.
-
-

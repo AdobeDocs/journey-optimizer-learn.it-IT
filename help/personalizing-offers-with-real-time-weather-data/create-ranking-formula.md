@@ -5,25 +5,24 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-06-10T00:00:00Z
+last-substantial-update: 2025-06-10
 recommendations: noDisplay, noCatalog
 jira: KT-18258
-source-git-commit: c04a15418e31dc82597b7759386907013728bb0d
+exl-id: 23a9d36f-ac2c-42a5-b08d-79c7118920c9
+source-git-commit: b4cf9b677c6bc142e1013649db16b3a70b405052
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '260'
 ht-degree: 0%
-
 ---
-
 # Crea formula di classificazione
 
 Durante le decisioni sulle offerte viene utilizzata una formula di classificazione in Adobe Journey Optimizer, in particolare all’interno di una strategia di selezione per determinare l’ordine di priorità delle offerte idonee. La formula di classificazione entra in gioco dopo il filtro di idoneità, quando più offerte sono idonee per un determinato profilo, ma solo la prima (o poche) devono essere presentate in base alla logica di business o al contesto del profilo.
 
 * Accedi a Journey Optimizer
 
-* Passa a _&#x200B;**Decisioning ->Impostazione strategia ->Formule di classificazione ->Crea formula**&#x200B;_
+* Passa a _**Decisioning ->Impostazione strategia ->Formule di classificazione ->Crea formula**_
 
-Denomina la formula _&#x200B;**Meteo - Correlato - Offerte**&#x200B;_
+Denomina la formula _**Meteo - Correlato - Offerte**_
 
 
 

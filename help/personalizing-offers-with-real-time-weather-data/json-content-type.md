@@ -5,16 +5,15 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-06-18T00:00:00Z
+last-substantial-update: 2025-06-18
 jira: KT-18387
 recommendations: noDisplay, noCatalog
-source-git-commit: 9f5b52063605832a9b00c05fb1a93bf60ec7686f
+exl-id: a09beca4-9266-4004-9831-d3c706b631a5
+source-git-commit: b4cf9b677c6bc142e1013649db16b3a70b405052
 workflow-type: tm+mt
-source-wordcount: '489'
-ht-degree: 0%
-
+source-wordcount: '501'
+ht-degree: 3%
 ---
-
 # Distribuzione di Personalization con contenuti JSON in Adobe Journey Optimizer
 
 Questa sezione viene fornita come risorsa aggiuntiva per gli utenti avanzati che desiderano un maggiore controllo sul rendering delle offerte sul front-end.

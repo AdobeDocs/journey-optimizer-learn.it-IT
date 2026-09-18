@@ -5,15 +5,14 @@ feature: Audiences
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-04-30T00:00:00Z
+last-substantial-update: 2025-04-30
 jira: KT-17923
-source-git-commit: ba83be3caf214d2daaa8c99556d246686ff3f0cb
+exl-id: d90f1868-0514-49b2-832d-82460883b6e4
+source-git-commit: 073d4a99b74a0bc341117e83a66747aed02648bf
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '155'
 ht-degree: 0%
-
 ---
-
 # Creazione di tipi di pubblico in Adobe Journey Optimizer
 
 
@@ -27,14 +26,14 @@ I tipi di pubblico in Adobe Experience Platform sono gruppi di utenti creati in 
 
 * Crea i seguenti 3 tipi di pubblico
 
-   * Clienti interessati alle scorte
+  * Clienti interessati alle scorte
 
-   * Clienti interessati alle obbligazioni
+  * Clienti interessati alle obbligazioni
 
-   * Clienti interessati al CD
+  * Clienti interessati al CD
 
 
-* Assicurati che il metodo di valutazione per ogni pubblico sia impostato su _&#x200B;**Edge**&#x200B;_ per la qualifica in tempo reale.
+* Assicurati che il metodo di valutazione per ogni pubblico sia impostato su _**Edge**_ per la qualifica in tempo reale.
   ![edge-audience](assets/audience-edge.png)
 
 * Utilizzare il campo PreferredFinancialInstrument per segmentare gli utenti in base all&#39;interesse di investimento selezionato, ad esempio azioni, obbligazioni o CD
@@ -48,10 +47,8 @@ I tipi di pubblico in Adobe Experience Platform sono gruppi di utenti creati in 
 
 >[!NOTE]
 >
->&#x200B;>Se il campo PreferredFinancialInstrument non è visibile nella scheda degli eventi, fai clic sull’icona delle impostazioni e attiva Mostra lo schema XDM completo.
+>>Se il campo PreferredFinancialInstrument non è visibile nella scheda degli eventi, fai clic sull’icona delle impostazioni e attiva Mostra lo schema XDM completo.
 
 
 
 ![toggle-full-xdm-schema](assets/show-custom-fields.png)
-
-
