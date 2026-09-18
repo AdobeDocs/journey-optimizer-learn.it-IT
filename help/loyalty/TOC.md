@@ -1,24 +1,23 @@
 ---
-user-guide-title: Introduzione a Journey Optimizer Loyalty
-user-guide-description: Scopri come effettuare l’onboarding in Adobe Journey Optimizer Loyalty, configurare una sfida, applicarla, visualizzarla e analizzarne le prestazioni.
+user-guide-title: Introduzione alla fidelizzazione Journey Optimizer
+user-guide-description: Scopri come integrare la fidelizzazione Adobe Journey Optimizer, configurare una sfida, applicarla, visualizzarla e analizzarne le prestazioni.
 role: User
 level: Beginner
 breadcrumb-title: fedeltà
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty/overview
 auto-video-transcripts: true
-source-git-commit: b812dd2c5228314771c572a184ae396aa400d524
+source-git-commit: 46d45d93310e930dff2cc491b76b19658630811f
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '149'
 ht-degree: 0%
-
 ---
 
-
-# Introduzione a Journey Optimizer Loyalty {#loyalty}
+# Introduzione alla fidelizzazione Journey Optimizer {#loyalty}
 
 + [Introduzione a Journey Optimizer Loyalty per gli esperti di marketing](./overview.md)
 + Introduzione alla fedeltà {#introduction}
-  + [Scopri Journey Optimizer Loyalty](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
+  + [Scopri la fedeltà di Journey Optimizer](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
+  + [Comprendere i concetti della sfida di fedeltà](./help/loyalty/introduction-to-loyalty/understand-loyalty-challenge-concepts.md)
 + Imposta fedeltà {#set-up-loyality}
   + [Impostare un provider di premi fedeltà](./set-up-loyalty/set-up-a-loyalty-reward-provider.md)
 + Configurare la sfida {#configure-your-challenge}
