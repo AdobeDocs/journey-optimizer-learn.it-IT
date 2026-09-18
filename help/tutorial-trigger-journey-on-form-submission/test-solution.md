@@ -57,5 +57,5 @@ Crea una nuova directory per l’app di esempio utilizzando i seguenti comandi:
 
 Assicurarsi di essere nella directory `trigger-journey`.
 Esegui il comando `node server.js`
-Puntare il browser alla [ pagina Web](http://localhost:3000/)
+Puntare il browser alla [&#x200B; pagina Web](http://localhost:3000/)
 Compila e invia il modulo. Il percorso viene attivato e viene inviata un’e-mail all’ID e-mail inserito nel modulo.
