@@ -21,6 +21,6 @@ In questo caso d’uso, quando un utente invia un modulo di Preferenze di invest
 
 **Creazione di un set di dati di ricerca**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478760)
+>[!VIDEO](https://video.tv.adobe.com/v/3478768?captions=ita)
 
 Verifica i campi di ricerca del set di dati inviando la configurazione del modulo nel passaggio precedente

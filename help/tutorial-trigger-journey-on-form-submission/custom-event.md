@@ -19,4 +19,4 @@ Utilizzando lo schema evento, definisci un evento personalizzato in Adobe Journe
 
 Definisci un evento personalizzato denominato **_InvestmentPreference_**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478483)
+>[!VIDEO](https://video.tv.adobe.com/v/3478491?captions=ita)
