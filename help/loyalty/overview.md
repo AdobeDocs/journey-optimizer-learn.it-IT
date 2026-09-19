@@ -63,7 +63,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty" title="Scopri Journey Optimizer Loyalty" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496441/?format=jpeg&nocache=1789775328538" alt="Scopri Journey Optimizer Loyalty"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496457/?captions=ita&format=jpeg&nocache=1789775328538" alt="Scopri Journey Optimizer Loyalty"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -126,7 +126,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./set-up-loyalty/set-up-a-loyalty-reward-provider.md" title="Impostare un provider di premi fedeltà" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497346/?format=jpeg&nocache=1789775329089" alt="Impostare un provider di premi fedeltà"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497415/?captions=ita&format=jpeg&nocache=1789775329089" alt="Impostare un provider di premi fedeltà"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -172,7 +172,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./configure-your-challenge/set-up-a-loyalty-challenge.md" title="Configurare una sfida di fidelizzazione" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496471/?format=jpeg&nocache=1789775329289" alt="Configurare una sfida di fidelizzazione"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496477/?captions=ita&format=jpeg&nocache=1789775329289" alt="Configurare una sfida di fidelizzazione"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -195,7 +195,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./configure-your-challenge/create-tasks.md" title="Crea attività per la tua sfida fedeltà" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496442/?format=jpeg&nocache=1789775329314" alt="Crea attività per la tua sfida fedeltà"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496448/?captions=ita&format=jpeg&nocache=1789775329314" alt="Crea attività per la tua sfida fedeltà"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -218,7 +218,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./configure-your-challenge/configure-rewards.md" title="Configurare i premi" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496481/?format=jpeg&nocache=1789775329305" alt="Configurare i premi"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496487/?captions=ita&format=jpeg&nocache=1789775329305" alt="Configurare i premi"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -241,7 +241,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./configure-your-challenge/create-a-challenge-and-get-insights-with-cx-enterprise-coworker.md" title="Creare una sfida di fedeltà e approfondimenti di superficie con CX Enterprise Coworker" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496528/?format=jpeg&nocache=1789775329297" alt="Creare una sfida di fedeltà e approfondimenti di superficie con CX Enterprise Coworker"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496544/?captions=ita&format=jpeg&nocache=1789775329297" alt="Creare una sfida di fedeltà e approfondimenti di superficie con CX Enterprise Coworker"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -287,7 +287,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./apply-and-display-your-challenge/build-a-challenge-content-card.md" title="Creare una scheda di contenuti di sfida" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496529/?format=jpeg&nocache=1789775329771" alt="Creare una scheda di contenuti di sfida"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496535/?captions=ita&format=jpeg&nocache=1789775329771" alt="Creare una scheda di contenuti di sfida"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -310,7 +310,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./apply-and-display-your-challenge/display-challenge-content-using-code-based-experience-channel.md" title="Visualizzare il contenuto della sfida utilizzando il canale di esperienza basato su codice" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497465/?format=jpeg&nocache=1789775329764" alt="Visualizzare il contenuto della sfida utilizzando il canale di esperienza basato su codice"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497471/?captions=ita&format=jpeg&nocache=1789775329764" alt="Visualizzare il contenuto della sfida utilizzando il canale di esperienza basato su codice"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -333,7 +333,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./apply-and-display-your-challenge/personalize-content-with-challenge-attributes-using-custom-actions.md" title="Personalizzare il contenuto con gli attributi della sfida utilizzando azioni personalizzate" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3503375/?format=jpeg&nocache=1789775329782" alt="Personalizzare il contenuto con gli attributi della sfida utilizzando azioni personalizzate"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3503390/?captions=ita&format=jpeg&nocache=1789775329782" alt="Personalizzare il contenuto con gli attributi della sfida utilizzando azioni personalizzate"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -356,7 +356,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./apply-and-display-your-challenge/set-up-lifecycle-messaging-for-your-challenge.md" title="Configurare i messaggi del ciclo di vita in base alle esigenze" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497455/?format=jpeg&nocache=1789775329756" alt="Configurare i messaggi del ciclo di vita in base alle esigenze"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497461/?captions=ita&format=jpeg&nocache=1789775329756" alt="Configurare i messaggi del ciclo di vita in base alle esigenze"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -379,7 +379,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./apply-and-display-your-challenge/publish-a-challenge-and-generate-a-journey.md" title="Pubblicare una sfida e generare un percorso" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3498577/?format=jpeg&nocache=1789775329777" alt="Pubblicare una sfida e generare un percorso"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3498583/?captions=ita&format=jpeg&nocache=1789775329777" alt="Pubblicare una sfida e generare un percorso"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -420,7 +420,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./analyze-and-report/measure-performance-with-challenge-reports.md" title="Misurare le prestazioni di verifica con i rapporti sulle verifiche" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497534/?format=jpeg&nocache=1789775330174" alt="Misurare le prestazioni di verifica con i rapporti sulle verifiche"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497565/?captions=ita&format=jpeg&nocache=1789775330174" alt="Misurare le prestazioni di verifica con i rapporti sulle verifiche"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
