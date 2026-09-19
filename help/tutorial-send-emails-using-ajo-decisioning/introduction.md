@@ -5,15 +5,14 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-10-31T00:00:00Z
+last-substantial-update: 2025-10-31
 jira: KT-19414
-source-git-commit: b70717bd66deb3c070c6dd155f13f8cb72fce7c3
+exl-id: c2b8a85c-8f64-40c5-87eb-6d836d832c44
+source-git-commit: d4cc60f4448caec92f704026783e2bbe029427f5
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 4%
-
+source-wordcount: '126'
+ht-degree: 3%
 ---
-
 # Utilizzare Decisioning per personalizzare le e-mail
 
 In questo tutorial verrà illustrato un caso d’uso reale di invio di offerte e-mail personalizzate tramite Adobe Journey Optimizer Decisioning. Lo scenario è semplice: invia offerte e-mail mirate ai clienti in base agli attributi del profilo, ad esempio il reddito annuo e lo stato di fedeltà.
@@ -26,6 +25,3 @@ Durante l’esercitazione, andremo passo dopo passo: dalla creazione di profili 
 * Nozioni di base sui concetti di Experience Platform (profili, pubblico, set di dati)
 
 * Familiarità con Journey Optimizer
-
-
-

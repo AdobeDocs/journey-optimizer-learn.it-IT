@@ -1,23 +1,21 @@
 ---
 title: 'Progettazione e personalizzazione delle e-mail: panoramica'
-description: Comprendere le funzionalità di E-mail Designer di Journey Optimizer.
+description: Informazioni sulle funzionalità di E-mail Designer di Journey Optimizer.
 feature: Email Design
 role: User
 level: Beginner
 doc-type: Feature Video
 duration: 93
-last-substantial-update: 2024-10-08T00:00:00Z
+last-substantial-update: 2024-10-08
 jira: KT-16316
-source-git-commit: bd132cfb37c35ff7320540b4b25f51aae17d640e
-workflow-type: ht
+exl-id: a80d1ee6-f316-4e80-b4f8-fdea20c8f602
+source-git-commit: 5ed78b3a8effd376662f5218a660ce8627206ced
+workflow-type: tm+mt
 source-wordcount: '24'
 ht-degree: 100%
-
 ---
-
-
 # Progettazione e personalizzazione delle e-mail: panoramica
 
-Comprendere le funzionalità di E-mail Designer di Journey Optimizer.
+Informazioni sulle funzionalità di E-mail Designer di Journey Optimizer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432676/?learn=on)
