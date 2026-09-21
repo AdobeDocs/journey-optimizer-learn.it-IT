@@ -15,7 +15,7 @@ Adobe Journey Optimizer supporta le attività live su entrambe le principali pia
 * **[Attività iOS Live](/help/channels/ios-live-activities.md)**: aggiornamenti completi e in tempo reale nella schermata di blocco di iPhone e in Dynamic Island.
 * **[Android Live Updates](/help/channels/android-live-updates.md)**: aggiornamenti in tempo reale e costanti nell&#39;area di notifica di Android.
 
-Per configurare Mobile SDK e utilizzare le API per avviare, aggiornare e terminare esperienze live nei tuoi percorsi di clienti, consulta [Configurare Live Activity](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk){target="_blank"}.
+Per configurare Mobile SDK e utilizzare le API per avviare, aggiornare e terminare esperienze live nei tuoi percorsi di clienti, consulta [Configurare Live Activity](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk){target="_blank"}.
 
 ## Casi d’uso
 
