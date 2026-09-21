@@ -1,5 +1,5 @@
 ---
-source-git-commit: 084d4d9457db32e30855cd6466439b1de96f2b68
+source-git-commit: fc279f2ff41f624e4a6a0c4c930cedfcc2745dc5
 workflow-type: tm+mt
 source-wordcount: '360'
 ht-degree: 3%
@@ -13,9 +13,9 @@ ht-degree: 3%
 Adobe Journey Optimizer supporta le attività live su entrambe le principali piattaforme mobili:
 
 * **[Attività iOS Live](/help/channels/ios-live-activities.md)**: aggiornamenti completi e in tempo reale nella schermata di blocco di iPhone e in Dynamic Island.
-* **[Android Live Updates](/help/channels/android-live-updates.md)** — Aggiornamenti in tempo reale e costanti nell&#39;area delle notifiche di Android.
+* **[Android Live Updates](/help/channels/android-live-updates.md)**: aggiornamenti in tempo reale e costanti nell&#39;area di notifica di Android.
 
-Per configurare Mobile SDK e utilizzare le API per avviare, aggiornare e terminare esperienze live nei tuoi percorsi di clienti, consulta [Configurare Live Activity](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk){target="_blank"}.
+Per configurare Mobile SDK e utilizzare le API per avviare, aggiornare e terminare esperienze live nei tuoi percorsi di clienti, consulta [Configurare Live Activity](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk){target="_blank"}.
 
 ## Casi d’uso
 
@@ -32,5 +32,5 @@ Scegli le attività live come canale preferito quando devi:
 
 * Per gli stati a esecuzione prolungata o aperti senza una fine chiara, termina l’attività una volta completato il processo sottostante.
 * Per contenuti promozionali o di marketing: utilizza al loro posto notifiche push, messaggi in-app o schede di contenuto.
-* Quando la cadenza degli aggiornamenti è molto elevata, gli aggiornamenti frequenti possono essere limitati dal sistema operativo o risultare rumorosi per l&#39;utente.
+* Quando la cadenza degli aggiornamenti è molto elevata, gli aggiornamenti frequenti possono essere limitati dal sistema operativo o risultare rumorosi per l’utente.
 * Se la tua app non supporta le versioni minime del sistema operativo richieste per le attività di iOS Live o per gli aggiornamenti di Android Live.
