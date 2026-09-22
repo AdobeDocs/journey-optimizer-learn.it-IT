@@ -6,15 +6,13 @@ role: User, Admin, Developer
 hide: false
 index: true
 jira: KT-19860
-last-substantial-update: 2025-12-18T00:00:00Z
+last-substantial-update: 2025-12-18
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 1b8691391bcbe2f8dfa8c8b7f98058933af11a15
 workflow-type: tm+mt
-source-wordcount: '944'
+source-wordcount: '973'
 ht-degree: 5%
-
 ---
-
 # Journey Optimizer - Centro per l’apprendimento mobile
 
 Avvia rapidaente o migliora la tua strategia di coinvolgimento su dispositivi mobili con Adobe Journey Optimizer. L’hub per l’apprendimento per dispositivi mobili offre a sviluppatori, amministratori, marketer e analisti tutto il necessario per configurare i canali per dispositivi mobili in entrata e in uscita e integrarli facilmente in potenti campagne e percorsi cross-channel.
@@ -34,9 +32,9 @@ I canali in uscita ti consentono di inviare messaggi ai clienti in modo proattiv
 
 Tutti i canali in uscita in Adobe Journey Optimizer applicano criteri di consenso personalizzati al momento dell’invio dei messaggi. Se non viene concesso il consenso per una specifica azione di marketing, il messaggio viene eliminato automaticamente per garantire la conformità della consegna.
 
-| ![Notifiche push](/help/mobile-learning-hub/assets/mobile-phone.webp){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[Notifiche push](/help/mobile-learning-hub/channels/push-notifications-overview.md)** | ![SMS/MMS/RCS](/help/mobile-learning-hub/assets/SMS.png){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[SMS/MMS/RCS](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md)** | ![WhatsApp](/help/mobile-learning-hub/assets/whatsapp.webp){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md)** |
-|-------------------------------------|------------------------------------|-------------------------------|
-| Inviati all’esterno dell’app, i messaggi push attirano immediatamente l’attenzione. Sono ideali per aggiornamenti sensibili al tempo e incoraggiano gli utenti a tornare all’app. | Messaggi diretti inviati ai telefoni cellulari degli utenti senza la necessità dell’app. Ideale per avvisi urgenti, promemoria e contenuti rich media come immagini o video. | Canale conversazionale tramite un’app di messaggistica ampiamente utilizzata, che consente comunicazioni personalizzate bidirezionali e campagne interattive. |
+| ![Notifiche push](/help/mobile-learning-hub/assets/mobile-phone.webp){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[Notifiche push](/help/mobile-learning-hub/channels/push-notifications-overview.md)** | ![SMS/MMS/RCS](/help/mobile-learning-hub/assets/SMS.png){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[SMS/MMS/RCS](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md)** | ![WhatsApp](/help/mobile-learning-hub/assets/whatsapp.webp){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md)** | ![Attività live](/help/mobile-learning-hub/assets/live-activities.png){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[Attività live](/help/mobile-learning-hub/channels/live-activities-overview.md)** |
+|-------------------------------------|------------------------------------|-------------------------------|-------------------------------|
+| Inviati all’esterno dell’app, i messaggi push attirano immediatamente l’attenzione. Sono ideali per aggiornamenti sensibili al tempo e incoraggiano gli utenti a tornare all’app. | Messaggi diretti inviati ai telefoni cellulari degli utenti senza la necessità dell’app. Ideale per avvisi urgenti, promemoria e contenuti rich media come immagini o video. | Canale conversazionale tramite un’app di messaggistica ampiamente utilizzata, che consente comunicazioni personalizzate bidirezionali e campagne interattive. | Aggiornamenti persistenti in tempo reale nella schermata di blocco, nell’isola dinamica o nell’ombra di notifica che informano i clienti con il progredire di un’attività. |
 
 ### Canali in entrata
 
