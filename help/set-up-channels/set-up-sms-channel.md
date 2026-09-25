@@ -1,5 +1,5 @@
 ---
-title: Configurare le credenziali API SMS e le superfici del canale
+title: Configurare le credenziali API SMS e le superfici di canale
 description: Scopri come collegare Journey Optimizer a un fornitore di servizi SMS e come creare una superficie del canale SMS.
 jira: KT-11734
 thumbnail: 3413355.jpg
@@ -12,12 +12,10 @@ last-substantial-update: 20230123
 exl-id: 923c0731-b172-44db-8a57-f7ac2101adde
 source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '52'
 ht-degree: 100%
-
 ---
-
-# Configurare le credenziali API SMS e le superfici del canale
+# Configurare le credenziali API SMS e le superfici di canale
 
 Scopri come collegare Journey Optimizer a un fornitore di servizi SMS e come creare una superficie del canale SMS.
 
