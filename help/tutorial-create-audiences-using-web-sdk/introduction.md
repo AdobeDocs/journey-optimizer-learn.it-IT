@@ -5,16 +5,14 @@ feature: Audiences
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-04-30T00:00:00Z
+last-substantial-update: 2025-04-30
 jira: KT-17923
 exl-id: ebaa3aa5-0a08-43fd-8d06-8e4b5d8dee05
 source-git-commit: 163edfb3367d03729d68c9339ee2af4a0fe3a1b3
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '268'
 ht-degree: 0%
-
 ---
-
 # Creare tipi di pubblico tramite Web SDK
 
 Questa esercitazione spiega come acquisire le preferenze degli utenti tramite un modulo web, inviare tali dati a Adobe Experience Platform (AEP) in tempo reale e qualificare dinamicamente gli utenti in tipi di pubblico mirati in base alle loro selezioni. Combinando Adobe Tags (Launch), AEP Web SDK (Alloy.js) e Edge Segmentation, puoi offrire opportunità di personalizzazione immediata ai clienti interessati a Stock, Obbligazioni o Certificati di deposito (CD).

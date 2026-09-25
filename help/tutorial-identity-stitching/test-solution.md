@@ -5,17 +5,15 @@ feature: Audiences
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-05-19T00:00:00Z
+last-substantial-update: 2025-05-19
 recommendations: noDisplay, noCatalog
 jira: KT-18089
 exl-id: b7bad65d-c978-4981-a914-6cb039433c8b
 source-git-commit: 6927cade07790603e711f4e6e4c3f6982a56e6f5
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '342'
 ht-degree: 0%
-
 ---
-
 # Testare l’unione di identità
 
 Questa applicazione di esempio simula un flusso di accesso reale in cui le credenziali utente vengono convalidate sul lato server prima che l’ID del sistema di gestione delle relazioni con i clienti venga inviato a Adobe Experience Platform (AEP). Un server Node.js locale viene utilizzato per gestire in modo sicuro le pagine web, gestire la logica di autenticazione di base ed evitare restrizioni del browser (come l’accesso bloccato ai file locali o intestazioni CORS mancanti) che potrebbero interferire con le funzionalità di Adobe Launch o Web SDK. Questa configurazione garantisce un&#39;esperienza più simile a un ambiente di produzione reale.
