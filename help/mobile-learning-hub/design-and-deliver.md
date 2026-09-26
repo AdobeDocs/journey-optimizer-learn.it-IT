@@ -290,7 +290,7 @@ Scopri come configurare le iOS Live Activities con Adobe Journey Optimizer per d
 
 Scopri come creare e distribuire aggiornamenti Android Live in Adobe Journey Optimizer, consentendo esperienze cliente persistenti e in tempo reale che informano gli utenti durante l’avanzamento delle attività.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503646/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503652/?captions=ita&learn=on&enablevpops)
 
 #### Documentazione del prodotto
 
