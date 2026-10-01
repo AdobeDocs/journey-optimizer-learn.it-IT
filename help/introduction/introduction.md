@@ -10,7 +10,7 @@ role: User
 level: Beginner
 exl-id: e48a627a-bd36-4084-a791-78f7a78579c6
 source-git-commit: 9d4108ac6e2a300e0be06398a8f7d97d5ce879ab
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '50'
 ht-degree: 100%
 ---
@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Scopri Adobe Journey Optimizer, le sfide di business che consente di risolvere e quali sono i casi d’uso più importanti.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416291?captions=ita&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/333745?quality=12&learn=on){transcript=true}
 
   <br>

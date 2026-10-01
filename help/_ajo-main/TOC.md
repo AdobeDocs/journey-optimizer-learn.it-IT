@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial su Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: f63c9bad8aa86867296132baa3f2a3be58883a9d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1579'
-ht-degree: 98%
+ht-degree: 100%
 ---
 
 # Tutorial su Journey Optimizer {#tutorials}
@@ -177,7 +177,7 @@ ht-degree: 98%
       + [Utilizzare la funzione Decisioni per personalizzare le e-mail (tutorial)](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction){target="_blank"}
       + [Utilizzare la funzione Decisioni nelle notifiche push](/help/decisioning/decisioning-in-push-notifications.md)
       + [Utilizzare la funzione Decisioni in un messaggio SMS](/help/decisioning/use-decisioning-in-an-sms-message.md)
-      + [Utilizzare il decisioning nell’editor visivo web](/help/decisioning/use-decisioning-within-the-web-visual-editor.md)
+      + [Utilizzare la funzione Decisioni nell’editor visivo per il web](/help/decisioning/use-decisioning-within-the-web-visual-editor.md)
       + [Utilizzare le decisioni per personalizzare le offerte web (tutorial)](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
       + [Utilizzare i frammenti di contenuto di Adobe Experience Manager con la funzione Decisioni](/help/decisioning/use-aem-content-fragments-with-ajo-decisioning.md)
     + Attivare decisioni da trigger esterni e interazioni {#trigger}
