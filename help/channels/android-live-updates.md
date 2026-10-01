@@ -1,6 +1,6 @@
 ---
 title: Configurare aggiornamenti live per Android
-description: Scopri come creare e distribuire aggiornamenti Android Live in Adobe Journey Optimizer, consentendo esperienze cliente persistenti e in tempo reale che informano gli utenti durante l’avanzamento delle attività. Questo tutorial illustra come configurare il canale Android Live Updates, creare e attivare campagne e utilizzare le API per avviare, aggiornare e terminare esperienze live nei diversi percorsi di clienti
+description: Scopri come creare e fornire aggiornamenti live per Android in Adobe Journey Optimizer, per consentire esperienze cliente persistenti e in tempo reale che informano gli utenti durante l’avanzamento delle attività. Questo tutorial illustra come configurare il canale per gli aggiornamenti di Android live, creare e attivare campagne e utilizzare le API per avviare, aggiornare e terminare esperienze live nei diversi percorsi cliente
 role: Admin, User
 level: Beginner
 doc-type: Feature Video
@@ -16,13 +16,13 @@ subfeature_v2:
   - id: 3c5473a1-8c61-58ed-83fe-e928ccbe0743
     internal-label: Channel Configuration
 source-git-commit: f63c9bad8aa86867296132baa3f2a3be58883a9d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
-ht-degree: 0%
+ht-degree: 100%
 ---
 
 # Configurare aggiornamenti live per Android
 
-Scopri come creare e distribuire aggiornamenti Android Live in Adobe Journey Optimizer, consentendo esperienze cliente persistenti e in tempo reale che informano gli utenti durante l’avanzamento delle attività. Questo tutorial illustra come configurare il canale Android Live Updates, creare e attivare campagne e utilizzare le API per avviare, aggiornare e terminare esperienze live nei diversi percorsi di clienti
+Scopri come creare e fornire aggiornamenti live per Android in Adobe Journey Optimizer, per consentire esperienze cliente persistenti e in tempo reale che informano gli utenti durante l’avanzamento delle attività. Questo tutorial illustra come configurare il canale per gli aggiornamenti di Android live, creare e attivare campagne e utilizzare le API per avviare, aggiornare e terminare esperienze live nei diversi percorsi cliente
 
 >[!VIDEO](https://video.tv.adobe.com/v/3503652/?captions=ita&learn=on&enablevpops)
