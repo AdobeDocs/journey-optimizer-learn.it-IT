@@ -6,9 +6,9 @@ level: Beginner
 breadcrumb-title: fedeltà
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty/overview
 auto-video-transcripts: true
-source-git-commit: 76bddb8b4e71ed4a059ec8bf808bc98a31377e28
+source-git-commit: c6d18e0a5cc1f80affb52852be6d7fcc6c832fe1
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '177'
 ht-degree: 0%
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 0%
   + Configurare l’acquisizione dei dati fedeltà {#set-up-loyalty-data-ingestion}
     + [Creare schemi e set di dati di profili ed eventi](./set-up-loyalty/create-profile-and-event-schemas-and-datasets.md)
     + [Configurare l’origine API HTTP e mappare i dati fedeltà](./set-up-loyalty/configure-the-http-api-source-and-map-loyalty-data.md)
-    + [Verificare l’acquisizione dei dati fedeltà](./set-up-loyalty/test-loyalty-data-ingestion.md)
+    + [Verifica i dati sulla fedeltà e configura la generazione di rapporti sulle prestazioni](./set-up-loyalty/verify-loyalty-data-and-configure-performance-reporting.md)
   + [Impostare un provider di premi fedeltà](./set-up-loyalty/set-up-a-loyalty-reward-provider.md)
 + Configurare la sfida {#configure-your-challenge}
   + [Configurare una sfida di fidelizzazione](./configure-your-challenge/set-up-a-loyalty-challenge.md)
