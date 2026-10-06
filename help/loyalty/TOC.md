@@ -1,24 +1,28 @@
 ---
-user-guide-title: Introduzione alla fidelizzazione Journey Optimizer
-user-guide-description: Scopri come integrare la fidelizzazione Adobe Journey Optimizer, configurare una sfida, applicarla, visualizzarla e analizzarne le prestazioni.
+user-guide-title: Introduzione a Journey Optimizer Loyalty
+user-guide-description: Scopri come effettuare l’onboarding in Adobe Journey Optimizer Loyalty, configurare una sfida, applicarla, visualizzarla e analizzarne le prestazioni.
 role: User
 level: Beginner
 breadcrumb-title: fedeltà
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty/overview
 auto-video-transcripts: true
-source-git-commit: b01ac079dd907d420e91dae44e47d11660587e2d
+source-git-commit: 76bddb8b4e71ed4a059ec8bf808bc98a31377e28
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '174'
 ht-degree: 0%
 ---
 
-# Introduzione alla fidelizzazione Journey Optimizer {#loyalty}
+# Introduzione a Journey Optimizer Loyalty {#loyalty}
 
 + [Introduzione a Journey Optimizer Loyalty per gli esperti di marketing](./overview.md)
 + Introduzione alla fedeltà {#introduction}
-  + [Scopri la fedeltà di Journey Optimizer](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
+  + [Scopri Journey Optimizer Loyalty](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
   + [Comprendere i concetti della sfida di fedeltà](./introduction-to-loyalty/understand-loyalty-challenge-concepts.md)
 + Imposta fedeltà {#set-up-loyality}
+  + Configurare l’acquisizione dei dati fedeltà {#set-up-loyalty-data-ingestion}
+    + [Creare schemi e set di dati di profili ed eventi](./set-up-loyalty/create-profile-and-event-schemas-and-datasets.md)
+    + [Configurare l’origine API HTTP e mappare i dati fedeltà](./set-up-loyalty/configure-the-http-api-source-and-map-loyalty-data.md)
+    + [Verificare l’acquisizione dei dati fedeltà](./set-up-loyalty/test-loyalty-data-ingestion.md)
   + [Impostare un provider di premi fedeltà](./set-up-loyalty/set-up-a-loyalty-reward-provider.md)
 + Configurare la sfida {#configure-your-challenge}
   + [Configurare una sfida di fidelizzazione](./configure-your-challenge/set-up-a-loyalty-challenge.md)
