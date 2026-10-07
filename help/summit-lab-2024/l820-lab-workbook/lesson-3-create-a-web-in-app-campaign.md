@@ -167,7 +167,7 @@ In questa sezione puoi definire il contenuto, la progettazione e il layout del m
 
 **Documentazione del prodotto:**
 
-* [Introduzione al canale in-app](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
-* [Creare un messaggio in-app per il web](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app-web)
-* [Creare contenuti in-app](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
-* [Verifica e invio della notifica in-app](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)
+* [Introduzione al canale in-app](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [Creare un messaggio in-app per il web](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/in-app/create-in-app-web)
+* [Creare contenuti in-app](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/in-app/design-in-app)
+* [Verifica e invio della notifica in-app](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/in-app/send-in-app)
