@@ -148,7 +148,7 @@ Nella sezione **[!UICONTROL Azione]**, fai clic su **[!UICONTROL Modifica conten
 
 ![Pulsante Modifica contenuto](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-1-edit-content-button.png)
 
-Viene visualizzato l&#39;editor del messaggio in-app [!UICONTROL 1} in cui puoi configurare il contenuto del messaggio in-app.]
+Viene visualizzato l&#39;editor del messaggio in-app [!UICONTROL 1&rbrace; in cui puoi configurare il contenuto del messaggio in-app.]
 
 #### Layout di 2.3.3.1
 
@@ -290,7 +290,7 @@ Le funzionalità **Duplica campagna** e **Anteprima sul dispositivo** sono funzi
 
 1. Puoi accedere alla funzione Anteprima sul dispositivo nella pagina **[!UICONTROL Revisione campagna]** o nel passaggio **[!UICONTROL Autore campagna]**.
 
-   Pulsante Anteprima ![ sul dispositivo](/help/summit-lab-2024/l820-lab-workbook/assets/3-3-1-1-preview-on-device-button.png)
+   Pulsante Anteprima ![&#x200B; sul dispositivo](/help/summit-lab-2024/l820-lab-workbook/assets/3-3-1-1-preview-on-device-button.png)
    <br>
 
 1. Fare clic sul pulsante **[!UICONTROL avvia]** nella schermata di connessione al dispositivo.
@@ -309,7 +309,7 @@ Le funzionalità **Duplica campagna** e **Anteprima sul dispositivo** sono funzi
    2. Inserisci il pin mostrato in AJO nella schermata Assurance del dispositivo e fai clic sul pulsante Connetti che appare in basso a destra una volta inserito il pin.
 
 
-   ![ inserire il pin](/help/summit-lab-2024/l820-lab-workbook/assets/3-3-1-5-enter-pin.PNG){width="250" align="center" zoomable="yes"}
+   ![&#x200B; inserire il pin](/help/summit-lab-2024/l820-lab-workbook/assets/3-3-1-5-enter-pin.PNG){width="250" align="center" zoomable="yes"}
    <br>
 1. Questo pop-up viene visualizzato sullo schermo del computer
 
