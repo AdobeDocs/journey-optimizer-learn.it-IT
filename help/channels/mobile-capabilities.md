@@ -37,4 +37,4 @@ ht-degree: 100%
 
 Scopri le funzionalità mobili di Adobe Journey Optimizer per gli esperti di marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426021?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430373?captions=ita&quality=12&learn=on){transcript=true}

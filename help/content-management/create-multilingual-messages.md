@@ -34,4 +34,4 @@ ht-degree: 100%
 
 La funzione di messaggistica multilingue consente di creare facilmente contenuti in più lingue all’interno di una campagna o di un percorso. Scopri come creare messaggi multilingue in Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430921/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452121/?captions=ita&learn=on)

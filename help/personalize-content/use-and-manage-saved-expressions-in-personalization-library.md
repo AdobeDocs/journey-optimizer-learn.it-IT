@@ -33,4 +33,4 @@ ht-degree: 100%
 
 Scopri come utilizzare gli elementi libreria di personalizzazione salvati in un messaggio e come creare e gestire gli elementi libreria di personalizzazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/340941?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/344986?captions=ita&quality=12&learn=on){transcript=true}

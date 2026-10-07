@@ -38,7 +38,7 @@ ht-degree: 100%
 
 Il seguente video tutorial spiega come creare set di dati e acquisire manualmente i dati:
 
->[!VIDEO](https://video.tv.adobe.com/v/334293?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416650?captions=ita&quality=12&learn=on){transcript=true}
 
 Crea i seguenti set di dati:
 

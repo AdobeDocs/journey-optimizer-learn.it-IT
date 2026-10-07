@@ -26,4 +26,4 @@ ht-degree: 100%
 
 La simulazione rapida semplifica il test dei percorsi cliente automatizzando i processi chiave. Genera profili di test, orchestra gli eventi, velocizza i tempi di attesa e convalida gli scenari. Questo strumento consente di garantire che i percorsi complessi funzionino come previsto prima della pubblicazione, risparmiando tempo e migliorando la precisione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497475/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497481/?captions=ita&learn=on&enablevpops)

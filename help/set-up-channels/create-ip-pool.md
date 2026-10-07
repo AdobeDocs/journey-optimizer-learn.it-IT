@@ -37,4 +37,4 @@ ht-degree: 100%
 
 Scopri come creare un pool IP per proteggere la reputazione del mittente e migliorare la recapitabilità dei messaggi e-mail.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463145/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463257/?captions=ita&learn=on&enablevpops)
