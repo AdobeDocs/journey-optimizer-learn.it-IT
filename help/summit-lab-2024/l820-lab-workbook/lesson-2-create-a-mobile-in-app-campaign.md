@@ -10,13 +10,26 @@ recommendations: noDisplay, noCatalog
 jira: KT-14983
 thumbnail: KT-14983.jpeg
 exl-id: fe18eca7-229c-4867-ab34-1862bad63124
-source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d0a62d3c-b79e-47e4-929e-40ef3cffa037
+    internal-label: Communication channels
+subfeature_v2:
+  - id: cc5c44e2-54a1-4927-b794-442cd87d8f74
+    internal-label: In App channel
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '1432'
-ht-degree: 1%
-
+source-wordcount: '1520'
+ht-degree: 2%
 ---
-
 # Lezione 2 - Creare una campagna in-app mobile
 
 In questa lezione, puoi creare e attivare messaggi in-app mobili.
@@ -33,7 +46,7 @@ In questa lezione, puoi creare e attivare messaggi in-app mobili.
 2. Effettua il login utilizzando i seguenti dettagli:
    <br>
    **Nome utente:** L820+**`<your seat number>`**@adobeeventlab.com
-   **Password:**   Adobe2024!
+   **Password:** Adobe2024!
    <br>
 I dettagli per l&#39;accesso sono disponibili sul desktop lab machine. Utilizza l’Adobe ID e la password.
    ![desktop](/help/summit-lab-2024/l820-lab-workbook/assets/desk-top.png)
@@ -147,9 +160,9 @@ Ad esempio, fai clic su **[!UICONTROL Modale]** per rendere il messaggio in-app 
 
 #### 2.3.3.2 Creazione del messaggio e pubblicazione della campagna
 
-1. Nella sezione supporto, incolla il seguente URL: `https://t3.ftcdn.net/jpg/02/79/42/52/240_F_279425217_Hr9VBkknMr4fTpuZbxZXfcYdC7jSvGl2.jpg`
+1. Nella sezione relativa ai file multimediali, incolla il seguente URL:  `https://t3.ftcdn.net/jpg/02/79/42/52/240_F_279425217_Hr9VBkknMr4fTpuZbxZXfcYdC7jSvGl2.jpg`
    <br>
-Quando fai clic all’esterno del campo del valore, viene visualizzata l’immagine.
+   Quando fai clic all’esterno del campo del valore, viene visualizzata l’immagine.
 
    ![file multimediali visualizzati nell&#39;anteprima](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-media.png)
 
@@ -277,7 +290,7 @@ Le funzionalità **Duplica campagna** e **Anteprima sul dispositivo** sono funzi
 
 1. Puoi accedere alla funzione Anteprima sul dispositivo nella pagina **[!UICONTROL Revisione campagna]** o nel passaggio **[!UICONTROL Autore campagna]**.
 
-   ![pulsante Anteprima sul dispositivo](/help/summit-lab-2024/l820-lab-workbook/assets/3-3-1-1-preview-on-device-button.png)
+   Pulsante Anteprima ![&#x200B; sul dispositivo](/help/summit-lab-2024/l820-lab-workbook/assets/3-3-1-1-preview-on-device-button.png)
    <br>
 
 1. Fare clic sul pulsante **[!UICONTROL avvia]** nella schermata di connessione al dispositivo.
@@ -296,7 +309,7 @@ Le funzionalità **Duplica campagna** e **Anteprima sul dispositivo** sono funzi
    2. Inserisci il pin mostrato in AJO nella schermata Assurance del dispositivo e fai clic sul pulsante Connetti che appare in basso a destra una volta inserito il pin.
 
 
-   ![immetti il pin](/help/summit-lab-2024/l820-lab-workbook/assets/3-3-1-5-enter-pin.PNG){width="250" align="center" zoomable="yes"}
+   ![&#x200B; inserire il pin](/help/summit-lab-2024/l820-lab-workbook/assets/3-3-1-5-enter-pin.PNG){width="250" align="center" zoomable="yes"}
    <br>
 1. Questo pop-up viene visualizzato sullo schermo del computer
 
@@ -322,5 +335,5 @@ Le funzionalità **Duplica campagna** e **Anteprima sul dispositivo** sono funzi
 
 * [Introduzione al canale in-app](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/in-app/get-started-in-app)
 * [Creare un messaggio in-app mobile](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/in-app/create-in-app)
-* [Creare contenuto in-app](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/in-app/design-in-app)
-* [Controlla e invia la notifica in-app](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/in-app/send-in-app)
+* [Creare contenuti in-app](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/in-app/design-in-app)
+* [Verifica e invio della notifica in-app](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/in-app/send-in-app)

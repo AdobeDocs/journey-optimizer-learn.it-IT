@@ -5,17 +5,30 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-05-30T00:00:00Z
+last-substantial-update: 2025-05-30T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-18188
 exl-id: deb16dd5-23cd-495a-ac91-d22fd77f49bd
-source-git-commit: 640faaf9a316b2ab3e2e7774b2c30612cf1b1dbe
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: a984631b-2bae-4860-9b15-69c41a799dcb
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: a7a194a0-75e2-4913-8a83-14714fbf68e6
+    internal-label: Decisioning API
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '624'
-ht-degree: 1%
-
+source-wordcount: '741'
+ht-degree: 0%
 ---
-
 # Creare una campagna
 
 Per distribuire offerte personalizzate agli utenti sulla pagina web, è stata creata una campagna in Adobe Journey Optimizer e configurata con il canale web corretto. Questa configurazione assicura che le offerte vengano consegnate tramite decisioni in tempo reale agli utenti che interagiscono con il sito web.
@@ -89,7 +102,7 @@ Il risultato è un set personalizzato di offerte, restituito come contenuto HTML
 6. **Inserisci criterio di decisione**
 
    Inserire il criterio di decisione appena creato facendo clic sul pulsante _&#x200B;**Inserisci criterio**&#x200B;_. Inserisce un ciclo for nell’editor di personalizzazione sul lato destro.
-   Posizionare il cursore tra ogni loop sulla riga due e inserire offerText spostandosi sull&#39;offerta espandendo `tenant name`
+   Posizionare il cursore tra ogni ciclo sulla riga due e inserire offerText spostandosi sull&#39;offerta espandendo `tenant name`
 
    Criterio di decisione inserito nell’editor di personalizzazione
 

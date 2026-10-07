@@ -1,6 +1,6 @@
 ---
-title: Introduzione alla fidelizzazione Journey Optimizer
-description: Scopri come integrare la fidelizzazione Adobe Journey Optimizer, configurare una sfida, applicarla, visualizzarla e analizzarne le prestazioni.
+title: Introduzione a Journey Optimizer Loyalty
+description: Scopri come effettuare l’onboarding in Adobe Journey Optimizer Loyalty, configurare una sfida, applicarla, visualizzarla e analizzarne le prestazioni.
 topic: Get Started
 role: User
 level: Beginner
@@ -33,13 +33,13 @@ topic_v2:
     internal-label: Optimization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 15d0be3f2fb94737746f3f7fb2d668838c124d36
+source-git-commit: a07c147cfaeb33372c1626a2c23b54c77c28f637
 workflow-type: tm+mt
-source-wordcount: '1658'
-ht-degree: 42%
+source-wordcount: '1946'
+ht-degree: 43%
 ---
 
-# Introduzione alla fidelizzazione Journey Optimizer
+# Introduzione a Journey Optimizer Loyalty
 
 Le sfide relative alla fedeltà ti consentono di creare programmi di fidelizzazione coinvolgenti e basati sulla gamification che influenzano il comportamento dei clienti e consolidano le relazioni con il brand. Crea sfide che premiano i clienti per azioni specifiche, da acquisti e recensioni di scrittura a coinvolgimento sui social media e amici di riferimento.
 
@@ -63,8 +63,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty" title="Scopri la fedeltà di Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496457/?captions=ita&format=jpeg&nocache=1789777079801" alt="Scopri la fedeltà di Journey Optimizer"
+                    <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty" title="Scopri Journey Optimizer Loyalty" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496457/?captions=ita&format=jpeg&nocache=1789777079801" alt="Scopri Journey Optimizer Loyalty"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -72,9 +72,9 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty" target="_blank" rel="referrer" title="Scopri la fedeltà di Journey Optimizer">Scopri la fedeltà di Journey Optimizer</a>
+                        <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty" target="_blank" rel="referrer" title="Scopri Journey Optimizer Loyalty">Individua Journey Optimizer Loyalty</a>
                     </p>
-                    <p class="is-size-6">Scopri cos’è la fidelizzazione di Journey Optimizer, dove si trova sotto AJO, e la sfida del ciclo di vita.</p>
+                    <p class="is-size-6">Scopri Journey Optimizer Loyalty, dove si trova sotto AJO, e la sfida del ciclo di vita.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
@@ -110,18 +110,93 @@ CARDS
 
 ## Imposta fedeltà
 
-Questa sezione descrive la configurazione una tantum necessaria prima di iniziare a creare le sfide.
+Questa sezione descrive la configurazione una tantum necessaria prima di iniziare a creare problemi, tra cui l’acquisizione di dati fedeltà, la generazione di rapporti sulle prestazioni e i provider di premi.
 
 
 <!--
 CARDS
 
+* ./set-up-loyalty/prepare-loyalty-data-structures.md
+    {description = Learn how to create XDM schemas and profile-enabled datasets in Adobe Experience Platform to receive loyalty member profile data and loyalty event data.}
+* ./set-up-loyalty/connect-and-map-loyalty-data.md
+    {description = Learn how to configure an HTTP API source connection and dataflows in Adobe Experience Platform, then map loyalty profile and event fields to your datasets.}
+* ./set-up-loyalty/verify-loyalty-data-and-configure-performance-reporting.md
+    {description = Learn how to test loyalty profile and event data ingestion, verify datasets and unified customer profiles, and configure Loyalty Performance settings.}
 * ./set-up-loyalty/set-up-a-loyalty-reward-provider.md
   {description = Learn how to set up a reward provider, create reward definitions, and configure reward payloads so Adobe Journey Optimizer can issue loyalty rewards through your external rewards system.}
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Prepare loyalty data structures">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./set-up-loyalty/prepare-loyalty-data-structures.md" title="Preparare le strutture dei dati fedeltà" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504120/?format=jpeg" alt="Preparare le strutture dei dati fedeltà"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./set-up-loyalty/prepare-loyalty-data-structures.md" target="_blank" rel="referrer" title="Preparare le strutture dei dati fedeltà">Prepara strutture dati fedeltà</a>
+                    </p>
+                    <p class="is-size-6">Scopri come creare schemi XDM e set di dati abilitati per il profilo in Adobe Experience Platform per ricevere i dati di profilo dei membri fedeltà e i dati degli eventi fedeltà.</p>
+                </div>
+                <a href="./set-up-loyalty/prepare-loyalty-data-structures.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Connect and map loyalty data">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./set-up-loyalty/connect-and-map-loyalty-data.md" title="Connettere e mappare i dati fedeltà" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504118/?format=jpeg" alt="Connettere e mappare i dati fedeltà"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./set-up-loyalty/connect-and-map-loyalty-data.md" target="_blank" rel="referrer" title="Connettere e mappare i dati fedeltà">Connetti e mappa i dati fedeltà</a>
+                    </p>
+                    <p class="is-size-6">Scopri come configurare una connessione sorgente API HTTP e i flussi di dati in Adobe Experience Platform, quindi mappare i campi evento e del profilo fedeltà ai set di dati.</p>
+                </div>
+                <a href="./set-up-loyalty/connect-and-map-loyalty-data.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Verify loyalty data and configure performance reporting">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./set-up-loyalty/verify-loyalty-data-and-configure-performance-reporting.md" title="Verifica i dati sulla fedeltà e configura la generazione di rapporti sulle prestazioni" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504119/?format=jpeg" alt="Verifica i dati sulla fedeltà e configura la generazione di rapporti sulle prestazioni"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./set-up-loyalty/verify-loyalty-data-and-configure-performance-reporting.md" target="_blank" rel="referrer" title="Verifica i dati sulla fedeltà e configura la generazione di rapporti sulle prestazioni">Verifica i dati fedeltà e configura i rapporti sulle prestazioni</a>
+                    </p>
+                    <p class="is-size-6">Scopri come testare l’acquisizione dei dati di eventi e profili fedeltà, verificare i set di dati e i profili cliente unificati e configurare le impostazioni delle prestazioni fedeltà.</p>
+                </div>
+                <a href="./set-up-loyalty/verify-loyalty-data-and-configure-performance-reporting.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Set up a loyalty reward provider">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
@@ -241,8 +316,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./configure-your-challenge/create-a-challenge-and-get-insights-with-cx-enterprise-coworker.md" title="Creare una sfida di fidelizzazione e approfondimenti con CX Enterprise Collaborator" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496544/?captions=ita&format=jpeg&nocache=1789777080693" alt="Creare una sfida di fidelizzazione e approfondimenti con CX Enterprise Collaborator"
+                    <a href="./configure-your-challenge/create-a-challenge-and-get-insights-with-cx-enterprise-coworker.md" title="Creare una sfida di fedeltà e approfondimenti di superficie con CX Enterprise Coworker" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496544/?captions=ita&format=jpeg&nocache=1789777080693" alt="Creare una sfida di fedeltà e approfondimenti di superficie con CX Enterprise Coworker"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -250,9 +325,9 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./configure-your-challenge/create-a-challenge-and-get-insights-with-cx-enterprise-coworker.md" target="_blank" rel="referrer" title="Creare una sfida di fidelizzazione e approfondimenti con CX Enterprise Collaborator">Crea una sfida di fidelizzazione e approfondimenti superficiali con CX Enterprise Coworker</a>
+                        <a href="./configure-your-challenge/create-a-challenge-and-get-insights-with-cx-enterprise-coworker.md" target="_blank" rel="referrer" title="Creare una sfida di fedeltà e approfondimenti di superficie con CX Enterprise Coworker">Crea una sfida fedeltà e approfondimenti superficiali con CX Enterprise Coworker</a>
                     </p>
-                    <p class="is-size-6">Scopri come utilizzare CX Enterprise Collaborator per creare, configurare e avviare le sfide di fidelizzazione utilizzando il linguaggio naturale, inclusi audience, premi, pianificazioni e configurazione automatica del percorso.</p>
+                    <p class="is-size-6">Scopri come utilizzare CX Enterprise Coworker per creare, configurare e lanciare sfide di fidelizzazione utilizzando il linguaggio naturale, inclusi tipi di pubblico, premi, pianificazioni e configurazione automatica del percorso.</p>
                 </div>
                 <a href="./configure-your-challenge/create-a-challenge-and-get-insights-with-cx-enterprise-coworker.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
