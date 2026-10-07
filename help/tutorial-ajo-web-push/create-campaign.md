@@ -5,16 +5,26 @@ feature: Push
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2026-04-21T00:00:00Z
+last-substantial-update: 2026-04-21T00:00:00.000Z
 jira: KT-20879
 exl-id: 94fda23f-e26a-494b-8e5c-6c442bae61c4
-source-git-commit: 136459518341f00af69fcbf2e629bf0ccc2bd27f
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: 66e1fd99-672d-5d64-aa58-eca107f0fbae
+    internal-label: Push
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 1%
-
 ---
-
 # Crea campagna
 
 In questo passaggio, creerai una campagna in Adobe Journey Optimizer per inviare notifiche push web pianificate agli utenti che hanno acconsentito. La campagna è indirizzata a un pubblico idoneo e distribuisce messaggi in un momento predefinito, consentendo un coinvolgimento pianificato e basato sul pubblico.
@@ -56,4 +66,4 @@ Assicurati infine di attivare la campagna.
 
 ## Testare la campagna
 
-Per testare la campagna, abilitare innanzitutto le notifiche nella pagina Web [&#x200B; scegliendo di partecipare](http://localhost:3000) quando richiesto. Dopo aver acconsentito, attendi che la campagna venga eseguita all’orario pianificato. Durante l’esecuzione della campagna, dovresti ricevere la notifica push nel browser.
+Per testare la campagna, abilitare innanzitutto le notifiche nella pagina Web [ scegliendo di partecipare](http://localhost:3000) quando richiesto. Dopo aver acconsentito, attendi che la campagna venga eseguita all’orario pianificato. Durante l’esecuzione della campagna, dovresti ricevere la notifica push nel browser.

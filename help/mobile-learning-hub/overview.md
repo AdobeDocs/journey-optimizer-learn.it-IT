@@ -6,9 +6,25 @@ role: User, Admin, Developer
 hide: false
 index: true
 jira: KT-19860
-last-substantial-update: 2025-12-18
+last-substantial-update: 2025-12-18T00:00:00.000Z
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
-source-git-commit: 1b8691391bcbe2f8dfa8c8b7f98058933af11a15
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: bb359667-ec7d-4d4b-8663-5850fc219d32
+    internal-label: Administration
+subfeature_v2:
+  - id: fdac7813-bd56-47ae-9f6d-fa94ad1c5dee
+    internal-label: Overview
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '973'
 ht-degree: 5%
@@ -19,7 +35,7 @@ Avvia rapidaente o migliora la tua strategia di coinvolgimento su dispositivi mo
 
 Esplora le best practice, scopri come promuovere l’adozione e configurare flussi di lavoro di reporting centralizzati, il tutto in un’unica posizione, per fornire esperienze mobili di impatto e basate sui dati, che raggiungono i clienti ovunque e in qualsiasi momento.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477006?captions=ita&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
 
 
 ## Panoramica del canale mobile
@@ -97,4 +113,4 @@ Scopri i concetti e come
 
 ## Casi d’uso del cliente
 
-* [Prendi il volo con la personalizzazione: come le compagnie aeree possono elevare le offerte con Adobe Journey Optimizer (blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513?profile.language=it)
+* [Prendi il volo con la personalizzazione: come le compagnie aeree possono elevare le offerte con Adobe Journey Optimizer (blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)

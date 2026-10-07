@@ -5,17 +5,30 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-05-30T00:00:00Z
+last-substantial-update: 2025-05-30T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
 exl-id: c3e4f760-9b10-4a99-bc53-9245e76c1bab
-source-git-commit: 95a8abd08fbf57900870826112b01a8cd375fe96
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: a984631b-2bae-4860-9b15-69c41a799dcb
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: a7a194a0-75e2-4913-8a83-14714fbf68e6
+    internal-label: Decisioning API
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '639'
+source-wordcount: '658'
 ht-degree: 1%
-
 ---
-
 # Creare una campagna
 
 Per fornire offerte personalizzate agli utenti sulla pagina web, è stata creata una campagna in Adobe Journey Optimizer e configurata con il canale corretto, il canale di esperienza basato su codice. Questa configurazione assicura che le offerte vengano consegnate tramite decisioni in tempo reale agli utenti che interagiscono con il sito web.
@@ -32,11 +45,11 @@ Quando un utente visita il sito web, il sistema ne rileva la posizione e recuper
 ## Passaggi di alto livello per creare una campagna in AJO
 
 - Creare una configurazione di canale
-   - Definisci dove e come vengono visualizzate le offerte (ad esempio, una pagina web con un’esperienza basata su codice).
-   - Accedi a Percorsi Optimizer
-   - Passa a _&#x200B;**Amministrazione ->Canali->Crea configurazione canale**&#x200B;_
-   - **Nome**: `offers-by-weather`\
-     Identifica questa configurazione per la consegna personalizzata delle offerte web.
+  - Definisci dove e come vengono visualizzate le offerte (ad esempio, una pagina web con un’esperienza basata su codice).
+  - Accedi a Percorsi Optimizer
+  - Passa a _**Amministrazione ->Canali->Crea configurazione canale**_
+  - **Nome**: `offers-by-weather`\
+    Identifica questa configurazione per la consegna personalizzata delle offerte web.
 - **Canale**:
   `Code-based experience`\
   Le offerte non vengono iniettate direttamente nel DOM. Al contrario, AJO restituisce HTML non elaborato che viene analizzato utilizzando JavaScript personalizzato.
@@ -53,31 +66,31 @@ Quando un utente visita il sito web, il sistema ne rileva la posizione e recuper
 
 
 - **Avvia una nuova campagna**
-   - Passa alla sezione Campagne e crea una nuova campagna di marketing pianificata. Assegna un nome appropriato alla campagna.
-   - **Aggiungi azione**
-      - Aggiungi un’azione basata su codice e collega l’azione a una configurazione di canale creata in precedenza.
+  - Passa alla sezione Campagne e crea una nuova campagna di marketing pianificata. Assegna un nome appropriato alla campagna.
+  - **Aggiungi azione**
+    - Aggiungi un’azione basata su codice e collega l’azione a una configurazione di canale creata in precedenza.
 
 
 
-   - **Pubblico**
-      - Tutti i visitatori (impostazione predefinita).
-      - Tipo di identità: ECID (Experience Cloud ID)
-Questa impostazione utilizza l’ECID come identità principale per il riconoscimento degli utenti.
+  - **Pubblico**
+    - Tutti i visitatori (impostazione predefinita).
+    - Tipo di identità: ECID (Experience Cloud ID)
+      Questa impostazione utilizza l’ECID come identità principale per il riconoscimento degli utenti.
 
 
 - **Crea criterio di decisione**
-   - L&#39;azione è collegata a un **criterio di decisione** che definisce la modalità di selezione delle offerte e il numero di offerte restituite per la visualizzazione. Questo criterio utilizza una **strategia di selezione** creata in precedenza nell&#39;esercitazione.
-   - Per inserire il criterio di decisione, fai clic su **_Modifica contenuto_** nelle sezioni Azioni, quindi su **_Modifica codice_** per aprire l&#39;editor di personalizzazione.
-   - Seleziona l&#39;icona _&#x200B;**Criterio decisione**&#x200B;_ a sinistra e fai clic sul pulsante **Aggiungi criterio decisione** per aprire la schermata **Crea criterio decisione**. Specifica un nome significativo per il criterio di decisione e seleziona il numero di elementi che il criterio di decisione deve restituire. Il valore predefinito è 1.
-   - Fai clic su **_avanti_** e aggiungi la strategia di selezione creata nel passaggio precedente al criterio di decisione, quindi fai clic su **avanti** per completare il processo di creazione del criterio di decisione. Non sono state associate offerte di fallback ai criteri di decisione.
+  - L&#39;azione è collegata a un **criterio di decisione** che definisce la modalità di selezione delle offerte e il numero di offerte restituite per la visualizzazione. Questo criterio utilizza una **strategia di selezione** creata in precedenza nell&#39;esercitazione.
+  - Per inserire il criterio di decisione, fai clic su **_Modifica contenuto_** nelle sezioni Azioni, quindi su **_Modifica codice_** per aprire l&#39;editor di personalizzazione.
+  - Seleziona l&#39;icona _**Criterio decisione**_ a sinistra e fai clic sul pulsante **Aggiungi criterio decisione** per aprire la schermata **Crea criterio decisione**. Specifica un nome significativo per il criterio di decisione e seleziona il numero di elementi che il criterio di decisione deve restituire. Il valore predefinito è 1.
+  - Fai clic su **_avanti_** e aggiungi la strategia di selezione creata nel passaggio precedente al criterio di decisione, quindi fai clic su **avanti** per completare il processo di creazione del criterio di decisione. Non sono state associate offerte di fallback ai criteri di decisione.
 
 
 
 - **Inserisci criterio di decisione**
   ![editor di personalizzazione](assets/personalization-editor.png)
 
-  Inserire il criterio di decisione appena creato facendo clic sul pulsante _&#x200B;**Inserisci criterio**&#x200B;_. Inserisce un ciclo for nell’editor di personalizzazione sul lato destro.
-Posizionare il cursore tra ogni ciclo sulla riga due e inserire offerText spostandosi sull&#39;offerta eseguendo il drilling verso il basso su `tenant name`. Racchiudi l’offerta in un Div con la classe offer-item come mostrato nella schermata.
+  Inserire il criterio di decisione appena creato facendo clic sul pulsante _**Inserisci criterio**_. Inserisce un ciclo for nell’editor di personalizzazione sul lato destro.
+  Posizionare il cursore tra ogni ciclo sulla riga due e inserire offerText spostandosi sull&#39;offerta eseguendo il drilling verso il basso su `tenant name`. Racchiudi l’offerta in un Div con la classe offer-item come mostrato nella schermata.
 
 
 

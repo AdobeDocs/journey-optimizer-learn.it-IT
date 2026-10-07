@@ -5,15 +5,25 @@ jira: KT-7531
 feature: Journeys
 role: User
 level: Beginner
-last-substantial-update: 2023-02-01T00:00:00Z
+last-substantial-update: 2023-02-01T00:00:00.000Z
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
-workflow-type: ht
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d998adac-2f81-400b-a669-d07bb196e4eb
+    internal-label: Journeys
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
+workflow-type: tm+mt
 source-wordcount: '688'
 ht-degree: 100%
-
 ---
-
 
 # Creare un messaggio e-mail di conferma dell’ordine
 
@@ -47,9 +57,9 @@ Crea un percorso che invia un’e-mail di conferma dell’ordine quando un clien
 
    * Utilizza il modello `Luma - Order summary` e modificalo:
 
-      * Rimuovi le sezioni `You may also like`
+     * Rimuovi le sezioni `You may also like`
 
-      * Aggiungi il collegamento per annullare l’abbonamento nella parte inferiore dell’e-mail
+     * Aggiungi il collegamento per annullare l’abbonamento nella parte inferiore dell’e-mail
 
 L’e-mail deve essere strutturata nel modo seguente:
 
@@ -92,7 +102,7 @@ L’e-mail deve essere strutturata nel modo seguente:
       <li>Il nome e il cognome provengono dal profilo
       <li>Sostituisci l’indirizzo codificato nel modello con <b>l’indirizzo di spedizione</b>
       <li>I dettagli dell’indirizzo sono attributi contestuali dell’evento (via 1, città, codice postale, stato)
-      <li> Rimuovi <i>sconto, totale, in arrivo</i></p>
+      <li> Rimuovi <i>sconto, totale, arrivo</i></p>
   </td>
   <td>
   <p> Spedisci a:</p>
@@ -110,7 +120,7 @@ L’e-mail deve essere strutturata nel modo seguente:
       <p><b>Suggerimenti:</b>
       <li>Utilizza il componente della struttura <b>Colonna 1:2 a sinistra</b> per questa sezione
       <li>Si tratta di informazioni contestuali sull’evento.
-      <li>Utilizza la [!UICONTROL funzione helper]: [!UICONTROL Each]
+      <li>Utilizza la [!UICONTROL helper function]: [!UICONTROL Each]
       <li>Passa al formato dell’editor di codice per aggiungere i dati contestuali.
   </td>
   <td>

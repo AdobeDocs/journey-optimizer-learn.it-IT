@@ -5,20 +5,33 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-06-10T00:00:00Z
+last-substantial-update: 2025-06-10T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
 exl-id: 609a5ddf-d6c6-4f19-bd7f-bca8c266b759
-source-git-commit: 3928a113f74d37b5b9cc2014c526326ef47d4919
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: a984631b-2bae-4860-9b15-69c41a799dcb
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: a7a194a0-75e2-4913-8a83-14714fbf68e6
+    internal-label: Decisioning API
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '473'
 ht-degree: 0%
-
 ---
-
 # Testare la soluzione
 
-Per testare la soluzione end-to-end, estrai il file weather-offers.html e weather-related-offers-script.js da [weather-offers.zip].(assets/weather-offers.zip) Questi file devono essere ospitati su un server web o su un servizio di hosting pubblico come le Pagine Github. Ciò è necessario perché:
+Per testare la soluzione end-to-end, estrai il file weather-offers.html e weather-related-offers-script.js da [weather-offers.zip].(assets/weather-offers.zip) Questi file devono essere ospitati su un server web o su un servizio di hosting pubblico come le pagine Github. Ciò è necessario perché:
 - L’API di geolocalizzazione del browser funziona solo tramite HTTPS o localhost
 
 Per mantenere gli elementi organizzati e garantire il corretto funzionamento dei percorsi relativi, si consiglia di utilizzare la seguente struttura di cartelle per ospitare la soluzione:
@@ -96,13 +109,13 @@ JavaScript recupera dinamicamente le informazioni meteo in base alla posizione d
 
 6. **Recupera ed esegue il rendering delle offerte**
 
-&#x200B;* Riceve le offerte restituite da AJO Decisioning.
+* Riceve le offerte restituite da AJO Decisioning.
 
-&#x200B;* Decodifica il contenuto HTML.
+* Decodifica il contenuto HTML.
 
-&#x200B;* Inserisce dinamicamente le offerte nel <div id="offerContainer"> elemento.
+* Inserisce dinamicamente le offerte nel <div id="offerContainer"> elemento.
 
 ## Passaggi successivi
 
-[Misura e segnala l&#39;impatto di AJO Decisioning.](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/decisioning/experience-decisioning/cja-reporting)
+[Misura e segnala l’impatto di AJO Decisioning.](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/cja-reporting)
 

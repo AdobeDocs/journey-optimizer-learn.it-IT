@@ -10,13 +10,26 @@ recommendations: noDisplay, noCatalog
 jira: KT-13983
 thumbnail: KT-13983.jpeg
 exl-id: 0f84adfb-edb1-47fa-b696-58eec2b33bb1
-source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d0a62d3c-b79e-47e4-929e-40ef3cffa037
+    internal-label: Communication channels
+subfeature_v2:
+  - id: cc5c44e2-54a1-4927-b794-442cd87d8f74
+    internal-label: In App channel
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '699'
-ht-degree: 2%
-
+source-wordcount: '778'
+ht-degree: 5%
 ---
-
 # Lezione 3 - Creare una campagna web in-app
 
 Dopo aver creato le esperienze mobili per l’app, in questa lezione crei una delle esperienze che hai visto sul sito Fréscopa. Puoi creare una campagna in-app web. Puoi progettare e personalizzare un messaggio e definire un trigger che attiva il messaggio.
@@ -154,7 +167,7 @@ In questa sezione puoi definire il contenuto, la progettazione e il layout del m
 
 **Documentazione del prodotto:**
 
-* [Introduzione al canale in-app](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/in-app/get-started-in-app)
-* [Creare un messaggio Web in-app](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/in-app/create-in-app-web)
-* [Creare contenuto in-app](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/in-app/design-in-app)
-* [Controlla e invia la notifica in-app](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/in-app/send-in-app)
+* [Introduzione al canale in-app](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [Creare un messaggio in-app per il web](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app-web)
+* [Creare contenuti in-app](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
+* [Verifica e invio della notifica in-app](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)

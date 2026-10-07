@@ -5,17 +5,30 @@ feature: Audiences
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-06-10T00:00:00Z
+last-substantial-update: 2025-06-10T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
 exl-id: 1c7fe9e7-ab72-4d7b-960a-512d0e25808b
-source-git-commit: 319b1cd4a037807a944e5fb6438e47b5fcf4c1c4
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d2971708-e780-44bb-9e2a-72f139796afd
+    internal-label: Customer
+subfeature_v2:
+  - id: b32bb433-f8c6-4931-8e52-e657230a3bf2
+    internal-label: Audiences
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '336'
 ht-degree: 0%
-
 ---
-
 # Configurare schema XDM, set di dati e stream di dati in AEP
 
 ## Crea schema XDM
@@ -25,30 +38,30 @@ Per utilizzare Adobe Experience Platform Web SDK (Alloy.js) in una pagina web, i
 Per creare uno schema XDM
 
 - Accedi a Adobe Experience Platform
-- Passa a _&#x200B;**Gestione dati -> Schemi -> Crea schema**&#x200B;_
+- Passa a _**Gestione dati -> Schemi -> Crea schema**_
 
-- Crea uno schema basato su evento XDM denominato **_Schema meteo_**. Se non sai creare uno schema, segui questa [documentazione](https://experienceleague.adobe.com/it/docs/experience-platform/xdm/tutorials/create-schema-ui)
+- Crea uno schema basato su evento XDM denominato **_Schema meteo_**. Se non sai creare uno schema, segui questa [documentazione](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)
 
 
 - Assicurati che lo schema presenti i seguenti campi con il tipo di dati appropriato.
 
 - ![schema-meteo](assets/weather-schema.png)
 
-- Aggiungere il gruppo di campi _&#x200B;**Dettagli Web**&#x200B;_ allo schema. Questo gruppo di campi è obbligatorio a scopo di reporting.
+- Aggiungere il gruppo di campi _**Dettagli Web**_ allo schema. Questo gruppo di campi è obbligatorio a scopo di reporting.
 
 ## Creare un set di dati basato sullo schema
 
 Un **set di dati in Adobe Experience Platform (AEP)** è un contenitore di archiviazione strutturato utilizzato per acquisire, archiviare e attivare dati in base a uno schema XDM definito.
 
-- Passa a _&#x200B;**Gestione dati -> Set di dati -> Crea set di dati**&#x200B;_
-- Crea un set di dati denominato **_Set di dati-Schema-Meteo_** in base allo schema XDM(_&#x200B;**Schema-Meteo**&#x200B;_) creato nel passaggio precedente.
+- Passa a _**Gestione dati -> Set di dati -> Crea set di dati**_
+- Crea un set di dati denominato **_Set di dati-Schema-Meteo_** in base allo schema XDM(_**Schema-Meteo**_) creato nel passaggio precedente.
 
 
 ## Creare uno stream di dati
 
 Un flusso di dati in Adobe Experience Platform è simile a una pipeline (o autostrada) sicura che connette il sito web o l’app ai servizi Adobe, consentendo il flusso dei dati e la reintroduzione di contenuti personalizzati.
 
-- Passa a _&#x200B;**Raccolta dati > Flussi dati**&#x200B;_, quindi fai clic su Nuovo flusso dati. Denomina lo stream di dati **relativo al meteo-stream**
+- Passa a _**Raccolta dati > Flussi dati**_, quindi fai clic su Nuovo flusso dati. Denomina lo stream di dati **relativo al meteo-stream**
 
 
 - Fornisci i seguenti dettagli come mostrato nella schermata seguente

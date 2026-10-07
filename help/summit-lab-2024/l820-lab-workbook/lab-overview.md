@@ -8,15 +8,28 @@ doc-type: Tutorial
 duration: 0
 jira: KT-14977
 thumbnail: KT-14977.jpeg
-last-substantial-update: 2024-03-26T00:00:00Z
+last-substantial-update: 2024-03-26T00:00:00.000Z
 exl-id: e6d029f9-c936-427b-9d6e-4e296fd3c3ce
-source-git-commit: 1de5297037b9ec707fca7f28e65ae6149f7ad076
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: bb359667-ec7d-4d4b-8663-5850fc219d32
+    internal-label: Administration
+subfeature_v2:
+  - id: fdac7813-bd56-47ae-9f6d-fa94ad1c5dee
+    internal-label: Overview
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '505'
 ht-degree: 0%
-
 ---
-
 # CARTELLA DI LAVORO LAB
 
 ![Adobe Summit - testo alternativo](/help/summit-lab-2024/l820-lab-workbook/assets/adobe-summit.png "Adobe Summit")
@@ -35,11 +48,11 @@ In questo laboratorio pratico puoi esplorare vari scenari mobili e imparare a im
 >I partecipanti non possono riprodurre, utilizzare, diffondere o divulgare informazioni riservate a nessuna persona o entità.
 >Le informazioni sul prodotto sono fornite a solo scopo informativo, non garantiscono alcuna funzionalità o caratteristica futura e sono soggette a modifiche in qualsiasi momento. Di conseguenza, tali funzionalità o caratteristiche del prodotto non fanno in alcun modo parte del tuo contratto con Adobe né sono in alcun modo vincolate a te.
 ><br>
->**Esclusione di responsabilità**
+>**Dichiarazione di non responsabilità**
 >Adobe offre un accesso anticipato alle funzioni, che sfruttano la tecnologia di intelligenza artificiale generativa. Queste funzioni sono ancora in fase di sviluppo e possono produrre risposte impreviste o imprecise. Apprezziamo il tuo feedback nell&#39;introduzione di questa funzione sul mercato.
 
 
-### Punti chiave da eliminare
+### Concetti chiave
 
 * Scopri la varietà di esperienze mobili supportate.
 * Configurare una campagna push.
@@ -51,7 +64,7 @@ In questo laboratorio pratico puoi esplorare vari scenari mobili e imparare a im
 
 * Conoscere il proprio numero di posto: è possibile trovare il proprio numero di posto sulla scrivania della macchina da laboratorio:
 
-![Postazione numero](/help/summit-lab-2024/l820-lab-workbook/assets/locate-seat-number.png)
+![Numero posto](/help/summit-lab-2024/l820-lab-workbook/assets/locate-seat-number.png)
 È necessario accedere a:
 
 * [Adobe Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-ajo-lab/journey-optimizer/home){target="_blank"} - i dettagli di accesso vengono forniti durante gli esercizi.
