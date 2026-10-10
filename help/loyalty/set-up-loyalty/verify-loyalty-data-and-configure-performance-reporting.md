@@ -34,4 +34,4 @@ ht-degree: 0%
 
 Scopri come inviare dati di esempio di profilo fedeltà ed evento a Adobe Experience Platform, verificare che vengano visualizzati nei set di dati e nel profilo cliente unificato, quindi selezionare i set di dati e assegnare la priorità a un KPI nelle impostazioni Prestazioni fedeltà.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504119/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504126/?captions=ita&learn=on)
