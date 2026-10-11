@@ -34,4 +34,4 @@ ht-degree: 0%
 
 Scopri come creare una connessione API HTTP e flussi di dati, quindi mappare i campi evento e profilo fedeltà in ingresso sui set di dati.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504118/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504135/?captions=ita&learn=on)

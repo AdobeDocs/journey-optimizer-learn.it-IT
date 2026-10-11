@@ -34,4 +34,4 @@ ht-degree: 0%
 
 Scopri come impostare gli schemi XDM e i set di dati abilitati per il profilo necessari per ricevere i dati di eventi e membri fedeltà in Adobe Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504120/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504144/?captions=ita&learn=on)
