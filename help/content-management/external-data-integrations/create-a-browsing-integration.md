@@ -41,6 +41,6 @@ ht-degree: 0%
 
 Scopri come configurare un’integrazione Browsing per un’API esterna, collegarla a un’integrazione Standard e consentire agli addetti al marketing di cercare, sfogliare e selezionare elementi nell’editor di AJO senza immettere manualmente i valori.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504295/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504301/?captions=ita&learn=on&enablevpops)
 
 Per ulteriori informazioni, vedere la [documentazione sull&#39;integrazione esplorativa](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/content-management/combine/integrations/integrations-browsing).
