@@ -43,4 +43,4 @@ Scopri come configurare un’integrazione Browsing per un’API esterna, collega
 
 >[!VIDEO](https://video.tv.adobe.com/v/3504295/?learn=on&enablevpops)
 
-Per ulteriori informazioni, vedere la [documentazione sull&#39;integrazione esplorativa](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/integrations/integrations-browsing).
+Per ulteriori informazioni, vedere la [documentazione sull&#39;integrazione esplorativa](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/content-management/combine/integrations/integrations-browsing).
