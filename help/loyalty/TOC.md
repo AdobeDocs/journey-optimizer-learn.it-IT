@@ -6,9 +6,9 @@ level: Beginner
 breadcrumb-title: fedeltà
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty/overview
 auto-video-transcripts: true
-source-git-commit: a07c147cfaeb33372c1626a2c23b54c77c28f637
+source-git-commit: 07cd7b44db7e534b5b7b3cf7b96fe7ce584047c3
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '177'
 ht-degree: 0%
 ---
 
@@ -19,6 +19,7 @@ ht-degree: 0%
   + [Scopri Journey Optimizer Loyalty](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
   + [Comprendere i concetti della sfida di fedeltà](./introduction-to-loyalty/understand-loyalty-challenge-concepts.md)
 + Imposta fedeltà {#set-up-loyality}
+  + [Esplora le opzioni di configurazione per le sfide di fidelizzazione](./set-up-loyalty/explore-the-configuration-options-for-loyalty-challenges.md)
   + Configurare l’acquisizione dei dati fedeltà {#set-up-loyalty-data-ingestion}
     + [Preparare le strutture dei dati fedeltà](./set-up-loyalty/prepare-loyalty-data-structures.md)
     + [Connettere e mappare i dati fedeltà](./set-up-loyalty/connect-and-map-loyalty-data.md)
