@@ -2,8 +2,7 @@
 source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
 workflow-type: tm+mt
 source-wordcount: '275'
-ht-degree: 3%
-
+ht-degree: 5%
 ---
 # WhatsApp
 
@@ -24,7 +23,7 @@ Esempi:
 
 Scegli WhatsApp come tuo canale preferito quando devi:
 
-| # | Beneficio | Perché | Casi d’uso di esempio |
+| # | Beneficio | Il motivo | Casi d’uso di esempio |
 |---|---------|-----|-------------------|
 | 1 | Raggiungi gli utenti su una piattaforma di messaggistica ampiamente utilizzata | WhatsApp ha una grande base di utenti attiva a livello globale con un elevato coinvolgimento | <ul><li>Aggiornamenti di ordine e consegna</li><li>Conversazioni con l’Assistenza clienti</li></ul> |
 | 2 | Consegna di messaggi avanzati e interattivi | Supporta immagini, video, documenti, pulsanti e risposte rapide | <ul><li>Campagne promozionali con i CTA</li><li>Indagini interattive o richieste di feedback</li></ul> |
