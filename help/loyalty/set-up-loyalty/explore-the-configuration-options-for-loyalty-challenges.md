@@ -32,4 +32,4 @@ ht-degree: 0%
 
 Esplora le opzioni di configurazione che supportano le sfide relative alla fedeltà, tra cui impostazioni globali, reporting, premi, mappatura degli eventi, inventario dei prodotti ed esclusioni. Per istruzioni dettagliate sulla configurazione, guarda i video dedicati sui fornitori di premi e sulla mappatura degli eventi.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504405/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504420/?captions=ita&learn=on&enablevpops)
