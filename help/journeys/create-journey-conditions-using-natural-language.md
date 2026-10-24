@@ -29,4 +29,4 @@ ht-degree: 0%
 
 Scopri come la funzionalità di intelligenza artificiale di Adobe Journey Optimizer trasforma i prompt in lingua inglese semplice in condizioni di percorso senza scrivere il linguaggio di espressione. Questo video illustra come utilizzare l’iscrizione fedeltà e gli assegni degli utenti inattivi per creare percorsi cliente più rilevanti.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504894/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504900/?captions=ita&learn=on&enablevpops)
