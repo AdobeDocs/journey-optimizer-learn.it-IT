@@ -30,4 +30,4 @@ ht-degree: 100%
 
 Scopri come creare una campagna con esperienze basate su codice per estendere la personalizzazione con il supporto di metodi di implementazione lato server, basati su API o basati su SDK, per un’integrazione perfetta con gli ambienti di sviluppo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428868/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449461/?captions=ita&learn=on)

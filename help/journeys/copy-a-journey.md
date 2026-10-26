@@ -31,4 +31,4 @@ ht-degree: 100%
 
 Scopri come copiare un percorso e i relativi oggetti dipendenti da una sandbox all’altra.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409593?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413054?captions=ita&quality=12&learn=on){transcript=true}

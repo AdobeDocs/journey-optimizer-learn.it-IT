@@ -41,6 +41,6 @@ ht-degree: 100%
 
 Scopri come creare un’integrazione standard per utilizzare contenuti e dati esterni nell’authoring dei canali Adobe Journey Optimizer. Questo è utile per migliorare la personalizzazione e il coinvolgimento nei canali in uscita. Guarda il video seguente per saperne di più.
 
->[!VIDEO](https://video.tv.adobe.com/v/3484118/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3484126/?captions=ita&learn=on&enablevpops)
 
 Per ulteriori informazioni, consulta la [documentazione dell’integrazione standard](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/content-management/combine/integrations/integrations-create).

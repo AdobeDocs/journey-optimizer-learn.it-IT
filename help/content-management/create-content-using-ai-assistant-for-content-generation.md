@@ -38,4 +38,4 @@ ht-degree: 100%
 
 Scopri come utilizzare l’Assistente IA per la generazione di contenuti per ottenere suggerimenti proattivi per la variazione dei contenuti relativi a testo e immagini.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434635/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434643/?captions=ita&learn=on)

@@ -36,4 +36,4 @@ ht-degree: 100%
 
 Comprendi le funzionalità e i ruoli chiave di Journey Optimizer. Scopri come navigare nell’interfaccia utente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424995?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430321?captions=ita&quality=12&learn=on){transcript=true}

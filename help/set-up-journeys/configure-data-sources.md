@@ -35,4 +35,4 @@ ht-degree: 100%
 
 Scopri cos’è un’origine dati e come configurare le origini dati esterne e di Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/334256?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416635?captions=ita&quality=12&learn=on){transcript=true}
