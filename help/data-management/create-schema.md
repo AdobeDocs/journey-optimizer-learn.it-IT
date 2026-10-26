@@ -25,7 +25,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '95'
 ht-degree: 100%
 ---
@@ -33,6 +33,6 @@ ht-degree: 100%
 
 Questo video mostra come creare gli schemi in Adobe Experience Platform utilizzando la classe XDM Profilo individuale e vari gruppi di campi.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430219?captions=ita&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27012?quality=12&learn=on){transcript=true}
 
 Per la documentazione dettagliata del prodotto, consulta [Introduzione agli schemi](https://experienceleague.adobe.com/docs/journey-optimizer/using/data-management/get-started-schemas.html?lang=it), [Creare uno schema nell’interfaccia utente](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=it) e [Creare uno schema con l’API](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-api.html?lang=it).

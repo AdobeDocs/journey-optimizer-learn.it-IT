@@ -25,7 +25,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '132'
 ht-degree: 100%
 ---
@@ -33,6 +33,6 @@ ht-degree: 100%
 
 Scopri come configurare e inviare messaggi RCS interattivi e in linea con il brand in Adobe Journey Optimizer utilizzando un provider SMS personalizzato. Questo tutorial illustra come configurare credenziali API, webhook e configurazioni di canale e quindi creare un percorso per offrire esperienze di messaggistica avanzate personalizzate all’interno dell’app di messaggistica nativa.
 
->[!VIDEO](https://video.tv.adobe.com/v/3464763/?captions=ita&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464755/?learn=on&enablevpops)
 
 Per ulteriori informazioni sulla configurazione di RCS, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/channels/sms/configure-sms/sms-configuration).

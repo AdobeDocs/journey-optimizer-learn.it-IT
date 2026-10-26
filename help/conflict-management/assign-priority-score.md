@@ -31,7 +31,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
 ht-degree: 100%
 ---
@@ -39,6 +39,6 @@ ht-degree: 100%
 
 Scopri come assegnare la priorità alle azioni in entrata, garantendo che i contenuti con la priorità più elevata vengano consegnati alla clientela idonea per più azioni in entrata utilizzando la stessa configurazione di canale.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445009/?captions=ita&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3435529/?learn=on&enablevpops)
 
 Consulta la documentazione del prodotto per ulteriori informazioni su come [assegnare punteggi di priorità a percorsi e campagne](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/conflict-prioritization/priority-scores).

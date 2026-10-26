@@ -29,7 +29,7 @@ level_v2:
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '119'
 ht-degree: 100%
 ---
@@ -39,6 +39,6 @@ Scopri come monitorare in modo efficace lo stato operativo e le prestazioni dell
 
 Questo rapporto aiuta a identificare i problemi, migliorare le prestazioni del percorso e garantire un funzionamento senza problemi.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479549/?captions=ita&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479541/?learn=on&enablevpops)
 
 Per ulteriori informazioni su questa funzione, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/configure-journeys/action-journeys/reporting).

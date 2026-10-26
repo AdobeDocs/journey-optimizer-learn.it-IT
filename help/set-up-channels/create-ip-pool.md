@@ -29,7 +29,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '42'
 ht-degree: 100%
 ---
@@ -37,4 +37,4 @@ ht-degree: 100%
 
 Scopri come creare un pool IP per proteggere la reputazione del mittente e migliorare la recapitabilità dei messaggi e-mail.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463257/?captions=ita&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463145/?learn=on&enablevpops)

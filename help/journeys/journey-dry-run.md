@@ -22,7 +22,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '217'
 ht-degree: 100%
 ---
@@ -30,6 +30,6 @@ ht-degree: 100%
 
 Questo tutorial introduce la funzione di esecuzione di prova del percorso in Adobe Journey Optimizer, che consente ai marketer di testare la logica del percorso senza inviare comunicazioni reali. Scoprirai come attivare un percorso in modalità di esecuzione di prova, configurare opzioni quali la disabilitazione dei tempi di attesa e delle origini dati esterne e interpretare le metriche del flusso del profilo per convalidare la segmentazione del pubblico e la logica condizionale. Scopri come identificare e risolvere i problemi, ad esempio i refusi nei nodi delle condizioni, e come accedere ed esportare i rapporti di esecuzione di prova per ulteriori analisi prima di avviare il percorso e renderlo disponibile.
 
->[!VIDEO](https://video.tv.adobe.com/v/3464690/?captions=ita&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464681/?learn=on&enablevpops)
 
 Per ulteriori informazioni su questa funzione, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/orchestrate-journeys/create-journey/journey-dry-run).

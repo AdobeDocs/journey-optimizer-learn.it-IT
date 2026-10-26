@@ -31,9 +31,9 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '226'
-ht-degree: 75%
+ht-degree: 100%
 ---
 
 # Pianificare il pubblico utilizzando Adobe Marketing Agent for Microsoft 365 Copilot
@@ -44,7 +44,7 @@ Questo video illustra il processo di selezione, analisi e preparazione del pubbl
 
 Guarda il video incorporato qui sotto per vedere una demo live di Adobe Marketing Agent in azione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3491191/?captions=ita&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491171/?learn=on&enablevpops)
 
-Per ulteriori informazioni su come iniziare, guarda [Introduzione ad Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/it/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-get-started){target="_blank"}.
-Per vedere come gli esperti di marketing utilizzano Adobe Marketing Agent for Microsoft 365 Copilot per pianificare campagne, esaminare le prestazioni e monitorare i percorsi in-flight guardare [Flussi di lavoro di marketing con Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/it/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-workflows){target="_blank"}.
+Per ulteriori informazioni su come iniziare, guarda [Introduzione a Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/it/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-get-started){target="_blank"}.
+Per scoprire come i marketer utilizzano Adobe Marketing Agent for Microsoft 365 Copilot per pianificare le campagne, esaminare le prestazioni e monitorare i percorsi attivi, guarda [Flussi di lavoro di marketing con Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/it/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-workflows){target="_blank"}.

@@ -20,7 +20,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '88'
 ht-degree: 100%
 ---
@@ -28,6 +28,6 @@ ht-degree: 100%
 
 Scopri come [creare i tag](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-tags.html?lang=it) in [!DNL Decision Management]. I tag sono componenti di base facoltativi delle offerte. Possono essere utilizzati per organizzare le offerte e raggrupparle in raccolte dinamiche.
 
->[!VIDEO](https://video.tv.adobe.com/v/341370?captions=ita&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329374?quality=12&learn=on){transcript=true}
 
 Per ulteriori informazioni su come creare tag con un’API, consulta la [guida del prodotto](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/tags/create.html?lang=it).

@@ -28,7 +28,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '139'
 ht-degree: 100%
 ---
@@ -42,6 +42,6 @@ Scopri come creare e gestire i criteri di utilizzo dei dati. I criteri di utiliz
 >
 >Guarda questo [tutorial](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md) per scoprire come vengono applicati i criteri nei canali Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/37131/?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/32977/?learn=on)
 
 Per ulteriori informazioni su come [utilizzare i criteri di consenso](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/privacy/consent/consent) in Journey Optimizer, consulta la documentazione sul prodotto.

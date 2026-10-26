@@ -27,7 +27,7 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
 ht-degree: 100%
 ---
@@ -36,4 +36,4 @@ ht-degree: 100%
 
 Scopri come utilizzare l’agente Journey, un assistente basato sull’IA integrato in Adobe Journey Optimizer, per analizzare percorsi live, identificare conflitti di pubblico e fallout del profilo e creare percorsi completi in più passaggi utilizzando il linguaggio naturale. Questo video illustra come l’agente Journey fornisce insight trasparenti, consigli fruibili e approvazioni guidate, per risolvere eventuali problemi dei percorsi esistenti e creare nuovi percorsi in modo più rapido, senza uscire dall’assistente IA
 
->[!VIDEO](https://video.tv.adobe.com/v/3486302/?captions=ita&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486294/?learn=on&enablevpops)

@@ -20,7 +20,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
 ht-degree: 100%
 ---
@@ -30,4 +30,4 @@ Scopri come creare raccolte per la gestione delle decisioni.
 
 Le raccolte vengono utilizzate per gestire le offerte in gruppi logici e sono necessarie per creare attività di gestione delle decisioni. Le raccolte dinamiche consentono di raggruppare le offerte in base ai tag, mentre le raccolte ti consentono di organizzare le offerte manualmente.
 
->[!VIDEO](https://video.tv.adobe.com/v/346688?captions=ita&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329376?quality=12&learn=on){transcript=true}

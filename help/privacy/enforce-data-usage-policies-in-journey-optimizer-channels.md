@@ -33,7 +33,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
 ht-degree: 100%
 ---
@@ -41,6 +41,6 @@ ht-degree: 100%
 
 Scopri come vengono applicati i criteri di utilizzo dei dati nei canali Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434913/?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434901/?learn=on)
 
 Per ulteriori informazioni sulla [governance dei dati](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/privacy/action-privacy-restricted) e su come [utilizzare i criteri di consenso](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/privacy/consent/consent) in Journey Optimizer, consulta la documentazione sul prodotto.

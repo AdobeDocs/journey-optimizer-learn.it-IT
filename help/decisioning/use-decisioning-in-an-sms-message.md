@@ -28,7 +28,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '47'
 ht-degree: 100%
 ---
@@ -36,4 +36,4 @@ ht-degree: 100%
 
 Scopri come utilizzare la funzione Decisioni di AJO per personalizzare e ottimizzare i contenuti degli SMS. Ottimizza i messaggi SMS per migliorare il coinvolgimento e soddisfare gli obiettivi aziendali.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479537/?captions=ita&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479529/?learn=on&enablevpops)

@@ -32,7 +32,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '134'
 ht-degree: 100%
 ---
@@ -41,6 +41,6 @@ ht-degree: 100%
 
 Scopri come rendere modificabili i componenti HTML all’interno di un frammento, consentendo aggiornamenti dinamici sia al contenuto che allo stile. Scopri come strutturare il tuo HTML, configurare campi modificabili in linea e collegarli al contenuto e agli stili CSS predefiniti, quindi come testare e convalidare le modifiche in un ambiente di campagna live.
 
->[!VIDEO](https://video.tv.adobe.com/v/3464376/?captions=ita&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464363/?learn=on&enablevpops)
 
 Per ulteriori informazioni su questa funzione, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/content-management/fragments/customizable-fragments){target="_blank"}.

@@ -35,7 +35,7 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '114'
 ht-degree: 100%
 ---
@@ -50,6 +50,6 @@ Scopri come abbonarti ad avvisi predefiniti per comportamenti di percorso imprev
 >
 >Quando si accede agli avvisi da Journey Optimizer, per impostazione predefinita vengono visualizzati solo gli avvisi specifici ai percorsi live.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423920?captions=ita&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/336218?quality=12&learn=on){transcript=true}
 
 Per ulteriori informazioni, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/monitor/monitor-alerts-errors/alerts){target="_blank"}.

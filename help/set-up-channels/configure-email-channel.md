@@ -30,7 +30,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '105'
 ht-degree: 100%
 ---
@@ -38,4 +38,4 @@ ht-degree: 100%
 
 Scopri come configurare il canale e-mail in Adobe Journey Optimizer. Il video illustra come impostare le configurazioni delle e-mail, inclusi i sottodomini, i pool IP, la gestione degli annullamenti dell’abbonamento, la personalizzazione del mittente, gli elenchi CCN e seed, la logica dei nuovi tentativi e i parametri di tracciamento. Mette in risalto la conformità, la recapitabilità e la personalizzazione per ottimizzare le prestazioni delle e-mail di marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416660?captions=ita&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/334343?quality=12&learn=on){transcript=true}

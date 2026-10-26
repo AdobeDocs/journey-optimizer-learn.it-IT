@@ -27,7 +27,7 @@ level_v2:
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
 ht-degree: 100%
 ---
@@ -36,4 +36,4 @@ ht-degree: 100%
 
 Scopri la nuova esperienza nell’area di lavoro del percorso in Adobe Journey Optimizer. Questo aggiornamento introduce un motore di rendering moderno che ottimizza l’area di lavoro del percorso, allineandola con l’esperienza già utilizzata nelle campagne orchestrate e nella composizione del pubblico.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496199/?captions=ita&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496193/?learn=on&enablevpops)

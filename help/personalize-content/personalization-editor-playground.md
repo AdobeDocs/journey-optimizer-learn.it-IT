@@ -28,7 +28,7 @@ level_v2:
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '79'
 ht-degree: 100%
 ---
@@ -38,4 +38,4 @@ Il [playground dell’editor di personalizzazione](https://experienceleague.adob
 
 Scopri come sfruttare gli esempi di codice predefiniti, modificare i payload di profilo fittizi e visualizzare in anteprima l’output del codice di personalizzazione in tempo reale.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475960/?captions=ita&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457868/?learn=on&enablevpops)
