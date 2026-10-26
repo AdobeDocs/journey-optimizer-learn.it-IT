@@ -1,6 +1,6 @@
 ---
-title: Creare un’integrazione di Browsing
-description: Scopri come configurare un’integrazione Browsing per un’API esterna, collegarla a un’integrazione Standard e consentire agli addetti al marketing di cercare, sfogliare e selezionare elementi nell’editor di AJO senza immettere manualmente i valori.
+title: Creare un’integrazione di navigazione
+description: Scopri come configurare un’integrazione di navigazione per un’API esterna, collegarla a un’integrazione standard e consentire ai marketer di cercare, sfogliare e selezionare elementi nell’editor di AJO senza inserire manualmente i valori.
 feature: Personalization, API, Channel Configuration
 role: Admin, User
 level: Intermediate
@@ -32,15 +32,15 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: 53fc4917e68a32d967633cf7188eabf997bfaf14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '95'
-ht-degree: 0%
+ht-degree: 100%
 ---
 
-# Creare un’integrazione di Browsing
+# Creare un’integrazione di navigazione
 
-Scopri come configurare un’integrazione Browsing per un’API esterna, collegarla a un’integrazione Standard e consentire agli addetti al marketing di cercare, sfogliare e selezionare elementi nell’editor di AJO senza immettere manualmente i valori.
+Scopri come configurare un’integrazione di navigazione per un’API esterna, collegarla a un’integrazione standard e consentire ai marketer di cercare, sfogliare e selezionare elementi nell’editor di AJO senza inserire manualmente i valori.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3504301/?captions=ita&learn=on&enablevpops)
 
-Per ulteriori informazioni, vedere la [documentazione sull&#39;integrazione esplorativa](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/content-management/combine/integrations/integrations-browsing).
+Per ulteriori informazioni, consulta la [documentazione dell’integrazione di navigazione](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/content-management/combine/integrations/integrations-browsing).

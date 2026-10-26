@@ -1,6 +1,6 @@
 ---
-title: Creare un’integrazione Standard
-description: Scopri come creare un’integrazione Standard per utilizzare dati e contenuti esterni nell’authoring dei canali Adobe Journey Optimizer e migliorare la personalizzazione tra i canali in uscita.
+title: Creare un’integrazione standard
+description: Scopri come creare un’integrazione standard per utilizzare contenuti e dati esterni nell’authoring dei canali Adobe Journey Optimizer e migliorare la personalizzazione tra i canali in uscita.
 feature: Personalization, API, Channel Configuration
 role: Admin, User
 level: Intermediate
@@ -33,14 +33,14 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: 53fc4917e68a32d967633cf7188eabf997bfaf14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 19%
+ht-degree: 100%
 ---
-# Creare un’integrazione Standard
+# Creare un’integrazione standard
 
-Scopri come creare un’integrazione Standard per utilizzare dati e contenuti esterni nell’authoring dei canali Adobe Journey Optimizer. Questo è utile per migliorare la personalizzazione e il coinvolgimento nei canali in uscita. Guarda il video seguente per saperne di più.
+Scopri come creare un’integrazione standard per utilizzare contenuti e dati esterni nell’authoring dei canali Adobe Journey Optimizer. Questo è utile per migliorare la personalizzazione e il coinvolgimento nei canali in uscita. Guarda il video seguente per saperne di più.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3484126/?captions=ita&learn=on&enablevpops)
 
-Per ulteriori informazioni, consulta la [documentazione sull&#39;integrazione Standard](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/content-management/combine/integrations/integrations-create).
+Per ulteriori informazioni, consulta la [documentazione dell’integrazione standard](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/content-management/combine/integrations/integrations-create).
