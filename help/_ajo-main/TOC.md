@@ -3,9 +3,9 @@ user-guide-title: Tutorial su Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial su Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: a56917f03581d014c45e777437f090dba863f4a2
+source-git-commit: 05581307a9ec85afe92c517b69bf4f4921226d03
 workflow-type: tm+mt
-source-wordcount: '1589'
+source-wordcount: '1598'
 ht-degree: 99%
 ---
 
@@ -47,6 +47,7 @@ ht-degree: 99%
   + [Accelerare i test di percorso con la simulazione rapida](/help/journeys/accelerate-journey-testing-with-quick-simulation.md)
   + [Pubblicare un percorso](/help/journeys/publish-a-journey.md)
   + [Attività di decisione sui contenuti](/help/journeys/content-decision-activity.md)
+  + [Utilizzare l’ottimizzazione dei canali per raggiungere i clienti dove interagiscono](/help/journeys/use-channel-optimization.md)
   + [Utilizzare la ricerca in set di dati in un percorso](/help/journeys/lookup-dataset.md)
   + [Filtrare con più attributi](/help/journeys/mastering-multi-attribute-filtering.md)
   + [Utilizzare il targeting di più entità con pubblico federato nei percorsi](/help/journeys/multi-entity-targeting-in-journeys.md)
