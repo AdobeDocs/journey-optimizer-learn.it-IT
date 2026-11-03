@@ -1,6 +1,6 @@
 ---
-title: Creare una sfida di fidelizzazione e approfondimenti con CX Enterprise Collaborator
-description: Scopri come utilizzare CX Enterprise Collaborator per creare, configurare e avviare le sfide di fidelizzazione utilizzando il linguaggio naturale, inclusi audience, premi, pianificazioni e configurazione automatica del percorso.
+title: Creare una sfida di fedeltà e approfondimenti di superficie con CX Enterprise Coworker
+description: Scopri come utilizzare CX Enterprise Coworker per creare e lanciare sfide di fidelizzazione in Adobe Journey Optimizer.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -29,16 +29,14 @@ topic_v2:
     internal-label: Customer experience
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: b37854eacf05b80bcb24c94fe9248cfe18c7ac02
+source-git-commit: 6b3d2ad0ea5d8f185d6c8482e2f4f92f4bb75ded
 workflow-type: tm+mt
-source-wordcount: 72
+source-wordcount: '72'
 ht-degree: 0%
-
 ---
 
+# Creare una sfida di fedeltà e approfondimenti di superficie con CX Enterprise Coworker
 
-# Creare una sfida di fidelizzazione e approfondimenti con CX Enterprise Collaborator
-
-Scopri come utilizzare CX Enterprise Collaborator per creare, configurare e avviare le sfide di fidelizzazione utilizzando il linguaggio naturale, inclusi audience, premi, pianificazioni e configurazione automatica del percorso.
+Utilizza le istruzioni in linguaggio semplice per creare, configurare e avviare sfide di fidelizzazione con CX Enterprise Coworker. In questo video, scopri come impostare tipi di pubblico, premi e pianificazioni, automatizzare la configurazione del percorso e rivedere le informazioni sulla sfida.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3496544/?captions=ita&learn=on&enablevpops)
