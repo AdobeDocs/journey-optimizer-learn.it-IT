@@ -39,4 +39,4 @@ ht-degree: 0%
 
 Utilizza le istruzioni in linguaggio semplice per creare, configurare e avviare sfide di fidelizzazione con CX Enterprise Coworker. In questo video, scopri come impostare tipi di pubblico, premi e pianificazioni, automatizzare la configurazione del percorso e rivedere le informazioni sulla sfida.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496528/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496544/?captions=ita&learn=on&enablevpops)
