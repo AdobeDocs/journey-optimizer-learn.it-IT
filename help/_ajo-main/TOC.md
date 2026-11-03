@@ -3,7 +3,7 @@ user-guide-title: Tutorial su Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial su Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 4d18b0b77c1a7dc115d58575ab46213493dad6aa
+source-git-commit: 53fb6e5aed7d0b3e1782490e938af5dbb5f61082
 workflow-type: tm+mt
 source-wordcount: '1604'
 ht-degree: 98%
@@ -12,7 +12,7 @@ ht-degree: 98%
 # Tutorial su Journey Optimizer {#tutorials}
 
 + [Tutorial su Journey Optimizer](/help/_ajo-main/overview.md)
-+ {hide-from-toc}[CX Enterprise Coworker in Journey Optimizer](/help/_ajo-main/coworker.md)
++ [CX Enterprise Coworker in Journey Optimizer](/help/_ajo-main/coworker.md)
 + Introduzione a Journey Optimizer {#introduction-to-journey-optimizer}
   + [Journey Optimizer - Panoramica](/help/introduction/journey-optimizer-overview.md)
   + [Introduzione a Journey Optimizer](/help/introduction/introduction.md)
@@ -276,7 +276,7 @@ ht-degree: 98%
     + [Creare e pubblicare istanze playbook](https://experienceleague.adobe.com/it/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Esercizi, laboratori e sfide {#exercises-and-challenges}
   + [Configurare una sandbox di formazione](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
-  + [Sfide](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites){target="_blank"}
+  + {hide-from-toc}[Sfide](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites){target="_blank"}
   + Summit Labs {#summit-labs}
     + [Creare esperienze personalizzate per dispositivi mobili con Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
     + [Ridimensionamento dell’orchestrazione a un coinvolgimento omnicanale in Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
