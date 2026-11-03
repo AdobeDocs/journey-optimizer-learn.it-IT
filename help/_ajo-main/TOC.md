@@ -276,7 +276,7 @@ ht-degree: 98%
     + [Creare e pubblicare istanze playbook](https://experienceleague.adobe.com/it/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Esercizi, laboratori e sfide {#exercises-and-challenges}
   + [Configurare una sandbox di formazione](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
-  + {hide-from-toc}[Sfide](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites){target="_blank"}
+  + {hide-from-toc}[Sfidetarget="_blank"](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
   + Summit Labs {#summit-labs}
     + [Creare esperienze personalizzate per dispositivi mobili con Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
     + [Ridimensionamento dell’orchestrazione a un coinvolgimento omnicanale in Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
