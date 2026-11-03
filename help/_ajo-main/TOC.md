@@ -3,7 +3,7 @@ user-guide-title: Tutorial su Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial su Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 53fb6e5aed7d0b3e1782490e938af5dbb5f61082
+source-git-commit: 75df71a17b6a7b1b60f88b45a9b82ecbe725233a
 workflow-type: tm+mt
 source-wordcount: '1604'
 ht-degree: 98%
@@ -12,7 +12,6 @@ ht-degree: 98%
 # Tutorial su Journey Optimizer {#tutorials}
 
 + [Tutorial su Journey Optimizer](/help/_ajo-main/overview.md)
-+ [CX Enterprise Coworker in Journey Optimizer](/help/_ajo-main/coworker.md)
 + Introduzione a Journey Optimizer {#introduction-to-journey-optimizer}
   + [Journey Optimizer - Panoramica](/help/introduction/journey-optimizer-overview.md)
   + [Introduzione a Journey Optimizer](/help/introduction/introduction.md)
@@ -21,6 +20,7 @@ ht-degree: 98%
   + [Funzionalità mobili per gli addetti al marketing](/help/channels/mobile-capabilities.md)
   + [Funzionalità mobili per sviluppatori](/help/channels/mobile-capabilities-for-developers.md)
   + [Ottenere aiuto con Assistente IA](/help/ai-agents/ai-assistant.md)
++ [CX Enterprise Coworker in Journey Optimizer](/help/_ajo-main/coworker.md)
 + [Journey Optimizer - Hub per l’apprendimento per dispositivi mobili](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/mobile-learning-hub/overview){target="_blank"}
 + Campagne {#create-campaigns}
   + Campagne di azione {#action-campaigns}
@@ -276,7 +276,7 @@ ht-degree: 98%
     + [Creare e pubblicare istanze playbook](https://experienceleague.adobe.com/it/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Esercizi, laboratori e sfide {#exercises-and-challenges}
   + [Configurare una sandbox di formazione](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
-  + {hide-from-toc}[Sfidetarget="_blank"](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
+  + {hide-from-toc}[Sfide](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites){target="_blank"}
   + Summit Labs {#summit-labs}
     + [Creare esperienze personalizzate per dispositivi mobili con Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
     + [Ridimensionamento dell’orchestrazione a un coinvolgimento omnicanale in Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
