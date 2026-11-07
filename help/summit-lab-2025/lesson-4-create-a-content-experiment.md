@@ -39,7 +39,7 @@ ht-degree: 0%
 
 In questa lezione, puoi applicare la sperimentazione dei contenuti al messaggio push.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457924/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3505874/?captions=ita&learn=on&enablevpops)
 
 
 Consulta [Sperimentazione - Panoramica](/help/experimentation/introduction-to-experimentation.md), [Configurare esperimenti di contenuto per le campagne e-mail](/help/experimentation/content-experiments-for-emails.md) e [Notifiche push- Panoramica](/help/channels/push-notifications-overview.md) per ulteriori indicazioni su questo argomento.

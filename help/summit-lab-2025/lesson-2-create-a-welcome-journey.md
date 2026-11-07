@@ -35,6 +35,6 @@ ht-degree: 0%
 
 In questo esercizio inizierai a creare il percorso di benvenuto, basato su un percorso esistente. Per iniziare, definisci i criteri di ingresso e quindi crea prima il messaggio e-mail, utilizzando l’Acceleratore contenuto di IA.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457896/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3505848/?captions=ita&learn=on&enablevpops)
 
 Consulta [Introduzione alla creazione di un percorso](/help/journeys/introduction-to-building-a-journey.md) e [Caso d&#39;uso: qualificazione del pubblico](/help/journeys/use-case-audience-qualification.md) per ulteriori indicazioni su questo argomento.
