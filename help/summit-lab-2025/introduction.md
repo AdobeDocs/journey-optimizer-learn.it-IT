@@ -37,6 +37,6 @@ Originariamente presentato ad Adobe Summit 2025 come Lab L535, questo tutorial t
 
 Nel corso di sei lezioni, imparerai a elevare le comunicazioni aziendali da semplici messaggi in uscita a sofisticate esperienze omnicanale. Attraverso esempi pratici, ottieni informazioni sulla creazione di percorsi di clienti che combinano in modo perfetto estensione proattiva e coinvolgimento reattivo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457828/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3505719/?captions=ita&learn=on&enablevpops)
 
 Scarica la cartella di lavoro [qui](/help/summit-lab-2025/assets/summit-lab-manual-l535-final-v4.pdf).
