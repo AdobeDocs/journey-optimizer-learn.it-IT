@@ -1,6 +1,6 @@
 ---
-title: Creazione di condizioni di Percorso utilizzando il linguaggio naturale
-description: Scopri come creare condizioni di percorso in Adobe Journey Optimizer utilizzando prompt in linguaggio naturale. Utilizza l’intelligenza artificiale per verificare l’iscrizione alla fidelizzazione e identificare gli utenti inattivi.
+title: Creare condizioni di percorso usando il linguaggio naturale
+description: Scopri come creare le condizioni di percorso in Adobe Journey Optimizer usando prompt in linguaggio naturale. Usa l’IA per verificare la tessera fedeltà e identificare gli utenti inattivi.
 role: User
 level: Intermediate
 doc-type: Feature Video
@@ -20,13 +20,13 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: a56917f03581d014c45e777437f090dba863f4a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 0%
+ht-degree: 100%
 ---
 
-# Creare condizioni di percorso utilizzando il linguaggio naturale
+# Creare condizioni di percorso usando il linguaggio naturale
 
-Scopri come la funzionalità di intelligenza artificiale di Adobe Journey Optimizer trasforma i prompt in lingua inglese semplice in condizioni di percorso senza scrivere il linguaggio di espressione. Questo video illustra come utilizzare l’iscrizione fedeltà e gli assegni degli utenti inattivi per creare percorsi cliente più rilevanti.
+Scopri come, con la funzionalità di IA di Adobe Journey Optimizer, puoi creare delle condizioni di percorso scrivendo dei prompt in inglese normale, senza utilizzare alcun linguaggio o codice per espressioni. Questo video illustra come utilizzare la tessera fedeltà e verificare gli utenti inattivi per creare percorsi cliente più pertinenti.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504900/?captions=ita&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504894/?learn=on&enablevpops)
