@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Questi sono i tutorial su Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: bc518d7987b6f50e782ed5302f25de6185cd20ed
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1600'
-ht-degree: 98%
+ht-degree: 100%
 ---
 
 # Tutorial su Journey Optimizer {#tutorials}
@@ -42,13 +42,13 @@ ht-degree: 98%
   + [Introduzione alla nuova area di lavoro del percorso](/help/journeys/introduction-to-the-new-journey-canvas.md)
   + [Introduzione alla creazione di un percorso](/help/journeys/introduction-to-building-a-journey.md)
   + [Analizzare e creare percorsi utilizzando l’IA](/help/ai-agents/journey-agent-overview.md)
-  + [Creare condizioni di percorso utilizzando il linguaggio naturale](/help/journeys/create-journey-conditions-using-natural-language.md)
+  + [Creare condizioni di percorso usando il linguaggio naturale](/help/journeys/create-journey-conditions-using-natural-language.md)
   + [Creare un profilo di test](/help/journeys/test-a-journey.md)
   + [Simulare percorsi con tipi di pubblico esterni](/help/journeys/simulate-journeys-with-external-audiences.md)
   + [Accelerare i test di percorso con la simulazione rapida](/help/journeys/accelerate-journey-testing-with-quick-simulation.md)
   + [Pubblicare un percorso](/help/journeys/publish-a-journey.md)
   + [Attività di decisione sui contenuti](/help/journeys/content-decision-activity.md)
-  + [Utilizzare l’ottimizzazione dei canali per raggiungere i clienti dove interagiscono](/help/journeys/use-channel-optimization.md)
+  + [Usare l’ottimizzazione dei canali per raggiungere i clienti dove interagiscono](/help/journeys/use-channel-optimization.md)
   + [Utilizzare la ricerca in set di dati in un percorso](/help/journeys/lookup-dataset.md)
   + [Filtrare con più attributi](/help/journeys/mastering-multi-attribute-filtering.md)
   + [Utilizzare il targeting di più entità con pubblico federato nei percorsi](/help/journeys/multi-entity-targeting-in-journeys.md)
@@ -276,7 +276,7 @@ ht-degree: 98%
     + [Creare e pubblicare istanze playbook](https://experienceleague.adobe.com/it/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Esercizi, laboratori e sfide {#exercises-and-challenges}
   + [Configurare una sandbox di formazione](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
-  + {hide-from-toc}[Sfidetarget="_blank"](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
+  + {hide-from-toc}[Sfide](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites){target="_blank"}
   + Summit Labs {#summit-labs}
     + [Creare esperienze personalizzate per dispositivi mobili con Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
     + [Ridimensionamento dell’orchestrazione a un coinvolgimento omnicanale in Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
