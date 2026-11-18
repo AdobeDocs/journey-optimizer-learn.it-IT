@@ -29,4 +29,4 @@ ht-degree: 100%
 
 Scopri come, con la funzionalità di IA di Adobe Journey Optimizer, puoi creare delle condizioni di percorso scrivendo dei prompt in inglese normale, senza utilizzare alcun linguaggio o codice per espressioni. Questo video illustra come utilizzare la tessera fedeltà e verificare gli utenti inattivi per creare percorsi cliente più pertinenti.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504894/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504900/?captions=ita&learn=on&enablevpops)

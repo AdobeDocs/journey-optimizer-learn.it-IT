@@ -31,4 +31,4 @@ ht-degree: 100%
 
 Scopri come utilizzare i gruppi di azioni per combinare e-mail, notifiche push e SMS, quindi ottimizza la selezione del canale con priorità manuale, preferenze del cliente o punteggi di coinvolgimento IA.
 
->[!VIDEO](https://video.tv.adobe.com/v/3505310/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3505316/?captions=ita&learn=on&enablevpops)
