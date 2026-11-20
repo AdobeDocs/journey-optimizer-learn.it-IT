@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Scopri le basi della creazione di un percorso nell’area di lavoro del percorso.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424996?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430348?captions=ita&quality=12&learn=on){transcript=true}
