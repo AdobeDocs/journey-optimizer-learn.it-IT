@@ -33,4 +33,4 @@ ht-degree: 0%
 
 Scopri come navigare in Adobe Journey Optimizer, comprendere i quattro ruoli utente chiave e trovare gli strumenti e le impostazioni pertinenti al tuo ruolo. Scopri in che modo organizzazioni, sandbox e autorizzazioni modellano l’area di lavoro prima di creare il primo caso d’uso.
 
->[!VIDEO](https://video.tv.adobe.com/v/3508506?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3508513?captions=ita&learn=on){transcript=true}
